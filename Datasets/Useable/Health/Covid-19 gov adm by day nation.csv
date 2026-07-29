@@ -1,0 +1,4876 @@
+Date,Nation,Metric,Admissions
+01/03/2020,Scotland,NewAdmissions,3
+02/03/2020,Scotland,NewAdmissions,11
+02/03/2020,Northern Ireland,NewAdmissions,1
+03/03/2020,Northern Ireland,NewAdmissions,0
+03/03/2020,Scotland,NewAdmissions,14
+04/03/2020,Scotland,NewAdmissions,9
+04/03/2020,Northern Ireland,NewAdmissions,0
+05/03/2020,Scotland,NewAdmissions,18
+05/03/2020,Northern Ireland,NewAdmissions,1
+06/03/2020,Scotland,NewAdmissions,23
+06/03/2020,Northern Ireland,NewAdmissions,3
+07/03/2020,Northern Ireland,NewAdmissions,0
+07/03/2020,Scotland,NewAdmissions,9
+08/03/2020,Northern Ireland,NewAdmissions,0
+08/03/2020,Scotland,NewAdmissions,10
+09/03/2020,Scotland,NewAdmissions,19
+09/03/2020,Northern Ireland,NewAdmissions,1
+10/03/2020,Northern Ireland,NewAdmissions,2
+10/03/2020,Scotland,NewAdmissions,29
+11/03/2020,Scotland,NewAdmissions,27
+11/03/2020,Northern Ireland,NewAdmissions,1
+12/03/2020,Scotland,NewAdmissions,23
+12/03/2020,Northern Ireland,NewAdmissions,0
+13/03/2020,Scotland,NewAdmissions,24
+13/03/2020,Northern Ireland,NewAdmissions,0
+14/03/2020,Northern Ireland,NewAdmissions,0
+14/03/2020,Scotland,NewAdmissions,21
+15/03/2020,Northern Ireland,NewAdmissions,0
+15/03/2020,Scotland,NewAdmissions,17
+16/03/2020,Northern Ireland,NewAdmissions,1
+16/03/2020,Scotland,NewAdmissions,30
+17/03/2020,Scotland,NewAdmissions,42
+17/03/2020,England,NewAdmissions,391
+17/03/2020,Northern Ireland,NewAdmissions,0
+18/03/2020,England,NewAdmissions,586
+18/03/2020,Scotland,NewAdmissions,45
+18/03/2020,Northern Ireland,NewAdmissions,0
+19/03/2020,Scotland,NewAdmissions,44
+19/03/2020,England,NewAdmissions,586
+19/03/2020,Northern Ireland,NewAdmissions,0
+20/03/2020,Scotland,NewAdmissions,72
+20/03/2020,England,NewAdmissions,691
+20/03/2020,Northern Ireland,NewAdmissions,0
+21/03/2020,England,NewAdmissions,777
+21/03/2020,Northern Ireland,NewAdmissions,0
+21/03/2020,Scotland,NewAdmissions,64
+22/03/2020,Scotland,NewAdmissions,53
+22/03/2020,Northern Ireland,NewAdmissions,0
+22/03/2020,England,NewAdmissions,859
+22/03/2020,Wales,NewAdmissions,32
+23/03/2020,Wales,NewAdmissions,32
+23/03/2020,Northern Ireland,NewAdmissions,7
+23/03/2020,Scotland,NewAdmissions,95
+23/03/2020,England,NewAdmissions,1128
+24/03/2020,Scotland,NewAdmissions,96
+24/03/2020,England,NewAdmissions,1544
+24/03/2020,Northern Ireland,NewAdmissions,3
+24/03/2020,Wales,NewAdmissions,63
+25/03/2020,Wales,NewAdmissions,178
+25/03/2020,Scotland,NewAdmissions,125
+25/03/2020,England,NewAdmissions,1755
+25/03/2020,Northern Ireland,NewAdmissions,3
+26/03/2020,Northern Ireland,NewAdmissions,5
+26/03/2020,Scotland,NewAdmissions,157
+26/03/2020,England,NewAdmissions,1639
+26/03/2020,Wales,NewAdmissions,107
+27/03/2020,Wales,NewAdmissions,118
+27/03/2020,England,NewAdmissions,1931
+27/03/2020,Northern Ireland,NewAdmissions,9
+27/03/2020,Scotland,NewAdmissions,150
+28/03/2020,Northern Ireland,NewAdmissions,11
+28/03/2020,England,NewAdmissions,1873
+28/03/2020,Scotland,NewAdmissions,160
+28/03/2020,Wales,NewAdmissions,126
+29/03/2020,Wales,NewAdmissions,133
+29/03/2020,England,NewAdmissions,2186
+29/03/2020,Northern Ireland,NewAdmissions,12
+29/03/2020,Scotland,NewAdmissions,139
+30/03/2020,Scotland,NewAdmissions,190
+30/03/2020,Northern Ireland,NewAdmissions,10
+30/03/2020,England,NewAdmissions,2817
+30/03/2020,Wales,NewAdmissions,147
+31/03/2020,Wales,NewAdmissions,158
+31/03/2020,Northern Ireland,NewAdmissions,18
+31/03/2020,Scotland,NewAdmissions,186
+31/03/2020,England,NewAdmissions,2447
+01/04/2020,Northern Ireland,NewAdmissions,17
+01/04/2020,Scotland,NewAdmissions,214
+01/04/2020,England,NewAdmissions,3099
+01/04/2020,Wales,NewAdmissions,207
+02/04/2020,Wales,NewAdmissions,139
+02/04/2020,Scotland,NewAdmissions,169
+02/04/2020,England,NewAdmissions,2932
+02/04/2020,Northern Ireland,NewAdmissions,16
+03/04/2020,England,NewAdmissions,2564
+03/04/2020,Northern Ireland,NewAdmissions,17
+03/04/2020,Scotland,NewAdmissions,214
+03/04/2020,Wales,NewAdmissions,110
+04/04/2020,Wales,NewAdmissions,134
+04/04/2020,England,NewAdmissions,2593
+04/04/2020,Northern Ireland,NewAdmissions,18
+04/04/2020,Scotland,NewAdmissions,154
+05/04/2020,Northern Ireland,NewAdmissions,8
+05/04/2020,England,NewAdmissions,2592
+05/04/2020,Scotland,NewAdmissions,158
+05/04/2020,Wales,NewAdmissions,134
+06/04/2020,Wales,NewAdmissions,123
+06/04/2020,England,NewAdmissions,2679
+06/04/2020,Scotland,NewAdmissions,203
+06/04/2020,Northern Ireland,NewAdmissions,22
+07/04/2020,Northern Ireland,NewAdmissions,30
+07/04/2020,Scotland,NewAdmissions,171
+07/04/2020,England,NewAdmissions,2744
+07/04/2020,Wales,NewAdmissions,196
+08/04/2020,Wales,NewAdmissions,158
+08/04/2020,Northern Ireland,NewAdmissions,21
+08/04/2020,Scotland,NewAdmissions,157
+08/04/2020,England,NewAdmissions,2619
+09/04/2020,England,NewAdmissions,2340
+09/04/2020,Scotland,NewAdmissions,132
+09/04/2020,Northern Ireland,NewAdmissions,25
+09/04/2020,Wales,NewAdmissions,126
+10/04/2020,Wales,NewAdmissions,129
+10/04/2020,Scotland,NewAdmissions,116
+10/04/2020,Northern Ireland,NewAdmissions,9
+10/04/2020,England,NewAdmissions,2196
+11/04/2020,England,NewAdmissions,1955
+11/04/2020,Northern Ireland,NewAdmissions,19
+11/04/2020,Scotland,NewAdmissions,80
+11/04/2020,Wales,NewAdmissions,106
+12/04/2020,Wales,NewAdmissions,168
+12/04/2020,England,NewAdmissions,1791
+12/04/2020,Scotland,NewAdmissions,85
+12/04/2020,Northern Ireland,NewAdmissions,19
+13/04/2020,England,NewAdmissions,1912
+13/04/2020,Northern Ireland,NewAdmissions,17
+13/04/2020,Scotland,NewAdmissions,103
+13/04/2020,Wales,NewAdmissions,130
+14/04/2020,Wales,NewAdmissions,106
+14/04/2020,Scotland,NewAdmissions,101
+14/04/2020,England,NewAdmissions,1859
+14/04/2020,Northern Ireland,NewAdmissions,20
+15/04/2020,Scotland,NewAdmissions,98
+15/04/2020,England,NewAdmissions,1608
+15/04/2020,Northern Ireland,NewAdmissions,21
+15/04/2020,Wales,NewAdmissions,151
+16/04/2020,Northern Ireland,NewAdmissions,19
+16/04/2020,Wales,NewAdmissions,104
+16/04/2020,England,NewAdmissions,1777
+16/04/2020,Scotland,NewAdmissions,97
+17/04/2020,Scotland,NewAdmissions,109
+17/04/2020,England,NewAdmissions,1674
+17/04/2020,Wales,NewAdmissions,151
+17/04/2020,Northern Ireland,NewAdmissions,24
+18/04/2020,Northern Ireland,NewAdmissions,7
+18/04/2020,Wales,NewAdmissions,129
+18/04/2020,Scotland,NewAdmissions,75
+18/04/2020,England,NewAdmissions,1411
+19/04/2020,England,NewAdmissions,1475
+19/04/2020,Scotland,NewAdmissions,58
+19/04/2020,Wales,NewAdmissions,102
+19/04/2020,Northern Ireland,NewAdmissions,14
+20/04/2020,Wales,NewAdmissions,114
+20/04/2020,Northern Ireland,NewAdmissions,29
+20/04/2020,Scotland,NewAdmissions,67
+20/04/2020,England,NewAdmissions,1522
+21/04/2020,Scotland,NewAdmissions,69
+21/04/2020,England,NewAdmissions,1495
+21/04/2020,Northern Ireland,NewAdmissions,20
+21/04/2020,Wales,NewAdmissions,117
+22/04/2020,Wales,NewAdmissions,127
+22/04/2020,Northern Ireland,NewAdmissions,17
+22/04/2020,Scotland,NewAdmissions,66
+22/04/2020,England,NewAdmissions,1310
+23/04/2020,Scotland,NewAdmissions,66
+23/04/2020,England,NewAdmissions,1289
+23/04/2020,Northern Ireland,NewAdmissions,17
+23/04/2020,Wales,NewAdmissions,134
+24/04/2020,Wales,NewAdmissions,135
+24/04/2020,Northern Ireland,NewAdmissions,10
+24/04/2020,England,NewAdmissions,1277
+24/04/2020,Scotland,NewAdmissions,91
+25/04/2020,England,NewAdmissions,1080
+25/04/2020,Scotland,NewAdmissions,42
+25/04/2020,Wales,NewAdmissions,112
+25/04/2020,Northern Ireland,NewAdmissions,12
+26/04/2020,Northern Ireland,NewAdmissions,8
+26/04/2020,Wales,NewAdmissions,97
+26/04/2020,Scotland,NewAdmissions,39
+26/04/2020,England,NewAdmissions,1208
+27/04/2020,England,NewAdmissions,1344
+27/04/2020,Scotland,NewAdmissions,74
+27/04/2020,Northern Ireland,NewAdmissions,18
+27/04/2020,Wales,NewAdmissions,95
+28/04/2020,Wales,NewAdmissions,139
+28/04/2020,Northern Ireland,NewAdmissions,8
+28/04/2020,Scotland,NewAdmissions,72
+28/04/2020,England,NewAdmissions,1296
+29/04/2020,Scotland,NewAdmissions,49
+29/04/2020,England,NewAdmissions,1295
+29/04/2020,Wales,NewAdmissions,127
+29/04/2020,Northern Ireland,NewAdmissions,13
+30/04/2020,Northern Ireland,NewAdmissions,19
+30/04/2020,Wales,NewAdmissions,132
+30/04/2020,Scotland,NewAdmissions,56
+30/04/2020,England,NewAdmissions,1227
+01/05/2020,Scotland,NewAdmissions,55
+01/05/2020,England,NewAdmissions,1081
+01/05/2020,Northern Ireland,NewAdmissions,15
+01/05/2020,Wales,NewAdmissions,107
+02/05/2020,Northern Ireland,NewAdmissions,6
+02/05/2020,Wales,NewAdmissions,142
+02/05/2020,Scotland,NewAdmissions,46
+02/05/2020,England,NewAdmissions,980
+03/05/2020,England,NewAdmissions,1044
+03/05/2020,Scotland,NewAdmissions,40
+03/05/2020,Northern Ireland,NewAdmissions,7
+03/05/2020,Wales,NewAdmissions,94
+04/05/2020,Wales,NewAdmissions,121
+04/05/2020,Northern Ireland,NewAdmissions,6
+04/05/2020,England,NewAdmissions,1063
+04/05/2020,Scotland,NewAdmissions,52
+05/05/2020,Scotland,NewAdmissions,40
+05/05/2020,England,NewAdmissions,959
+05/05/2020,Northern Ireland,NewAdmissions,7
+05/05/2020,Wales,NewAdmissions,136
+06/05/2020,Wales,NewAdmissions,103
+06/05/2020,Northern Ireland,NewAdmissions,7
+06/05/2020,England,NewAdmissions,1040
+06/05/2020,Scotland,NewAdmissions,44
+07/05/2020,Scotland,NewAdmissions,37
+07/05/2020,England,NewAdmissions,998
+07/05/2020,Northern Ireland,NewAdmissions,7
+07/05/2020,Wales,NewAdmissions,119
+08/05/2020,Wales,NewAdmissions,127
+08/05/2020,Northern Ireland,NewAdmissions,4
+08/05/2020,England,NewAdmissions,743
+08/05/2020,Scotland,NewAdmissions,32
+09/05/2020,Scotland,NewAdmissions,21
+09/05/2020,England,NewAdmissions,798
+09/05/2020,Wales,NewAdmissions,106
+09/05/2020,Northern Ireland,NewAdmissions,8
+10/05/2020,Northern Ireland,NewAdmissions,10
+10/05/2020,Wales,NewAdmissions,114
+10/05/2020,Scotland,NewAdmissions,27
+10/05/2020,England,NewAdmissions,756
+11/05/2020,England,NewAdmissions,866
+11/05/2020,Scotland,NewAdmissions,33
+11/05/2020,Wales,NewAdmissions,108
+11/05/2020,Northern Ireland,NewAdmissions,15
+12/05/2020,Wales,NewAdmissions,92
+12/05/2020,Northern Ireland,NewAdmissions,6
+12/05/2020,Scotland,NewAdmissions,37
+12/05/2020,England,NewAdmissions,844
+13/05/2020,England,NewAdmissions,804
+13/05/2020,Scotland,NewAdmissions,27
+13/05/2020,Northern Ireland,NewAdmissions,13
+13/05/2020,Wales,NewAdmissions,119
+14/05/2020,Northern Ireland,NewAdmissions,8
+14/05/2020,Wales,NewAdmissions,105
+14/05/2020,England,NewAdmissions,763
+14/05/2020,Scotland,NewAdmissions,27
+15/05/2020,Scotland,NewAdmissions,31
+15/05/2020,England,NewAdmissions,738
+15/05/2020,Wales,NewAdmissions,88
+15/05/2020,Northern Ireland,NewAdmissions,6
+16/05/2020,Northern Ireland,NewAdmissions,3
+16/05/2020,Wales,NewAdmissions,117
+16/05/2020,England,NewAdmissions,671
+16/05/2020,Scotland,NewAdmissions,18
+17/05/2020,Scotland,NewAdmissions,9
+17/05/2020,England,NewAdmissions,673
+17/05/2020,Northern Ireland,NewAdmissions,7
+17/05/2020,Wales,NewAdmissions,98
+18/05/2020,Northern Ireland,NewAdmissions,3
+18/05/2020,Wales,NewAdmissions,77
+18/05/2020,England,NewAdmissions,733
+18/05/2020,Scotland,NewAdmissions,27
+19/05/2020,England,NewAdmissions,752
+19/05/2020,Scotland,NewAdmissions,13
+19/05/2020,Wales,NewAdmissions,105
+19/05/2020,Northern Ireland,NewAdmissions,5
+20/05/2020,Wales,NewAdmissions,95
+20/05/2020,Northern Ireland,NewAdmissions,3
+20/05/2020,England,NewAdmissions,732
+20/05/2020,Scotland,NewAdmissions,18
+21/05/2020,England,NewAdmissions,715
+21/05/2020,Scotland,NewAdmissions,13
+21/05/2020,Wales,NewAdmissions,105
+21/05/2020,Northern Ireland,NewAdmissions,2
+22/05/2020,Wales,NewAdmissions,81
+22/05/2020,Northern Ireland,NewAdmissions,1
+22/05/2020,England,NewAdmissions,638
+22/05/2020,Scotland,NewAdmissions,16
+23/05/2020,England,NewAdmissions,504
+23/05/2020,Scotland,NewAdmissions,14
+23/05/2020,Northern Ireland,NewAdmissions,3
+23/05/2020,Wales,NewAdmissions,121
+24/05/2020,Northern Ireland,NewAdmissions,1
+24/05/2020,Wales,NewAdmissions,78
+24/05/2020,Scotland,NewAdmissions,8
+24/05/2020,England,NewAdmissions,497
+25/05/2020,Scotland,NewAdmissions,13
+25/05/2020,England,NewAdmissions,498
+25/05/2020,Northern Ireland,NewAdmissions,7
+25/05/2020,Wales,NewAdmissions,82
+26/05/2020,Wales,NewAdmissions,96
+26/05/2020,Northern Ireland,NewAdmissions,7
+26/05/2020,Scotland,NewAdmissions,14
+26/05/2020,England,NewAdmissions,578
+27/05/2020,Scotland,NewAdmissions,11
+27/05/2020,England,NewAdmissions,589
+27/05/2020,Northern Ireland,NewAdmissions,1
+27/05/2020,Wales,NewAdmissions,106
+28/05/2020,Northern Ireland,NewAdmissions,3
+28/05/2020,Wales,NewAdmissions,120
+28/05/2020,Scotland,NewAdmissions,6
+28/05/2020,England,NewAdmissions,570
+29/05/2020,England,NewAdmissions,499
+29/05/2020,Scotland,NewAdmissions,10
+29/05/2020,Wales,NewAdmissions,99
+29/05/2020,Northern Ireland,NewAdmissions,3
+30/05/2020,Wales,NewAdmissions,93
+30/05/2020,Northern Ireland,NewAdmissions,2
+30/05/2020,England,NewAdmissions,466
+30/05/2020,Scotland,NewAdmissions,4
+31/05/2020,England,NewAdmissions,446
+31/05/2020,Scotland,NewAdmissions,10
+31/05/2020,Wales,NewAdmissions,68
+31/05/2020,Northern Ireland,NewAdmissions,3
+01/06/2020,Wales,NewAdmissions,73
+01/06/2020,Northern Ireland,NewAdmissions,3
+01/06/2020,Scotland,NewAdmissions,7
+01/06/2020,England,NewAdmissions,522
+02/06/2020,Scotland,NewAdmissions,5
+02/06/2020,England,NewAdmissions,553
+02/06/2020,Northern Ireland,NewAdmissions,3
+02/06/2020,Wales,NewAdmissions,106
+03/06/2020,Northern Ireland,NewAdmissions,4
+03/06/2020,Wales,NewAdmissions,131
+03/06/2020,England,NewAdmissions,491
+03/06/2020,Scotland,NewAdmissions,7
+04/06/2020,England,NewAdmissions,458
+04/06/2020,Scotland,NewAdmissions,6
+04/06/2020,Wales,NewAdmissions,97
+04/06/2020,Northern Ireland,NewAdmissions,2
+05/06/2020,Wales,NewAdmissions,82
+05/06/2020,Northern Ireland,NewAdmissions,2
+05/06/2020,England,NewAdmissions,380
+05/06/2020,Scotland,NewAdmissions,10
+06/06/2020,Scotland,NewAdmissions,6
+06/06/2020,England,NewAdmissions,306
+06/06/2020,Wales,NewAdmissions,92
+06/06/2020,Northern Ireland,NewAdmissions,2
+07/06/2020,Wales,NewAdmissions,76
+07/06/2020,Northern Ireland,NewAdmissions,0
+07/06/2020,England,NewAdmissions,323
+07/06/2020,Scotland,NewAdmissions,6
+08/06/2020,Scotland,NewAdmissions,3
+08/06/2020,England,NewAdmissions,348
+08/06/2020,Northern Ireland,NewAdmissions,1
+08/06/2020,Wales,NewAdmissions,59
+09/06/2020,Northern Ireland,NewAdmissions,3
+09/06/2020,Wales,NewAdmissions,84
+09/06/2020,England,NewAdmissions,397
+09/06/2020,Scotland,NewAdmissions,5
+10/06/2020,Scotland,NewAdmissions,7
+10/06/2020,England,NewAdmissions,402
+10/06/2020,Northern Ireland,NewAdmissions,3
+10/06/2020,Wales,NewAdmissions,97
+11/06/2020,Wales,NewAdmissions,104
+11/06/2020,Northern Ireland,NewAdmissions,2
+11/06/2020,England,NewAdmissions,330
+11/06/2020,Scotland,NewAdmissions,7
+12/06/2020,Scotland,NewAdmissions,3
+12/06/2020,England,NewAdmissions,298
+12/06/2020,Wales,NewAdmissions,90
+12/06/2020,Northern Ireland,NewAdmissions,1
+13/06/2020,Northern Ireland,NewAdmissions,2
+13/06/2020,Wales,NewAdmissions,114
+13/06/2020,Scotland,NewAdmissions,4
+13/06/2020,England,NewAdmissions,265
+14/06/2020,England,NewAdmissions,306
+14/06/2020,Scotland,NewAdmissions,6
+14/06/2020,Wales,NewAdmissions,52
+14/06/2020,Northern Ireland,NewAdmissions,0
+15/06/2020,Northern Ireland,NewAdmissions,0
+15/06/2020,Wales,NewAdmissions,68
+15/06/2020,England,NewAdmissions,365
+15/06/2020,Scotland,NewAdmissions,6
+16/06/2020,Scotland,NewAdmissions,5
+16/06/2020,England,NewAdmissions,354
+16/06/2020,Wales,NewAdmissions,95
+16/06/2020,Northern Ireland,NewAdmissions,0
+17/06/2020,Northern Ireland,NewAdmissions,0
+17/06/2020,Wales,NewAdmissions,91
+17/06/2020,England,NewAdmissions,334
+17/06/2020,Scotland,NewAdmissions,5
+18/06/2020,Scotland,NewAdmissions,2
+18/06/2020,England,NewAdmissions,312
+18/06/2020,Wales,NewAdmissions,87
+18/06/2020,Northern Ireland,NewAdmissions,0
+19/06/2020,Northern Ireland,NewAdmissions,2
+19/06/2020,Wales,NewAdmissions,78
+19/06/2020,England,NewAdmissions,253
+19/06/2020,Scotland,NewAdmissions,4
+20/06/2020,England,NewAdmissions,184
+20/06/2020,Scotland,NewAdmissions,2
+20/06/2020,Northern Ireland,NewAdmissions,0
+20/06/2020,Wales,NewAdmissions,68
+21/06/2020,Northern Ireland,NewAdmissions,2
+21/06/2020,Wales,NewAdmissions,68
+21/06/2020,England,NewAdmissions,215
+21/06/2020,Scotland,NewAdmissions,1
+22/06/2020,Scotland,NewAdmissions,5
+22/06/2020,England,NewAdmissions,318
+22/06/2020,Northern Ireland,NewAdmissions,1
+22/06/2020,Wales,NewAdmissions,67
+23/06/2020,Wales,NewAdmissions,79
+23/06/2020,Northern Ireland,NewAdmissions,1
+23/06/2020,Scotland,NewAdmissions,5
+23/06/2020,England,NewAdmissions,275
+24/06/2020,Scotland,NewAdmissions,3
+24/06/2020,England,NewAdmissions,262
+24/06/2020,Northern Ireland,NewAdmissions,0
+24/06/2020,Wales,NewAdmissions,101
+25/06/2020,Northern Ireland,NewAdmissions,0
+25/06/2020,Wales,NewAdmissions,64
+25/06/2020,England,NewAdmissions,256
+25/06/2020,Scotland,NewAdmissions,2
+26/06/2020,England,NewAdmissions,248
+26/06/2020,Scotland,NewAdmissions,0
+26/06/2020,Northern Ireland,NewAdmissions,1
+26/06/2020,Wales,NewAdmissions,88
+27/06/2020,Northern Ireland,NewAdmissions,0
+27/06/2020,Wales,NewAdmissions,74
+27/06/2020,Scotland,NewAdmissions,3
+27/06/2020,England,NewAdmissions,209
+28/06/2020,Scotland,NewAdmissions,3
+28/06/2020,England,NewAdmissions,155
+28/06/2020,Northern Ireland,NewAdmissions,3
+28/06/2020,Wales,NewAdmissions,47
+29/06/2020,Wales,NewAdmissions,46
+29/06/2020,Northern Ireland,NewAdmissions,0
+29/06/2020,England,NewAdmissions,172
+29/06/2020,Scotland,NewAdmissions,1
+30/06/2020,England,NewAdmissions,189
+30/06/2020,Scotland,NewAdmissions,1
+30/06/2020,Wales,NewAdmissions,104
+30/06/2020,Northern Ireland,NewAdmissions,0
+01/07/2020,Wales,NewAdmissions,66
+01/07/2020,Northern Ireland,NewAdmissions,0
+01/07/2020,England,NewAdmissions,201
+01/07/2020,Scotland,NewAdmissions,3
+02/07/2020,Scotland,NewAdmissions,1
+02/07/2020,England,NewAdmissions,149
+02/07/2020,Northern Ireland,NewAdmissions,0
+02/07/2020,Wales,NewAdmissions,64
+03/07/2020,Wales,NewAdmissions,65
+03/07/2020,Northern Ireland,NewAdmissions,0
+03/07/2020,Scotland,NewAdmissions,2
+03/07/2020,England,NewAdmissions,146
+04/07/2020,England,NewAdmissions,120
+04/07/2020,Scotland,NewAdmissions,1
+04/07/2020,Northern Ireland,NewAdmissions,0
+04/07/2020,Wales,NewAdmissions,78
+05/07/2020,Northern Ireland,NewAdmissions,0
+05/07/2020,Wales,NewAdmissions,63
+05/07/2020,Scotland,NewAdmissions,1
+05/07/2020,England,NewAdmissions,131
+06/07/2020,England,NewAdmissions,150
+06/07/2020,Scotland,NewAdmissions,2
+06/07/2020,Wales,NewAdmissions,50
+06/07/2020,Northern Ireland,NewAdmissions,0
+07/07/2020,Northern Ireland,NewAdmissions,0
+07/07/2020,Wales,NewAdmissions,64
+07/07/2020,England,NewAdmissions,148
+07/07/2020,Scotland,NewAdmissions,2
+08/07/2020,Scotland,NewAdmissions,0
+08/07/2020,England,NewAdmissions,141
+08/07/2020,Wales,NewAdmissions,63
+08/07/2020,Northern Ireland,NewAdmissions,1
+09/07/2020,Wales,NewAdmissions,75
+09/07/2020,Northern Ireland,NewAdmissions,0
+09/07/2020,England,NewAdmissions,136
+09/07/2020,Scotland,NewAdmissions,0
+10/07/2020,England,NewAdmissions,104
+10/07/2020,Scotland,NewAdmissions,3
+10/07/2020,Wales,NewAdmissions,68
+10/07/2020,Northern Ireland,NewAdmissions,0
+11/07/2020,Wales,NewAdmissions,76
+11/07/2020,Northern Ireland,NewAdmissions,0
+11/07/2020,Scotland,NewAdmissions,3
+11/07/2020,England,NewAdmissions,97
+12/07/2020,England,NewAdmissions,72
+12/07/2020,Scotland,NewAdmissions,1
+12/07/2020,Northern Ireland,NewAdmissions,0
+12/07/2020,Wales,NewAdmissions,41
+13/07/2020,Northern Ireland,NewAdmissions,1
+13/07/2020,Wales,NewAdmissions,50
+13/07/2020,England,NewAdmissions,137
+13/07/2020,Scotland,NewAdmissions,1
+14/07/2020,Scotland,NewAdmissions,1
+14/07/2020,England,NewAdmissions,122
+14/07/2020,Northern Ireland,NewAdmissions,0
+14/07/2020,Wales,NewAdmissions,63
+15/07/2020,Wales,NewAdmissions,48
+15/07/2020,Northern Ireland,NewAdmissions,0
+15/07/2020,England,NewAdmissions,116
+15/07/2020,Scotland,NewAdmissions,3
+16/07/2020,Scotland,NewAdmissions,2
+16/07/2020,England,NewAdmissions,114
+16/07/2020,Northern Ireland,NewAdmissions,2
+16/07/2020,Wales,NewAdmissions,48
+17/07/2020,Northern Ireland,NewAdmissions,1
+17/07/2020,Wales,NewAdmissions,59
+17/07/2020,Scotland,NewAdmissions,1
+17/07/2020,England,NewAdmissions,83
+18/07/2020,England,NewAdmissions,48
+18/07/2020,Scotland,NewAdmissions,1
+18/07/2020,Northern Ireland,NewAdmissions,0
+18/07/2020,Wales,NewAdmissions,54
+19/07/2020,Wales,NewAdmissions,51
+19/07/2020,Northern Ireland,NewAdmissions,0
+19/07/2020,England,NewAdmissions,72
+19/07/2020,Scotland,NewAdmissions,2
+20/07/2020,England,NewAdmissions,86
+20/07/2020,Scotland,NewAdmissions,0
+20/07/2020,Wales,NewAdmissions,43
+20/07/2020,Northern Ireland,NewAdmissions,0
+21/07/2020,Northern Ireland,NewAdmissions,0
+21/07/2020,Wales,NewAdmissions,46
+21/07/2020,Scotland,NewAdmissions,0
+21/07/2020,England,NewAdmissions,79
+22/07/2020,England,NewAdmissions,82
+22/07/2020,Scotland,NewAdmissions,2
+22/07/2020,Wales,NewAdmissions,72
+22/07/2020,Northern Ireland,NewAdmissions,2
+23/07/2020,Wales,NewAdmissions,88
+23/07/2020,Northern Ireland,NewAdmissions,0
+23/07/2020,Scotland,NewAdmissions,1
+23/07/2020,England,NewAdmissions,109
+24/07/2020,England,NewAdmissions,93
+24/07/2020,Scotland,NewAdmissions,2
+24/07/2020,Wales,NewAdmissions,61
+24/07/2020,Northern Ireland,NewAdmissions,0
+25/07/2020,Wales,NewAdmissions,48
+25/07/2020,Northern Ireland,NewAdmissions,1
+25/07/2020,England,NewAdmissions,65
+25/07/2020,Scotland,NewAdmissions,5
+26/07/2020,England,NewAdmissions,64
+26/07/2020,Scotland,NewAdmissions,0
+26/07/2020,Northern Ireland,NewAdmissions,0
+26/07/2020,Wales,NewAdmissions,45
+27/07/2020,Northern Ireland,NewAdmissions,1
+27/07/2020,Wales,NewAdmissions,43
+27/07/2020,Scotland,NewAdmissions,2
+27/07/2020,England,NewAdmissions,82
+28/07/2020,Scotland,NewAdmissions,0
+28/07/2020,England,NewAdmissions,69
+28/07/2020,Northern Ireland,NewAdmissions,0
+28/07/2020,Wales,NewAdmissions,49
+29/07/2020,Northern Ireland,NewAdmissions,1
+29/07/2020,Wales,NewAdmissions,64
+29/07/2020,Scotland,NewAdmissions,2
+29/07/2020,England,NewAdmissions,63
+30/07/2020,England,NewAdmissions,75
+30/07/2020,Scotland,NewAdmissions,3
+30/07/2020,Northern Ireland,NewAdmissions,1
+30/07/2020,Wales,NewAdmissions,53
+31/07/2020,Northern Ireland,NewAdmissions,0
+31/07/2020,Wales,NewAdmissions,54
+31/07/2020,England,NewAdmissions,55
+31/07/2020,Scotland,NewAdmissions,3
+01/08/2020,Scotland,NewAdmissions,2
+01/08/2020,England,NewAdmissions,50
+01/08/2020,Northern Ireland,NewAdmissions,2
+01/08/2020,Wales,NewAdmissions,73
+02/08/2020,Wales,NewAdmissions,35
+02/08/2020,Northern Ireland,NewAdmissions,0
+02/08/2020,Scotland,NewAdmissions,0
+02/08/2020,England,NewAdmissions,57
+03/08/2020,Scotland,NewAdmissions,3
+03/08/2020,England,NewAdmissions,74
+03/08/2020,Northern Ireland,NewAdmissions,2
+03/08/2020,Wales,NewAdmissions,29
+04/08/2020,Wales,NewAdmissions,65
+04/08/2020,Northern Ireland,NewAdmissions,0
+04/08/2020,Scotland,NewAdmissions,1
+04/08/2020,England,NewAdmissions,58
+05/08/2020,England,NewAdmissions,60
+05/08/2020,Scotland,NewAdmissions,3
+05/08/2020,Northern Ireland,NewAdmissions,2
+05/08/2020,Wales,NewAdmissions,74
+06/08/2020,Northern Ireland,NewAdmissions,1
+06/08/2020,Wales,NewAdmissions,45
+06/08/2020,Scotland,NewAdmissions,0
+06/08/2020,England,NewAdmissions,52
+07/08/2020,Scotland,NewAdmissions,4
+07/08/2020,England,NewAdmissions,60
+07/08/2020,Wales,NewAdmissions,53
+07/08/2020,Northern Ireland,NewAdmissions,1
+08/08/2020,Wales,NewAdmissions,55
+08/08/2020,Northern Ireland,NewAdmissions,3
+08/08/2020,England,NewAdmissions,78
+08/08/2020,Scotland,NewAdmissions,2
+09/08/2020,England,NewAdmissions,53
+09/08/2020,Scotland,NewAdmissions,0
+09/08/2020,Wales,NewAdmissions,51
+09/08/2020,Northern Ireland,NewAdmissions,1
+10/08/2020,Wales,NewAdmissions,31
+10/08/2020,Northern Ireland,NewAdmissions,1
+10/08/2020,Scotland,NewAdmissions,5
+10/08/2020,England,NewAdmissions,50
+11/08/2020,Scotland,NewAdmissions,2
+11/08/2020,England,NewAdmissions,63
+11/08/2020,Northern Ireland,NewAdmissions,1
+11/08/2020,Wales,NewAdmissions,47
+12/08/2020,Wales,NewAdmissions,45
+12/08/2020,Northern Ireland,NewAdmissions,0
+12/08/2020,Scotland,NewAdmissions,2
+12/08/2020,England,NewAdmissions,51
+13/08/2020,Scotland,NewAdmissions,2
+13/08/2020,England,NewAdmissions,60
+13/08/2020,Northern Ireland,NewAdmissions,2
+13/08/2020,Wales,NewAdmissions,63
+14/08/2020,Northern Ireland,NewAdmissions,2
+14/08/2020,Wales,NewAdmissions,39
+14/08/2020,England,NewAdmissions,55
+14/08/2020,Scotland,NewAdmissions,4
+15/08/2020,England,NewAdmissions,38
+15/08/2020,Scotland,NewAdmissions,7
+15/08/2020,Wales,NewAdmissions,52
+15/08/2020,Northern Ireland,NewAdmissions,2
+16/08/2020,Northern Ireland,NewAdmissions,2
+16/08/2020,Wales,NewAdmissions,37
+16/08/2020,Scotland,NewAdmissions,2
+16/08/2020,England,NewAdmissions,39
+17/08/2020,England,NewAdmissions,46
+17/08/2020,Scotland,NewAdmissions,5
+17/08/2020,Wales,NewAdmissions,38
+17/08/2020,Northern Ireland,NewAdmissions,2
+18/08/2020,Northern Ireland,NewAdmissions,2
+18/08/2020,Wales,NewAdmissions,63
+18/08/2020,Scotland,NewAdmissions,3
+18/08/2020,England,NewAdmissions,56
+19/08/2020,Scotland,NewAdmissions,4
+19/08/2020,England,NewAdmissions,58
+19/08/2020,Wales,NewAdmissions,45
+19/08/2020,Northern Ireland,NewAdmissions,4
+20/08/2020,Northern Ireland,NewAdmissions,3
+20/08/2020,Wales,NewAdmissions,39
+20/08/2020,England,NewAdmissions,45
+20/08/2020,Scotland,NewAdmissions,8
+21/08/2020,Scotland,NewAdmissions,4
+21/08/2020,England,NewAdmissions,49
+21/08/2020,Northern Ireland,NewAdmissions,0
+21/08/2020,Wales,NewAdmissions,54
+22/08/2020,Wales,NewAdmissions,39
+22/08/2020,Northern Ireland,NewAdmissions,1
+22/08/2020,England,NewAdmissions,25
+22/08/2020,Scotland,NewAdmissions,6
+23/08/2020,Scotland,NewAdmissions,1
+23/08/2020,England,NewAdmissions,44
+23/08/2020,Wales,NewAdmissions,26
+23/08/2020,Northern Ireland,NewAdmissions,3
+24/08/2020,Northern Ireland,NewAdmissions,6
+24/08/2020,Wales,NewAdmissions,36
+24/08/2020,Scotland,NewAdmissions,8
+24/08/2020,England,NewAdmissions,41
+25/08/2020,Scotland,NewAdmissions,8
+25/08/2020,England,NewAdmissions,60
+25/08/2020,Wales,NewAdmissions,49
+25/08/2020,Northern Ireland,NewAdmissions,2
+26/08/2020,Wales,NewAdmissions,69
+26/08/2020,Northern Ireland,NewAdmissions,0
+26/08/2020,Scotland,NewAdmissions,9
+26/08/2020,England,NewAdmissions,52
+27/08/2020,England,NewAdmissions,69
+27/08/2020,Scotland,NewAdmissions,9
+27/08/2020,Northern Ireland,NewAdmissions,0
+27/08/2020,Wales,NewAdmissions,70
+28/08/2020,Northern Ireland,NewAdmissions,2
+28/08/2020,Wales,NewAdmissions,83
+28/08/2020,Scotland,NewAdmissions,6
+28/08/2020,England,NewAdmissions,44
+29/08/2020,England,NewAdmissions,52
+29/08/2020,Scotland,NewAdmissions,4
+29/08/2020,Northern Ireland,NewAdmissions,0
+29/08/2020,Wales,NewAdmissions,52
+30/08/2020,Northern Ireland,NewAdmissions,0
+30/08/2020,Wales,NewAdmissions,33
+30/08/2020,Scotland,NewAdmissions,3
+30/08/2020,England,NewAdmissions,38
+31/08/2020,England,NewAdmissions,52
+31/08/2020,Scotland,NewAdmissions,4
+31/08/2020,Wales,NewAdmissions,29
+31/08/2020,Northern Ireland,NewAdmissions,2
+01/09/2020,Wales,NewAdmissions,69
+01/09/2020,Northern Ireland,NewAdmissions,2
+01/09/2020,Scotland,NewAdmissions,3
+01/09/2020,England,NewAdmissions,58
+02/09/2020,England,NewAdmissions,79
+02/09/2020,Scotland,NewAdmissions,7
+02/09/2020,Wales,NewAdmissions,59
+02/09/2020,Northern Ireland,NewAdmissions,0
+03/09/2020,Wales,NewAdmissions,70
+03/09/2020,Northern Ireland,NewAdmissions,0
+03/09/2020,Scotland,NewAdmissions,4
+03/09/2020,England,NewAdmissions,69
+04/09/2020,England,NewAdmissions,67
+04/09/2020,Scotland,NewAdmissions,16
+04/09/2020,Wales,NewAdmissions,69
+04/09/2020,Northern Ireland,NewAdmissions,2
+05/09/2020,Northern Ireland,NewAdmissions,0
+05/09/2020,Wales,NewAdmissions,27
+05/09/2020,England,NewAdmissions,94
+05/09/2020,Scotland,NewAdmissions,8
+06/09/2020,Scotland,NewAdmissions,6
+06/09/2020,England,NewAdmissions,85
+06/09/2020,Northern Ireland,NewAdmissions,3
+06/09/2020,Wales,NewAdmissions,42
+07/09/2020,Wales,NewAdmissions,46
+07/09/2020,Northern Ireland,NewAdmissions,0
+07/09/2020,England,NewAdmissions,84
+07/09/2020,Scotland,NewAdmissions,14
+08/09/2020,Scotland,NewAdmissions,11
+08/09/2020,England,NewAdmissions,99
+08/09/2020,Wales,NewAdmissions,65
+08/09/2020,Northern Ireland,NewAdmissions,5
+09/09/2020,Wales,NewAdmissions,56
+09/09/2020,Northern Ireland,NewAdmissions,1
+09/09/2020,Scotland,NewAdmissions,8
+09/09/2020,England,NewAdmissions,136
+10/09/2020,England,NewAdmissions,143
+10/09/2020,Scotland,NewAdmissions,18
+10/09/2020,Northern Ireland,NewAdmissions,3
+10/09/2020,Wales,NewAdmissions,49
+11/09/2020,Northern Ireland,NewAdmissions,2
+11/09/2020,Wales,NewAdmissions,70
+11/09/2020,England,NewAdmissions,135
+11/09/2020,Scotland,NewAdmissions,18
+12/09/2020,Scotland,NewAdmissions,15
+12/09/2020,England,NewAdmissions,143
+12/09/2020,Wales,NewAdmissions,55
+12/09/2020,Northern Ireland,NewAdmissions,1
+13/09/2020,Northern Ireland,NewAdmissions,3
+13/09/2020,Wales,NewAdmissions,55
+13/09/2020,England,NewAdmissions,153
+13/09/2020,Scotland,NewAdmissions,13
+14/09/2020,England,NewAdmissions,172
+14/09/2020,Scotland,NewAdmissions,18
+14/09/2020,Northern Ireland,NewAdmissions,5
+14/09/2020,Wales,NewAdmissions,59
+15/09/2020,Wales,NewAdmissions,53
+15/09/2020,Northern Ireland,NewAdmissions,4
+15/09/2020,England,NewAdmissions,194
+15/09/2020,Scotland,NewAdmissions,17
+16/09/2020,England,NewAdmissions,183
+16/09/2020,Scotland,NewAdmissions,30
+16/09/2020,Northern Ireland,NewAdmissions,5
+16/09/2020,Wales,NewAdmissions,65
+17/09/2020,Wales,NewAdmissions,42
+17/09/2020,Northern Ireland,NewAdmissions,2
+17/09/2020,England,NewAdmissions,199
+17/09/2020,Scotland,NewAdmissions,19
+18/09/2020,Scotland,NewAdmissions,13
+18/09/2020,England,NewAdmissions,205
+18/09/2020,Wales,NewAdmissions,41
+18/09/2020,Northern Ireland,NewAdmissions,2
+19/09/2020,Scotland,NewAdmissions,19
+19/09/2020,Northern Ireland,NewAdmissions,1
+19/09/2020,Wales,NewAdmissions,34
+19/09/2020,England,NewAdmissions,204
+20/09/2020,England,NewAdmissions,237
+20/09/2020,Wales,NewAdmissions,28
+20/09/2020,Northern Ireland,NewAdmissions,3
+20/09/2020,Scotland,NewAdmissions,17
+21/09/2020,Wales,NewAdmissions,59
+21/09/2020,Northern Ireland,NewAdmissions,7
+21/09/2020,Scotland,NewAdmissions,26
+21/09/2020,England,NewAdmissions,275
+22/09/2020,England,NewAdmissions,268
+22/09/2020,Northern Ireland,NewAdmissions,5
+22/09/2020,Scotland,NewAdmissions,31
+22/09/2020,Wales,NewAdmissions,43
+23/09/2020,Scotland,NewAdmissions,25
+23/09/2020,Northern Ireland,NewAdmissions,8
+23/09/2020,Wales,NewAdmissions,70
+23/09/2020,England,NewAdmissions,314
+24/09/2020,England,NewAdmissions,288
+24/09/2020,Wales,NewAdmissions,94
+24/09/2020,Northern Ireland,NewAdmissions,4
+24/09/2020,Scotland,NewAdmissions,33
+25/09/2020,Northern Ireland,NewAdmissions,3
+25/09/2020,Scotland,NewAdmissions,35
+25/09/2020,Wales,NewAdmissions,67
+25/09/2020,England,NewAdmissions,274
+26/09/2020,England,NewAdmissions,245
+26/09/2020,Northern Ireland,NewAdmissions,5
+26/09/2020,Scotland,NewAdmissions,34
+26/09/2020,Wales,NewAdmissions,61
+27/09/2020,Scotland,NewAdmissions,33
+27/09/2020,Wales,NewAdmissions,56
+27/09/2020,Northern Ireland,NewAdmissions,7
+27/09/2020,England,NewAdmissions,241
+28/09/2020,England,NewAdmissions,308
+28/09/2020,Scotland,NewAdmissions,44
+28/09/2020,Northern Ireland,NewAdmissions,13
+28/09/2020,Wales,NewAdmissions,71
+29/09/2020,Wales,NewAdmissions,90
+29/09/2020,Scotland,NewAdmissions,31
+29/09/2020,Northern Ireland,NewAdmissions,5
+29/09/2020,England,NewAdmissions,310
+30/09/2020,England,NewAdmissions,328
+30/09/2020,Wales,NewAdmissions,61
+30/09/2020,Scotland,NewAdmissions,46
+30/09/2020,Northern Ireland,NewAdmissions,12
+01/10/2020,Scotland,NewAdmissions,63
+01/10/2020,Wales,NewAdmissions,79
+01/10/2020,Northern Ireland,NewAdmissions,14
+01/10/2020,England,NewAdmissions,368
+02/10/2020,England,NewAdmissions,371
+02/10/2020,Scotland,NewAdmissions,56
+02/10/2020,Wales,NewAdmissions,94
+02/10/2020,Northern Ireland,NewAdmissions,11
+03/10/2020,Wales,NewAdmissions,79
+03/10/2020,Northern Ireland,NewAdmissions,16
+03/10/2020,Scotland,NewAdmissions,49
+03/10/2020,England,NewAdmissions,386
+04/10/2020,England,NewAdmissions,478
+04/10/2020,Northern Ireland,NewAdmissions,13
+04/10/2020,Scotland,NewAdmissions,46
+04/10/2020,Wales,NewAdmissions,92
+05/10/2020,Northern Ireland,NewAdmissions,19
+05/10/2020,Wales,NewAdmissions,59
+05/10/2020,Scotland,NewAdmissions,74
+05/10/2020,England,NewAdmissions,472
+06/10/2020,England,NewAdmissions,524
+06/10/2020,Scotland,NewAdmissions,94
+06/10/2020,Wales,NewAdmissions,80
+06/10/2020,Northern Ireland,NewAdmissions,28
+07/10/2020,Northern Ireland,NewAdmissions,24
+07/10/2020,Wales,NewAdmissions,85
+07/10/2020,Scotland,NewAdmissions,86
+07/10/2020,England,NewAdmissions,491
+08/10/2020,England,NewAdmissions,513
+08/10/2020,Northern Ireland,NewAdmissions,24
+08/10/2020,Scotland,NewAdmissions,96
+08/10/2020,Wales,NewAdmissions,76
+09/10/2020,Scotland,NewAdmissions,81
+09/10/2020,Wales,NewAdmissions,60
+09/10/2020,Northern Ireland,NewAdmissions,29
+09/10/2020,England,NewAdmissions,544
+10/10/2020,England,NewAdmissions,515
+10/10/2020,Scotland,NewAdmissions,74
+10/10/2020,Wales,NewAdmissions,103
+10/10/2020,Northern Ireland,NewAdmissions,21
+11/10/2020,Scotland,NewAdmissions,81
+11/10/2020,Wales,NewAdmissions,79
+11/10/2020,Northern Ireland,NewAdmissions,35
+11/10/2020,England,NewAdmissions,628
+12/10/2020,England,NewAdmissions,664
+12/10/2020,Wales,NewAdmissions,86
+12/10/2020,Northern Ireland,NewAdmissions,35
+12/10/2020,Scotland,NewAdmissions,106
+13/10/2020,Wales,NewAdmissions,98
+13/10/2020,Scotland,NewAdmissions,123
+13/10/2020,Northern Ireland,NewAdmissions,31
+13/10/2020,England,NewAdmissions,764
+14/10/2020,England,NewAdmissions,706
+14/10/2020,Northern Ireland,NewAdmissions,28
+14/10/2020,Wales,NewAdmissions,123
+14/10/2020,Scotland,NewAdmissions,117
+15/10/2020,Northern Ireland,NewAdmissions,44
+15/10/2020,Scotland,NewAdmissions,104
+15/10/2020,Wales,NewAdmissions,102
+15/10/2020,England,NewAdmissions,792
+16/10/2020,England,NewAdmissions,632
+16/10/2020,Scotland,NewAdmissions,140
+16/10/2020,Northern Ireland,NewAdmissions,39
+16/10/2020,Wales,NewAdmissions,105
+17/10/2020,Northern Ireland,NewAdmissions,36
+17/10/2020,Scotland,NewAdmissions,87
+17/10/2020,Wales,NewAdmissions,112
+17/10/2020,England,NewAdmissions,785
+18/10/2020,England,NewAdmissions,870
+18/10/2020,Wales,NewAdmissions,88
+18/10/2020,Scotland,NewAdmissions,88
+18/10/2020,Northern Ireland,NewAdmissions,38
+19/10/2020,Northern Ireland,NewAdmissions,35
+19/10/2020,Wales,NewAdmissions,60
+19/10/2020,Scotland,NewAdmissions,138
+19/10/2020,England,NewAdmissions,861
+20/10/2020,England,NewAdmissions,925
+20/10/2020,Wales,NewAdmissions,77
+20/10/2020,Scotland,NewAdmissions,135
+20/10/2020,Northern Ireland,NewAdmissions,48
+21/10/2020,Scotland,NewAdmissions,133
+21/10/2020,Wales,NewAdmissions,92
+21/10/2020,Northern Ireland,NewAdmissions,29
+21/10/2020,England,NewAdmissions,997
+22/10/2020,England,NewAdmissions,987
+22/10/2020,Wales,NewAdmissions,107
+22/10/2020,Northern Ireland,NewAdmissions,45
+22/10/2020,Scotland,NewAdmissions,135
+23/10/2020,Northern Ireland,NewAdmissions,37
+23/10/2020,Wales,NewAdmissions,123
+23/10/2020,Scotland,NewAdmissions,131
+23/10/2020,England,NewAdmissions,997
+24/10/2020,England,NewAdmissions,990
+24/10/2020,Wales,NewAdmissions,98
+24/10/2020,Northern Ireland,NewAdmissions,48
+24/10/2020,Scotland,NewAdmissions,119
+25/10/2020,Northern Ireland,NewAdmissions,39
+25/10/2020,Scotland,NewAdmissions,114
+25/10/2020,Wales,NewAdmissions,78
+25/10/2020,England,NewAdmissions,1186
+26/10/2020,England,NewAdmissions,1279
+26/10/2020,Scotland,NewAdmissions,139
+26/10/2020,Wales,NewAdmissions,76
+26/10/2020,Northern Ireland,NewAdmissions,41
+27/10/2020,Northern Ireland,NewAdmissions,41
+27/10/2020,Scotland,NewAdmissions,136
+27/10/2020,Wales,NewAdmissions,114
+27/10/2020,England,NewAdmissions,1190
+28/10/2020,England,NewAdmissions,1239
+28/10/2020,Wales,NewAdmissions,83
+28/10/2020,Northern Ireland,NewAdmissions,36
+28/10/2020,Scotland,NewAdmissions,131
+29/10/2020,Wales,NewAdmissions,86
+29/10/2020,Scotland,NewAdmissions,101
+29/10/2020,Northern Ireland,NewAdmissions,38
+29/10/2020,England,NewAdmissions,1345
+30/10/2020,England,NewAdmissions,1109
+30/10/2020,Wales,NewAdmissions,97
+30/10/2020,Scotland,NewAdmissions,130
+30/10/2020,Northern Ireland,NewAdmissions,39
+31/10/2020,Scotland,NewAdmissions,103
+31/10/2020,Wales,NewAdmissions,80
+31/10/2020,Northern Ireland,NewAdmissions,28
+31/10/2020,England,NewAdmissions,1240
+01/11/2020,England,NewAdmissions,1280
+01/11/2020,Northern Ireland,NewAdmissions,31
+01/11/2020,Wales,NewAdmissions,76
+01/11/2020,Scotland,NewAdmissions,104
+02/11/2020,Wales,NewAdmissions,75
+02/11/2020,Northern Ireland,NewAdmissions,43
+02/11/2020,Scotland,NewAdmissions,113
+02/11/2020,England,NewAdmissions,1331
+03/11/2020,England,NewAdmissions,1246
+03/11/2020,Scotland,NewAdmissions,114
+03/11/2020,Wales,NewAdmissions,104
+03/11/2020,Northern Ireland,NewAdmissions,45
+04/11/2020,Northern Ireland,NewAdmissions,33
+04/11/2020,Wales,NewAdmissions,129
+04/11/2020,Scotland,NewAdmissions,123
+04/11/2020,England,NewAdmissions,1382
+05/11/2020,England,NewAdmissions,1346
+05/11/2020,Wales,NewAdmissions,102
+05/11/2020,Scotland,NewAdmissions,101
+05/11/2020,Northern Ireland,NewAdmissions,19
+06/11/2020,Wales,NewAdmissions,82
+06/11/2020,Scotland,NewAdmissions,97
+06/11/2020,Northern Ireland,NewAdmissions,35
+06/11/2020,England,NewAdmissions,1182
+07/11/2020,England,NewAdmissions,1319
+07/11/2020,Scotland,NewAdmissions,87
+07/11/2020,Wales,NewAdmissions,112
+07/11/2020,Northern Ireland,NewAdmissions,24
+08/11/2020,Wales,NewAdmissions,75
+08/11/2020,Northern Ireland,NewAdmissions,31
+08/11/2020,Scotland,NewAdmissions,81
+08/11/2020,England,NewAdmissions,1488
+09/11/2020,England,NewAdmissions,1551
+09/11/2020,Scotland,NewAdmissions,101
+09/11/2020,Wales,NewAdmissions,64
+09/11/2020,Northern Ireland,NewAdmissions,37
+10/11/2020,Northern Ireland,NewAdmissions,44
+10/11/2020,Scotland,NewAdmissions,106
+10/11/2020,Wales,NewAdmissions,104
+10/11/2020,England,NewAdmissions,1592
+11/11/2020,England,NewAdmissions,1711
+11/11/2020,Wales,NewAdmissions,95
+11/11/2020,Scotland,NewAdmissions,116
+11/11/2020,Northern Ireland,NewAdmissions,38
+12/11/2020,Scotland,NewAdmissions,114
+12/11/2020,Wales,NewAdmissions,100
+12/11/2020,Northern Ireland,NewAdmissions,21
+12/11/2020,England,NewAdmissions,1666
+13/11/2020,England,NewAdmissions,1433
+13/11/2020,Scotland,NewAdmissions,110
+13/11/2020,Wales,NewAdmissions,74
+13/11/2020,Northern Ireland,NewAdmissions,26
+14/11/2020,Northern Ireland,NewAdmissions,28
+14/11/2020,Wales,NewAdmissions,89
+14/11/2020,Scotland,NewAdmissions,100
+14/11/2020,England,NewAdmissions,1388
+15/11/2020,England,NewAdmissions,1467
+15/11/2020,Northern Ireland,NewAdmissions,30
+15/11/2020,Wales,NewAdmissions,69
+15/11/2020,Scotland,NewAdmissions,93
+16/11/2020,Scotland,NewAdmissions,95
+16/11/2020,Wales,NewAdmissions,71
+16/11/2020,Northern Ireland,NewAdmissions,27
+16/11/2020,England,NewAdmissions,1560
+17/11/2020,England,NewAdmissions,1491
+17/11/2020,Northern Ireland,NewAdmissions,30
+17/11/2020,Wales,NewAdmissions,72
+17/11/2020,Scotland,NewAdmissions,111
+18/11/2020,Wales,NewAdmissions,80
+18/11/2020,Northern Ireland,NewAdmissions,29
+18/11/2020,Scotland,NewAdmissions,95
+18/11/2020,England,NewAdmissions,1571
+19/11/2020,England,NewAdmissions,1484
+19/11/2020,Wales,NewAdmissions,67
+19/11/2020,Northern Ireland,NewAdmissions,20
+19/11/2020,Scotland,NewAdmissions,97
+20/11/2020,Northern Ireland,NewAdmissions,31
+20/11/2020,Scotland,NewAdmissions,107
+20/11/2020,Wales,NewAdmissions,77
+20/11/2020,England,NewAdmissions,1316
+21/11/2020,England,NewAdmissions,1255
+21/11/2020,Wales,NewAdmissions,84
+21/11/2020,Scotland,NewAdmissions,88
+21/11/2020,Northern Ireland,NewAdmissions,22
+22/11/2020,Scotland,NewAdmissions,68
+22/11/2020,Wales,NewAdmissions,62
+22/11/2020,Northern Ireland,NewAdmissions,19
+22/11/2020,England,NewAdmissions,1333
+23/11/2020,England,NewAdmissions,1385
+23/11/2020,Northern Ireland,NewAdmissions,13
+23/11/2020,Wales,NewAdmissions,71
+23/11/2020,Scotland,NewAdmissions,108
+24/11/2020,Northern Ireland,NewAdmissions,18
+24/11/2020,Scotland,NewAdmissions,105
+24/11/2020,Wales,NewAdmissions,78
+24/11/2020,England,NewAdmissions,1277
+25/11/2020,England,NewAdmissions,1415
+25/11/2020,Northern Ireland,NewAdmissions,21
+25/11/2020,Wales,NewAdmissions,70
+25/11/2020,Scotland,NewAdmissions,85
+26/11/2020,Northern Ireland,NewAdmissions,19
+26/11/2020,Scotland,NewAdmissions,101
+26/11/2020,Wales,NewAdmissions,93
+26/11/2020,England,NewAdmissions,1198
+27/11/2020,England,NewAdmissions,1055
+27/11/2020,Northern Ireland,NewAdmissions,28
+27/11/2020,Scotland,NewAdmissions,92
+27/11/2020,Wales,NewAdmissions,86
+28/11/2020,Wales,NewAdmissions,66
+28/11/2020,Scotland,NewAdmissions,63
+28/11/2020,Northern Ireland,NewAdmissions,10
+28/11/2020,England,NewAdmissions,1065
+29/11/2020,England,NewAdmissions,1215
+29/11/2020,Northern Ireland,NewAdmissions,19
+29/11/2020,Scotland,NewAdmissions,70
+29/11/2020,Wales,NewAdmissions,73
+30/11/2020,Wales,NewAdmissions,62
+30/11/2020,Scotland,NewAdmissions,88
+30/11/2020,Northern Ireland,NewAdmissions,18
+30/11/2020,England,NewAdmissions,1216
+01/12/2020,England,NewAdmissions,1271
+01/12/2020,Scotland,NewAdmissions,82
+01/12/2020,Northern Ireland,NewAdmissions,18
+01/12/2020,Wales,NewAdmissions,102
+02/12/2020,Northern Ireland,NewAdmissions,18
+02/12/2020,Scotland,NewAdmissions,103
+02/12/2020,Wales,NewAdmissions,84
+02/12/2020,England,NewAdmissions,1262
+03/12/2020,England,NewAdmissions,1337
+03/12/2020,Wales,NewAdmissions,50
+03/12/2020,Scotland,NewAdmissions,73
+03/12/2020,Northern Ireland,NewAdmissions,26
+04/12/2020,Northern Ireland,NewAdmissions,25
+04/12/2020,Wales,NewAdmissions,58
+04/12/2020,Scotland,NewAdmissions,85
+04/12/2020,England,NewAdmissions,1248
+05/12/2020,England,NewAdmissions,1186
+05/12/2020,Wales,NewAdmissions,81
+05/12/2020,Scotland,NewAdmissions,79
+05/12/2020,Northern Ireland,NewAdmissions,18
+06/12/2020,Scotland,NewAdmissions,66
+06/12/2020,Wales,NewAdmissions,62
+06/12/2020,Northern Ireland,NewAdmissions,24
+06/12/2020,England,NewAdmissions,1311
+07/12/2020,England,NewAdmissions,1466
+07/12/2020,Wales,NewAdmissions,63
+07/12/2020,Northern Ireland,NewAdmissions,30
+07/12/2020,Scotland,NewAdmissions,90
+08/12/2020,Scotland,NewAdmissions,103
+08/12/2020,Northern Ireland,NewAdmissions,32
+08/12/2020,Wales,NewAdmissions,98
+08/12/2020,England,NewAdmissions,1528
+09/12/2020,England,NewAdmissions,1550
+09/12/2020,Scotland,NewAdmissions,96
+09/12/2020,Wales,NewAdmissions,76
+09/12/2020,Northern Ireland,NewAdmissions,17
+10/12/2020,Wales,NewAdmissions,105
+10/12/2020,Northern Ireland,NewAdmissions,18
+10/12/2020,Scotland,NewAdmissions,92
+10/12/2020,England,NewAdmissions,1524
+11/12/2020,England,NewAdmissions,1450
+11/12/2020,Northern Ireland,NewAdmissions,22
+11/12/2020,Scotland,NewAdmissions,93
+11/12/2020,Wales,NewAdmissions,117
+12/12/2020,Scotland,NewAdmissions,68
+12/12/2020,Wales,NewAdmissions,102
+12/12/2020,Northern Ireland,NewAdmissions,21
+12/12/2020,England,NewAdmissions,1587
+13/12/2020,England,NewAdmissions,1581
+13/12/2020,Wales,NewAdmissions,64
+13/12/2020,Scotland,NewAdmissions,72
+13/12/2020,Northern Ireland,NewAdmissions,30
+14/12/2020,Northern Ireland,NewAdmissions,33
+14/12/2020,Wales,NewAdmissions,67
+14/12/2020,Scotland,NewAdmissions,91
+14/12/2020,England,NewAdmissions,1746
+15/12/2020,England,NewAdmissions,1730
+15/12/2020,Scotland,NewAdmissions,85
+15/12/2020,Wales,NewAdmissions,88
+15/12/2020,Northern Ireland,NewAdmissions,23
+16/12/2020,Wales,NewAdmissions,131
+16/12/2020,Scotland,NewAdmissions,108
+16/12/2020,Northern Ireland,NewAdmissions,29
+16/12/2020,England,NewAdmissions,1796
+17/12/2020,England,NewAdmissions,1873
+17/12/2020,Scotland,NewAdmissions,97
+17/12/2020,Northern Ireland,NewAdmissions,24
+17/12/2020,Wales,NewAdmissions,128
+18/12/2020,Northern Ireland,NewAdmissions,25
+18/12/2020,Wales,NewAdmissions,119
+18/12/2020,Scotland,NewAdmissions,90
+18/12/2020,England,NewAdmissions,1672
+19/12/2020,England,NewAdmissions,1812
+19/12/2020,Northern Ireland,NewAdmissions,20
+19/12/2020,Scotland,NewAdmissions,93
+19/12/2020,Wales,NewAdmissions,107
+20/12/2020,Scotland,NewAdmissions,69
+20/12/2020,Northern Ireland,NewAdmissions,19
+20/12/2020,Wales,NewAdmissions,90
+20/12/2020,England,NewAdmissions,1976
+21/12/2020,England,NewAdmissions,2115
+21/12/2020,Wales,NewAdmissions,92
+21/12/2020,Northern Ireland,NewAdmissions,34
+21/12/2020,Scotland,NewAdmissions,106
+22/12/2020,Northern Ireland,NewAdmissions,32
+22/12/2020,Wales,NewAdmissions,124
+22/12/2020,Scotland,NewAdmissions,104
+22/12/2020,England,NewAdmissions,2203
+23/12/2020,England,NewAdmissions,1980
+23/12/2020,Scotland,NewAdmissions,104
+23/12/2020,Wales,NewAdmissions,143
+23/12/2020,Northern Ireland,NewAdmissions,27
+24/12/2020,Scotland,NewAdmissions,99
+24/12/2020,Northern Ireland,NewAdmissions,23
+24/12/2020,Wales,NewAdmissions,146
+24/12/2020,England,NewAdmissions,1795
+25/12/2020,England,NewAdmissions,1952
+25/12/2020,Wales,NewAdmissions,106
+25/12/2020,Northern Ireland,NewAdmissions,30
+25/12/2020,Scotland,NewAdmissions,81
+26/12/2020,Scotland,NewAdmissions,110
+26/12/2020,Wales,NewAdmissions,73
+26/12/2020,Northern Ireland,NewAdmissions,26
+26/12/2020,England,NewAdmissions,2298
+27/12/2020,England,NewAdmissions,2572
+27/12/2020,Wales,NewAdmissions,97
+27/12/2020,Northern Ireland,NewAdmissions,28
+27/12/2020,Scotland,NewAdmissions,142
+28/12/2020,Northern Ireland,NewAdmissions,45
+28/12/2020,Scotland,NewAdmissions,152
+28/12/2020,Wales,NewAdmissions,125
+28/12/2020,England,NewAdmissions,2795
+29/12/2020,England,NewAdmissions,2886
+29/12/2020,Northern Ireland,NewAdmissions,52
+29/12/2020,Scotland,NewAdmissions,154
+29/12/2020,Wales,NewAdmissions,136
+30/12/2020,Scotland,NewAdmissions,187
+30/12/2020,Northern Ireland,NewAdmissions,48
+30/12/2020,Wales,NewAdmissions,164
+30/12/2020,England,NewAdmissions,2861
+31/12/2020,England,NewAdmissions,2536
+31/12/2020,Scotland,NewAdmissions,175
+31/12/2020,Wales,NewAdmissions,141
+31/12/2020,Northern Ireland,NewAdmissions,38
+01/01/2021,Wales,NewAdmissions,154
+01/01/2021,Northern Ireland,NewAdmissions,40
+01/01/2021,Scotland,NewAdmissions,130
+01/01/2021,England,NewAdmissions,3010
+02/01/2021,England,NewAdmissions,3145
+02/01/2021,Wales,NewAdmissions,85
+02/01/2021,Scotland,NewAdmissions,152
+02/01/2021,Northern Ireland,NewAdmissions,43
+03/01/2021,Northern Ireland,NewAdmissions,53
+03/01/2021,Scotland,NewAdmissions,138
+03/01/2021,Wales,NewAdmissions,86
+03/01/2021,England,NewAdmissions,3351
+04/01/2021,England,NewAdmissions,3587
+04/01/2021,Scotland,NewAdmissions,188
+04/01/2021,Northern Ireland,NewAdmissions,58
+04/01/2021,Wales,NewAdmissions,86
+05/01/2021,Scotland,NewAdmissions,192
+05/01/2021,Northern Ireland,NewAdmissions,67
+05/01/2021,Wales,NewAdmissions,146
+05/01/2021,England,NewAdmissions,3697
+06/01/2021,England,NewAdmissions,3967
+06/01/2021,Wales,NewAdmissions,144
+06/01/2021,Scotland,NewAdmissions,205
+06/01/2021,Northern Ireland,NewAdmissions,67
+07/01/2021,Northern Ireland,NewAdmissions,60
+07/01/2021,Scotland,NewAdmissions,203
+07/01/2021,Wales,NewAdmissions,159
+07/01/2021,England,NewAdmissions,3849
+08/01/2021,England,NewAdmissions,3549
+08/01/2021,Northern Ireland,NewAdmissions,88
+08/01/2021,Scotland,NewAdmissions,201
+08/01/2021,Wales,NewAdmissions,142
+09/01/2021,Wales,NewAdmissions,140
+09/01/2021,Scotland,NewAdmissions,181
+09/01/2021,Northern Ireland,NewAdmissions,63
+09/01/2021,England,NewAdmissions,3718
+10/01/2021,England,NewAdmissions,3571
+10/01/2021,Scotland,NewAdmissions,172
+10/01/2021,Northern Ireland,NewAdmissions,75
+10/01/2021,Wales,NewAdmissions,95
+11/01/2021,Scotland,NewAdmissions,241
+11/01/2021,Northern Ireland,NewAdmissions,75
+11/01/2021,Wales,NewAdmissions,84
+11/01/2021,England,NewAdmissions,3894
+12/01/2021,England,NewAdmissions,4134
+12/01/2021,Wales,NewAdmissions,147
+12/01/2021,Scotland,NewAdmissions,208
+12/01/2021,Northern Ireland,NewAdmissions,68
+13/01/2021,Northern Ireland,NewAdmissions,62
+13/01/2021,Wales,NewAdmissions,129
+13/01/2021,Scotland,NewAdmissions,181
+13/01/2021,England,NewAdmissions,3840
+14/01/2021,England,NewAdmissions,3678
+14/01/2021,Wales,NewAdmissions,122
+14/01/2021,Scotland,NewAdmissions,200
+14/01/2021,Northern Ireland,NewAdmissions,64
+15/01/2021,Scotland,NewAdmissions,182
+15/01/2021,Northern Ireland,NewAdmissions,59
+15/01/2021,Wales,NewAdmissions,124
+15/01/2021,England,NewAdmissions,3295
+16/01/2021,England,NewAdmissions,3569
+16/01/2021,Wales,NewAdmissions,110
+16/01/2021,Northern Ireland,NewAdmissions,61
+16/01/2021,Scotland,NewAdmissions,173
+17/01/2021,Scotland,NewAdmissions,161
+17/01/2021,Northern Ireland,NewAdmissions,56
+17/01/2021,Wales,NewAdmissions,93
+17/01/2021,England,NewAdmissions,3424
+18/01/2021,England,NewAdmissions,3711
+18/01/2021,Northern Ireland,NewAdmissions,63
+18/01/2021,Scotland,NewAdmissions,172
+18/01/2021,Wales,NewAdmissions,102
+19/01/2021,Northern Ireland,NewAdmissions,54
+19/01/2021,Scotland,NewAdmissions,197
+19/01/2021,Wales,NewAdmissions,126
+19/01/2021,England,NewAdmissions,3768
+20/01/2021,England,NewAdmissions,3679
+20/01/2021,Scotland,NewAdmissions,184
+20/01/2021,Wales,NewAdmissions,110
+20/01/2021,Northern Ireland,NewAdmissions,56
+21/01/2021,Wales,NewAdmissions,116
+21/01/2021,Scotland,NewAdmissions,195
+21/01/2021,Northern Ireland,NewAdmissions,50
+21/01/2021,England,NewAdmissions,3237
+22/01/2021,England,NewAdmissions,3016
+22/01/2021,Wales,NewAdmissions,133
+22/01/2021,Scotland,NewAdmissions,171
+22/01/2021,Northern Ireland,NewAdmissions,47
+23/01/2021,Scotland,NewAdmissions,148
+23/01/2021,Northern Ireland,NewAdmissions,40
+23/01/2021,Wales,NewAdmissions,135
+23/01/2021,England,NewAdmissions,2780
+24/01/2021,England,NewAdmissions,2824
+24/01/2021,Northern Ireland,NewAdmissions,47
+24/01/2021,Scotland,NewAdmissions,120
+24/01/2021,Wales,NewAdmissions,110
+25/01/2021,Scotland,NewAdmissions,148
+25/01/2021,Northern Ireland,NewAdmissions,38
+25/01/2021,Wales,NewAdmissions,75
+25/01/2021,England,NewAdmissions,2648
+26/01/2021,England,NewAdmissions,2799
+26/01/2021,Northern Ireland,NewAdmissions,54
+26/01/2021,Wales,NewAdmissions,120
+26/01/2021,Scotland,NewAdmissions,159
+27/01/2021,Scotland,NewAdmissions,155
+27/01/2021,Wales,NewAdmissions,112
+27/01/2021,Northern Ireland,NewAdmissions,39
+27/01/2021,England,NewAdmissions,2742
+28/01/2021,England,NewAdmissions,2719
+28/01/2021,Northern Ireland,NewAdmissions,35
+28/01/2021,Wales,NewAdmissions,132
+28/01/2021,Scotland,NewAdmissions,139
+29/01/2021,Wales,NewAdmissions,97
+29/01/2021,Scotland,NewAdmissions,152
+29/01/2021,Northern Ireland,NewAdmissions,48
+29/01/2021,England,NewAdmissions,2379
+30/01/2021,England,NewAdmissions,2193
+30/01/2021,Scotland,NewAdmissions,116
+30/01/2021,Wales,NewAdmissions,103
+30/01/2021,Northern Ireland,NewAdmissions,38
+31/01/2021,Scotland,NewAdmissions,108
+31/01/2021,Wales,NewAdmissions,77
+31/01/2021,Northern Ireland,NewAdmissions,26
+31/01/2021,England,NewAdmissions,2183
+01/02/2021,England,NewAdmissions,2347
+01/02/2021,Northern Ireland,NewAdmissions,43
+01/02/2021,Wales,NewAdmissions,80
+01/02/2021,Scotland,NewAdmissions,126
+02/02/2021,Wales,NewAdmissions,99
+02/02/2021,Scotland,NewAdmissions,110
+02/02/2021,Northern Ireland,NewAdmissions,42
+02/02/2021,England,NewAdmissions,2222
+03/02/2021,England,NewAdmissions,2096
+03/02/2021,Northern Ireland,NewAdmissions,30
+03/02/2021,Scotland,NewAdmissions,113
+03/02/2021,Wales,NewAdmissions,108
+04/02/2021,Wales,NewAdmissions,93
+04/02/2021,Northern Ireland,NewAdmissions,25
+04/02/2021,Scotland,NewAdmissions,111
+04/02/2021,England,NewAdmissions,1907
+05/02/2021,England,NewAdmissions,1757
+05/02/2021,Wales,NewAdmissions,93
+05/02/2021,Scotland,NewAdmissions,113
+05/02/2021,Northern Ireland,NewAdmissions,27
+06/02/2021,Northern Ireland,NewAdmissions,25
+06/02/2021,Wales,NewAdmissions,88
+06/02/2021,Scotland,NewAdmissions,91
+06/02/2021,England,NewAdmissions,1679
+07/02/2021,England,NewAdmissions,1675
+07/02/2021,Scotland,NewAdmissions,96
+07/02/2021,Northern Ireland,NewAdmissions,19
+07/02/2021,Wales,NewAdmissions,57
+08/02/2021,Wales,NewAdmissions,65
+08/02/2021,Scotland,NewAdmissions,83
+08/02/2021,Northern Ireland,NewAdmissions,23
+08/02/2021,England,NewAdmissions,1739
+09/02/2021,England,NewAdmissions,1531
+09/02/2021,Wales,NewAdmissions,87
+09/02/2021,Scotland,NewAdmissions,96
+09/02/2021,Northern Ireland,NewAdmissions,17
+10/02/2021,Wales,NewAdmissions,85
+10/02/2021,Northern Ireland,NewAdmissions,17
+10/02/2021,Scotland,NewAdmissions,81
+10/02/2021,England,NewAdmissions,1535
+11/02/2021,England,NewAdmissions,1440
+11/02/2021,Scotland,NewAdmissions,95
+11/02/2021,Northern Ireland,NewAdmissions,22
+11/02/2021,Wales,NewAdmissions,106
+12/02/2021,Northern Ireland,NewAdmissions,17
+12/02/2021,Scotland,NewAdmissions,95
+12/02/2021,Wales,NewAdmissions,76
+12/02/2021,England,NewAdmissions,1318
+13/02/2021,England,NewAdmissions,1240
+13/02/2021,Northern Ireland,NewAdmissions,17
+13/02/2021,Scotland,NewAdmissions,71
+13/02/2021,Wales,NewAdmissions,99
+14/02/2021,Northern Ireland,NewAdmissions,12
+14/02/2021,Wales,NewAdmissions,91
+14/02/2021,Scotland,NewAdmissions,66
+14/02/2021,England,NewAdmissions,1364
+15/02/2021,England,NewAdmissions,1322
+15/02/2021,Wales,NewAdmissions,63
+15/02/2021,Scotland,NewAdmissions,87
+15/02/2021,Northern Ireland,NewAdmissions,25
+16/02/2021,Northern Ireland,NewAdmissions,17
+16/02/2021,Scotland,NewAdmissions,98
+16/02/2021,Wales,NewAdmissions,63
+16/02/2021,England,NewAdmissions,1311
+17/02/2021,Northern Ireland,NewAdmissions,15
+17/02/2021,Wales,NewAdmissions,86
+17/02/2021,Scotland,NewAdmissions,73
+17/02/2021,England,NewAdmissions,1233
+18/02/2021,England,NewAdmissions,1149
+18/02/2021,Northern Ireland,NewAdmissions,24
+18/02/2021,Scotland,NewAdmissions,78
+18/02/2021,Wales,NewAdmissions,78
+19/02/2021,Wales,NewAdmissions,90
+19/02/2021,Northern Ireland,NewAdmissions,25
+19/02/2021,Scotland,NewAdmissions,89
+19/02/2021,England,NewAdmissions,1068
+20/02/2021,England,NewAdmissions,904
+20/02/2021,Northern Ireland,NewAdmissions,15
+20/02/2021,Wales,NewAdmissions,83
+20/02/2021,Scotland,NewAdmissions,82
+21/02/2021,Wales,NewAdmissions,65
+21/02/2021,Scotland,NewAdmissions,69
+21/02/2021,Northern Ireland,NewAdmissions,10
+21/02/2021,England,NewAdmissions,1008
+22/02/2021,England,NewAdmissions,980
+22/02/2021,Northern Ireland,NewAdmissions,17
+22/02/2021,Wales,NewAdmissions,45
+22/02/2021,Scotland,NewAdmissions,72
+23/02/2021,Northern Ireland,NewAdmissions,21
+23/02/2021,Scotland,NewAdmissions,65
+23/02/2021,Wales,NewAdmissions,53
+23/02/2021,England,NewAdmissions,976
+24/02/2021,England,NewAdmissions,874
+24/02/2021,Wales,NewAdmissions,70
+24/02/2021,Northern Ireland,NewAdmissions,18
+24/02/2021,Scotland,NewAdmissions,57
+25/02/2021,Northern Ireland,NewAdmissions,15
+25/02/2021,Scotland,NewAdmissions,51
+25/02/2021,Wales,NewAdmissions,69
+25/02/2021,England,NewAdmissions,832
+26/02/2021,England,NewAdmissions,718
+26/02/2021,Wales,NewAdmissions,66
+26/02/2021,Northern Ireland,NewAdmissions,11
+26/02/2021,Scotland,NewAdmissions,62
+27/02/2021,Wales,NewAdmissions,55
+27/02/2021,Scotland,NewAdmissions,50
+27/02/2021,Northern Ireland,NewAdmissions,10
+27/02/2021,England,NewAdmissions,624
+28/02/2021,England,NewAdmissions,662
+28/02/2021,Northern Ireland,NewAdmissions,11
+28/02/2021,Scotland,NewAdmissions,54
+28/02/2021,Wales,NewAdmissions,47
+01/03/2021,Wales,NewAdmissions,30
+01/03/2021,Scotland,NewAdmissions,68
+01/03/2021,Northern Ireland,NewAdmissions,11
+01/03/2021,England,NewAdmissions,704
+02/03/2021,England,NewAdmissions,683
+02/03/2021,Scotland,NewAdmissions,64
+02/03/2021,Wales,NewAdmissions,73
+02/03/2021,Northern Ireland,NewAdmissions,14
+03/03/2021,Wales,NewAdmissions,52
+03/03/2021,Scotland,NewAdmissions,40
+03/03/2021,Northern Ireland,NewAdmissions,14
+03/03/2021,England,NewAdmissions,607
+04/03/2021,England,NewAdmissions,596
+04/03/2021,Northern Ireland,NewAdmissions,11
+04/03/2021,Scotland,NewAdmissions,46
+04/03/2021,Wales,NewAdmissions,50
+05/03/2021,Scotland,NewAdmissions,38
+05/03/2021,Wales,NewAdmissions,61
+05/03/2021,Northern Ireland,NewAdmissions,9
+05/03/2021,England,NewAdmissions,487
+06/03/2021,England,NewAdmissions,528
+06/03/2021,Wales,NewAdmissions,61
+06/03/2021,Northern Ireland,NewAdmissions,11
+06/03/2021,Scotland,NewAdmissions,34
+07/03/2021,Northern Ireland,NewAdmissions,8
+07/03/2021,Wales,NewAdmissions,39
+07/03/2021,Scotland,NewAdmissions,23
+07/03/2021,England,NewAdmissions,461
+08/03/2021,England,NewAdmissions,501
+08/03/2021,Northern Ireland,NewAdmissions,10
+08/03/2021,Scotland,NewAdmissions,33
+08/03/2021,Wales,NewAdmissions,26
+09/03/2021,Scotland,NewAdmissions,45
+09/03/2021,Northern Ireland,NewAdmissions,4
+09/03/2021,Wales,NewAdmissions,40
+09/03/2021,England,NewAdmissions,483
+10/03/2021,England,NewAdmissions,494
+10/03/2021,Wales,NewAdmissions,30
+10/03/2021,Northern Ireland,NewAdmissions,12
+10/03/2021,Scotland,NewAdmissions,34
+11/03/2021,Wales,NewAdmissions,48
+11/03/2021,Northern Ireland,NewAdmissions,12
+11/03/2021,Scotland,NewAdmissions,34
+11/03/2021,England,NewAdmissions,449
+12/03/2021,England,NewAdmissions,386
+12/03/2021,Northern Ireland,NewAdmissions,10
+12/03/2021,Wales,NewAdmissions,39
+12/03/2021,Scotland,NewAdmissions,38
+13/03/2021,Wales,NewAdmissions,36
+13/03/2021,Scotland,NewAdmissions,29
+13/03/2021,Northern Ireland,NewAdmissions,10
+13/03/2021,England,NewAdmissions,385
+14/03/2021,England,NewAdmissions,357
+14/03/2021,Wales,NewAdmissions,40
+14/03/2021,Northern Ireland,NewAdmissions,7
+14/03/2021,Scotland,NewAdmissions,25
+15/03/2021,Scotland,NewAdmissions,40
+15/03/2021,Northern Ireland,NewAdmissions,7
+15/03/2021,Wales,NewAdmissions,23
+15/03/2021,England,NewAdmissions,431
+16/03/2021,England,NewAdmissions,364
+16/03/2021,Scotland,NewAdmissions,25
+16/03/2021,Wales,NewAdmissions,39
+16/03/2021,Northern Ireland,NewAdmissions,10
+17/03/2021,Wales,NewAdmissions,55
+17/03/2021,Scotland,NewAdmissions,35
+17/03/2021,Northern Ireland,NewAdmissions,6
+17/03/2021,England,NewAdmissions,343
+18/03/2021,England,NewAdmissions,351
+18/03/2021,Scotland,NewAdmissions,32
+18/03/2021,Northern Ireland,NewAdmissions,6
+18/03/2021,Wales,NewAdmissions,59
+19/03/2021,Wales,NewAdmissions,57
+19/03/2021,Scotland,NewAdmissions,22
+19/03/2021,Northern Ireland,NewAdmissions,10
+19/03/2021,England,NewAdmissions,283
+20/03/2021,England,NewAdmissions,287
+20/03/2021,Scotland,NewAdmissions,19
+20/03/2021,Wales,NewAdmissions,51
+20/03/2021,Northern Ireland,NewAdmissions,3
+21/03/2021,Scotland,NewAdmissions,29
+21/03/2021,Northern Ireland,NewAdmissions,9
+21/03/2021,Wales,NewAdmissions,43
+21/03/2021,England,NewAdmissions,279
+22/03/2021,England,NewAdmissions,294
+22/03/2021,Wales,NewAdmissions,30
+22/03/2021,Northern Ireland,NewAdmissions,6
+22/03/2021,Scotland,NewAdmissions,32
+23/03/2021,Scotland,NewAdmissions,28
+23/03/2021,Northern Ireland,NewAdmissions,8
+23/03/2021,Wales,NewAdmissions,37
+23/03/2021,England,NewAdmissions,295
+24/03/2021,England,NewAdmissions,277
+24/03/2021,Scotland,NewAdmissions,28
+24/03/2021,Wales,NewAdmissions,35
+24/03/2021,Northern Ireland,NewAdmissions,6
+25/03/2021,Scotland,NewAdmissions,30
+25/03/2021,Wales,NewAdmissions,19
+25/03/2021,Northern Ireland,NewAdmissions,5
+25/03/2021,England,NewAdmissions,288
+26/03/2021,England,NewAdmissions,245
+26/03/2021,Northern Ireland,NewAdmissions,6
+26/03/2021,Wales,NewAdmissions,18
+26/03/2021,Scotland,NewAdmissions,23
+27/03/2021,Wales,NewAdmissions,29
+27/03/2021,Scotland,NewAdmissions,20
+27/03/2021,Northern Ireland,NewAdmissions,5
+27/03/2021,England,NewAdmissions,217
+28/03/2021,England,NewAdmissions,221
+28/03/2021,Wales,NewAdmissions,19
+28/03/2021,Northern Ireland,NewAdmissions,5
+28/03/2021,Scotland,NewAdmissions,25
+29/03/2021,Scotland,NewAdmissions,22
+29/03/2021,Northern Ireland,NewAdmissions,10
+29/03/2021,Wales,NewAdmissions,11
+29/03/2021,England,NewAdmissions,206
+30/03/2021,England,NewAdmissions,217
+30/03/2021,Scotland,NewAdmissions,20
+30/03/2021,Wales,NewAdmissions,17
+30/03/2021,Northern Ireland,NewAdmissions,3
+31/03/2021,Wales,NewAdmissions,17
+31/03/2021,Scotland,NewAdmissions,22
+31/03/2021,Northern Ireland,NewAdmissions,2
+31/03/2021,England,NewAdmissions,225
+01/04/2021,England,NewAdmissions,180
+01/04/2021,Scotland,NewAdmissions,23
+01/04/2021,Northern Ireland,NewAdmissions,6
+01/04/2021,Wales,NewAdmissions,21
+02/04/2021,Wales,NewAdmissions,25
+02/04/2021,Scotland,NewAdmissions,25
+02/04/2021,Northern Ireland,NewAdmissions,7
+02/04/2021,England,NewAdmissions,178
+03/04/2021,England,NewAdmissions,179
+03/04/2021,Northern Ireland,NewAdmissions,6
+03/04/2021,Wales,NewAdmissions,22
+03/04/2021,Scotland,NewAdmissions,16
+04/04/2021,Northern Ireland,NewAdmissions,3
+04/04/2021,Scotland,NewAdmissions,15
+04/04/2021,Wales,NewAdmissions,21
+04/04/2021,England,NewAdmissions,156
+05/04/2021,England,NewAdmissions,188
+05/04/2021,Northern Ireland,NewAdmissions,1
+05/04/2021,Wales,NewAdmissions,17
+05/04/2021,Scotland,NewAdmissions,31
+06/04/2021,Wales,NewAdmissions,17
+06/04/2021,Scotland,NewAdmissions,18
+06/04/2021,Northern Ireland,NewAdmissions,4
+06/04/2021,England,NewAdmissions,183
+07/04/2021,England,NewAdmissions,189
+07/04/2021,Northern Ireland,NewAdmissions,5
+07/04/2021,Scotland,NewAdmissions,22
+07/04/2021,Wales,NewAdmissions,18
+08/04/2021,Scotland,NewAdmissions,20
+08/04/2021,Northern Ireland,NewAdmissions,2
+08/04/2021,Wales,NewAdmissions,16
+08/04/2021,England,NewAdmissions,167
+09/04/2021,England,NewAdmissions,167
+09/04/2021,Scotland,NewAdmissions,21
+09/04/2021,Wales,NewAdmissions,16
+09/04/2021,Northern Ireland,NewAdmissions,2
+10/04/2021,Northern Ireland,NewAdmissions,8
+10/04/2021,Scotland,NewAdmissions,13
+10/04/2021,Wales,NewAdmissions,13
+10/04/2021,England,NewAdmissions,151
+11/04/2021,England,NewAdmissions,175
+11/04/2021,Scotland,NewAdmissions,14
+11/04/2021,Wales,NewAdmissions,14
+11/04/2021,Northern Ireland,NewAdmissions,4
+12/04/2021,Northern Ireland,NewAdmissions,1
+12/04/2021,Wales,NewAdmissions,17
+12/04/2021,Scotland,NewAdmissions,12
+12/04/2021,England,NewAdmissions,173
+13/04/2021,England,NewAdmissions,153
+13/04/2021,Northern Ireland,NewAdmissions,4
+13/04/2021,Scotland,NewAdmissions,12
+13/04/2021,Wales,NewAdmissions,11
+14/04/2021,Scotland,NewAdmissions,16
+14/04/2021,Wales,NewAdmissions,20
+14/04/2021,Northern Ireland,NewAdmissions,2
+14/04/2021,England,NewAdmissions,156
+15/04/2021,England,NewAdmissions,127
+15/04/2021,Northern Ireland,NewAdmissions,3
+15/04/2021,Wales,NewAdmissions,16
+15/04/2021,Scotland,NewAdmissions,14
+16/04/2021,Wales,NewAdmissions,21
+16/04/2021,Scotland,NewAdmissions,15
+16/04/2021,Northern Ireland,NewAdmissions,4
+16/04/2021,England,NewAdmissions,118
+17/04/2021,England,NewAdmissions,135
+17/04/2021,Scotland,NewAdmissions,11
+17/04/2021,Wales,NewAdmissions,10
+17/04/2021,Northern Ireland,NewAdmissions,2
+18/04/2021,Scotland,NewAdmissions,12
+18/04/2021,Wales,NewAdmissions,15
+18/04/2021,Northern Ireland,NewAdmissions,0
+18/04/2021,England,NewAdmissions,112
+19/04/2021,England,NewAdmissions,138
+19/04/2021,Northern Ireland,NewAdmissions,2
+19/04/2021,Wales,NewAdmissions,20
+19/04/2021,Scotland,NewAdmissions,16
+20/04/2021,Wales,NewAdmissions,22
+20/04/2021,Scotland,NewAdmissions,10
+20/04/2021,Northern Ireland,NewAdmissions,3
+20/04/2021,England,NewAdmissions,98
+21/04/2021,England,NewAdmissions,126
+21/04/2021,Scotland,NewAdmissions,14
+21/04/2021,Northern Ireland,NewAdmissions,8
+21/04/2021,Wales,NewAdmissions,23
+22/04/2021,Scotland,NewAdmissions,13
+22/04/2021,Northern Ireland,NewAdmissions,3
+22/04/2021,Wales,NewAdmissions,13
+22/04/2021,England,NewAdmissions,92
+23/04/2021,England,NewAdmissions,124
+23/04/2021,Northern Ireland,NewAdmissions,4
+23/04/2021,Scotland,NewAdmissions,14
+23/04/2021,Wales,NewAdmissions,10
+24/04/2021,Northern Ireland,NewAdmissions,6
+24/04/2021,Scotland,NewAdmissions,10
+24/04/2021,Wales,NewAdmissions,15
+24/04/2021,England,NewAdmissions,99
+25/04/2021,England,NewAdmissions,107
+25/04/2021,Wales,NewAdmissions,17
+25/04/2021,Northern Ireland,NewAdmissions,4
+25/04/2021,Scotland,NewAdmissions,9
+26/04/2021,Scotland,NewAdmissions,13
+26/04/2021,Northern Ireland,NewAdmissions,3
+26/04/2021,Wales,NewAdmissions,10
+26/04/2021,England,NewAdmissions,108
+27/04/2021,England,NewAdmissions,128
+27/04/2021,Scotland,NewAdmissions,13
+27/04/2021,Northern Ireland,NewAdmissions,3
+27/04/2021,Wales,NewAdmissions,19
+28/04/2021,Wales,NewAdmissions,12
+28/04/2021,Scotland,NewAdmissions,7
+28/04/2021,Northern Ireland,NewAdmissions,5
+28/04/2021,England,NewAdmissions,89
+29/04/2021,England,NewAdmissions,80
+29/04/2021,Scotland,NewAdmissions,11
+29/04/2021,Northern Ireland,NewAdmissions,2
+29/04/2021,Wales,NewAdmissions,9
+30/04/2021,Northern Ireland,NewAdmissions,6
+30/04/2021,Scotland,NewAdmissions,13
+30/04/2021,Wales,NewAdmissions,12
+30/04/2021,England,NewAdmissions,82
+01/05/2021,England,NewAdmissions,68
+01/05/2021,Northern Ireland,NewAdmissions,2
+01/05/2021,Wales,NewAdmissions,20
+01/05/2021,Scotland,NewAdmissions,9
+02/05/2021,Scotland,NewAdmissions,7
+02/05/2021,Northern Ireland,NewAdmissions,1
+02/05/2021,Wales,NewAdmissions,21
+02/05/2021,England,NewAdmissions,92
+03/05/2021,England,NewAdmissions,98
+03/05/2021,Wales,NewAdmissions,13
+03/05/2021,Scotland,NewAdmissions,6
+03/05/2021,Northern Ireland,NewAdmissions,6
+04/05/2021,Wales,NewAdmissions,14
+04/05/2021,Northern Ireland,NewAdmissions,2
+04/05/2021,Scotland,NewAdmissions,10
+04/05/2021,England,NewAdmissions,76
+05/05/2021,England,NewAdmissions,96
+05/05/2021,Wales,NewAdmissions,12
+05/05/2021,Northern Ireland,NewAdmissions,4
+05/05/2021,Scotland,NewAdmissions,7
+06/05/2021,Scotland,NewAdmissions,16
+06/05/2021,Northern Ireland,NewAdmissions,3
+06/05/2021,Wales,NewAdmissions,15
+06/05/2021,England,NewAdmissions,88
+07/05/2021,England,NewAdmissions,77
+07/05/2021,Scotland,NewAdmissions,11
+07/05/2021,Wales,NewAdmissions,13
+07/05/2021,Northern Ireland,NewAdmissions,1
+08/05/2021,Northern Ireland,NewAdmissions,1
+08/05/2021,Scotland,NewAdmissions,13
+08/05/2021,Wales,NewAdmissions,15
+08/05/2021,England,NewAdmissions,80
+09/05/2021,England,NewAdmissions,76
+09/05/2021,Wales,NewAdmissions,11
+09/05/2021,Scotland,NewAdmissions,11
+09/05/2021,Northern Ireland,NewAdmissions,3
+10/05/2021,Wales,NewAdmissions,19
+10/05/2021,Scotland,NewAdmissions,8
+10/05/2021,Northern Ireland,NewAdmissions,4
+10/05/2021,England,NewAdmissions,76
+11/05/2021,England,NewAdmissions,79
+11/05/2021,Northern Ireland,NewAdmissions,2
+11/05/2021,Scotland,NewAdmissions,14
+11/05/2021,Wales,NewAdmissions,13
+12/05/2021,Wales,NewAdmissions,13
+12/05/2021,Northern Ireland,NewAdmissions,1
+12/05/2021,Scotland,NewAdmissions,13
+12/05/2021,England,NewAdmissions,93
+13/05/2021,England,NewAdmissions,74
+13/05/2021,Northern Ireland,NewAdmissions,2
+13/05/2021,Scotland,NewAdmissions,10
+13/05/2021,Wales,NewAdmissions,18
+14/05/2021,Northern Ireland,NewAdmissions,4
+14/05/2021,Scotland,NewAdmissions,12
+14/05/2021,Wales,NewAdmissions,9
+14/05/2021,England,NewAdmissions,72
+15/05/2021,England,NewAdmissions,70
+15/05/2021,Scotland,NewAdmissions,6
+15/05/2021,Northern Ireland,NewAdmissions,0
+15/05/2021,Wales,NewAdmissions,14
+16/05/2021,Wales,NewAdmissions,9
+16/05/2021,Northern Ireland,NewAdmissions,0
+16/05/2021,Scotland,NewAdmissions,12
+16/05/2021,England,NewAdmissions,59
+17/05/2021,England,NewAdmissions,74
+17/05/2021,Wales,NewAdmissions,12
+17/05/2021,Scotland,NewAdmissions,11
+17/05/2021,Northern Ireland,NewAdmissions,6
+18/05/2021,Scotland,NewAdmissions,21
+18/05/2021,Wales,NewAdmissions,14
+18/05/2021,Northern Ireland,NewAdmissions,2
+18/05/2021,England,NewAdmissions,90
+19/05/2021,England,NewAdmissions,93
+19/05/2021,Wales,NewAdmissions,13
+19/05/2021,Northern Ireland,NewAdmissions,2
+19/05/2021,Scotland,NewAdmissions,19
+20/05/2021,Northern Ireland,NewAdmissions,0
+20/05/2021,Wales,NewAdmissions,15
+20/05/2021,Scotland,NewAdmissions,19
+20/05/2021,England,NewAdmissions,98
+21/05/2021,England,NewAdmissions,85
+21/05/2021,Wales,NewAdmissions,12
+21/05/2021,Scotland,NewAdmissions,26
+21/05/2021,Northern Ireland,NewAdmissions,0
+22/05/2021,Wales,NewAdmissions,21
+22/05/2021,Scotland,NewAdmissions,20
+22/05/2021,Northern Ireland,NewAdmissions,3
+22/05/2021,England,NewAdmissions,75
+23/05/2021,England,NewAdmissions,77
+23/05/2021,Northern Ireland,NewAdmissions,1
+23/05/2021,Wales,NewAdmissions,22
+23/05/2021,Scotland,NewAdmissions,16
+24/05/2021,Scotland,NewAdmissions,21
+24/05/2021,Wales,NewAdmissions,18
+24/05/2021,Northern Ireland,NewAdmissions,4
+24/05/2021,England,NewAdmissions,98
+25/05/2021,England,NewAdmissions,88
+25/05/2021,Wales,NewAdmissions,24
+25/05/2021,Northern Ireland,NewAdmissions,3
+25/05/2021,Scotland,NewAdmissions,20
+26/05/2021,Northern Ireland,NewAdmissions,1
+26/05/2021,Scotland,NewAdmissions,14
+26/05/2021,Wales,NewAdmissions,22
+26/05/2021,England,NewAdmissions,95
+27/05/2021,England,NewAdmissions,83
+27/05/2021,Scotland,NewAdmissions,17
+27/05/2021,Wales,NewAdmissions,27
+27/05/2021,Northern Ireland,NewAdmissions,1
+28/05/2021,Scotland,NewAdmissions,26
+28/05/2021,Wales,NewAdmissions,18
+28/05/2021,Northern Ireland,NewAdmissions,2
+28/05/2021,England,NewAdmissions,92
+29/05/2021,England,NewAdmissions,69
+29/05/2021,Wales,NewAdmissions,7
+29/05/2021,Scotland,NewAdmissions,27
+29/05/2021,Northern Ireland,NewAdmissions,0
+30/05/2021,Wales,NewAdmissions,12
+30/05/2021,Northern Ireland,NewAdmissions,0
+30/05/2021,Scotland,NewAdmissions,20
+30/05/2021,England,NewAdmissions,80
+31/05/2021,England,NewAdmissions,98
+31/05/2021,Wales,NewAdmissions,6
+31/05/2021,Northern Ireland,NewAdmissions,0
+31/05/2021,Scotland,NewAdmissions,20
+01/06/2021,Scotland,NewAdmissions,33
+01/06/2021,Northern Ireland,NewAdmissions,1
+01/06/2021,Wales,NewAdmissions,7
+01/06/2021,England,NewAdmissions,115
+02/06/2021,England,NewAdmissions,101
+02/06/2021,Wales,NewAdmissions,6
+02/06/2021,Northern Ireland,NewAdmissions,2
+02/06/2021,Scotland,NewAdmissions,23
+03/06/2021,Northern Ireland,NewAdmissions,1
+03/06/2021,Wales,NewAdmissions,2
+03/06/2021,Scotland,NewAdmissions,33
+03/06/2021,England,NewAdmissions,93
+04/06/2021,England,NewAdmissions,96
+04/06/2021,Scotland,NewAdmissions,24
+04/06/2021,Northern Ireland,NewAdmissions,1
+04/06/2021,Wales,NewAdmissions,5
+05/06/2021,Wales,NewAdmissions,9
+05/06/2021,Scotland,NewAdmissions,22
+05/06/2021,Northern Ireland,NewAdmissions,0
+05/06/2021,England,NewAdmissions,96
+06/06/2021,England,NewAdmissions,121
+06/06/2021,Scotland,NewAdmissions,30
+06/06/2021,Northern Ireland,NewAdmissions,1
+06/06/2021,Wales,NewAdmissions,5
+07/06/2021,Northern Ireland,NewAdmissions,2
+07/06/2021,Wales,NewAdmissions,12
+07/06/2021,Scotland,NewAdmissions,30
+07/06/2021,England,NewAdmissions,131
+08/06/2021,England,NewAdmissions,147
+08/06/2021,Wales,NewAdmissions,17
+08/06/2021,Northern Ireland,NewAdmissions,3
+08/06/2021,Scotland,NewAdmissions,22
+09/06/2021,Scotland,NewAdmissions,28
+09/06/2021,Northern Ireland,NewAdmissions,0
+09/06/2021,Wales,NewAdmissions,5
+09/06/2021,England,NewAdmissions,158
+10/06/2021,England,NewAdmissions,162
+10/06/2021,Northern Ireland,NewAdmissions,2
+10/06/2021,Wales,NewAdmissions,6
+10/06/2021,Scotland,NewAdmissions,32
+11/06/2021,Scotland,NewAdmissions,26
+11/06/2021,Northern Ireland,NewAdmissions,2
+11/06/2021,Wales,NewAdmissions,8
+11/06/2021,England,NewAdmissions,144
+12/06/2021,England,NewAdmissions,137
+12/06/2021,Scotland,NewAdmissions,33
+12/06/2021,Wales,NewAdmissions,8
+12/06/2021,Northern Ireland,NewAdmissions,1
+13/06/2021,Northern Ireland,NewAdmissions,1
+13/06/2021,Wales,NewAdmissions,10
+13/06/2021,Scotland,NewAdmissions,25
+13/06/2021,England,NewAdmissions,187
+14/06/2021,England,NewAdmissions,185
+14/06/2021,Northern Ireland,NewAdmissions,0
+14/06/2021,Scotland,NewAdmissions,39
+14/06/2021,Wales,NewAdmissions,3
+15/06/2021,Wales,NewAdmissions,8
+15/06/2021,Northern Ireland,NewAdmissions,1
+15/06/2021,Scotland,NewAdmissions,32
+15/06/2021,England,NewAdmissions,188
+16/06/2021,England,NewAdmissions,177
+16/06/2021,Wales,NewAdmissions,11
+16/06/2021,Northern Ireland,NewAdmissions,3
+16/06/2021,Scotland,NewAdmissions,41
+17/06/2021,Scotland,NewAdmissions,27
+17/06/2021,Northern Ireland,NewAdmissions,2
+17/06/2021,Wales,NewAdmissions,13
+17/06/2021,England,NewAdmissions,202
+18/06/2021,England,NewAdmissions,185
+18/06/2021,Scotland,NewAdmissions,45
+18/06/2021,Wales,NewAdmissions,8
+18/06/2021,Northern Ireland,NewAdmissions,0
+19/06/2021,Wales,NewAdmissions,8
+19/06/2021,Northern Ireland,NewAdmissions,1
+19/06/2021,Scotland,NewAdmissions,25
+19/06/2021,England,NewAdmissions,178
+20/06/2021,England,NewAdmissions,171
+20/06/2021,Scotland,NewAdmissions,31
+20/06/2021,Wales,NewAdmissions,5
+20/06/2021,Northern Ireland,NewAdmissions,0
+21/06/2021,Wales,NewAdmissions,10
+21/06/2021,Northern Ireland,NewAdmissions,4
+21/06/2021,Scotland,NewAdmissions,38
+21/06/2021,England,NewAdmissions,181
+22/06/2021,England,NewAdmissions,182
+22/06/2021,Wales,NewAdmissions,6
+22/06/2021,Northern Ireland,NewAdmissions,2
+22/06/2021,Scotland,NewAdmissions,49
+23/06/2021,Northern Ireland,NewAdmissions,2
+23/06/2021,Scotland,NewAdmissions,52
+23/06/2021,Wales,NewAdmissions,5
+23/06/2021,England,NewAdmissions,214
+24/06/2021,England,NewAdmissions,194
+24/06/2021,Scotland,NewAdmissions,50
+24/06/2021,Wales,NewAdmissions,8
+24/06/2021,Northern Ireland,NewAdmissions,3
+25/06/2021,Northern Ireland,NewAdmissions,2
+25/06/2021,Scotland,NewAdmissions,43
+25/06/2021,Wales,NewAdmissions,4
+25/06/2021,England,NewAdmissions,206
+26/06/2021,England,NewAdmissions,223
+26/06/2021,Northern Ireland,NewAdmissions,6
+26/06/2021,Scotland,NewAdmissions,31
+26/06/2021,Wales,NewAdmissions,8
+27/06/2021,Scotland,NewAdmissions,33
+27/06/2021,Northern Ireland,NewAdmissions,1
+27/06/2021,Wales,NewAdmissions,3
+27/06/2021,England,NewAdmissions,226
+28/06/2021,England,NewAdmissions,244
+28/06/2021,Wales,NewAdmissions,1
+28/06/2021,Northern Ireland,NewAdmissions,6
+28/06/2021,Scotland,NewAdmissions,59
+29/06/2021,Northern Ireland,NewAdmissions,7
+29/06/2021,Wales,NewAdmissions,6
+29/06/2021,Scotland,NewAdmissions,69
+29/06/2021,England,NewAdmissions,283
+30/06/2021,England,NewAdmissions,331
+30/06/2021,Wales,NewAdmissions,7
+30/06/2021,Scotland,NewAdmissions,69
+30/06/2021,Northern Ireland,NewAdmissions,10
+01/07/2021,Scotland,NewAdmissions,63
+01/07/2021,Wales,NewAdmissions,8
+01/07/2021,Northern Ireland,NewAdmissions,6
+01/07/2021,England,NewAdmissions,295
+02/07/2021,England,NewAdmissions,307
+02/07/2021,Scotland,NewAdmissions,66
+02/07/2021,Wales,NewAdmissions,5
+02/07/2021,Northern Ireland,NewAdmissions,6
+03/07/2021,Wales,NewAdmissions,9
+03/07/2021,Scotland,NewAdmissions,59
+03/07/2021,Northern Ireland,NewAdmissions,3
+03/07/2021,England,NewAdmissions,323
+04/07/2021,England,NewAdmissions,390
+04/07/2021,Wales,NewAdmissions,3
+04/07/2021,Northern Ireland,NewAdmissions,3
+04/07/2021,Scotland,NewAdmissions,71
+05/07/2021,Scotland,NewAdmissions,86
+05/07/2021,Northern Ireland,NewAdmissions,10
+05/07/2021,Wales,NewAdmissions,6
+05/07/2021,England,NewAdmissions,416
+06/07/2021,England,NewAdmissions,458
+06/07/2021,Wales,NewAdmissions,7
+06/07/2021,Scotland,NewAdmissions,104
+06/07/2021,Northern Ireland,NewAdmissions,12
+07/07/2021,Northern Ireland,NewAdmissions,8
+07/07/2021,Wales,NewAdmissions,7
+07/07/2021,Scotland,NewAdmissions,91
+07/07/2021,England,NewAdmissions,461
+08/07/2021,England,NewAdmissions,488
+08/07/2021,Northern Ireland,NewAdmissions,14
+08/07/2021,Wales,NewAdmissions,5
+08/07/2021,Scotland,NewAdmissions,100
+09/07/2021,Scotland,NewAdmissions,80
+09/07/2021,Wales,NewAdmissions,17
+09/07/2021,Northern Ireland,NewAdmissions,8
+09/07/2021,England,NewAdmissions,451
+10/07/2021,England,NewAdmissions,442
+10/07/2021,Scotland,NewAdmissions,84
+10/07/2021,Northern Ireland,NewAdmissions,12
+10/07/2021,Wales,NewAdmissions,8
+11/07/2021,Scotland,NewAdmissions,73
+11/07/2021,Wales,NewAdmissions,5
+11/07/2021,Northern Ireland,NewAdmissions,13
+11/07/2021,England,NewAdmissions,502
+12/07/2021,England,NewAdmissions,610
+12/07/2021,Northern Ireland,NewAdmissions,12
+12/07/2021,Scotland,NewAdmissions,101
+12/07/2021,Wales,NewAdmissions,3
+13/07/2021,Northern Ireland,NewAdmissions,13
+13/07/2021,Wales,NewAdmissions,9
+13/07/2021,Scotland,NewAdmissions,103
+13/07/2021,England,NewAdmissions,621
+14/07/2021,England,NewAdmissions,636
+14/07/2021,Northern Ireland,NewAdmissions,25
+14/07/2021,Wales,NewAdmissions,11
+14/07/2021,Scotland,NewAdmissions,78
+15/07/2021,Wales,NewAdmissions,8
+15/07/2021,Northern Ireland,NewAdmissions,26
+15/07/2021,Scotland,NewAdmissions,80
+15/07/2021,England,NewAdmissions,658
+16/07/2021,England,NewAdmissions,593
+16/07/2021,Northern Ireland,NewAdmissions,23
+16/07/2021,Scotland,NewAdmissions,67
+16/07/2021,Wales,NewAdmissions,19
+17/07/2021,Scotland,NewAdmissions,50
+17/07/2021,Northern Ireland,NewAdmissions,17
+17/07/2021,Wales,NewAdmissions,17
+17/07/2021,England,NewAdmissions,622
+18/07/2021,England,NewAdmissions,698
+18/07/2021,Wales,NewAdmissions,9
+18/07/2021,Scotland,NewAdmissions,67
+18/07/2021,Northern Ireland,NewAdmissions,24
+19/07/2021,Wales,NewAdmissions,14
+19/07/2021,Northern Ireland,NewAdmissions,37
+19/07/2021,Scotland,NewAdmissions,78
+19/07/2021,England,NewAdmissions,752
+20/07/2021,England,NewAdmissions,805
+20/07/2021,Wales,NewAdmissions,27
+20/07/2021,Northern Ireland,NewAdmissions,37
+20/07/2021,Scotland,NewAdmissions,65
+21/07/2021,Wales,NewAdmissions,31
+21/07/2021,Northern Ireland,NewAdmissions,41
+21/07/2021,Scotland,NewAdmissions,74
+21/07/2021,England,NewAdmissions,783
+22/07/2021,England,NewAdmissions,827
+22/07/2021,Wales,NewAdmissions,21
+22/07/2021,Scotland,NewAdmissions,59
+22/07/2021,Northern Ireland,NewAdmissions,56
+23/07/2021,Wales,NewAdmissions,25
+23/07/2021,Scotland,NewAdmissions,63
+23/07/2021,Northern Ireland,NewAdmissions,44
+23/07/2021,England,NewAdmissions,725
+24/07/2021,England,NewAdmissions,734
+24/07/2021,Northern Ireland,NewAdmissions,27
+24/07/2021,Wales,NewAdmissions,23
+24/07/2021,Scotland,NewAdmissions,43
+25/07/2021,Northern Ireland,NewAdmissions,45
+25/07/2021,Wales,NewAdmissions,14
+25/07/2021,Scotland,NewAdmissions,49
+25/07/2021,England,NewAdmissions,836
+26/07/2021,England,NewAdmissions,830
+26/07/2021,Scotland,NewAdmissions,56
+26/07/2021,Northern Ireland,NewAdmissions,49
+26/07/2021,Wales,NewAdmissions,10
+27/07/2021,Northern Ireland,NewAdmissions,34
+27/07/2021,Wales,NewAdmissions,12
+27/07/2021,Scotland,NewAdmissions,61
+27/07/2021,England,NewAdmissions,816
+28/07/2021,England,NewAdmissions,728
+28/07/2021,Wales,NewAdmissions,26
+28/07/2021,Northern Ireland,NewAdmissions,46
+28/07/2021,Scotland,NewAdmissions,67
+29/07/2021,Wales,NewAdmissions,12
+29/07/2021,Scotland,NewAdmissions,43
+29/07/2021,Northern Ireland,NewAdmissions,31
+29/07/2021,England,NewAdmissions,758
+30/07/2021,England,NewAdmissions,650
+30/07/2021,Northern Ireland,NewAdmissions,40
+30/07/2021,Wales,NewAdmissions,10
+30/07/2021,Scotland,NewAdmissions,49
+31/07/2021,Wales,NewAdmissions,14
+31/07/2021,Northern Ireland,NewAdmissions,36
+31/07/2021,Scotland,NewAdmissions,35
+31/07/2021,England,NewAdmissions,593
+01/08/2021,England,NewAdmissions,645
+01/08/2021,Wales,NewAdmissions,21
+01/08/2021,Scotland,NewAdmissions,37
+01/08/2021,Northern Ireland,NewAdmissions,38
+02/08/2021,Scotland,NewAdmissions,51
+02/08/2021,Wales,NewAdmissions,13
+02/08/2021,Northern Ireland,NewAdmissions,39
+02/08/2021,England,NewAdmissions,686
+03/08/2021,England,NewAdmissions,680
+03/08/2021,Wales,NewAdmissions,9
+03/08/2021,Northern Ireland,NewAdmissions,27
+03/08/2021,Scotland,NewAdmissions,49
+04/08/2021,Scotland,NewAdmissions,38
+04/08/2021,Northern Ireland,NewAdmissions,35
+04/08/2021,Wales,NewAdmissions,12
+04/08/2021,England,NewAdmissions,747
+05/08/2021,England,NewAdmissions,693
+05/08/2021,Scotland,NewAdmissions,66
+05/08/2021,Northern Ireland,NewAdmissions,42
+05/08/2021,Wales,NewAdmissions,7
+06/08/2021,Northern Ireland,NewAdmissions,34
+06/08/2021,Scotland,NewAdmissions,56
+06/08/2021,Wales,NewAdmissions,17
+06/08/2021,England,NewAdmissions,657
+07/08/2021,England,NewAdmissions,630
+07/08/2021,Northern Ireland,NewAdmissions,33
+07/08/2021,Wales,NewAdmissions,18
+07/08/2021,Scotland,NewAdmissions,41
+08/08/2021,Wales,NewAdmissions,15
+08/08/2021,Northern Ireland,NewAdmissions,35
+08/08/2021,Scotland,NewAdmissions,38
+08/08/2021,England,NewAdmissions,651
+09/08/2021,England,NewAdmissions,665
+09/08/2021,Scotland,NewAdmissions,39
+09/08/2021,Northern Ireland,NewAdmissions,36
+09/08/2021,Wales,NewAdmissions,12
+10/08/2021,Wales,NewAdmissions,12
+10/08/2021,Northern Ireland,NewAdmissions,40
+10/08/2021,Scotland,NewAdmissions,71
+10/08/2021,England,NewAdmissions,760
+11/08/2021,England,NewAdmissions,747
+11/08/2021,Wales,NewAdmissions,14
+11/08/2021,Scotland,NewAdmissions,42
+11/08/2021,Northern Ireland,NewAdmissions,40
+12/08/2021,Northern Ireland,NewAdmissions,48
+12/08/2021,Scotland,NewAdmissions,40
+12/08/2021,Wales,NewAdmissions,13
+12/08/2021,England,NewAdmissions,758
+13/08/2021,England,NewAdmissions,694
+13/08/2021,Wales,NewAdmissions,18
+13/08/2021,Northern Ireland,NewAdmissions,33
+13/08/2021,Scotland,NewAdmissions,41
+14/08/2021,Northern Ireland,NewAdmissions,34
+14/08/2021,Wales,NewAdmissions,13
+14/08/2021,Scotland,NewAdmissions,44
+14/08/2021,England,NewAdmissions,689
+15/08/2021,England,NewAdmissions,719
+15/08/2021,Northern Ireland,NewAdmissions,36
+15/08/2021,Wales,NewAdmissions,17
+15/08/2021,Scotland,NewAdmissions,30
+16/08/2021,Wales,NewAdmissions,9
+16/08/2021,Northern Ireland,NewAdmissions,45
+16/08/2021,Scotland,NewAdmissions,32
+16/08/2021,England,NewAdmissions,776
+17/08/2021,England,NewAdmissions,832
+17/08/2021,Northern Ireland,NewAdmissions,45
+17/08/2021,Wales,NewAdmissions,22
+17/08/2021,Scotland,NewAdmissions,58
+18/08/2021,Northern Ireland,NewAdmissions,37
+18/08/2021,Wales,NewAdmissions,17
+18/08/2021,Scotland,NewAdmissions,62
+18/08/2021,England,NewAdmissions,795
+19/08/2021,England,NewAdmissions,824
+19/08/2021,Wales,NewAdmissions,21
+19/08/2021,Scotland,NewAdmissions,63
+19/08/2021,Northern Ireland,NewAdmissions,32
+20/08/2021,Wales,NewAdmissions,26
+20/08/2021,Northern Ireland,NewAdmissions,40
+20/08/2021,Scotland,NewAdmissions,67
+20/08/2021,England,NewAdmissions,733
+21/08/2021,England,NewAdmissions,757
+21/08/2021,Scotland,NewAdmissions,51
+21/08/2021,Northern Ireland,NewAdmissions,42
+21/08/2021,Wales,NewAdmissions,28
+22/08/2021,Wales,NewAdmissions,12
+22/08/2021,Northern Ireland,NewAdmissions,38
+22/08/2021,Scotland,NewAdmissions,56
+22/08/2021,England,NewAdmissions,726
+23/08/2021,England,NewAdmissions,831
+23/08/2021,Wales,NewAdmissions,19
+23/08/2021,Northern Ireland,NewAdmissions,47
+23/08/2021,Scotland,NewAdmissions,74
+24/08/2021,Scotland,NewAdmissions,101
+24/08/2021,Northern Ireland,NewAdmissions,42
+24/08/2021,Wales,NewAdmissions,28
+24/08/2021,England,NewAdmissions,818
+25/08/2021,England,NewAdmissions,843
+25/08/2021,Wales,NewAdmissions,37
+25/08/2021,Scotland,NewAdmissions,107
+25/08/2021,Northern Ireland,NewAdmissions,49
+26/08/2021,Wales,NewAdmissions,25
+26/08/2021,Scotland,NewAdmissions,105
+26/08/2021,Northern Ireland,NewAdmissions,42
+26/08/2021,England,NewAdmissions,777
+27/08/2021,England,NewAdmissions,749
+27/08/2021,Scotland,NewAdmissions,108
+27/08/2021,Wales,NewAdmissions,37
+27/08/2021,Northern Ireland,NewAdmissions,50
+28/08/2021,Wales,NewAdmissions,37
+28/08/2021,Northern Ireland,NewAdmissions,34
+28/08/2021,Scotland,NewAdmissions,103
+28/08/2021,England,NewAdmissions,688
+29/08/2021,England,NewAdmissions,701
+29/08/2021,Northern Ireland,NewAdmissions,35
+29/08/2021,Scotland,NewAdmissions,93
+29/08/2021,Wales,NewAdmissions,22
+30/08/2021,Scotland,NewAdmissions,107
+30/08/2021,Wales,NewAdmissions,39
+30/08/2021,Northern Ireland,NewAdmissions,42
+30/08/2021,England,NewAdmissions,808
+31/08/2021,England,NewAdmissions,798
+31/08/2021,Northern Ireland,NewAdmissions,37
+31/08/2021,Wales,NewAdmissions,23
+31/08/2021,Scotland,NewAdmissions,133
+01/09/2021,Northern Ireland,NewAdmissions,42
+01/09/2021,Wales,NewAdmissions,40
+01/09/2021,Scotland,NewAdmissions,156
+01/09/2021,England,NewAdmissions,835
+02/09/2021,England,NewAdmissions,788
+02/09/2021,Wales,NewAdmissions,39
+02/09/2021,Northern Ireland,NewAdmissions,32
+02/09/2021,Scotland,NewAdmissions,129
+03/09/2021,Wales,NewAdmissions,36
+03/09/2021,Scotland,NewAdmissions,154
+03/09/2021,Northern Ireland,NewAdmissions,45
+03/09/2021,England,NewAdmissions,688
+04/09/2021,England,NewAdmissions,752
+04/09/2021,Wales,NewAdmissions,40
+04/09/2021,Scotland,NewAdmissions,123
+04/09/2021,Northern Ireland,NewAdmissions,32
+05/09/2021,Scotland,NewAdmissions,114
+05/09/2021,Northern Ireland,NewAdmissions,37
+05/09/2021,Wales,NewAdmissions,38
+05/09/2021,England,NewAdmissions,691
+06/09/2021,England,NewAdmissions,831
+06/09/2021,Northern Ireland,NewAdmissions,46
+06/09/2021,Wales,NewAdmissions,40
+06/09/2021,Scotland,NewAdmissions,157
+07/09/2021,Northern Ireland,NewAdmissions,46
+07/09/2021,Scotland,NewAdmissions,201
+07/09/2021,Wales,NewAdmissions,44
+07/09/2021,England,NewAdmissions,801
+08/09/2021,England,NewAdmissions,900
+08/09/2021,Northern Ireland,NewAdmissions,48
+08/09/2021,Wales,NewAdmissions,41
+08/09/2021,Scotland,NewAdmissions,170
+09/09/2021,Northern Ireland,NewAdmissions,37
+09/09/2021,Scotland,NewAdmissions,168
+09/09/2021,Wales,NewAdmissions,41
+09/09/2021,England,NewAdmissions,790
+10/09/2021,England,NewAdmissions,680
+10/09/2021,Scotland,NewAdmissions,174
+10/09/2021,Northern Ireland,NewAdmissions,24
+10/09/2021,Wales,NewAdmissions,45
+11/09/2021,Scotland,NewAdmissions,133
+11/09/2021,Wales,NewAdmissions,37
+11/09/2021,Northern Ireland,NewAdmissions,31
+11/09/2021,England,NewAdmissions,649
+12/09/2021,England,NewAdmissions,658
+12/09/2021,Scotland,NewAdmissions,141
+12/09/2021,Wales,NewAdmissions,37
+12/09/2021,Northern Ireland,NewAdmissions,29
+13/09/2021,Scotland,NewAdmissions,177
+13/09/2021,Northern Ireland,NewAdmissions,34
+13/09/2021,Wales,NewAdmissions,36
+13/09/2021,England,NewAdmissions,688
+14/09/2021,England,NewAdmissions,701
+14/09/2021,Wales,NewAdmissions,51
+14/09/2021,Northern Ireland,NewAdmissions,27
+14/09/2021,Scotland,NewAdmissions,161
+15/09/2021,Wales,NewAdmissions,43
+15/09/2021,Northern Ireland,NewAdmissions,36
+15/09/2021,Scotland,NewAdmissions,174
+15/09/2021,England,NewAdmissions,691
+16/09/2021,England,NewAdmissions,672
+16/09/2021,Northern Ireland,NewAdmissions,29
+16/09/2021,Wales,NewAdmissions,30
+16/09/2021,Scotland,NewAdmissions,157
+17/09/2021,Northern Ireland,NewAdmissions,31
+17/09/2021,Scotland,NewAdmissions,142
+17/09/2021,Wales,NewAdmissions,38
+17/09/2021,England,NewAdmissions,540
+18/09/2021,England,NewAdmissions,560
+18/09/2021,Scotland,NewAdmissions,115
+18/09/2021,Wales,NewAdmissions,52
+18/09/2021,Northern Ireland,NewAdmissions,22
+19/09/2021,Northern Ireland,NewAdmissions,20
+19/09/2021,Scotland,NewAdmissions,103
+19/09/2021,Wales,NewAdmissions,32
+19/09/2021,England,NewAdmissions,572
+20/09/2021,England,NewAdmissions,606
+20/09/2021,Scotland,NewAdmissions,151
+20/09/2021,Northern Ireland,NewAdmissions,32
+20/09/2021,Wales,NewAdmissions,24
+21/09/2021,Scotland,NewAdmissions,123
+21/09/2021,Northern Ireland,NewAdmissions,35
+21/09/2021,Wales,NewAdmissions,40
+21/09/2021,England,NewAdmissions,602
+22/09/2021,England,NewAdmissions,572
+22/09/2021,Scotland,NewAdmissions,109
+22/09/2021,Wales,NewAdmissions,38
+22/09/2021,Northern Ireland,NewAdmissions,28
+23/09/2021,Northern Ireland,NewAdmissions,25
+23/09/2021,Scotland,NewAdmissions,131
+23/09/2021,Wales,NewAdmissions,43
+23/09/2021,England,NewAdmissions,577
+24/09/2021,England,NewAdmissions,557
+24/09/2021,Northern Ireland,NewAdmissions,20
+24/09/2021,Scotland,NewAdmissions,110
+24/09/2021,Wales,NewAdmissions,33
+25/09/2021,Wales,NewAdmissions,37
+25/09/2021,Northern Ireland,NewAdmissions,24
+25/09/2021,Scotland,NewAdmissions,89
+25/09/2021,England,NewAdmissions,520
+26/09/2021,England,NewAdmissions,535
+26/09/2021,Northern Ireland,NewAdmissions,24
+26/09/2021,Wales,NewAdmissions,28
+26/09/2021,Scotland,NewAdmissions,82
+27/09/2021,Scotland,NewAdmissions,115
+27/09/2021,Wales,NewAdmissions,17
+27/09/2021,Northern Ireland,NewAdmissions,33
+27/09/2021,England,NewAdmissions,617
+28/09/2021,England,NewAdmissions,596
+28/09/2021,Wales,NewAdmissions,41
+28/09/2021,Northern Ireland,NewAdmissions,19
+28/09/2021,Scotland,NewAdmissions,122
+29/09/2021,Wales,NewAdmissions,52
+29/09/2021,Scotland,NewAdmissions,100
+29/09/2021,Northern Ireland,NewAdmissions,25
+29/09/2021,England,NewAdmissions,625
+30/09/2021,England,NewAdmissions,552
+30/09/2021,Wales,NewAdmissions,34
+30/09/2021,Scotland,NewAdmissions,88
+30/09/2021,Northern Ireland,NewAdmissions,16
+01/10/2021,Northern Ireland,NewAdmissions,31
+01/10/2021,Scotland,NewAdmissions,105
+01/10/2021,Wales,NewAdmissions,39
+01/10/2021,England,NewAdmissions,520
+02/10/2021,England,NewAdmissions,549
+02/10/2021,Scotland,NewAdmissions,89
+02/10/2021,Northern Ireland,NewAdmissions,21
+02/10/2021,Wales,NewAdmissions,35
+03/10/2021,Wales,NewAdmissions,28
+03/10/2021,Scotland,NewAdmissions,89
+03/10/2021,Northern Ireland,NewAdmissions,23
+03/10/2021,England,NewAdmissions,577
+04/10/2021,England,NewAdmissions,627
+04/10/2021,Northern Ireland,NewAdmissions,24
+04/10/2021,Scotland,NewAdmissions,137
+04/10/2021,Wales,NewAdmissions,20
+05/10/2021,Scotland,NewAdmissions,111
+05/10/2021,Wales,NewAdmissions,36
+05/10/2021,Northern Ireland,NewAdmissions,33
+05/10/2021,England,NewAdmissions,658
+06/10/2021,England,NewAdmissions,632
+06/10/2021,Northern Ireland,NewAdmissions,33
+06/10/2021,Scotland,NewAdmissions,88
+06/10/2021,Wales,NewAdmissions,27
+07/10/2021,Northern Ireland,NewAdmissions,28
+07/10/2021,Scotland,NewAdmissions,124
+07/10/2021,Wales,NewAdmissions,36
+07/10/2021,England,NewAdmissions,634
+08/10/2021,England,NewAdmissions,619
+08/10/2021,Wales,NewAdmissions,37
+08/10/2021,Scotland,NewAdmissions,111
+08/10/2021,Northern Ireland,NewAdmissions,28
+09/10/2021,Wales,NewAdmissions,28
+09/10/2021,Northern Ireland,NewAdmissions,27
+09/10/2021,Scotland,NewAdmissions,92
+09/10/2021,England,NewAdmissions,613
+10/10/2021,England,NewAdmissions,606
+10/10/2021,Scotland,NewAdmissions,76
+10/10/2021,Wales,NewAdmissions,33
+10/10/2021,Northern Ireland,NewAdmissions,14
+11/10/2021,Scotland,NewAdmissions,91
+11/10/2021,Wales,NewAdmissions,37
+11/10/2021,Northern Ireland,NewAdmissions,28
+11/10/2021,England,NewAdmissions,685
+12/10/2021,England,NewAdmissions,760
+12/10/2021,Northern Ireland,NewAdmissions,28
+12/10/2021,Wales,NewAdmissions,38
+12/10/2021,Scotland,NewAdmissions,103
+13/10/2021,Scotland,NewAdmissions,87
+13/10/2021,Northern Ireland,NewAdmissions,28
+13/10/2021,Wales,NewAdmissions,51
+13/10/2021,England,NewAdmissions,752
+14/10/2021,England,NewAdmissions,730
+14/10/2021,Wales,NewAdmissions,37
+14/10/2021,Scotland,NewAdmissions,115
+14/10/2021,Northern Ireland,NewAdmissions,20
+15/10/2021,Wales,NewAdmissions,47
+15/10/2021,Northern Ireland,NewAdmissions,24
+15/10/2021,Scotland,NewAdmissions,127
+15/10/2021,England,NewAdmissions,752
+16/10/2021,England,NewAdmissions,743
+16/10/2021,Wales,NewAdmissions,38
+16/10/2021,Scotland,NewAdmissions,83
+16/10/2021,Northern Ireland,NewAdmissions,19
+17/10/2021,Scotland,NewAdmissions,70
+17/10/2021,Northern Ireland,NewAdmissions,33
+17/10/2021,Wales,NewAdmissions,35
+17/10/2021,England,NewAdmissions,828
+18/10/2021,England,NewAdmissions,896
+18/10/2021,Northern Ireland,NewAdmissions,35
+18/10/2021,Wales,NewAdmissions,29
+18/10/2021,Scotland,NewAdmissions,122
+19/10/2021,Scotland,NewAdmissions,132
+19/10/2021,Northern Ireland,NewAdmissions,38
+19/10/2021,Wales,NewAdmissions,41
+19/10/2021,England,NewAdmissions,894
+20/10/2021,England,NewAdmissions,903
+20/10/2021,Wales,NewAdmissions,51
+20/10/2021,Northern Ireland,NewAdmissions,29
+20/10/2021,Scotland,NewAdmissions,117
+21/10/2021,Northern Ireland,NewAdmissions,30
+21/10/2021,Scotland,NewAdmissions,103
+21/10/2021,Wales,NewAdmissions,47
+21/10/2021,England,NewAdmissions,799
+22/10/2021,England,NewAdmissions,760
+22/10/2021,Scotland,NewAdmissions,114
+22/10/2021,Wales,NewAdmissions,49
+22/10/2021,Northern Ireland,NewAdmissions,21
+23/10/2021,Scotland,NewAdmissions,80
+23/10/2021,Wales,NewAdmissions,46
+23/10/2021,Northern Ireland,NewAdmissions,28
+23/10/2021,England,NewAdmissions,756
+24/10/2021,England,NewAdmissions,829
+24/10/2021,Northern Ireland,NewAdmissions,24
+24/10/2021,Scotland,NewAdmissions,73
+24/10/2021,Wales,NewAdmissions,38
+25/10/2021,Scotland,NewAdmissions,127
+25/10/2021,Northern Ireland,NewAdmissions,29
+25/10/2021,Wales,NewAdmissions,35
+25/10/2021,England,NewAdmissions,865
+26/10/2021,England,NewAdmissions,911
+26/10/2021,Wales,NewAdmissions,52
+26/10/2021,Scotland,NewAdmissions,119
+26/10/2021,Northern Ireland,NewAdmissions,25
+27/10/2021,Northern Ireland,NewAdmissions,35
+27/10/2021,Scotland,NewAdmissions,123
+27/10/2021,Wales,NewAdmissions,48
+27/10/2021,England,NewAdmissions,955
+28/10/2021,England,NewAdmissions,888
+28/10/2021,Wales,NewAdmissions,39
+28/10/2021,Scotland,NewAdmissions,116
+28/10/2021,Northern Ireland,NewAdmissions,34
+29/10/2021,Scotland,NewAdmissions,105
+29/10/2021,Wales,NewAdmissions,49
+29/10/2021,Northern Ireland,NewAdmissions,27
+29/10/2021,England,NewAdmissions,840
+30/10/2021,England,NewAdmissions,741
+30/10/2021,Northern Ireland,NewAdmissions,25
+30/10/2021,Wales,NewAdmissions,48
+30/10/2021,Scotland,NewAdmissions,78
+31/10/2021,Wales,NewAdmissions,43
+31/10/2021,Scotland,NewAdmissions,81
+31/10/2021,Northern Ireland,NewAdmissions,25
+31/10/2021,England,NewAdmissions,860
+01/11/2021,England,NewAdmissions,899
+01/11/2021,Scotland,NewAdmissions,128
+01/11/2021,Wales,NewAdmissions,37
+01/11/2021,Northern Ireland,NewAdmissions,21
+02/11/2021,Wales,NewAdmissions,42
+02/11/2021,Scotland,NewAdmissions,110
+02/11/2021,Northern Ireland,NewAdmissions,35
+02/11/2021,England,NewAdmissions,891
+03/11/2021,England,NewAdmissions,807
+03/11/2021,Wales,NewAdmissions,50
+03/11/2021,Northern Ireland,NewAdmissions,27
+03/11/2021,Scotland,NewAdmissions,91
+04/11/2021,Scotland,NewAdmissions,93
+04/11/2021,Wales,NewAdmissions,42
+04/11/2021,Northern Ireland,NewAdmissions,25
+04/11/2021,England,NewAdmissions,717
+05/11/2021,England,NewAdmissions,686
+05/11/2021,Wales,NewAdmissions,39
+05/11/2021,Scotland,NewAdmissions,95
+05/11/2021,Northern Ireland,NewAdmissions,29
+06/11/2021,Wales,NewAdmissions,49
+06/11/2021,Northern Ireland,NewAdmissions,23
+06/11/2021,Scotland,NewAdmissions,64
+06/11/2021,England,NewAdmissions,688
+07/11/2021,England,NewAdmissions,739
+07/11/2021,Scotland,NewAdmissions,83
+07/11/2021,Wales,NewAdmissions,45
+07/11/2021,Northern Ireland,NewAdmissions,20
+08/11/2021,Northern Ireland,NewAdmissions,26
+08/11/2021,Wales,NewAdmissions,24
+08/11/2021,Scotland,NewAdmissions,107
+08/11/2021,England,NewAdmissions,850
+09/11/2021,England,NewAdmissions,808
+09/11/2021,Northern Ireland,NewAdmissions,28
+09/11/2021,Wales,NewAdmissions,38
+09/11/2021,Scotland,NewAdmissions,103
+10/11/2021,Northern Ireland,NewAdmissions,30
+10/11/2021,Wales,NewAdmissions,45
+10/11/2021,Scotland,NewAdmissions,86
+10/11/2021,England,NewAdmissions,821
+11/11/2021,England,NewAdmissions,797
+11/11/2021,Scotland,NewAdmissions,104
+11/11/2021,Northern Ireland,NewAdmissions,22
+11/11/2021,Wales,NewAdmissions,36
+12/11/2021,Scotland,NewAdmissions,87
+12/11/2021,Wales,NewAdmissions,42
+12/11/2021,Northern Ireland,NewAdmissions,27
+12/11/2021,England,NewAdmissions,729
+13/11/2021,England,NewAdmissions,655
+13/11/2021,Scotland,NewAdmissions,55
+13/11/2021,Northern Ireland,NewAdmissions,33
+13/11/2021,Wales,NewAdmissions,34
+14/11/2021,Scotland,NewAdmissions,74
+14/11/2021,Wales,NewAdmissions,32
+14/11/2021,Northern Ireland,NewAdmissions,23
+14/11/2021,England,NewAdmissions,678
+15/11/2021,England,NewAdmissions,695
+15/11/2021,Northern Ireland,NewAdmissions,22
+15/11/2021,Scotland,NewAdmissions,88
+15/11/2021,Wales,NewAdmissions,30
+16/11/2021,Northern Ireland,NewAdmissions,24
+16/11/2021,Wales,NewAdmissions,50
+16/11/2021,Scotland,NewAdmissions,109
+16/11/2021,England,NewAdmissions,713
+17/11/2021,England,NewAdmissions,727
+17/11/2021,Scotland,NewAdmissions,80
+17/11/2021,Wales,NewAdmissions,22
+17/11/2021,Northern Ireland,NewAdmissions,29
+18/11/2021,Northern Ireland,NewAdmissions,25
+18/11/2021,Wales,NewAdmissions,32
+18/11/2021,Scotland,NewAdmissions,86
+18/11/2021,England,NewAdmissions,697
+19/11/2021,England,NewAdmissions,637
+19/11/2021,Northern Ireland,NewAdmissions,28
+19/11/2021,Wales,NewAdmissions,38
+19/11/2021,Scotland,NewAdmissions,72
+20/11/2021,Wales,NewAdmissions,38
+20/11/2021,Northern Ireland,NewAdmissions,24
+20/11/2021,Scotland,NewAdmissions,53
+20/11/2021,England,NewAdmissions,611
+21/11/2021,England,NewAdmissions,648
+21/11/2021,Northern Ireland,NewAdmissions,20
+21/11/2021,Wales,NewAdmissions,35
+21/11/2021,Scotland,NewAdmissions,56
+22/11/2021,Wales,NewAdmissions,21
+22/11/2021,Scotland,NewAdmissions,89
+22/11/2021,Northern Ireland,NewAdmissions,26
+22/11/2021,England,NewAdmissions,602
+23/11/2021,England,NewAdmissions,659
+23/11/2021,Northern Ireland,NewAdmissions,24
+23/11/2021,Scotland,NewAdmissions,71
+23/11/2021,Wales,NewAdmissions,25
+24/11/2021,Scotland,NewAdmissions,95
+24/11/2021,Northern Ireland,NewAdmissions,23
+24/11/2021,Wales,NewAdmissions,35
+24/11/2021,England,NewAdmissions,752
+25/11/2021,England,NewAdmissions,650
+25/11/2021,Scotland,NewAdmissions,75
+25/11/2021,Northern Ireland,NewAdmissions,18
+25/11/2021,Wales,NewAdmissions,35
+26/11/2021,Northern Ireland,NewAdmissions,22
+26/11/2021,Scotland,NewAdmissions,68
+26/11/2021,Wales,NewAdmissions,26
+26/11/2021,England,NewAdmissions,620
+27/11/2021,England,NewAdmissions,609
+27/11/2021,Northern Ireland,NewAdmissions,17
+27/11/2021,Scotland,NewAdmissions,63
+27/11/2021,Wales,NewAdmissions,28
+28/11/2021,Wales,NewAdmissions,21
+28/11/2021,Scotland,NewAdmissions,56
+28/11/2021,Northern Ireland,NewAdmissions,26
+28/11/2021,England,NewAdmissions,607
+29/11/2021,England,NewAdmissions,669
+29/11/2021,Scotland,NewAdmissions,92
+29/11/2021,Wales,NewAdmissions,21
+29/11/2021,Northern Ireland,NewAdmissions,22
+30/11/2021,Scotland,NewAdmissions,78
+30/11/2021,Wales,NewAdmissions,29
+30/11/2021,Northern Ireland,NewAdmissions,34
+30/11/2021,England,NewAdmissions,699
+01/12/2021,England,NewAdmissions,698
+01/12/2021,Wales,NewAdmissions,30
+01/12/2021,Northern Ireland,NewAdmissions,17
+01/12/2021,Scotland,NewAdmissions,77
+02/12/2021,Wales,NewAdmissions,17
+02/12/2021,Northern Ireland,NewAdmissions,28
+02/12/2021,Scotland,NewAdmissions,64
+02/12/2021,England,NewAdmissions,719
+03/12/2021,England,NewAdmissions,624
+03/12/2021,Wales,NewAdmissions,30
+03/12/2021,Scotland,NewAdmissions,54
+03/12/2021,Northern Ireland,NewAdmissions,25
+04/12/2021,Wales,NewAdmissions,25
+04/12/2021,Scotland,NewAdmissions,64
+04/12/2021,Northern Ireland,NewAdmissions,22
+04/12/2021,England,NewAdmissions,635
+05/12/2021,England,NewAdmissions,728
+05/12/2021,Northern Ireland,NewAdmissions,25
+05/12/2021,Scotland,NewAdmissions,63
+05/12/2021,Wales,NewAdmissions,26
+06/12/2021,Scotland,NewAdmissions,93
+06/12/2021,Northern Ireland,NewAdmissions,26
+06/12/2021,Wales,NewAdmissions,15
+06/12/2021,England,NewAdmissions,736
+07/12/2021,England,NewAdmissions,799
+07/12/2021,Wales,NewAdmissions,23
+07/12/2021,Scotland,NewAdmissions,97
+07/12/2021,Northern Ireland,NewAdmissions,25
+08/12/2021,Wales,NewAdmissions,27
+08/12/2021,Northern Ireland,NewAdmissions,27
+08/12/2021,Scotland,NewAdmissions,80
+08/12/2021,England,NewAdmissions,754
+09/12/2021,England,NewAdmissions,799
+09/12/2021,Wales,NewAdmissions,32
+09/12/2021,Northern Ireland,NewAdmissions,20
+09/12/2021,Scotland,NewAdmissions,99
+10/12/2021,Wales,NewAdmissions,27
+10/12/2021,Scotland,NewAdmissions,75
+10/12/2021,Northern Ireland,NewAdmissions,22
+10/12/2021,England,NewAdmissions,707
+11/12/2021,England,NewAdmissions,696
+11/12/2021,Northern Ireland,NewAdmissions,26
+11/12/2021,Scotland,NewAdmissions,49
+11/12/2021,Wales,NewAdmissions,22
+12/12/2021,Northern Ireland,NewAdmissions,23
+12/12/2021,Scotland,NewAdmissions,49
+12/12/2021,Wales,NewAdmissions,20
+12/12/2021,England,NewAdmissions,772
+13/12/2021,England,NewAdmissions,794
+13/12/2021,Northern Ireland,NewAdmissions,20
+13/12/2021,Wales,NewAdmissions,13
+13/12/2021,Scotland,NewAdmissions,93
+14/12/2021,Northern Ireland,NewAdmissions,21
+14/12/2021,Wales,NewAdmissions,33
+14/12/2021,Scotland,NewAdmissions,83
+14/12/2021,England,NewAdmissions,815
+15/12/2021,England,NewAdmissions,805
+15/12/2021,Scotland,NewAdmissions,92
+15/12/2021,Northern Ireland,NewAdmissions,22
+15/12/2021,Wales,NewAdmissions,24
+16/12/2021,Wales,NewAdmissions,22
+16/12/2021,Northern Ireland,NewAdmissions,25
+16/12/2021,Scotland,NewAdmissions,92
+16/12/2021,England,NewAdmissions,777
+17/12/2021,England,NewAdmissions,743
+17/12/2021,Wales,NewAdmissions,27
+17/12/2021,Northern Ireland,NewAdmissions,23
+17/12/2021,Scotland,NewAdmissions,78
+18/12/2021,Northern Ireland,NewAdmissions,18
+18/12/2021,Scotland,NewAdmissions,63
+18/12/2021,Wales,NewAdmissions,21
+18/12/2021,England,NewAdmissions,735
+19/12/2021,England,NewAdmissions,926
+19/12/2021,Northern Ireland,NewAdmissions,15
+19/12/2021,Wales,NewAdmissions,21
+19/12/2021,Scotland,NewAdmissions,53
+20/12/2021,Northern Ireland,NewAdmissions,12
+20/12/2021,Wales,NewAdmissions,18
+20/12/2021,Scotland,NewAdmissions,125
+20/12/2021,England,NewAdmissions,1061
+21/12/2021,England,NewAdmissions,1098
+21/12/2021,Wales,NewAdmissions,32
+21/12/2021,Scotland,NewAdmissions,101
+21/12/2021,Northern Ireland,NewAdmissions,18
+22/12/2021,Scotland,NewAdmissions,115
+22/12/2021,Wales,NewAdmissions,25
+22/12/2021,Northern Ireland,NewAdmissions,26
+22/12/2021,England,NewAdmissions,1246
+23/12/2021,England,NewAdmissions,1252
+23/12/2021,Northern Ireland,NewAdmissions,20
+23/12/2021,Wales,NewAdmissions,32
+23/12/2021,Scotland,NewAdmissions,100
+24/12/2021,Scotland,NewAdmissions,117
+24/12/2021,Wales,NewAdmissions,28
+24/12/2021,Northern Ireland,NewAdmissions,30
+24/12/2021,England,NewAdmissions,1020
+25/12/2021,England,NewAdmissions,1281
+25/12/2021,Scotland,NewAdmissions,81
+25/12/2021,Wales,NewAdmissions,32
+25/12/2021,Northern Ireland,NewAdmissions,21
+26/12/2021,Scotland,NewAdmissions,116
+26/12/2021,Northern Ireland,NewAdmissions,25
+26/12/2021,Wales,NewAdmissions,24
+26/12/2021,England,NewAdmissions,1374
+27/12/2021,England,NewAdmissions,1751
+27/12/2021,Wales,NewAdmissions,21
+27/12/2021,Northern Ireland,NewAdmissions,32
+27/12/2021,Scotland,NewAdmissions,154
+28/12/2021,Wales,NewAdmissions,32
+28/12/2021,Northern Ireland,NewAdmissions,24
+28/12/2021,Scotland,NewAdmissions,162
+28/12/2021,England,NewAdmissions,2082
+29/12/2021,England,NewAdmissions,2370
+29/12/2021,Wales,NewAdmissions,36
+29/12/2021,Scotland,NewAdmissions,187
+29/12/2021,Northern Ireland,NewAdmissions,44
+30/12/2021,Scotland,NewAdmissions,185
+30/12/2021,Wales,NewAdmissions,52
+30/12/2021,Northern Ireland,NewAdmissions,39
+30/12/2021,England,NewAdmissions,2114
+31/12/2021,England,NewAdmissions,1781
+31/12/2021,Scotland,NewAdmissions,215
+31/12/2021,Wales,NewAdmissions,53
+31/12/2021,Northern Ireland,NewAdmissions,45
+01/01/2022,Wales,NewAdmissions,76
+01/01/2022,Northern Ireland,NewAdmissions,41
+01/01/2022,Scotland,NewAdmissions,139
+01/01/2022,England,NewAdmissions,1819
+02/01/2022,England,NewAdmissions,1881
+02/01/2022,Wales,NewAdmissions,43
+02/01/2022,Scotland,NewAdmissions,157
+02/01/2022,Northern Ireland,NewAdmissions,29
+03/01/2022,Northern Ireland,NewAdmissions,36
+03/01/2022,Wales,NewAdmissions,41
+03/01/2022,Scotland,NewAdmissions,170
+03/01/2022,England,NewAdmissions,2219
+04/01/2022,England,NewAdmissions,2101
+04/01/2022,Scotland,NewAdmissions,201
+04/01/2022,Northern Ireland,NewAdmissions,44
+04/01/2022,Wales,NewAdmissions,57
+05/01/2022,Northern Ireland,NewAdmissions,40
+05/01/2022,Scotland,NewAdmissions,170
+05/01/2022,Wales,NewAdmissions,47
+05/01/2022,England,NewAdmissions,2139
+06/01/2022,England,NewAdmissions,2043
+06/01/2022,Wales,NewAdmissions,56
+06/01/2022,Scotland,NewAdmissions,189
+06/01/2022,Northern Ireland,NewAdmissions,44
+07/01/2022,Wales,NewAdmissions,45
+07/01/2022,Northern Ireland,NewAdmissions,31
+07/01/2022,Scotland,NewAdmissions,190
+07/01/2022,England,NewAdmissions,1772
+08/01/2022,England,NewAdmissions,1862
+08/01/2022,Northern Ireland,NewAdmissions,32
+08/01/2022,Scotland,NewAdmissions,156
+08/01/2022,Wales,NewAdmissions,40
+09/01/2022,Northern Ireland,NewAdmissions,38
+09/01/2022,Scotland,NewAdmissions,161
+09/01/2022,Wales,NewAdmissions,42
+09/01/2022,England,NewAdmissions,1975
+10/01/2022,England,NewAdmissions,2180
+10/01/2022,Wales,NewAdmissions,46
+10/01/2022,Scotland,NewAdmissions,184
+10/01/2022,Northern Ireland,NewAdmissions,50
+11/01/2022,Scotland,NewAdmissions,204
+11/01/2022,Wales,NewAdmissions,49
+11/01/2022,Northern Ireland,NewAdmissions,35
+11/01/2022,England,NewAdmissions,2127
+12/01/2022,England,NewAdmissions,1955
+12/01/2022,Scotland,NewAdmissions,162
+12/01/2022,Wales,NewAdmissions,38
+12/01/2022,Northern Ireland,NewAdmissions,36
+13/01/2022,Northern Ireland,NewAdmissions,39
+13/01/2022,Wales,NewAdmissions,38
+13/01/2022,Scotland,NewAdmissions,165
+13/01/2022,England,NewAdmissions,1916
+14/01/2022,England,NewAdmissions,1692
+14/01/2022,Scotland,NewAdmissions,162
+14/01/2022,Northern Ireland,NewAdmissions,28
+14/01/2022,Wales,NewAdmissions,48
+15/01/2022,Scotland,NewAdmissions,104
+15/01/2022,Northern Ireland,NewAdmissions,26
+15/01/2022,Wales,NewAdmissions,47
+15/01/2022,England,NewAdmissions,1604
+16/01/2022,England,NewAdmissions,1768
+16/01/2022,Scotland,NewAdmissions,106
+16/01/2022,Northern Ireland,NewAdmissions,21
+16/01/2022,Wales,NewAdmissions,42
+17/01/2022,Scotland,NewAdmissions,153
+17/01/2022,Wales,NewAdmissions,31
+17/01/2022,Northern Ireland,NewAdmissions,25
+17/01/2022,England,NewAdmissions,1808
+18/01/2022,England,NewAdmissions,1794
+18/01/2022,Northern Ireland,NewAdmissions,34
+18/01/2022,Wales,NewAdmissions,31
+18/01/2022,Scotland,NewAdmissions,149
+19/01/2022,Wales,NewAdmissions,36
+19/01/2022,Northern Ireland,NewAdmissions,22
+19/01/2022,Scotland,NewAdmissions,140
+19/01/2022,England,NewAdmissions,1778
+20/01/2022,England,NewAdmissions,1698
+20/01/2022,Wales,NewAdmissions,40
+20/01/2022,Northern Ireland,NewAdmissions,31
+20/01/2022,Scotland,NewAdmissions,136
+21/01/2022,Scotland,NewAdmissions,148
+21/01/2022,Wales,NewAdmissions,33
+21/01/2022,Northern Ireland,NewAdmissions,36
+21/01/2022,England,NewAdmissions,1453
+22/01/2022,England,NewAdmissions,1277
+22/01/2022,Northern Ireland,NewAdmissions,22
+22/01/2022,Scotland,NewAdmissions,106
+22/01/2022,Wales,NewAdmissions,22
+23/01/2022,Wales,NewAdmissions,25
+23/01/2022,Scotland,NewAdmissions,105
+23/01/2022,Northern Ireland,NewAdmissions,28
+23/01/2022,England,NewAdmissions,1535
+24/01/2022,Northern Ireland,NewAdmissions,23
+24/01/2022,England,NewAdmissions,1593
+24/01/2022,Scotland,NewAdmissions,144
+24/01/2022,Wales,NewAdmissions,19
+25/01/2022,Wales,NewAdmissions,23
+25/01/2022,Scotland,NewAdmissions,144
+25/01/2022,England,NewAdmissions,1681
+25/01/2022,Northern Ireland,NewAdmissions,29
+26/01/2022,England,NewAdmissions,1689
+26/01/2022,Northern Ireland,NewAdmissions,35
+26/01/2022,Scotland,NewAdmissions,126
+26/01/2022,Wales,NewAdmissions,23
+27/01/2022,Scotland,NewAdmissions,117
+27/01/2022,Wales,NewAdmissions,29
+27/01/2022,Northern Ireland,NewAdmissions,21
+27/01/2022,England,NewAdmissions,1503
+28/01/2022,England,NewAdmissions,1342
+28/01/2022,Northern Ireland,NewAdmissions,19
+28/01/2022,Scotland,NewAdmissions,121
+28/01/2022,Wales,NewAdmissions,31
+29/01/2022,Wales,NewAdmissions,14
+29/01/2022,Scotland,NewAdmissions,86
+29/01/2022,England,NewAdmissions,1325
+29/01/2022,Northern Ireland,NewAdmissions,20
+30/01/2022,England,NewAdmissions,1285
+30/01/2022,Northern Ireland,NewAdmissions,26
+30/01/2022,Scotland,NewAdmissions,88
+30/01/2022,Wales,NewAdmissions,20
+31/01/2022,Scotland,NewAdmissions,153
+31/01/2022,Wales,NewAdmissions,25
+31/01/2022,Northern Ireland,NewAdmissions,29
+31/01/2022,England,NewAdmissions,1451
+01/02/2022,England,NewAdmissions,1537
+01/02/2022,Northern Ireland,NewAdmissions,28
+01/02/2022,Scotland,NewAdmissions,153
+01/02/2022,Wales,NewAdmissions,30
+02/02/2022,Scotland,NewAdmissions,128
+02/02/2022,Wales,NewAdmissions,23
+02/02/2022,England,NewAdmissions,1451
+02/02/2022,Northern Ireland,NewAdmissions,35
+03/02/2022,England,NewAdmissions,1292
+03/02/2022,Northern Ireland,NewAdmissions,30
+03/02/2022,Scotland,NewAdmissions,130
+03/02/2022,Wales,NewAdmissions,29
+04/02/2022,Wales,NewAdmissions,34
+04/02/2022,Scotland,NewAdmissions,152
+04/02/2022,Northern Ireland,NewAdmissions,32
+04/02/2022,England,NewAdmissions,1186
+05/02/2022,England,NewAdmissions,1077
+05/02/2022,Northern Ireland,NewAdmissions,29
+05/02/2022,Scotland,NewAdmissions,102
+05/02/2022,Wales,NewAdmissions,22
+06/02/2022,Scotland,NewAdmissions,75
+06/02/2022,Wales,NewAdmissions,29
+06/02/2022,Northern Ireland,NewAdmissions,19
+06/02/2022,England,NewAdmissions,1211
+07/02/2022,Northern Ireland,NewAdmissions,37
+07/02/2022,England,NewAdmissions,1234
+07/02/2022,Wales,NewAdmissions,18
+07/02/2022,Scotland,NewAdmissions,131
+08/02/2022,Scotland,NewAdmissions,145
+08/02/2022,England,NewAdmissions,1266
+08/02/2022,Northern Ireland,NewAdmissions,35
+08/02/2022,Wales,NewAdmissions,20
+09/02/2022,Wales,NewAdmissions,22
+09/02/2022,Scotland,NewAdmissions,132
+09/02/2022,Northern Ireland,NewAdmissions,44
+09/02/2022,England,NewAdmissions,1220
+10/02/2022,England,NewAdmissions,1167
+10/02/2022,Northern Ireland,NewAdmissions,36
+10/02/2022,Wales,NewAdmissions,21
+10/02/2022,Scotland,NewAdmissions,112
+11/02/2022,Scotland,NewAdmissions,125
+11/02/2022,Northern Ireland,NewAdmissions,32
+11/02/2022,England,NewAdmissions,996
+11/02/2022,Wales,NewAdmissions,20
+12/02/2022,Wales,NewAdmissions,18
+12/02/2022,Scotland,NewAdmissions,95
+12/02/2022,England,NewAdmissions,989
+12/02/2022,Northern Ireland,NewAdmissions,35
+13/02/2022,England,NewAdmissions,1029
+13/02/2022,Northern Ireland,NewAdmissions,25
+13/02/2022,Wales,NewAdmissions,17
+13/02/2022,Scotland,NewAdmissions,113
+14/02/2022,Scotland,NewAdmissions,153
+14/02/2022,England,NewAdmissions,1132
+14/02/2022,Northern Ireland,NewAdmissions,26
+14/02/2022,Wales,NewAdmissions,30
+15/02/2022,Wales,NewAdmissions,23
+15/02/2022,Scotland,NewAdmissions,153
+15/02/2022,England,NewAdmissions,1144
+15/02/2022,Northern Ireland,NewAdmissions,31
+16/02/2022,England,NewAdmissions,1120
+16/02/2022,Northern Ireland,NewAdmissions,47
+16/02/2022,Wales,NewAdmissions,27
+16/02/2022,Scotland,NewAdmissions,182
+17/02/2022,Scotland,NewAdmissions,150
+17/02/2022,England,NewAdmissions,971
+17/02/2022,Northern Ireland,NewAdmissions,29
+17/02/2022,Wales,NewAdmissions,19
+18/02/2022,Wales,NewAdmissions,18
+18/02/2022,Scotland,NewAdmissions,150
+18/02/2022,England,NewAdmissions,900
+18/02/2022,Northern Ireland,NewAdmissions,32
+19/02/2022,England,NewAdmissions,834
+19/02/2022,Northern Ireland,NewAdmissions,42
+19/02/2022,Wales,NewAdmissions,21
+19/02/2022,Scotland,NewAdmissions,115
+20/02/2022,Scotland,NewAdmissions,105
+20/02/2022,Northern Ireland,NewAdmissions,33
+20/02/2022,England,NewAdmissions,971
+20/02/2022,Wales,NewAdmissions,14
+21/02/2022,Wales,NewAdmissions,14
+21/02/2022,Scotland,NewAdmissions,152
+21/02/2022,Northern Ireland,NewAdmissions,29
+21/02/2022,England,NewAdmissions,1030
+22/02/2022,England,NewAdmissions,976
+22/02/2022,Northern Ireland,NewAdmissions,25
+22/02/2022,Wales,NewAdmissions,20
+22/02/2022,Scotland,NewAdmissions,150
+23/02/2022,Scotland,NewAdmissions,183
+23/02/2022,Northern Ireland,NewAdmissions,37
+23/02/2022,England,NewAdmissions,976
+23/02/2022,Wales,NewAdmissions,26
+24/02/2022,Wales,NewAdmissions,28
+24/02/2022,Scotland,NewAdmissions,172
+24/02/2022,England,NewAdmissions,984
+24/02/2022,Northern Ireland,NewAdmissions,22
+25/02/2022,Northern Ireland,NewAdmissions,23
+25/02/2022,England,NewAdmissions,841
+25/02/2022,Wales,NewAdmissions,18
+25/02/2022,Scotland,NewAdmissions,207
+26/02/2022,Scotland,NewAdmissions,131
+26/02/2022,Northern Ireland,NewAdmissions,39
+26/02/2022,England,NewAdmissions,888
+26/02/2022,Wales,NewAdmissions,22
+27/02/2022,Wales,NewAdmissions,8
+27/02/2022,Scotland,NewAdmissions,115
+27/02/2022,England,NewAdmissions,949
+27/02/2022,Northern Ireland,NewAdmissions,23
+28/02/2022,England,NewAdmissions,1145
+28/02/2022,Northern Ireland,NewAdmissions,33
+28/02/2022,Wales,NewAdmissions,17
+28/02/2022,Scotland,NewAdmissions,202
+01/03/2022,Scotland,NewAdmissions,195
+01/03/2022,England,NewAdmissions,1111
+01/03/2022,Northern Ireland,NewAdmissions,39
+01/03/2022,Wales,NewAdmissions,14
+02/03/2022,Wales,NewAdmissions,24
+02/03/2022,Scotland,NewAdmissions,200
+02/03/2022,Northern Ireland,NewAdmissions,36
+02/03/2022,England,NewAdmissions,1184
+03/03/2022,England,NewAdmissions,1226
+03/03/2022,Northern Ireland,NewAdmissions,33
+03/03/2022,Wales,NewAdmissions,14
+03/03/2022,Scotland,NewAdmissions,176
+04/03/2022,Scotland,NewAdmissions,232
+04/03/2022,Northern Ireland,NewAdmissions,43
+04/03/2022,England,NewAdmissions,1044
+04/03/2022,Wales,NewAdmissions,32
+05/03/2022,Wales,NewAdmissions,19
+05/03/2022,Scotland,NewAdmissions,139
+05/03/2022,England,NewAdmissions,1050
+05/03/2022,Northern Ireland,NewAdmissions,32
+06/03/2022,England,NewAdmissions,1260
+06/03/2022,Northern Ireland,NewAdmissions,31
+06/03/2022,Wales,NewAdmissions,20
+06/03/2022,Scotland,NewAdmissions,145
+07/03/2022,Scotland,NewAdmissions,197
+07/03/2022,Northern Ireland,NewAdmissions,30
+07/03/2022,England,NewAdmissions,1278
+07/03/2022,Wales,NewAdmissions,18
+08/03/2022,Wales,NewAdmissions,22
+08/03/2022,Scotland,NewAdmissions,237
+08/03/2022,Northern Ireland,NewAdmissions,41
+08/03/2022,England,NewAdmissions,1389
+09/03/2022,England,NewAdmissions,1521
+09/03/2022,Northern Ireland,NewAdmissions,34
+09/03/2022,Wales,NewAdmissions,23
+09/03/2022,Scotland,NewAdmissions,237
+10/03/2022,Scotland,NewAdmissions,230
+10/03/2022,England,NewAdmissions,1414
+10/03/2022,Northern Ireland,NewAdmissions,29
+10/03/2022,Wales,NewAdmissions,30
+11/03/2022,Wales,NewAdmissions,35
+11/03/2022,Scotland,NewAdmissions,236
+11/03/2022,Northern Ireland,NewAdmissions,31
+11/03/2022,England,NewAdmissions,1412
+12/03/2022,England,NewAdmissions,1368
+12/03/2022,Northern Ireland,NewAdmissions,23
+12/03/2022,Wales,NewAdmissions,25
+12/03/2022,Scotland,NewAdmissions,199
+13/03/2022,Scotland,NewAdmissions,179
+13/03/2022,Northern Ireland,NewAdmissions,27
+13/03/2022,England,NewAdmissions,1591
+13/03/2022,Wales,NewAdmissions,12
+14/03/2022,Wales,NewAdmissions,26
+14/03/2022,Scotland,NewAdmissions,265
+14/03/2022,Northern Ireland,NewAdmissions,35
+14/03/2022,England,NewAdmissions,1651
+15/03/2022,England,NewAdmissions,1800
+15/03/2022,Northern Ireland,NewAdmissions,28
+15/03/2022,Wales,NewAdmissions,30
+15/03/2022,Scotland,NewAdmissions,267
+16/03/2022,Scotland,NewAdmissions,256
+16/03/2022,England,NewAdmissions,1823
+16/03/2022,Northern Ireland,NewAdmissions,34
+16/03/2022,Wales,NewAdmissions,24
+17/03/2022,Wales,NewAdmissions,38
+17/03/2022,Scotland,NewAdmissions,264
+17/03/2022,England,NewAdmissions,1738
+17/03/2022,Northern Ireland,NewAdmissions,36
+18/03/2022,Northern Ireland,NewAdmissions,36
+18/03/2022,England,NewAdmissions,1629
+18/03/2022,Wales,NewAdmissions,42
+18/03/2022,Scotland,NewAdmissions,261
+19/03/2022,Scotland,NewAdmissions,177
+19/03/2022,Northern Ireland,NewAdmissions,27
+19/03/2022,England,NewAdmissions,1813
+19/03/2022,Wales,NewAdmissions,32
+20/03/2022,Wales,NewAdmissions,24
+20/03/2022,Scotland,NewAdmissions,192
+20/03/2022,England,NewAdmissions,1793
+20/03/2022,Northern Ireland,NewAdmissions,22
+21/03/2022,England,NewAdmissions,1984
+21/03/2022,Northern Ireland,NewAdmissions,30
+21/03/2022,Wales,NewAdmissions,19
+21/03/2022,Scotland,NewAdmissions,243
+22/03/2022,Scotland,NewAdmissions,244
+22/03/2022,England,NewAdmissions,2098
+22/03/2022,Northern Ireland,NewAdmissions,38
+22/03/2022,Wales,NewAdmissions,44
+23/03/2022,Wales,NewAdmissions,42
+23/03/2022,Scotland,NewAdmissions,268
+23/03/2022,England,NewAdmissions,2137
+23/03/2022,Northern Ireland,NewAdmissions,37
+24/03/2022,Northern Ireland,NewAdmissions,39
+24/03/2022,England,NewAdmissions,2006
+24/03/2022,Wales,NewAdmissions,38
+24/03/2022,Scotland,NewAdmissions,249
+25/03/2022,Scotland,NewAdmissions,238
+25/03/2022,Northern Ireland,NewAdmissions,33
+25/03/2022,England,NewAdmissions,1925
+25/03/2022,Wales,NewAdmissions,36
+26/03/2022,Wales,NewAdmissions,51
+26/03/2022,Scotland,NewAdmissions,178
+26/03/2022,Northern Ireland,NewAdmissions,28
+26/03/2022,England,NewAdmissions,1869
+27/03/2022,Northern Ireland,NewAdmissions,22
+27/03/2022,England,NewAdmissions,2037
+27/03/2022,Wales,NewAdmissions,41
+27/03/2022,Scotland,NewAdmissions,142
+28/03/2022,Scotland,NewAdmissions,208
+28/03/2022,England,NewAdmissions,2280
+28/03/2022,Northern Ireland,NewAdmissions,35
+28/03/2022,Wales,NewAdmissions,26
+29/03/2022,Wales,NewAdmissions,37
+29/03/2022,Scotland,NewAdmissions,269
+29/03/2022,England,NewAdmissions,2219
+29/03/2022,Northern Ireland,NewAdmissions,25
+30/03/2022,England,NewAdmissions,2355
+30/03/2022,Northern Ireland,NewAdmissions,23
+30/03/2022,Wales,NewAdmissions,39
+30/03/2022,Scotland,NewAdmissions,253
+31/03/2022,Scotland,NewAdmissions,236
+31/03/2022,England,NewAdmissions,2124
+31/03/2022,Northern Ireland,NewAdmissions,18
+31/03/2022,Wales,NewAdmissions,37
+01/04/2022,Wales,NewAdmissions,46
+01/04/2022,Scotland,NewAdmissions,207
+01/04/2022,England,NewAdmissions,1846
+01/04/2022,Northern Ireland,NewAdmissions,33
+02/04/2022,Northern Ireland,NewAdmissions,29
+02/04/2022,England,NewAdmissions,1826
+02/04/2022,Wales,NewAdmissions,52
+02/04/2022,Scotland,NewAdmissions,172
+03/04/2022,Scotland,NewAdmissions,149
+03/04/2022,Northern Ireland,NewAdmissions,19
+03/04/2022,England,NewAdmissions,2103
+03/04/2022,Wales,NewAdmissions,25
+04/04/2022,Wales,NewAdmissions,30
+04/04/2022,Scotland,NewAdmissions,223
+04/04/2022,Northern Ireland,NewAdmissions,29
+04/04/2022,England,NewAdmissions,2164
+05/04/2022,Northern Ireland,NewAdmissions,33
+05/04/2022,England,NewAdmissions,2308
+05/04/2022,Wales,NewAdmissions,42
+05/04/2022,Scotland,NewAdmissions,206
+06/04/2022,Scotland,NewAdmissions,171
+06/04/2022,Northern Ireland,NewAdmissions,29
+06/04/2022,England,NewAdmissions,2176
+06/04/2022,Wales,NewAdmissions,63
+07/04/2022,Wales,NewAdmissions,34
+07/04/2022,Scotland,NewAdmissions,199
+07/04/2022,Northern Ireland,NewAdmissions,25
+07/04/2022,England,NewAdmissions,1999
+08/04/2022,Northern Ireland,NewAdmissions,26
+08/04/2022,England,NewAdmissions,1751
+08/04/2022,Wales,NewAdmissions,45
+08/04/2022,Scotland,NewAdmissions,182
+09/04/2022,Scotland,NewAdmissions,135
+09/04/2022,England,NewAdmissions,1702
+09/04/2022,Northern Ireland,NewAdmissions,14
+09/04/2022,Wales,NewAdmissions,45
+10/04/2022,Wales,NewAdmissions,32
+10/04/2022,Scotland,NewAdmissions,145
+10/04/2022,England,NewAdmissions,1792
+10/04/2022,Northern Ireland,NewAdmissions,24
+11/04/2022,Northern Ireland,NewAdmissions,24
+11/04/2022,England,NewAdmissions,1909
+11/04/2022,Wales,NewAdmissions,21
+11/04/2022,Scotland,NewAdmissions,153
+12/04/2022,Scotland,NewAdmissions,175
+12/04/2022,England,NewAdmissions,2003
+12/04/2022,Northern Ireland,NewAdmissions,19
+12/04/2022,Wales,NewAdmissions,37
+13/04/2022,Wales,NewAdmissions,33
+13/04/2022,Scotland,NewAdmissions,169
+13/04/2022,Northern Ireland,NewAdmissions,18
+13/04/2022,England,NewAdmissions,1898
+14/04/2022,England,NewAdmissions,1662
+14/04/2022,Northern Ireland,NewAdmissions,18
+14/04/2022,Wales,NewAdmissions,45
+14/04/2022,Scotland,NewAdmissions,166
+15/04/2022,Scotland,NewAdmissions,158
+15/04/2022,Northern Ireland,NewAdmissions,22
+15/04/2022,England,NewAdmissions,1416
+15/04/2022,Wales,NewAdmissions,49
+16/04/2022,Wales,NewAdmissions,27
+16/04/2022,Scotland,NewAdmissions,118
+16/04/2022,England,NewAdmissions,1288
+16/04/2022,Northern Ireland,NewAdmissions,13
+17/04/2022,England,NewAdmissions,1347
+17/04/2022,Northern Ireland,NewAdmissions,11
+17/04/2022,Wales,NewAdmissions,25
+17/04/2022,Scotland,NewAdmissions,102
+18/04/2022,Scotland,NewAdmissions,120
+18/04/2022,Northern Ireland,NewAdmissions,10
+18/04/2022,England,NewAdmissions,1506
+18/04/2022,Wales,NewAdmissions,28
+19/04/2022,Wales,NewAdmissions,18
+19/04/2022,Scotland,NewAdmissions,149
+19/04/2022,Northern Ireland,NewAdmissions,17
+19/04/2022,England,NewAdmissions,1435
+20/04/2022,England,NewAdmissions,1322
+20/04/2022,Northern Ireland,NewAdmissions,10
+20/04/2022,Wales,NewAdmissions,26
+20/04/2022,Scotland,NewAdmissions,150
+21/04/2022,Scotland,NewAdmissions,124
+21/04/2022,England,NewAdmissions,1264
+21/04/2022,Northern Ireland,NewAdmissions,20
+21/04/2022,Wales,NewAdmissions,26
+22/04/2022,Wales,NewAdmissions,26
+22/04/2022,Scotland,NewAdmissions,140
+22/04/2022,Northern Ireland,NewAdmissions,15
+22/04/2022,England,NewAdmissions,1184
+23/04/2022,England,NewAdmissions,1087
+23/04/2022,Northern Ireland,NewAdmissions,10
+23/04/2022,Wales,NewAdmissions,27
+23/04/2022,Scotland,NewAdmissions,79
+24/04/2022,Scotland,NewAdmissions,71
+24/04/2022,England,NewAdmissions,1077
+24/04/2022,Northern Ireland,NewAdmissions,11
+24/04/2022,Wales,NewAdmissions,24
+25/04/2022,Wales,NewAdmissions,18
+25/04/2022,Scotland,NewAdmissions,104
+25/04/2022,Northern Ireland,NewAdmissions,15
+25/04/2022,England,NewAdmissions,1138
+26/04/2022,Northern Ireland,NewAdmissions,17
+26/04/2022,England,NewAdmissions,1100
+26/04/2022,Wales,NewAdmissions,21
+26/04/2022,Scotland,NewAdmissions,113
+27/04/2022,Scotland,NewAdmissions,115
+27/04/2022,England,NewAdmissions,1082
+27/04/2022,Northern Ireland,NewAdmissions,13
+27/04/2022,Wales,NewAdmissions,18
+28/04/2022,Wales,NewAdmissions,25
+28/04/2022,Scotland,NewAdmissions,102
+28/04/2022,England,NewAdmissions,936
+28/04/2022,Northern Ireland,NewAdmissions,9
+29/04/2022,England,NewAdmissions,872
+29/04/2022,Northern Ireland,NewAdmissions,7
+29/04/2022,Wales,NewAdmissions,23
+29/04/2022,Scotland,NewAdmissions,95
+30/04/2022,Scotland,NewAdmissions,83
+30/04/2022,Northern Ireland,NewAdmissions,6
+30/04/2022,England,NewAdmissions,718
+30/04/2022,Wales,NewAdmissions,18
+01/05/2022,Wales,NewAdmissions,19
+01/05/2022,Scotland,NewAdmissions,74
+01/05/2022,Northern Ireland,NewAdmissions,8
+01/05/2022,England,NewAdmissions,807
+02/05/2022,Northern Ireland,NewAdmissions,8
+02/05/2022,England,NewAdmissions,828
+02/05/2022,Wales,NewAdmissions,18
+02/05/2022,Scotland,NewAdmissions,92
+03/05/2022,Scotland,NewAdmissions,102
+03/05/2022,Northern Ireland,NewAdmissions,8
+03/05/2022,England,NewAdmissions,893
+03/05/2022,Wales,NewAdmissions,16
+04/05/2022,Wales,NewAdmissions,29
+04/05/2022,Scotland,NewAdmissions,94
+04/05/2022,Northern Ireland,NewAdmissions,10
+04/05/2022,England,NewAdmissions,873
+05/05/2022,Northern Ireland,NewAdmissions,4
+05/05/2022,England,NewAdmissions,777
+05/05/2022,Wales,NewAdmissions,18
+05/05/2022,Scotland,NewAdmissions,74
+06/05/2022,Scotland,NewAdmissions,79
+06/05/2022,England,NewAdmissions,721
+06/05/2022,Northern Ireland,NewAdmissions,9
+06/05/2022,Wales,NewAdmissions,17
+07/05/2022,Wales,NewAdmissions,19
+07/05/2022,Scotland,NewAdmissions,69
+07/05/2022,England,NewAdmissions,607
+07/05/2022,Northern Ireland,NewAdmissions,12
+08/05/2022,Northern Ireland,NewAdmissions,5
+08/05/2022,England,NewAdmissions,669
+08/05/2022,Wales,NewAdmissions,16
+08/05/2022,Scotland,NewAdmissions,63
+09/05/2022,Scotland,NewAdmissions,104
+09/05/2022,England,NewAdmissions,731
+09/05/2022,Northern Ireland,NewAdmissions,8
+09/05/2022,Wales,NewAdmissions,8
+10/05/2022,Wales,NewAdmissions,17
+10/05/2022,Scotland,NewAdmissions,121
+10/05/2022,Northern Ireland,NewAdmissions,12
+10/05/2022,England,NewAdmissions,726
+11/05/2022,Northern Ireland,NewAdmissions,6
+11/05/2022,England,NewAdmissions,671
+11/05/2022,Wales,NewAdmissions,16
+11/05/2022,Scotland,NewAdmissions,82
+12/05/2022,Scotland,NewAdmissions,88
+12/05/2022,England,NewAdmissions,680
+12/05/2022,Northern Ireland,NewAdmissions,6
+12/05/2022,Wales,NewAdmissions,19
+13/05/2022,Wales,NewAdmissions,13
+13/05/2022,Scotland,NewAdmissions,71
+13/05/2022,Northern Ireland,NewAdmissions,6
+13/05/2022,England,NewAdmissions,542
+14/05/2022,England,NewAdmissions,553
+14/05/2022,Northern Ireland,NewAdmissions,8
+14/05/2022,Wales,NewAdmissions,8
+14/05/2022,Scotland,NewAdmissions,49
+15/05/2022,Scotland,NewAdmissions,49
+15/05/2022,Northern Ireland,NewAdmissions,7
+15/05/2022,England,NewAdmissions,566
+15/05/2022,Wales,NewAdmissions,14
+16/05/2022,Wales,NewAdmissions,8
+16/05/2022,Scotland,NewAdmissions,90
+16/05/2022,Northern Ireland,NewAdmissions,13
+16/05/2022,England,NewAdmissions,589
+17/05/2022,England,NewAdmissions,576
+17/05/2022,Northern Ireland,NewAdmissions,4
+17/05/2022,Wales,NewAdmissions,12
+17/05/2022,Scotland,NewAdmissions,81
+18/05/2022,Scotland,NewAdmissions,80
+18/05/2022,Northern Ireland,NewAdmissions,10
+18/05/2022,England,NewAdmissions,626
+18/05/2022,Wales,NewAdmissions,10
+19/05/2022,Wales,NewAdmissions,10
+19/05/2022,Scotland,NewAdmissions,69
+19/05/2022,Northern Ireland,NewAdmissions,7
+19/05/2022,England,NewAdmissions,573
+20/05/2022,England,NewAdmissions,450
+20/05/2022,Northern Ireland,NewAdmissions,6
+20/05/2022,Wales,NewAdmissions,7
+20/05/2022,Scotland,NewAdmissions,72
+21/05/2022,Scotland,NewAdmissions,56
+21/05/2022,Northern Ireland,NewAdmissions,4
+21/05/2022,England,NewAdmissions,387
+21/05/2022,Wales,NewAdmissions,8
+22/05/2022,Wales,NewAdmissions,12
+22/05/2022,Scotland,NewAdmissions,52
+22/05/2022,Northern Ireland,NewAdmissions,11
+22/05/2022,England,NewAdmissions,463
+23/05/2022,England,NewAdmissions,505
+23/05/2022,Northern Ireland,NewAdmissions,16
+23/05/2022,Wales,NewAdmissions,6
+23/05/2022,Scotland,NewAdmissions,73
+24/05/2022,Scotland,NewAdmissions,109
+24/05/2022,Northern Ireland,NewAdmissions,6
+24/05/2022,England,NewAdmissions,461
+24/05/2022,Wales,NewAdmissions,10
+25/05/2022,Wales,NewAdmissions,11
+25/05/2022,Scotland,NewAdmissions,108
+25/05/2022,England,NewAdmissions,475
+25/05/2022,Northern Ireland,NewAdmissions,6
+26/05/2022,England,NewAdmissions,421
+26/05/2022,Northern Ireland,NewAdmissions,4
+26/05/2022,Wales,NewAdmissions,12
+26/05/2022,Scotland,NewAdmissions,70
+27/05/2022,Scotland,NewAdmissions,77
+27/05/2022,Northern Ireland,NewAdmissions,5
+27/05/2022,England,NewAdmissions,442
+27/05/2022,Wales,NewAdmissions,5
+28/05/2022,Wales,NewAdmissions,10
+28/05/2022,Scotland,NewAdmissions,60
+28/05/2022,Northern Ireland,NewAdmissions,6
+28/05/2022,England,NewAdmissions,382
+29/05/2022,England,NewAdmissions,428
+29/05/2022,Northern Ireland,NewAdmissions,3
+29/05/2022,Wales,NewAdmissions,7
+29/05/2022,Scotland,NewAdmissions,84
+30/05/2022,Scotland,NewAdmissions,105
+30/05/2022,England,NewAdmissions,465
+30/05/2022,Northern Ireland,NewAdmissions,6
+30/05/2022,Wales,NewAdmissions,1
+31/05/2022,Wales,NewAdmissions,9
+31/05/2022,Scotland,NewAdmissions,80
+31/05/2022,Northern Ireland,NewAdmissions,6
+31/05/2022,England,NewAdmissions,502
+01/06/2022,Northern Ireland,NewAdmissions,15
+01/06/2022,England,NewAdmissions,480
+01/06/2022,Wales,NewAdmissions,3
+01/06/2022,Scotland,NewAdmissions,89
+02/06/2022,Scotland,NewAdmissions,106
+02/06/2022,England,NewAdmissions,412
+02/06/2022,Northern Ireland,NewAdmissions,4
+02/06/2022,Wales,NewAdmissions,8
+03/06/2022,Wales,NewAdmissions,3
+03/06/2022,Scotland,NewAdmissions,91
+03/06/2022,England,NewAdmissions,404
+03/06/2022,Northern Ireland,NewAdmissions,9
+04/06/2022,Northern Ireland,NewAdmissions,8
+04/06/2022,England,NewAdmissions,443
+04/06/2022,Wales,NewAdmissions,7
+04/06/2022,Scotland,NewAdmissions,75
+05/06/2022,Scotland,NewAdmissions,96
+05/06/2022,Northern Ireland,NewAdmissions,12
+05/06/2022,England,NewAdmissions,531
+05/06/2022,Wales,NewAdmissions,5
+06/06/2022,Wales,NewAdmissions,4
+06/06/2022,Scotland,NewAdmissions,131
+06/06/2022,England,NewAdmissions,606
+06/06/2022,Northern Ireland,NewAdmissions,12
+07/06/2022,Northern Ireland,NewAdmissions,24
+07/06/2022,England,NewAdmissions,577
+07/06/2022,Wales,NewAdmissions,4
+07/06/2022,Scotland,NewAdmissions,124
+08/06/2022,Scotland,NewAdmissions,127
+08/06/2022,England,NewAdmissions,664
+08/06/2022,Northern Ireland,NewAdmissions,13
+08/06/2022,Wales,NewAdmissions,10
+09/06/2022,Wales,NewAdmissions,10
+09/06/2022,Scotland,NewAdmissions,127
+09/06/2022,England,NewAdmissions,627
+09/06/2022,Northern Ireland,NewAdmissions,15
+10/06/2022,Northern Ireland,NewAdmissions,18
+10/06/2022,England,NewAdmissions,589
+10/06/2022,Wales,NewAdmissions,11
+10/06/2022,Scotland,NewAdmissions,135
+11/06/2022,Scotland,NewAdmissions,95
+11/06/2022,Northern Ireland,NewAdmissions,18
+11/06/2022,England,NewAdmissions,583
+11/06/2022,Wales,NewAdmissions,9
+12/06/2022,Wales,NewAdmissions,11
+12/06/2022,Scotland,NewAdmissions,107
+12/06/2022,England,NewAdmissions,659
+12/06/2022,Northern Ireland,NewAdmissions,10
+13/06/2022,England,NewAdmissions,722
+13/06/2022,Northern Ireland,NewAdmissions,14
+13/06/2022,Wales,NewAdmissions,7
+13/06/2022,Scotland,NewAdmissions,144
+14/06/2022,Scotland,NewAdmissions,150
+14/06/2022,Northern Ireland,NewAdmissions,19
+14/06/2022,England,NewAdmissions,763
+14/06/2022,Wales,NewAdmissions,15
+15/06/2022,Wales,NewAdmissions,15
+15/06/2022,Scotland,NewAdmissions,157
+15/06/2022,England,NewAdmissions,842
+15/06/2022,Northern Ireland,NewAdmissions,24
+16/06/2022,Northern Ireland,NewAdmissions,21
+16/06/2022,England,NewAdmissions,822
+16/06/2022,Wales,NewAdmissions,11
+16/06/2022,Scotland,NewAdmissions,151
+17/06/2022,Scotland,NewAdmissions,155
+17/06/2022,Northern Ireland,NewAdmissions,16
+17/06/2022,England,NewAdmissions,829
+17/06/2022,Wales,NewAdmissions,13
+18/06/2022,Wales,NewAdmissions,17
+18/06/2022,Scotland,NewAdmissions,112
+18/06/2022,Northern Ireland,NewAdmissions,12
+18/06/2022,England,NewAdmissions,797
+19/06/2022,England,NewAdmissions,942
+19/06/2022,Northern Ireland,NewAdmissions,22
+19/06/2022,Wales,NewAdmissions,20
+19/06/2022,Scotland,NewAdmissions,105
+20/06/2022,Scotland,NewAdmissions,171
+20/06/2022,England,NewAdmissions,1055
+20/06/2022,Northern Ireland,NewAdmissions,21
+20/06/2022,Wales,NewAdmissions,9
+21/06/2022,Wales,NewAdmissions,13
+21/06/2022,Scotland,NewAdmissions,187
+21/06/2022,England,NewAdmissions,1155
+21/06/2022,Northern Ireland,NewAdmissions,36
+22/06/2022,England,NewAdmissions,1133
+22/06/2022,Northern Ireland,NewAdmissions,21
+22/06/2022,Wales,NewAdmissions,21
+22/06/2022,Scotland,NewAdmissions,178
+23/06/2022,Scotland,NewAdmissions,195
+23/06/2022,England,NewAdmissions,1210
+23/06/2022,Northern Ireland,NewAdmissions,27
+23/06/2022,Wales,NewAdmissions,27
+24/06/2022,Wales,NewAdmissions,18
+24/06/2022,Scotland,NewAdmissions,216
+24/06/2022,England,NewAdmissions,1072
+24/06/2022,Northern Ireland,NewAdmissions,35
+25/06/2022,England,NewAdmissions,1011
+25/06/2022,Northern Ireland,NewAdmissions,31
+25/06/2022,Wales,NewAdmissions,35
+25/06/2022,Scotland,NewAdmissions,160
+26/06/2022,Scotland,NewAdmissions,157
+26/06/2022,Northern Ireland,NewAdmissions,23
+26/06/2022,England,NewAdmissions,1276
+26/06/2022,Wales,NewAdmissions,23
+27/06/2022,Wales,NewAdmissions,8
+27/06/2022,Scotland,NewAdmissions,192
+27/06/2022,England,NewAdmissions,1438
+27/06/2022,Northern Ireland,NewAdmissions,30
+28/06/2022,Northern Ireland,NewAdmissions,24
+28/06/2022,England,NewAdmissions,1454
+28/06/2022,Wales,NewAdmissions,19
+28/06/2022,Scotland,NewAdmissions,226
+29/06/2022,Scotland,NewAdmissions,196
+29/06/2022,England,NewAdmissions,1572
+29/06/2022,Northern Ireland,NewAdmissions,38
+29/06/2022,Wales,NewAdmissions,35
+30/06/2022,Wales,NewAdmissions,23
+30/06/2022,Scotland,NewAdmissions,201
+30/06/2022,Northern Ireland,NewAdmissions,44
+30/06/2022,England,NewAdmissions,1596
+01/07/2022,England,NewAdmissions,1326
+01/07/2022,Northern Ireland,NewAdmissions,24
+01/07/2022,Wales,NewAdmissions,18
+01/07/2022,Scotland,NewAdmissions,185
+02/07/2022,Scotland,NewAdmissions,167
+02/07/2022,England,NewAdmissions,1374
+02/07/2022,Northern Ireland,NewAdmissions,40
+02/07/2022,Wales,NewAdmissions,15
+03/07/2022,Wales,NewAdmissions,16
+03/07/2022,Scotland,NewAdmissions,130
+03/07/2022,England,NewAdmissions,1795
+03/07/2022,Northern Ireland,NewAdmissions,40
+04/07/2022,Northern Ireland,NewAdmissions,39
+04/07/2022,England,NewAdmissions,1911
+04/07/2022,Wales,NewAdmissions,15
+04/07/2022,Scotland,NewAdmissions,197
+05/07/2022,Scotland,NewAdmissions,203
+05/07/2022,England,NewAdmissions,1926
+05/07/2022,Northern Ireland,NewAdmissions,41
+05/07/2022,Wales,NewAdmissions,12
+06/07/2022,Wales,NewAdmissions,21
+06/07/2022,Scotland,NewAdmissions,191
+06/07/2022,England,NewAdmissions,1945
+06/07/2022,Northern Ireland,NewAdmissions,42
+07/07/2022,Northern Ireland,NewAdmissions,33
+07/07/2022,England,NewAdmissions,1967
+07/07/2022,Wales,NewAdmissions,28
+07/07/2022,Scotland,NewAdmissions,209
+08/07/2022,Scotland,NewAdmissions,171
+08/07/2022,Northern Ireland,NewAdmissions,39
+08/07/2022,England,NewAdmissions,1696
+08/07/2022,Wales,NewAdmissions,23
+09/07/2022,Wales,NewAdmissions,24
+09/07/2022,Scotland,NewAdmissions,148
+09/07/2022,England,NewAdmissions,1601
+09/07/2022,Northern Ireland,NewAdmissions,36
+10/07/2022,Northern Ireland,NewAdmissions,44
+10/07/2022,England,NewAdmissions,1889
+10/07/2022,Wales,NewAdmissions,25
+10/07/2022,Scotland,NewAdmissions,117
+11/07/2022,Scotland,NewAdmissions,205
+11/07/2022,Northern Ireland,NewAdmissions,40
+11/07/2022,England,NewAdmissions,2005
+11/07/2022,Wales,NewAdmissions,15
+12/07/2022,Wales,NewAdmissions,28
+12/07/2022,Scotland,NewAdmissions,208
+12/07/2022,England,NewAdmissions,1945
+12/07/2022,Northern Ireland,NewAdmissions,31
+13/07/2022,Northern Ireland,NewAdmissions,30
+13/07/2022,England,NewAdmissions,1946
+13/07/2022,Wales,NewAdmissions,28
+13/07/2022,Scotland,NewAdmissions,175
+14/07/2022,Scotland,NewAdmissions,159
+14/07/2022,Northern Ireland,NewAdmissions,33
+14/07/2022,England,NewAdmissions,1839
+14/07/2022,Wales,NewAdmissions,28
+15/07/2022,Wales,NewAdmissions,24
+15/07/2022,Scotland,NewAdmissions,140
+15/07/2022,England,NewAdmissions,1487
+15/07/2022,Northern Ireland,NewAdmissions,35
+16/07/2022,England,NewAdmissions,1373
+16/07/2022,Northern Ireland,NewAdmissions,22
+16/07/2022,Wales,NewAdmissions,28
+16/07/2022,Scotland,NewAdmissions,118
+17/07/2022,Scotland,NewAdmissions,135
+17/07/2022,Northern Ireland,NewAdmissions,9
+17/07/2022,England,NewAdmissions,1694
+17/07/2022,Wales,NewAdmissions,22
+18/07/2022,Wales,NewAdmissions,12
+18/07/2022,Scotland,NewAdmissions,184
+18/07/2022,England,NewAdmissions,1754
+18/07/2022,Northern Ireland,NewAdmissions,43
+19/07/2022,Northern Ireland,NewAdmissions,34
+19/07/2022,England,NewAdmissions,1834
+19/07/2022,Wales,NewAdmissions,19
+19/07/2022,Scotland,NewAdmissions,158
+20/07/2022,Scotland,NewAdmissions,162
+20/07/2022,England,NewAdmissions,1715
+20/07/2022,Northern Ireland,NewAdmissions,34
+20/07/2022,Wales,NewAdmissions,26
+21/07/2022,Wales,NewAdmissions,25
+21/07/2022,Scotland,NewAdmissions,144
+21/07/2022,England,NewAdmissions,1550
+21/07/2022,Northern Ireland,NewAdmissions,26
+22/07/2022,England,NewAdmissions,1231
+22/07/2022,Northern Ireland,NewAdmissions,24
+22/07/2022,Wales,NewAdmissions,24
+22/07/2022,Scotland,NewAdmissions,142
+23/07/2022,Scotland,NewAdmissions,127
+23/07/2022,England,NewAdmissions,1139
+23/07/2022,Northern Ireland,NewAdmissions,15
+23/07/2022,Wales,NewAdmissions,29
+24/07/2022,Wales,NewAdmissions,19
+24/07/2022,Scotland,NewAdmissions,100
+24/07/2022,England,NewAdmissions,1307
+24/07/2022,Northern Ireland,NewAdmissions,17
+25/07/2022,England,NewAdmissions,1345
+25/07/2022,Northern Ireland,NewAdmissions,23
+25/07/2022,Wales,NewAdmissions,11
+25/07/2022,Scotland,NewAdmissions,136
+26/07/2022,Scotland,NewAdmissions,116
+26/07/2022,England,NewAdmissions,1318
+26/07/2022,Northern Ireland,NewAdmissions,16
+26/07/2022,Wales,NewAdmissions,17
+27/07/2022,Wales,NewAdmissions,21
+27/07/2022,Scotland,NewAdmissions,128
+27/07/2022,England,NewAdmissions,1197
+27/07/2022,Northern Ireland,NewAdmissions,17
+28/07/2022,England,NewAdmissions,1165
+28/07/2022,Northern Ireland,NewAdmissions,11
+28/07/2022,Wales,NewAdmissions,18
+28/07/2022,Scotland,NewAdmissions,128
+29/07/2022,England,NewAdmissions,996
+29/07/2022,Scotland,NewAdmissions,107
+29/07/2022,Northern Ireland,NewAdmissions,13
+29/07/2022,Wales,NewAdmissions,20
+30/07/2022,Wales,NewAdmissions,15
+30/07/2022,Scotland,NewAdmissions,79
+30/07/2022,Northern Ireland,NewAdmissions,17
+30/07/2022,England,NewAdmissions,936
+31/07/2022,England,NewAdmissions,1138
+31/07/2022,Northern Ireland,NewAdmissions,16
+31/07/2022,Scotland,NewAdmissions,79
+31/07/2022,Wales,NewAdmissions,10
+01/08/2022,Wales,NewAdmissions,13
+01/08/2022,Scotland,NewAdmissions,108
+01/08/2022,England,NewAdmissions,1120
+01/08/2022,Northern Ireland,NewAdmissions,12
+02/08/2022,Scotland,NewAdmissions,107
+02/08/2022,Northern Ireland,NewAdmissions,12
+02/08/2022,England,NewAdmissions,1062
+02/08/2022,Wales,NewAdmissions,18
+03/08/2022,Wales,NewAdmissions,21
+03/08/2022,England,NewAdmissions,1059
+03/08/2022,Northern Ireland,NewAdmissions,18
+03/08/2022,Scotland,NewAdmissions,94
+04/08/2022,Northern Ireland,NewAdmissions,14
+04/08/2022,Scotland,NewAdmissions,87
+04/08/2022,England,NewAdmissions,1017
+04/08/2022,Wales,NewAdmissions,9
+05/08/2022,Wales,NewAdmissions,20
+05/08/2022,England,NewAdmissions,910
+05/08/2022,Scotland,NewAdmissions,75
+05/08/2022,Northern Ireland,NewAdmissions,12
+06/08/2022,Northern Ireland,NewAdmissions,13
+06/08/2022,Scotland,NewAdmissions,47
+06/08/2022,England,NewAdmissions,775
+06/08/2022,Wales,NewAdmissions,13
+07/08/2022,Wales,NewAdmissions,15
+07/08/2022,Northern Ireland,NewAdmissions,9
+07/08/2022,England,NewAdmissions,899
+07/08/2022,Scotland,NewAdmissions,62
+08/08/2022,Scotland,NewAdmissions,85
+08/08/2022,Northern Ireland,NewAdmissions,13
+08/08/2022,England,NewAdmissions,975
+08/08/2022,Wales,NewAdmissions,15
+09/08/2022,Wales,NewAdmissions,13
+09/08/2022,Northern Ireland,NewAdmissions,11
+09/08/2022,England,NewAdmissions,973
+09/08/2022,Scotland,NewAdmissions,88
+10/08/2022,Scotland,NewAdmissions,89
+10/08/2022,Northern Ireland,NewAdmissions,14
+10/08/2022,England,NewAdmissions,1009
+10/08/2022,Wales,NewAdmissions,15
+11/08/2022,Wales,NewAdmissions,17
+11/08/2022,Northern Ireland,NewAdmissions,21
+11/08/2022,Scotland,NewAdmissions,77
+11/08/2022,England,NewAdmissions,901
+12/08/2022,England,NewAdmissions,740
+12/08/2022,Northern Ireland,NewAdmissions,14
+12/08/2022,Scotland,NewAdmissions,94
+12/08/2022,Wales,NewAdmissions,19
+13/08/2022,Wales,NewAdmissions,14
+13/08/2022,Scotland,NewAdmissions,56
+13/08/2022,England,NewAdmissions,762
+13/08/2022,Northern Ireland,NewAdmissions,10
+14/08/2022,Northern Ireland,NewAdmissions,10
+14/08/2022,Scotland,NewAdmissions,54
+14/08/2022,England,NewAdmissions,759
+14/08/2022,Wales,NewAdmissions,15
+15/08/2022,Wales,NewAdmissions,8
+15/08/2022,England,NewAdmissions,861
+15/08/2022,Northern Ireland,NewAdmissions,13
+15/08/2022,Scotland,NewAdmissions,91
+16/08/2022,England,NewAdmissions,818
+16/08/2022,Scotland,NewAdmissions,67
+16/08/2022,Northern Ireland,NewAdmissions,10
+16/08/2022,Wales,NewAdmissions,10
+17/08/2022,Wales,NewAdmissions,15
+17/08/2022,Northern Ireland,NewAdmissions,4
+17/08/2022,Scotland,NewAdmissions,58
+17/08/2022,England,NewAdmissions,788
+18/08/2022,Scotland,NewAdmissions,57
+18/08/2022,England,NewAdmissions,692
+18/08/2022,Northern Ireland,NewAdmissions,9
+18/08/2022,Wales,NewAdmissions,12
+19/08/2022,Wales,NewAdmissions,5
+19/08/2022,Scotland,NewAdmissions,74
+19/08/2022,England,NewAdmissions,648
+19/08/2022,Northern Ireland,NewAdmissions,12
+20/08/2022,Northern Ireland,NewAdmissions,7
+20/08/2022,Scotland,NewAdmissions,35
+20/08/2022,England,NewAdmissions,585
+20/08/2022,Wales,NewAdmissions,12
+21/08/2022,Wales,NewAdmissions,6
+21/08/2022,England,NewAdmissions,605
+21/08/2022,Scotland,NewAdmissions,52
+21/08/2022,Northern Ireland,NewAdmissions,9
+22/08/2022,Northern Ireland,NewAdmissions,9
+22/08/2022,England,NewAdmissions,670
+22/08/2022,Scotland,NewAdmissions,69
+22/08/2022,Wales,NewAdmissions,3
+23/08/2022,Wales,NewAdmissions,10
+23/08/2022,England,NewAdmissions,707
+23/08/2022,Scotland,NewAdmissions,67
+23/08/2022,Northern Ireland,NewAdmissions,7
+24/08/2022,Northern Ireland,NewAdmissions,8
+24/08/2022,Scotland,NewAdmissions,71
+24/08/2022,England,NewAdmissions,643
+24/08/2022,Wales,NewAdmissions,9
+25/08/2022,Wales,NewAdmissions,6
+25/08/2022,Northern Ireland,NewAdmissions,17
+25/08/2022,Scotland,NewAdmissions,74
+25/08/2022,England,NewAdmissions,646
+26/08/2022,Northern Ireland,NewAdmissions,9
+26/08/2022,England,NewAdmissions,512
+26/08/2022,Scotland,NewAdmissions,49
+26/08/2022,Wales,NewAdmissions,6
+27/08/2022,Wales,NewAdmissions,3
+27/08/2022,England,NewAdmissions,475
+27/08/2022,Northern Ireland,NewAdmissions,8
+27/08/2022,Scotland,NewAdmissions,40
+28/08/2022,England,NewAdmissions,539
+28/08/2022,Scotland,NewAdmissions,50
+28/08/2022,Northern Ireland,NewAdmissions,8
+28/08/2022,Wales,NewAdmissions,5
+29/08/2022,Wales,NewAdmissions,2
+29/08/2022,England,NewAdmissions,602
+29/08/2022,Northern Ireland,NewAdmissions,9
+29/08/2022,Scotland,NewAdmissions,63
+30/08/2022,England,NewAdmissions,612
+30/08/2022,Scotland,NewAdmissions,53
+30/08/2022,Northern Ireland,NewAdmissions,5
+30/08/2022,Wales,NewAdmissions,4
+31/08/2022,Wales,NewAdmissions,4
+31/08/2022,England,NewAdmissions,580
+31/08/2022,Northern Ireland,NewAdmissions,6
+31/08/2022,Scotland,NewAdmissions,58
+01/09/2022,England,NewAdmissions,534
+01/09/2022,Scotland,NewAdmissions,60
+01/09/2022,Northern Ireland,NewAdmissions,17
+01/09/2022,Wales,NewAdmissions,5
+02/09/2022,Wales,NewAdmissions,5
+02/09/2022,Northern Ireland,NewAdmissions,9
+02/09/2022,Scotland,NewAdmissions,68
+02/09/2022,England,NewAdmissions,466
+03/09/2022,Northern Ireland,NewAdmissions,6
+03/09/2022,England,NewAdmissions,439
+03/09/2022,Scotland,NewAdmissions,45
+03/09/2022,Wales,NewAdmissions,9
+04/09/2022,Wales,NewAdmissions,7
+04/09/2022,Scotland,NewAdmissions,51
+04/09/2022,Northern Ireland,NewAdmissions,5
+04/09/2022,England,NewAdmissions,471
+05/09/2022,Northern Ireland,NewAdmissions,14
+05/09/2022,Scotland,NewAdmissions,72
+05/09/2022,England,NewAdmissions,526
+05/09/2022,Wales,NewAdmissions,7
+06/09/2022,Wales,NewAdmissions,7
+06/09/2022,England,NewAdmissions,537
+06/09/2022,Scotland,NewAdmissions,76
+06/09/2022,Northern Ireland,NewAdmissions,15
+07/09/2022,Scotland,NewAdmissions,51
+07/09/2022,England,NewAdmissions,541
+07/09/2022,Northern Ireland,NewAdmissions,10
+07/09/2022,Wales,NewAdmissions,6
+08/09/2022,Wales,NewAdmissions,7
+08/09/2022,Northern Ireland,NewAdmissions,11
+08/09/2022,Scotland,NewAdmissions,62
+08/09/2022,England,NewAdmissions,508
+09/09/2022,Northern Ireland,NewAdmissions,8
+09/09/2022,Scotland,NewAdmissions,50
+09/09/2022,England,NewAdmissions,422
+09/09/2022,Wales,NewAdmissions,10
+10/09/2022,Wales,NewAdmissions,10
+10/09/2022,Scotland,NewAdmissions,29
+10/09/2022,England,NewAdmissions,408
+10/09/2022,Northern Ireland,NewAdmissions,4
+11/09/2022,Northern Ireland,NewAdmissions,6
+11/09/2022,Scotland,NewAdmissions,30
+11/09/2022,England,NewAdmissions,499
+11/09/2022,Wales,NewAdmissions,8
+12/09/2022,Wales,NewAdmissions,2
+12/09/2022,England,NewAdmissions,519
+12/09/2022,Northern Ireland,NewAdmissions,6
+13/09/2022,Northern Ireland,NewAdmissions,8
+13/09/2022,England,NewAdmissions,580
+13/09/2022,Wales,NewAdmissions,8
+14/09/2022,Wales,NewAdmissions,8
+14/09/2022,England,NewAdmissions,586
+14/09/2022,Northern Ireland,NewAdmissions,10
+15/09/2022,Northern Ireland,NewAdmissions,9
+15/09/2022,England,NewAdmissions,553
+15/09/2022,Wales,NewAdmissions,9
+16/09/2022,Wales,NewAdmissions,14
+16/09/2022,England,NewAdmissions,476
+16/09/2022,Northern Ireland,NewAdmissions,10
+17/09/2022,England,NewAdmissions,484
+17/09/2022,Northern Ireland,NewAdmissions,7
+17/09/2022,Wales,NewAdmissions,14
+18/09/2022,Wales,NewAdmissions,10
+18/09/2022,Northern Ireland,NewAdmissions,13
+18/09/2022,England,NewAdmissions,555
+19/09/2022,Northern Ireland,NewAdmissions,11
+19/09/2022,England,NewAdmissions,781
+19/09/2022,Wales,NewAdmissions,3
+20/09/2022,Wales,NewAdmissions,12
+20/09/2022,England,NewAdmissions,826
+20/09/2022,Northern Ireland,NewAdmissions,10
+21/09/2022,Northern Ireland,NewAdmissions,10
+21/09/2022,England,NewAdmissions,858
+21/09/2022,Wales,NewAdmissions,5
+22/09/2022,Wales,NewAdmissions,8
+22/09/2022,Northern Ireland,NewAdmissions,12
+22/09/2022,England,NewAdmissions,846
+23/09/2022,Northern Ireland,NewAdmissions,17
+23/09/2022,England,NewAdmissions,704
+23/09/2022,Wales,NewAdmissions,10
+24/09/2022,Wales,NewAdmissions,7
+24/09/2022,England,NewAdmissions,727
+24/09/2022,Northern Ireland,NewAdmissions,12
+25/09/2022,Northern Ireland,NewAdmissions,8
+25/09/2022,England,NewAdmissions,971
+25/09/2022,Wales,NewAdmissions,7
+26/09/2022,Wales,NewAdmissions,3
+26/09/2022,Northern Ireland,NewAdmissions,19
+26/09/2022,England,NewAdmissions,998
+27/09/2022,England,NewAdmissions,1045
+27/09/2022,Northern Ireland,NewAdmissions,11
+27/09/2022,Wales,NewAdmissions,8
+28/09/2022,Wales,NewAdmissions,21
+28/09/2022,Northern Ireland,NewAdmissions,13
+28/09/2022,England,NewAdmissions,1134
+29/09/2022,Northern Ireland,NewAdmissions,17
+29/09/2022,England,NewAdmissions,1158
+29/09/2022,Wales,NewAdmissions,12
+30/09/2022,Wales,NewAdmissions,22
+30/09/2022,Northern Ireland,NewAdmissions,15
+30/09/2022,England,NewAdmissions,870
+01/10/2022,England,NewAdmissions,1091
+01/10/2022,Northern Ireland,NewAdmissions,16
+01/10/2022,Wales,NewAdmissions,21
+02/10/2022,Wales,NewAdmissions,17
+02/10/2022,Northern Ireland,NewAdmissions,9
+02/10/2022,England,NewAdmissions,1262
+03/10/2022,Northern Ireland,NewAdmissions,17
+03/10/2022,England,NewAdmissions,1344
+03/10/2022,Wales,NewAdmissions,9
+04/10/2022,Wales,NewAdmissions,26
+04/10/2022,England,NewAdmissions,1418
+04/10/2022,Northern Ireland,NewAdmissions,23
+05/10/2022,Northern Ireland,NewAdmissions,23
+05/10/2022,England,NewAdmissions,1259
+05/10/2022,Wales,NewAdmissions,16
+06/10/2022,Wales,NewAdmissions,24
+06/10/2022,England,NewAdmissions,1163
+06/10/2022,Northern Ireland,NewAdmissions,20
+07/10/2022,England,NewAdmissions,946
+07/10/2022,Northern Ireland,NewAdmissions,18
+07/10/2022,Wales,NewAdmissions,27
+08/10/2022,Wales,NewAdmissions,20
+08/10/2022,England,NewAdmissions,885
+08/10/2022,Northern Ireland,NewAdmissions,25
+09/10/2022,England,NewAdmissions,1252
+09/10/2022,Northern Ireland,NewAdmissions,14
+09/10/2022,Wales,NewAdmissions,9
+10/10/2022,Wales,NewAdmissions,15
+10/10/2022,England,NewAdmissions,1275
+10/10/2022,Northern Ireland,NewAdmissions,13
+11/10/2022,England,NewAdmissions,1207
+11/10/2022,Northern Ireland,NewAdmissions,18
+11/10/2022,Wales,NewAdmissions,19
+12/10/2022,Wales,NewAdmissions,26
+12/10/2022,England,NewAdmissions,1150
+12/10/2022,Northern Ireland,NewAdmissions,16
+13/10/2022,Northern Ireland,NewAdmissions,12
+13/10/2022,England,NewAdmissions,1247
+13/10/2022,Wales,NewAdmissions,18
+14/10/2022,Wales,NewAdmissions,10
+14/10/2022,England,NewAdmissions,978
+14/10/2022,Northern Ireland,NewAdmissions,18
+15/10/2022,Northern Ireland,NewAdmissions,21
+15/10/2022,England,NewAdmissions,900
+15/10/2022,Wales,NewAdmissions,25
+16/10/2022,Wales,NewAdmissions,17
+16/10/2022,Northern Ireland,NewAdmissions,10
+16/10/2022,England,NewAdmissions,1206
+17/10/2022,Northern Ireland,NewAdmissions,20
+17/10/2022,England,NewAdmissions,1121
+17/10/2022,Wales,NewAdmissions,8
+18/10/2022,Wales,NewAdmissions,15
+18/10/2022,England,NewAdmissions,1101
+18/10/2022,Northern Ireland,NewAdmissions,16
+19/10/2022,England,NewAdmissions,1064
+19/10/2022,Northern Ireland,NewAdmissions,15
+19/10/2022,Wales,NewAdmissions,10
+20/10/2022,Wales,NewAdmissions,15
+20/10/2022,Northern Ireland,NewAdmissions,17
+20/10/2022,England,NewAdmissions,1053
+21/10/2022,England,NewAdmissions,831
+21/10/2022,Northern Ireland,NewAdmissions,21
+21/10/2022,Wales,NewAdmissions,16
+22/10/2022,Wales,NewAdmissions,11
+22/10/2022,England,NewAdmissions,785
+22/10/2022,Northern Ireland,NewAdmissions,20
+23/10/2022,England,NewAdmissions,884
+23/10/2022,Northern Ireland,NewAdmissions,12
+23/10/2022,Wales,NewAdmissions,8
+24/10/2022,Wales,NewAdmissions,7
+24/10/2022,England,NewAdmissions,870
+24/10/2022,Northern Ireland,NewAdmissions,17
+25/10/2022,Northern Ireland,NewAdmissions,14
+25/10/2022,England,NewAdmissions,863
+25/10/2022,Wales,NewAdmissions,15
+26/10/2022,Wales,NewAdmissions,11
+26/10/2022,England,NewAdmissions,857
+26/10/2022,Northern Ireland,NewAdmissions,19
+27/10/2022,Northern Ireland,NewAdmissions,12
+27/10/2022,England,NewAdmissions,773
+27/10/2022,Wales,NewAdmissions,15
+28/10/2022,Wales,NewAdmissions,19
+28/10/2022,England,NewAdmissions,558
+28/10/2022,Northern Ireland,NewAdmissions,11
+29/10/2022,Northern Ireland,NewAdmissions,15
+29/10/2022,England,NewAdmissions,518
+29/10/2022,Wales,NewAdmissions,18
+30/10/2022,Wales,NewAdmissions,9
+30/10/2022,England,NewAdmissions,640
+30/10/2022,Northern Ireland,NewAdmissions,7
+31/10/2022,England,NewAdmissions,630
+31/10/2022,Northern Ireland,NewAdmissions,12
+31/10/2022,Wales,NewAdmissions,6
+01/11/2022,Wales,NewAdmissions,9
+01/11/2022,Northern Ireland,NewAdmissions,15
+01/11/2022,England,NewAdmissions,689
+02/11/2022,England,NewAdmissions,571
+02/11/2022,Northern Ireland,NewAdmissions,7
+02/11/2022,Wales,NewAdmissions,8
+03/11/2022,Wales,NewAdmissions,16
+03/11/2022,Northern Ireland,NewAdmissions,10
+03/11/2022,England,NewAdmissions,568
+04/11/2022,Northern Ireland,NewAdmissions,14
+04/11/2022,England,NewAdmissions,410
+04/11/2022,Wales,NewAdmissions,13
+05/11/2022,Wales,NewAdmissions,8
+05/11/2022,Northern Ireland,NewAdmissions,5
+05/11/2022,England,NewAdmissions,396
+06/11/2022,England,NewAdmissions,500
+06/11/2022,Northern Ireland,NewAdmissions,9
+06/11/2022,Wales,NewAdmissions,11
+07/11/2022,Wales,NewAdmissions,6
+07/11/2022,Northern Ireland,NewAdmissions,10
+07/11/2022,England,NewAdmissions,598
+08/11/2022,England,NewAdmissions,550
+08/11/2022,Northern Ireland,NewAdmissions,14
+08/11/2022,Wales,NewAdmissions,8
+09/11/2022,Wales,NewAdmissions,10
+09/11/2022,England,NewAdmissions,535
+09/11/2022,Northern Ireland,NewAdmissions,13
+10/11/2022,England,NewAdmissions,550
+10/11/2022,Northern Ireland,NewAdmissions,10
+10/11/2022,Wales,NewAdmissions,7
+11/11/2022,Wales,NewAdmissions,7
+11/11/2022,Northern Ireland,NewAdmissions,12
+11/11/2022,England,NewAdmissions,435
+12/11/2022,England,NewAdmissions,370
+12/11/2022,Northern Ireland,NewAdmissions,13
+12/11/2022,Wales,NewAdmissions,6
+13/11/2022,Wales,NewAdmissions,3
+13/11/2022,England,NewAdmissions,445
+13/11/2022,Northern Ireland,NewAdmissions,9
+14/11/2022,Northern Ireland,NewAdmissions,6
+14/11/2022,England,NewAdmissions,522
+14/11/2022,Wales,NewAdmissions,3
+15/11/2022,Wales,NewAdmissions,6
+15/11/2022,Northern Ireland,NewAdmissions,9
+15/11/2022,England,NewAdmissions,494
+16/11/2022,England,NewAdmissions,542
+16/11/2022,Northern Ireland,NewAdmissions,4
+16/11/2022,Wales,NewAdmissions,6
+17/11/2022,Wales,NewAdmissions,6
+17/11/2022,England,NewAdmissions,516
+17/11/2022,Northern Ireland,NewAdmissions,11
+18/11/2022,Northern Ireland,NewAdmissions,12
+18/11/2022,England,NewAdmissions,437
+18/11/2022,Wales,NewAdmissions,7
+19/11/2022,Wales,NewAdmissions,7
+19/11/2022,Northern Ireland,NewAdmissions,11
+19/11/2022,England,NewAdmissions,395
+20/11/2022,England,NewAdmissions,434
+20/11/2022,Northern Ireland,NewAdmissions,7
+20/11/2022,Wales,NewAdmissions,5
+21/11/2022,Wales,NewAdmissions,3
+21/11/2022,England,NewAdmissions,503
+21/11/2022,Northern Ireland,NewAdmissions,10
+22/11/2022,England,NewAdmissions,547
+22/11/2022,Northern Ireland,NewAdmissions,17
+22/11/2022,Wales,NewAdmissions,7
+23/11/2022,Wales,NewAdmissions,8
+23/11/2022,Northern Ireland,NewAdmissions,10
+23/11/2022,England,NewAdmissions,536
+24/11/2022,England,NewAdmissions,522
+24/11/2022,Northern Ireland,NewAdmissions,11
+24/11/2022,Wales,NewAdmissions,7
+25/11/2022,Wales,NewAdmissions,5
+25/11/2022,England,NewAdmissions,443
+25/11/2022,Northern Ireland,NewAdmissions,7
+26/11/2022,Northern Ireland,NewAdmissions,8
+26/11/2022,England,NewAdmissions,438
+26/11/2022,Wales,NewAdmissions,3
+27/11/2022,Wales,NewAdmissions,7
+27/11/2022,Northern Ireland,NewAdmissions,8
+27/11/2022,England,NewAdmissions,557
+28/11/2022,Northern Ireland,NewAdmissions,9
+28/11/2022,England,NewAdmissions,639
+28/11/2022,Wales,NewAdmissions,6
+29/11/2022,Wales,NewAdmissions,4
+29/11/2022,Northern Ireland,NewAdmissions,9
+29/11/2022,England,NewAdmissions,661
+30/11/2022,Northern Ireland,NewAdmissions,10
+30/11/2022,England,NewAdmissions,590
+30/11/2022,Wales,NewAdmissions,4
+01/12/2022,Wales,NewAdmissions,2
+01/12/2022,England,NewAdmissions,583
+01/12/2022,Northern Ireland,NewAdmissions,13
+02/12/2022,England,NewAdmissions,468
+02/12/2022,Northern Ireland,NewAdmissions,6
+02/12/2022,Wales,NewAdmissions,12
+03/12/2022,Wales,NewAdmissions,3
+03/12/2022,England,NewAdmissions,498
+03/12/2022,Northern Ireland,NewAdmissions,5
+04/12/2022,England,NewAdmissions,589
+04/12/2022,Northern Ireland,NewAdmissions,7
+04/12/2022,Wales,NewAdmissions,7
+05/12/2022,Wales,NewAdmissions,5
+05/12/2022,England,NewAdmissions,724
+05/12/2022,Northern Ireland,NewAdmissions,5
+06/12/2022,England,NewAdmissions,779
+06/12/2022,Northern Ireland,NewAdmissions,8
+06/12/2022,Wales,NewAdmissions,18
+07/12/2022,Wales,NewAdmissions,11
+07/12/2022,Northern Ireland,NewAdmissions,12
+07/12/2022,England,NewAdmissions,748
+08/12/2022,England,NewAdmissions,697
+08/12/2022,Northern Ireland,NewAdmissions,11
+08/12/2022,Wales,NewAdmissions,16
+09/12/2022,Wales,NewAdmissions,8
+09/12/2022,England,NewAdmissions,607
+09/12/2022,Northern Ireland,NewAdmissions,9
+10/12/2022,England,NewAdmissions,582
+10/12/2022,Northern Ireland,NewAdmissions,12
+10/12/2022,Wales,NewAdmissions,8
+11/12/2022,Wales,NewAdmissions,8
+11/12/2022,Northern Ireland,NewAdmissions,12
+11/12/2022,England,NewAdmissions,872
+12/12/2022,England,NewAdmissions,965
+12/12/2022,Northern Ireland,NewAdmissions,17
+12/12/2022,Wales,NewAdmissions,11
+13/12/2022,Wales,NewAdmissions,16
+13/12/2022,England,NewAdmissions,1026
+13/12/2022,Northern Ireland,NewAdmissions,21
+14/12/2022,Northern Ireland,NewAdmissions,16
+14/12/2022,England,NewAdmissions,963
+14/12/2022,Wales,NewAdmissions,7
+15/12/2022,Wales,NewAdmissions,15
+15/12/2022,England,NewAdmissions,1064
+15/12/2022,Northern Ireland,NewAdmissions,20
+16/12/2022,England,NewAdmissions,834
+16/12/2022,Northern Ireland,NewAdmissions,22
+16/12/2022,Wales,NewAdmissions,7
+17/12/2022,Wales,NewAdmissions,12
+17/12/2022,England,NewAdmissions,799
+17/12/2022,Northern Ireland,NewAdmissions,14
+18/12/2022,Northern Ireland,NewAdmissions,21
+18/12/2022,England,NewAdmissions,1176
+18/12/2022,Wales,NewAdmissions,6
+19/12/2022,Wales,NewAdmissions,10
+19/12/2022,Northern Ireland,NewAdmissions,26
+19/12/2022,England,NewAdmissions,1296
+20/12/2022,Northern Ireland,NewAdmissions,18
+20/12/2022,England,NewAdmissions,1376
+20/12/2022,Wales,NewAdmissions,22
+21/12/2022,Wales,NewAdmissions,18
+21/12/2022,England,NewAdmissions,1293
+21/12/2022,Northern Ireland,NewAdmissions,23
+22/12/2022,Northern Ireland,NewAdmissions,21
+22/12/2022,England,NewAdmissions,1236
+22/12/2022,Wales,NewAdmissions,23
+23/12/2022,Wales,NewAdmissions,25
+23/12/2022,Northern Ireland,NewAdmissions,25
+23/12/2022,England,NewAdmissions,899
+24/12/2022,England,NewAdmissions,780
+24/12/2022,Northern Ireland,NewAdmissions,23
+24/12/2022,Wales,NewAdmissions,24
+25/12/2022,Wales,NewAdmissions,15
+25/12/2022,England,NewAdmissions,844
+25/12/2022,Northern Ireland,NewAdmissions,15
+26/12/2022,England,NewAdmissions,988
+26/12/2022,Northern Ireland,NewAdmissions,30
+26/12/2022,Wales,NewAdmissions,10
+27/12/2022,Wales,NewAdmissions,9
+27/12/2022,Northern Ireland,NewAdmissions,32
+27/12/2022,England,NewAdmissions,1134
+28/12/2022,England,NewAdmissions,1245
+28/12/2022,Northern Ireland,NewAdmissions,37
+28/12/2022,Wales,NewAdmissions,11
+29/12/2022,Wales,NewAdmissions,24
+29/12/2022,England,NewAdmissions,1225
+29/12/2022,Northern Ireland,NewAdmissions,31
+30/12/2022,Northern Ireland,NewAdmissions,44
+30/12/2022,England,NewAdmissions,940
+30/12/2022,Wales,NewAdmissions,21
+31/12/2022,Wales,NewAdmissions,10
+31/12/2022,England,NewAdmissions,723
+31/12/2022,Northern Ireland,NewAdmissions,37
+01/01/2023,England,NewAdmissions,784
+01/01/2023,Northern Ireland,NewAdmissions,28
+01/01/2023,Wales,NewAdmissions,16
+02/01/2023,Wales,NewAdmissions,14
+02/01/2023,England,NewAdmissions,916
+02/01/2023,Northern Ireland,NewAdmissions,24
+03/01/2023,Northern Ireland,NewAdmissions,19
+03/01/2023,England,NewAdmissions,992
+03/01/2023,Wales,NewAdmissions,11
+04/01/2023,Wales,NewAdmissions,23
+04/01/2023,England,NewAdmissions,922
+04/01/2023,Northern Ireland,NewAdmissions,33
+05/01/2023,Northern Ireland,NewAdmissions,24
+05/01/2023,England,NewAdmissions,899
+05/01/2023,Wales,NewAdmissions,15
+06/01/2023,Wales,NewAdmissions,17
+06/01/2023,England,NewAdmissions,705
+06/01/2023,Northern Ireland,NewAdmissions,22
+07/01/2023,Northern Ireland,NewAdmissions,20
+07/01/2023,England,NewAdmissions,628
+07/01/2023,Wales,NewAdmissions,11
+08/01/2023,Wales,NewAdmissions,11
+08/01/2023,Northern Ireland,NewAdmissions,11
+08/01/2023,England,NewAdmissions,776
+09/01/2023,England,NewAdmissions,737
+09/01/2023,Wales,NewAdmissions,13
+09/01/2023,Northern Ireland,NewAdmissions,24
+10/01/2023,Northern Ireland,NewAdmissions,18
+10/01/2023,England,NewAdmissions,661
+10/01/2023,Wales,NewAdmissions,11
+11/01/2023,Wales,NewAdmissions,14
+11/01/2023,Northern Ireland,NewAdmissions,12
+11/01/2023,England,NewAdmissions,692
+12/01/2023,England,NewAdmissions,664
+12/01/2023,Wales,NewAdmissions,15
+12/01/2023,Northern Ireland,NewAdmissions,17
+13/01/2023,Northern Ireland,NewAdmissions,18
+13/01/2023,England,NewAdmissions,510
+13/01/2023,Wales,NewAdmissions,8
+14/01/2023,Wales,NewAdmissions,4
+14/01/2023,Northern Ireland,NewAdmissions,14
+14/01/2023,England,NewAdmissions,417
+15/01/2023,England,NewAdmissions,567
+15/01/2023,Wales,NewAdmissions,6
+15/01/2023,Northern Ireland,NewAdmissions,11
+16/01/2023,Northern Ireland,NewAdmissions,13
+16/01/2023,England,NewAdmissions,599
+16/01/2023,Wales,NewAdmissions,2
+17/01/2023,Wales,NewAdmissions,11
+17/01/2023,Northern Ireland,NewAdmissions,13
+17/01/2023,England,NewAdmissions,565
+18/01/2023,England,NewAdmissions,595
+18/01/2023,Wales,NewAdmissions,2
+18/01/2023,Northern Ireland,NewAdmissions,9
+19/01/2023,Northern Ireland,NewAdmissions,5
+19/01/2023,England,NewAdmissions,618
+19/01/2023,Wales,NewAdmissions,8
+20/01/2023,Wales,NewAdmissions,4
+20/01/2023,Northern Ireland,NewAdmissions,7
+20/01/2023,England,NewAdmissions,447
+21/01/2023,England,NewAdmissions,493
+21/01/2023,Wales,NewAdmissions,6
+21/01/2023,Northern Ireland,NewAdmissions,4
+22/01/2023,Northern Ireland,NewAdmissions,3
+22/01/2023,England,NewAdmissions,590
+22/01/2023,Wales,NewAdmissions,3
+23/01/2023,Wales,NewAdmissions,3
+23/01/2023,Northern Ireland,NewAdmissions,5
+23/01/2023,England,NewAdmissions,617
+24/01/2023,England,NewAdmissions,695
+24/01/2023,Wales,NewAdmissions,0
+24/01/2023,Northern Ireland,NewAdmissions,7
+25/01/2023,Northern Ireland,NewAdmissions,8
+25/01/2023,England,NewAdmissions,706
+25/01/2023,Wales,NewAdmissions,4
+26/01/2023,Wales,NewAdmissions,5
+26/01/2023,Northern Ireland,NewAdmissions,7
+26/01/2023,England,NewAdmissions,654
+27/01/2023,England,NewAdmissions,558
+27/01/2023,Wales,NewAdmissions,4
+27/01/2023,Northern Ireland,NewAdmissions,3
+28/01/2023,Northern Ireland,NewAdmissions,2
+28/01/2023,England,NewAdmissions,562
+28/01/2023,Wales,NewAdmissions,4
+29/01/2023,Wales,NewAdmissions,4
+29/01/2023,Northern Ireland,NewAdmissions,5
+29/01/2023,England,NewAdmissions,705
+30/01/2023,England,NewAdmissions,741
+30/01/2023,Wales,NewAdmissions,5
+30/01/2023,Northern Ireland,NewAdmissions,10
+31/01/2023,Northern Ireland,NewAdmissions,7
+31/01/2023,England,NewAdmissions,752
+31/01/2023,Wales,NewAdmissions,10
+01/02/2023,Wales,NewAdmissions,1
+01/02/2023,Northern Ireland,NewAdmissions,4
+01/02/2023,England,NewAdmissions,780
+02/02/2023,England,NewAdmissions,713
+02/02/2023,Wales,NewAdmissions,7
+02/02/2023,Northern Ireland,NewAdmissions,6
+03/02/2023,Northern Ireland,NewAdmissions,9
+03/02/2023,England,NewAdmissions,573
+03/02/2023,Wales,NewAdmissions,1
+04/02/2023,Wales,NewAdmissions,6
+04/02/2023,Northern Ireland,NewAdmissions,7
+04/02/2023,England,NewAdmissions,668
+05/02/2023,England,NewAdmissions,747
+05/02/2023,Wales,NewAdmissions,7
+05/02/2023,Northern Ireland,NewAdmissions,4
+06/02/2023,Northern Ireland,NewAdmissions,7
+06/02/2023,England,NewAdmissions,825
+06/02/2023,Wales,NewAdmissions,7
+07/02/2023,Wales,NewAdmissions,7
+07/02/2023,Northern Ireland,NewAdmissions,5
+07/02/2023,England,NewAdmissions,817
+08/02/2023,England,NewAdmissions,768
+08/02/2023,Wales,NewAdmissions,9
+08/02/2023,Northern Ireland,NewAdmissions,6
+09/02/2023,Northern Ireland,NewAdmissions,8
+09/02/2023,England,NewAdmissions,818
+09/02/2023,Wales,NewAdmissions,5
+10/02/2023,Wales,NewAdmissions,1
+10/02/2023,Northern Ireland,NewAdmissions,5
+10/02/2023,England,NewAdmissions,643
+11/02/2023,England,NewAdmissions,743
+11/02/2023,Wales,NewAdmissions,0
+11/02/2023,Northern Ireland,NewAdmissions,7
+12/02/2023,Northern Ireland,NewAdmissions,7
+12/02/2023,England,NewAdmissions,866
+12/02/2023,Wales,NewAdmissions,0
+13/02/2023,Wales,NewAdmissions,0
+13/02/2023,Northern Ireland,NewAdmissions,7
+13/02/2023,England,NewAdmissions,949
+14/02/2023,England,NewAdmissions,912
+14/02/2023,Wales,NewAdmissions,0
+14/02/2023,Northern Ireland,NewAdmissions,10
+15/02/2023,Northern Ireland,NewAdmissions,6
+15/02/2023,England,NewAdmissions,978
+15/02/2023,Wales,NewAdmissions,4
+16/02/2023,Wales,NewAdmissions,0
+16/02/2023,Northern Ireland,NewAdmissions,7
+16/02/2023,England,NewAdmissions,959
+17/02/2023,England,NewAdmissions,785
+17/02/2023,Wales,NewAdmissions,0
+17/02/2023,Northern Ireland,NewAdmissions,6
+18/02/2023,Northern Ireland,NewAdmissions,8
+18/02/2023,England,NewAdmissions,749
+18/02/2023,Wales,NewAdmissions,0
+19/02/2023,Wales,NewAdmissions,0
+19/02/2023,Northern Ireland,NewAdmissions,2
+19/02/2023,England,NewAdmissions,912
+20/02/2023,England,NewAdmissions,983
+20/02/2023,Wales,NewAdmissions,0
+20/02/2023,Northern Ireland,NewAdmissions,4
+21/02/2023,Northern Ireland,NewAdmissions,5
+21/02/2023,England,NewAdmissions,967
+21/02/2023,Wales,NewAdmissions,0
+22/02/2023,Wales,NewAdmissions,8
+22/02/2023,Northern Ireland,NewAdmissions,4
+22/02/2023,England,NewAdmissions,879
+23/02/2023,England,NewAdmissions,845
+23/02/2023,Wales,NewAdmissions,0
+23/02/2023,Northern Ireland,NewAdmissions,4
+24/02/2023,Northern Ireland,NewAdmissions,7
+24/02/2023,England,NewAdmissions,665
+24/02/2023,Wales,NewAdmissions,0
+25/02/2023,Wales,NewAdmissions,0
+25/02/2023,Northern Ireland,NewAdmissions,7
+25/02/2023,England,NewAdmissions,729
+26/02/2023,England,NewAdmissions,893
+26/02/2023,Wales,NewAdmissions,0
+26/02/2023,Northern Ireland,NewAdmissions,3
+27/02/2023,Northern Ireland,NewAdmissions,5
+27/02/2023,England,NewAdmissions,933
+27/02/2023,Wales,NewAdmissions,0
+28/02/2023,Wales,NewAdmissions,0
+28/02/2023,Northern Ireland,NewAdmissions,6
+28/02/2023,England,NewAdmissions,942
+01/03/2023,England,NewAdmissions,993
+01/03/2023,Wales,NewAdmissions,4
+01/03/2023,Northern Ireland,NewAdmissions,7
+02/03/2023,Northern Ireland,NewAdmissions,4
+02/03/2023,England,NewAdmissions,947
+02/03/2023,Wales,NewAdmissions,0
+03/03/2023,Wales,NewAdmissions,0
+03/03/2023,Northern Ireland,NewAdmissions,12
+03/03/2023,England,NewAdmissions,750
+04/03/2023,England,NewAdmissions,743
+04/03/2023,Wales,NewAdmissions,0
+04/03/2023,Northern Ireland,NewAdmissions,6
+05/03/2023,Northern Ireland,NewAdmissions,6
+05/03/2023,England,NewAdmissions,874
+05/03/2023,Wales,NewAdmissions,0
+06/03/2023,Wales,NewAdmissions,0
+06/03/2023,Northern Ireland,NewAdmissions,7
+06/03/2023,England,NewAdmissions,1039
+07/03/2023,England,NewAdmissions,1045
+07/03/2023,Wales,NewAdmissions,0
+07/03/2023,Northern Ireland,NewAdmissions,7
+08/03/2023,Northern Ireland,NewAdmissions,10
+08/03/2023,England,NewAdmissions,1122
+08/03/2023,Wales,NewAdmissions,7
+09/03/2023,Wales,NewAdmissions,0
+09/03/2023,Northern Ireland,NewAdmissions,8
+09/03/2023,England,NewAdmissions,978
+10/03/2023,England,NewAdmissions,783
+10/03/2023,Wales,NewAdmissions,0
+10/03/2023,Northern Ireland,NewAdmissions,8
+11/03/2023,Northern Ireland,NewAdmissions,7
+11/03/2023,England,NewAdmissions,870
+11/03/2023,Wales,NewAdmissions,0
+12/03/2023,Wales,NewAdmissions,0
+12/03/2023,Northern Ireland,NewAdmissions,4
+12/03/2023,England,NewAdmissions,1071
+13/03/2023,England,NewAdmissions,1189
+13/03/2023,Wales,NewAdmissions,0
+13/03/2023,Northern Ireland,NewAdmissions,10
+14/03/2023,Northern Ireland,NewAdmissions,10
+14/03/2023,England,NewAdmissions,1100
+14/03/2023,Wales,NewAdmissions,0
+15/03/2023,Wales,NewAdmissions,20
+15/03/2023,Northern Ireland,NewAdmissions,9
+15/03/2023,England,NewAdmissions,1011
+16/03/2023,England,NewAdmissions,1076
+16/03/2023,Wales,NewAdmissions,0
+16/03/2023,Northern Ireland,NewAdmissions,12
+17/03/2023,Northern Ireland,NewAdmissions,8
+17/03/2023,England,NewAdmissions,842
+17/03/2023,Wales,NewAdmissions,0
+18/03/2023,Wales,NewAdmissions,0
+18/03/2023,Northern Ireland,NewAdmissions,13
+18/03/2023,England,NewAdmissions,853
+19/03/2023,England,NewAdmissions,1049
+19/03/2023,Wales,NewAdmissions,0
+19/03/2023,Northern Ireland,NewAdmissions,13
+20/03/2023,Northern Ireland,NewAdmissions,14
+20/03/2023,England,NewAdmissions,1019
+20/03/2023,Wales,NewAdmissions,0
+21/03/2023,Wales,NewAdmissions,0
+21/03/2023,Northern Ireland,NewAdmissions,21
+21/03/2023,England,NewAdmissions,1065
+22/03/2023,England,NewAdmissions,1028
+22/03/2023,Wales,NewAdmissions,19
+22/03/2023,Northern Ireland,NewAdmissions,11
+23/03/2023,Northern Ireland,NewAdmissions,19
+23/03/2023,England,NewAdmissions,1011
+23/03/2023,Wales,NewAdmissions,0
+24/03/2023,Wales,NewAdmissions,0
+24/03/2023,Northern Ireland,NewAdmissions,16
+24/03/2023,England,NewAdmissions,762
+25/03/2023,England,NewAdmissions,730
+25/03/2023,Wales,NewAdmissions,0
+25/03/2023,Northern Ireland,NewAdmissions,10
+26/03/2023,Northern Ireland,NewAdmissions,11
+26/03/2023,England,NewAdmissions,825
+26/03/2023,Wales,NewAdmissions,0
+27/03/2023,Wales,NewAdmissions,0
+27/03/2023,Northern Ireland,NewAdmissions,13
+27/03/2023,England,NewAdmissions,886
+28/03/2023,England,NewAdmissions,934
+28/03/2023,Wales,NewAdmissions,0
+28/03/2023,Northern Ireland,NewAdmissions,16
+29/03/2023,Northern Ireland,NewAdmissions,15
+29/03/2023,England,NewAdmissions,1021
+29/03/2023,Wales,NewAdmissions,13
+30/03/2023,Wales,NewAdmissions,0
+30/03/2023,Northern Ireland,NewAdmissions,13
+30/03/2023,England,NewAdmissions,847
+31/03/2023,England,NewAdmissions,699
+31/03/2023,Wales,NewAdmissions,0
+31/03/2023,Northern Ireland,NewAdmissions,10
+01/04/2023,Northern Ireland,NewAdmissions,11
+01/04/2023,England,NewAdmissions,718
+01/04/2023,Wales,NewAdmissions,0
+02/04/2023,Wales,NewAdmissions,0
+02/04/2023,Northern Ireland,NewAdmissions,13
+02/04/2023,England,NewAdmissions,771
+03/04/2023,England,NewAdmissions,770
+03/04/2023,Wales,NewAdmissions,0
+03/04/2023,Northern Ireland,NewAdmissions,16
+04/04/2023,Northern Ireland,NewAdmissions,15
+04/04/2023,England,NewAdmissions,786
+04/04/2023,Wales,NewAdmissions,0
+05/04/2023,Wales,NewAdmissions,6
+05/04/2023,Northern Ireland,NewAdmissions,13
+05/04/2023,England,NewAdmissions,774
+06/04/2023,England,NewAdmissions,619
+06/04/2023,Wales,NewAdmissions,0
+06/04/2023,Northern Ireland,NewAdmissions,10
+07/04/2023,Northern Ireland,NewAdmissions,21
+07/04/2023,England,NewAdmissions,520
+07/04/2023,Wales,NewAdmissions,0
+08/04/2023,Wales,NewAdmissions,0
+08/04/2023,Northern Ireland,NewAdmissions,16
+08/04/2023,England,NewAdmissions,526
+09/04/2023,England,NewAdmissions,612
+09/04/2023,Wales,NewAdmissions,0
+09/04/2023,Northern Ireland,NewAdmissions,12
+10/04/2023,Northern Ireland,NewAdmissions,13
+10/04/2023,England,NewAdmissions,719
+10/04/2023,Wales,NewAdmissions,0
+11/04/2023,Wales,NewAdmissions,0
+11/04/2023,Northern Ireland,NewAdmissions,7
+11/04/2023,England,NewAdmissions,723
+12/04/2023,England,NewAdmissions,628
+12/04/2023,Wales,NewAdmissions,5
+12/04/2023,Northern Ireland,NewAdmissions,11
+13/04/2023,Northern Ireland,NewAdmissions,9
+13/04/2023,England,NewAdmissions,620
+13/04/2023,Wales,NewAdmissions,0
+14/04/2023,Wales,NewAdmissions,0
+14/04/2023,Northern Ireland,NewAdmissions,12
+14/04/2023,England,NewAdmissions,492
+15/04/2023,England,NewAdmissions,509
+15/04/2023,Wales,NewAdmissions,0
+15/04/2023,Northern Ireland,NewAdmissions,6
+16/04/2023,Northern Ireland,NewAdmissions,14
+16/04/2023,England,NewAdmissions,576
+16/04/2023,Wales,NewAdmissions,0
+17/04/2023,Wales,NewAdmissions,0
+17/04/2023,Northern Ireland,NewAdmissions,16
+17/04/2023,England,NewAdmissions,659
+18/04/2023,England,NewAdmissions,557
+18/04/2023,Wales,NewAdmissions,0
+18/04/2023,Northern Ireland,NewAdmissions,10
+19/04/2023,Northern Ireland,NewAdmissions,6
+19/04/2023,England,NewAdmissions,566
+19/04/2023,Wales,NewAdmissions,4
+20/04/2023,Wales,NewAdmissions,0
+20/04/2023,Northern Ireland,NewAdmissions,11
+20/04/2023,England,NewAdmissions,493
+21/04/2023,England,NewAdmissions,428
+21/04/2023,Wales,NewAdmissions,0
+21/04/2023,Northern Ireland,NewAdmissions,8
+22/04/2023,Northern Ireland,NewAdmissions,7
+22/04/2023,England,NewAdmissions,411
+22/04/2023,Wales,NewAdmissions,0
+23/04/2023,Wales,NewAdmissions,0
+23/04/2023,Northern Ireland,NewAdmissions,6
+23/04/2023,England,NewAdmissions,570
+24/04/2023,England,NewAdmissions,525
+24/04/2023,Wales,NewAdmissions,0
+24/04/2023,Northern Ireland,NewAdmissions,11
+25/04/2023,Northern Ireland,NewAdmissions,9
+25/04/2023,England,NewAdmissions,511
+25/04/2023,Wales,NewAdmissions,0
+26/04/2023,Wales,NewAdmissions,6
+26/04/2023,Northern Ireland,NewAdmissions,9
+26/04/2023,England,NewAdmissions,539
+27/04/2023,England,NewAdmissions,525
+27/04/2023,Wales,NewAdmissions,0
+27/04/2023,Northern Ireland,NewAdmissions,9
+28/04/2023,Northern Ireland,NewAdmissions,10
+28/04/2023,England,NewAdmissions,404
+28/04/2023,Wales,NewAdmissions,0
+29/04/2023,Wales,NewAdmissions,0
+29/04/2023,Northern Ireland,NewAdmissions,10
+29/04/2023,England,NewAdmissions,394
+30/04/2023,England,NewAdmissions,428
+30/04/2023,Wales,NewAdmissions,0
+30/04/2023,Northern Ireland,NewAdmissions,7
+01/05/2023,Northern Ireland,NewAdmissions,6
+01/05/2023,England,NewAdmissions,517
+01/05/2023,Wales,NewAdmissions,0
+02/05/2023,Wales,NewAdmissions,0
+02/05/2023,Northern Ireland,NewAdmissions,3
+02/05/2023,England,NewAdmissions,505
+03/05/2023,England,NewAdmissions,450
+03/05/2023,Wales,NewAdmissions,7
+03/05/2023,Northern Ireland,NewAdmissions,4
+04/05/2023,Northern Ireland,NewAdmissions,4
+04/05/2023,England,NewAdmissions,443
+04/05/2023,Wales,NewAdmissions,0
+05/05/2023,Wales,NewAdmissions,0
+05/05/2023,Northern Ireland,NewAdmissions,8
+05/05/2023,England,NewAdmissions,406
+06/05/2023,England,NewAdmissions,382
+06/05/2023,Wales,NewAdmissions,0
+06/05/2023,Northern Ireland,NewAdmissions,6
+07/05/2023,Northern Ireland,NewAdmissions,7
+07/05/2023,England,NewAdmissions,360
+07/05/2023,Wales,NewAdmissions,0
+08/05/2023,Wales,NewAdmissions,0
+08/05/2023,Northern Ireland,NewAdmissions,7
+08/05/2023,England,NewAdmissions,456
+09/05/2023,England,NewAdmissions,457
+09/05/2023,Wales,NewAdmissions,0
+09/05/2023,Northern Ireland,NewAdmissions,5
+10/05/2023,Northern Ireland,NewAdmissions,10
+10/05/2023,England,NewAdmissions,459
+10/05/2023,Wales,NewAdmissions,4
+11/05/2023,Wales,NewAdmissions,0
+11/05/2023,Northern Ireland,NewAdmissions,9
+11/05/2023,England,NewAdmissions,406
+12/05/2023,England,NewAdmissions,309
+12/05/2023,Wales,NewAdmissions,0
+12/05/2023,Northern Ireland,NewAdmissions,10
+13/05/2023,Northern Ireland,NewAdmissions,7
+13/05/2023,England,NewAdmissions,271
+13/05/2023,Wales,NewAdmissions,0
+14/05/2023,Wales,NewAdmissions,0
+14/05/2023,Northern Ireland,NewAdmissions,6
+14/05/2023,England,NewAdmissions,345
+15/05/2023,England,NewAdmissions,374
+15/05/2023,Wales,NewAdmissions,0
+15/05/2023,Northern Ireland,NewAdmissions,5
+16/05/2023,Northern Ireland,NewAdmissions,8
+16/05/2023,England,NewAdmissions,383
+16/05/2023,Wales,NewAdmissions,0
+17/05/2023,Wales,NewAdmissions,3
+17/05/2023,Northern Ireland,NewAdmissions,1
+17/05/2023,England,NewAdmissions,350
+18/05/2023,England,NewAdmissions,343
+18/05/2023,Wales,NewAdmissions,0
+18/05/2023,Northern Ireland,NewAdmissions,10
+19/05/2023,Northern Ireland,NewAdmissions,5
+19/05/2023,England,NewAdmissions,253
+19/05/2023,Wales,NewAdmissions,0
+20/05/2023,Wales,NewAdmissions,0
+20/05/2023,Northern Ireland,NewAdmissions,7
+20/05/2023,England,NewAdmissions,247
+21/05/2023,England,NewAdmissions,328
+21/05/2023,Wales,NewAdmissions,0
+21/05/2023,Northern Ireland,NewAdmissions,2
+22/05/2023,Northern Ireland,NewAdmissions,4
+22/05/2023,England,NewAdmissions,364
+22/05/2023,Wales,NewAdmissions,0
+23/05/2023,Wales,NewAdmissions,0
+23/05/2023,Northern Ireland,NewAdmissions,7
+23/05/2023,England,NewAdmissions,381
+24/05/2023,England,NewAdmissions,340
+24/05/2023,Wales,NewAdmissions,6
+24/05/2023,Northern Ireland,NewAdmissions,7
+25/05/2023,Northern Ireland,NewAdmissions,7
+25/05/2023,England,NewAdmissions,322
+25/05/2023,Wales,NewAdmissions,0
+26/05/2023,Wales,NewAdmissions,0
+26/05/2023,Northern Ireland,NewAdmissions,4
+26/05/2023,England,NewAdmissions,246
+27/05/2023,England,NewAdmissions,219
+27/05/2023,Wales,NewAdmissions,0
+27/05/2023,Northern Ireland,NewAdmissions,4
+28/05/2023,Northern Ireland,NewAdmissions,9
+28/05/2023,England,NewAdmissions,257
+28/05/2023,Wales,NewAdmissions,0
+29/05/2023,Wales,NewAdmissions,0
+29/05/2023,Northern Ireland,NewAdmissions,4
+29/05/2023,England,NewAdmissions,299
+30/05/2023,England,NewAdmissions,317
+30/05/2023,Wales,NewAdmissions,0
+30/05/2023,Northern Ireland,NewAdmissions,5
+31/05/2023,Northern Ireland,NewAdmissions,5
+31/05/2023,England,NewAdmissions,290
+31/05/2023,Wales,NewAdmissions,1
+01/06/2023,Wales,NewAdmissions,0
+01/06/2023,Northern Ireland,NewAdmissions,3
+01/06/2023,England,NewAdmissions,293
+02/06/2023,England,NewAdmissions,192
+02/06/2023,Wales,NewAdmissions,0
+02/06/2023,Northern Ireland,NewAdmissions,0
+03/06/2023,Northern Ireland,NewAdmissions,3
+03/06/2023,England,NewAdmissions,177
+03/06/2023,Wales,NewAdmissions,0
+04/06/2023,Wales,NewAdmissions,0
+04/06/2023,Northern Ireland,NewAdmissions,3
+04/06/2023,England,NewAdmissions,255
+05/06/2023,England,NewAdmissions,276
+05/06/2023,Wales,NewAdmissions,0
+05/06/2023,Northern Ireland,NewAdmissions,6
+06/06/2023,Northern Ireland,NewAdmissions,4
+06/06/2023,England,NewAdmissions,290
+06/06/2023,Wales,NewAdmissions,0
+07/06/2023,Wales,NewAdmissions,6
+07/06/2023,Northern Ireland,NewAdmissions,4
+07/06/2023,England,NewAdmissions,272
+08/06/2023,England,NewAdmissions,255
+08/06/2023,Wales,NewAdmissions,0
+08/06/2023,Northern Ireland,NewAdmissions,4
+09/06/2023,Northern Ireland,NewAdmissions,3
+09/06/2023,England,NewAdmissions,183
+09/06/2023,Wales,NewAdmissions,0
+10/06/2023,Wales,NewAdmissions,0
+10/06/2023,Northern Ireland,NewAdmissions,4
+10/06/2023,England,NewAdmissions,180
+11/06/2023,England,NewAdmissions,252
+11/06/2023,Wales,NewAdmissions,0
+11/06/2023,Northern Ireland,NewAdmissions,2
+12/06/2023,Northern Ireland,NewAdmissions,6
+12/06/2023,England,NewAdmissions,223
+12/06/2023,Wales,NewAdmissions,0
+13/06/2023,Wales,NewAdmissions,0
+13/06/2023,Northern Ireland,NewAdmissions,5
+13/06/2023,England,NewAdmissions,246
+14/06/2023,England,NewAdmissions,212
+14/06/2023,Wales,NewAdmissions,2
+14/06/2023,Northern Ireland,NewAdmissions,7
+15/06/2023,Northern Ireland,NewAdmissions,1
+15/06/2023,England,NewAdmissions,160
+15/06/2023,Wales,NewAdmissions,0
+16/06/2023,Wales,NewAdmissions,0
+16/06/2023,Northern Ireland,NewAdmissions,4
+16/06/2023,England,NewAdmissions,115
+17/06/2023,England,NewAdmissions,124
+17/06/2023,Wales,NewAdmissions,0
+17/06/2023,Northern Ireland,NewAdmissions,2
+18/06/2023,Northern Ireland,NewAdmissions,2
+18/06/2023,England,NewAdmissions,146
+18/06/2023,Wales,NewAdmissions,0
+19/06/2023,Wales,NewAdmissions,0
+19/06/2023,Northern Ireland,NewAdmissions,3
+19/06/2023,England,NewAdmissions,150
+20/06/2023,England,NewAdmissions,167
+20/06/2023,Wales,NewAdmissions,0
+20/06/2023,Northern Ireland,NewAdmissions,1
+21/06/2023,Northern Ireland,NewAdmissions,5
+21/06/2023,England,NewAdmissions,125
+21/06/2023,Wales,NewAdmissions,2
+22/06/2023,Wales,NewAdmissions,0
+22/06/2023,Northern Ireland,NewAdmissions,2
+22/06/2023,England,NewAdmissions,124
+23/06/2023,England,NewAdmissions,80
+23/06/2023,Wales,NewAdmissions,0
+23/06/2023,Northern Ireland,NewAdmissions,2
+24/06/2023,Northern Ireland,NewAdmissions,1
+24/06/2023,England,NewAdmissions,95
+24/06/2023,Wales,NewAdmissions,0
+25/06/2023,Wales,NewAdmissions,0
+25/06/2023,Northern Ireland,NewAdmissions,2
+25/06/2023,England,NewAdmissions,102
+26/06/2023,England,NewAdmissions,107
+26/06/2023,Wales,NewAdmissions,0
+26/06/2023,Northern Ireland,NewAdmissions,2
+27/06/2023,Northern Ireland,NewAdmissions,1
+27/06/2023,England,NewAdmissions,97
+27/06/2023,Wales,NewAdmissions,0
+28/06/2023,Wales,NewAdmissions,2
+28/06/2023,Northern Ireland,NewAdmissions,2
+28/06/2023,England,NewAdmissions,121
+29/06/2023,England,NewAdmissions,106
+29/06/2023,Wales,NewAdmissions,0
+29/06/2023,Northern Ireland,NewAdmissions,1
+30/06/2023,Northern Ireland,NewAdmissions,0
+30/06/2023,England,NewAdmissions,93
+30/06/2023,Wales,NewAdmissions,0
+01/07/2023,Wales,NewAdmissions,0
+01/07/2023,Northern Ireland,NewAdmissions,0
+01/07/2023,England,NewAdmissions,70
+02/07/2023,England,NewAdmissions,97
+02/07/2023,Wales,NewAdmissions,0
+02/07/2023,Northern Ireland,NewAdmissions,0
+03/07/2023,Northern Ireland,NewAdmissions,2
+03/07/2023,England,NewAdmissions,115
+03/07/2023,Wales,NewAdmissions,0
+04/07/2023,Wales,NewAdmissions,0
+04/07/2023,Northern Ireland,NewAdmissions,6
+04/07/2023,England,NewAdmissions,142
+05/07/2023,England,NewAdmissions,113
+05/07/2023,Wales,NewAdmissions,2
+05/07/2023,Northern Ireland,NewAdmissions,4
+06/07/2023,Northern Ireland,NewAdmissions,1
+06/07/2023,England,NewAdmissions,120
+06/07/2023,Wales,NewAdmissions,0
+07/07/2023,Wales,NewAdmissions,0
+07/07/2023,Northern Ireland,NewAdmissions,6
+07/07/2023,England,NewAdmissions,100
+08/07/2023,England,NewAdmissions,112
+08/07/2023,Wales,NewAdmissions,0
+08/07/2023,Northern Ireland,NewAdmissions,3
+09/07/2023,Northern Ireland,NewAdmissions,2
+09/07/2023,England,NewAdmissions,128
+09/07/2023,Wales,NewAdmissions,0
+10/07/2023,Wales,NewAdmissions,0
+10/07/2023,Northern Ireland,NewAdmissions,5
+10/07/2023,England,NewAdmissions,161
+11/07/2023,England,NewAdmissions,157
+11/07/2023,Wales,NewAdmissions,0
+11/07/2023,Northern Ireland,NewAdmissions,5
+12/07/2023,Northern Ireland,NewAdmissions,1
+12/07/2023,England,NewAdmissions,139
+12/07/2023,Wales,NewAdmissions,5
+13/07/2023,Northern Ireland,NewAdmissions,4
+13/07/2023,England,NewAdmissions,133
+14/07/2023,England,NewAdmissions,101
+14/07/2023,Northern Ireland,NewAdmissions,3
+15/07/2023,Northern Ireland,NewAdmissions,1
+15/07/2023,England,NewAdmissions,125
+16/07/2023,England,NewAdmissions,132
+16/07/2023,Northern Ireland,NewAdmissions,8
+17/07/2023,Northern Ireland,NewAdmissions,6
+17/07/2023,England,NewAdmissions,143
+18/07/2023,England,NewAdmissions,142
+18/07/2023,Northern Ireland,NewAdmissions,6
+19/07/2023,Northern Ireland,NewAdmissions,5
+19/07/2023,England,NewAdmissions,184
+20/07/2023,England,NewAdmissions,169
+20/07/2023,Northern Ireland,NewAdmissions,5
+21/07/2023,Northern Ireland,NewAdmissions,5
+21/07/2023,England,NewAdmissions,132
+22/07/2023,England,NewAdmissions,148
+22/07/2023,Northern Ireland,NewAdmissions,4
+23/07/2023,Northern Ireland,NewAdmissions,5
+23/07/2023,England,NewAdmissions,203
+24/07/2023,England,NewAdmissions,248
+24/07/2023,Northern Ireland,NewAdmissions,8
+25/07/2023,Northern Ireland,NewAdmissions,6
+25/07/2023,England,NewAdmissions,204
+26/07/2023,England,NewAdmissions,210
+26/07/2023,Northern Ireland,NewAdmissions,9
+27/07/2023,Northern Ireland,NewAdmissions,7
+27/07/2023,England,NewAdmissions,253
+28/07/2023,England,NewAdmissions,171
+28/07/2023,Northern Ireland,NewAdmissions,7
+29/07/2023,Northern Ireland,NewAdmissions,3
+29/07/2023,England,NewAdmissions,181
+30/07/2023,England,NewAdmissions,293
+30/07/2023,Northern Ireland,NewAdmissions,11
+31/07/2023,Northern Ireland,NewAdmissions,11
+31/07/2023,England,NewAdmissions,258
+01/08/2023,England,NewAdmissions,273
+01/08/2023,Northern Ireland,NewAdmissions,13
+02/08/2023,Northern Ireland,NewAdmissions,15
+02/08/2023,England,NewAdmissions,293
+03/08/2023,England,NewAdmissions,277
+03/08/2023,Northern Ireland,NewAdmissions,12
+04/08/2023,Northern Ireland,NewAdmissions,5
+04/08/2023,England,NewAdmissions,229
+05/08/2023,England,NewAdmissions,213
+05/08/2023,Northern Ireland,NewAdmissions,7
+06/08/2023,Northern Ireland,NewAdmissions,7
+06/08/2023,England,NewAdmissions,309
+07/08/2023,England,NewAdmissions,361
+07/08/2023,Northern Ireland,NewAdmissions,19
+08/08/2023,Northern Ireland,NewAdmissions,13
+08/08/2023,England,NewAdmissions,358
+09/08/2023,England,NewAdmissions,347
+09/08/2023,Northern Ireland,NewAdmissions,13
+10/08/2023,Northern Ireland,NewAdmissions,16
+10/08/2023,England,NewAdmissions,318
+11/08/2023,England,NewAdmissions,260
+11/08/2023,Northern Ireland,NewAdmissions,14
+12/08/2023,Northern Ireland,NewAdmissions,7
+12/08/2023,England,NewAdmissions,253
+13/08/2023,England,NewAdmissions,369
+13/08/2023,Northern Ireland,NewAdmissions,14
+14/08/2023,Northern Ireland,NewAdmissions,15
+14/08/2023,England,NewAdmissions,361
+15/08/2023,England,NewAdmissions,358
+15/08/2023,Northern Ireland,NewAdmissions,15
+16/08/2023,Northern Ireland,NewAdmissions,10
+16/08/2023,England,NewAdmissions,335
+17/08/2023,England,NewAdmissions,308
+17/08/2023,Northern Ireland,NewAdmissions,15
+18/08/2023,Northern Ireland,NewAdmissions,14
+18/08/2023,England,NewAdmissions,271
+19/08/2023,England,NewAdmissions,230
+19/08/2023,Northern Ireland,NewAdmissions,12
+20/08/2023,Northern Ireland,NewAdmissions,9
+20/08/2023,England,NewAdmissions,340
+21/08/2023,England,NewAdmissions,381
+21/08/2023,Northern Ireland,NewAdmissions,15
+22/08/2023,Northern Ireland,NewAdmissions,17
+22/08/2023,England,NewAdmissions,376
+23/08/2023,England,NewAdmissions,333
+23/08/2023,Northern Ireland,NewAdmissions,17
+24/08/2023,Northern Ireland,NewAdmissions,3
+24/08/2023,England,NewAdmissions,350
+25/08/2023,England,NewAdmissions,272
+25/08/2023,Northern Ireland,NewAdmissions,9
+26/08/2023,Northern Ireland,NewAdmissions,6
+26/08/2023,England,NewAdmissions,254
+27/08/2023,England,NewAdmissions,280
+27/08/2023,Northern Ireland,NewAdmissions,4
+28/08/2023,Northern Ireland,NewAdmissions,12
+28/08/2023,England,NewAdmissions,410
+29/08/2023,England,NewAdmissions,417
+29/08/2023,Northern Ireland,NewAdmissions,15
+30/08/2023,Northern Ireland,NewAdmissions,5
+30/08/2023,England,NewAdmissions,445
+31/08/2023,England,NewAdmissions,359
+31/08/2023,Northern Ireland,NewAdmissions,8
+01/09/2023,Northern Ireland,NewAdmissions,14
+01/09/2023,England,NewAdmissions,350
+02/09/2023,England,NewAdmissions,362
+02/09/2023,Northern Ireland,NewAdmissions,7
+03/09/2023,Northern Ireland,NewAdmissions,11
+03/09/2023,England,NewAdmissions,536
+04/09/2023,England,NewAdmissions,544
+04/09/2023,Northern Ireland,NewAdmissions,6
+05/09/2023,Northern Ireland,NewAdmissions,18
+05/09/2023,England,NewAdmissions,495
+06/09/2023,England,NewAdmissions,493
+06/09/2023,Northern Ireland,NewAdmissions,6
+07/09/2023,Northern Ireland,NewAdmissions,11
+07/09/2023,England,NewAdmissions,475
+08/09/2023,England,NewAdmissions,382
+08/09/2023,Northern Ireland,NewAdmissions,11
+09/09/2023,Northern Ireland,NewAdmissions,9
+09/09/2023,England,NewAdmissions,388
+10/09/2023,England,NewAdmissions,451
+10/09/2023,Northern Ireland,NewAdmissions,10
+11/09/2023,Northern Ireland,NewAdmissions,8
+11/09/2023,England,NewAdmissions,445
+12/09/2023,England,NewAdmissions,444
+12/09/2023,Northern Ireland,NewAdmissions,11
+13/09/2023,Northern Ireland,NewAdmissions,7
+13/09/2023,England,NewAdmissions,365
+14/09/2023,England,NewAdmissions,344
+14/09/2023,Northern Ireland,NewAdmissions,10
+15/09/2023,Northern Ireland,NewAdmissions,7
+15/09/2023,England,NewAdmissions,327
+16/09/2023,England,NewAdmissions,368
+16/09/2023,Northern Ireland,NewAdmissions,14
+17/09/2023,Northern Ireland,NewAdmissions,8
+17/09/2023,England,NewAdmissions,443
+18/09/2023,England,NewAdmissions,460
+18/09/2023,Northern Ireland,NewAdmissions,14
+19/09/2023,Northern Ireland,NewAdmissions,7
+19/09/2023,England,NewAdmissions,464
+20/09/2023,England,NewAdmissions,476
+20/09/2023,Northern Ireland,NewAdmissions,7
+21/09/2023,Northern Ireland,NewAdmissions,8
+21/09/2023,England,NewAdmissions,423
+22/09/2023,England,NewAdmissions,413
+22/09/2023,Northern Ireland,NewAdmissions,10
+23/09/2023,Northern Ireland,NewAdmissions,9
+23/09/2023,England,NewAdmissions,402
+24/09/2023,England,NewAdmissions,526
+24/09/2023,Northern Ireland,NewAdmissions,10
+25/09/2023,Northern Ireland,NewAdmissions,6
+25/09/2023,England,NewAdmissions,606
+26/09/2023,England,NewAdmissions,632
+26/09/2023,Northern Ireland,NewAdmissions,10
+27/09/2023,Northern Ireland,NewAdmissions,11
+27/09/2023,England,NewAdmissions,619
+28/09/2023,England,NewAdmissions,562
+28/09/2023,Northern Ireland,NewAdmissions,9
+29/09/2023,Northern Ireland,NewAdmissions,9
+29/09/2023,England,NewAdmissions,483
+30/09/2023,England,NewAdmissions,469
+30/09/2023,Northern Ireland,NewAdmissions,8
+01/10/2023,Northern Ireland,NewAdmissions,4
+01/10/2023,England,NewAdmissions,665
+02/10/2023,England,NewAdmissions,683
+02/10/2023,Northern Ireland,NewAdmissions,6
+03/10/2023,Northern Ireland,NewAdmissions,14
+03/10/2023,England,NewAdmissions,699
+04/10/2023,England,NewAdmissions,625
+04/10/2023,Northern Ireland,NewAdmissions,7
+05/10/2023,Northern Ireland,NewAdmissions,11
+05/10/2023,England,NewAdmissions,683
+06/10/2023,England,NewAdmissions,488
+06/10/2023,Northern Ireland,NewAdmissions,13
+07/10/2023,Northern Ireland,NewAdmissions,7
+07/10/2023,England,NewAdmissions,497
+08/10/2023,England,NewAdmissions,657
+08/10/2023,Northern Ireland,NewAdmissions,4
+09/10/2023,Northern Ireland,NewAdmissions,11
+09/10/2023,England,NewAdmissions,645
+10/10/2023,England,NewAdmissions,674
+10/10/2023,Northern Ireland,NewAdmissions,4
+11/10/2023,Northern Ireland,NewAdmissions,9
+11/10/2023,England,NewAdmissions,551
+12/10/2023,England,NewAdmissions,523
+12/10/2023,Northern Ireland,NewAdmissions,6
+13/10/2023,Northern Ireland,NewAdmissions,2
+13/10/2023,England,NewAdmissions,422
+14/10/2023,England,NewAdmissions,385
+14/10/2023,Northern Ireland,NewAdmissions,3
+15/10/2023,Northern Ireland,NewAdmissions,6
+15/10/2023,England,NewAdmissions,521
+16/10/2023,England,NewAdmissions,450
+16/10/2023,Northern Ireland,NewAdmissions,9
+17/10/2023,Northern Ireland,NewAdmissions,8
+17/10/2023,England,NewAdmissions,550
+18/10/2023,England,NewAdmissions,549
+18/10/2023,Northern Ireland,NewAdmissions,8
+19/10/2023,Northern Ireland,NewAdmissions,3
+19/10/2023,England,NewAdmissions,507
+20/10/2023,England,NewAdmissions,416
+20/10/2023,Northern Ireland,NewAdmissions,6
+21/10/2023,Northern Ireland,NewAdmissions,4
+21/10/2023,England,NewAdmissions,361
+22/10/2023,England,NewAdmissions,518
+22/10/2023,Northern Ireland,NewAdmissions,6
+23/10/2023,Northern Ireland,NewAdmissions,4
+23/10/2023,England,NewAdmissions,459
+24/10/2023,England,NewAdmissions,500
+24/10/2023,Northern Ireland,NewAdmissions,7
+25/10/2023,Northern Ireland,NewAdmissions,7
+25/10/2023,England,NewAdmissions,428
+26/10/2023,England,NewAdmissions,446
+26/10/2023,Northern Ireland,NewAdmissions,3
+27/10/2023,Northern Ireland,NewAdmissions,2
+27/10/2023,England,NewAdmissions,350
+28/10/2023,England,NewAdmissions,320
+28/10/2023,Northern Ireland,NewAdmissions,5
+29/10/2023,Northern Ireland,NewAdmissions,2
+29/10/2023,England,NewAdmissions,363
+30/10/2023,England,NewAdmissions,402
+30/10/2023,Northern Ireland,NewAdmissions,4
+31/10/2023,Northern Ireland,NewAdmissions,9
+31/10/2023,England,NewAdmissions,375
+01/11/2023,England,NewAdmissions,378
+01/11/2023,Northern Ireland,NewAdmissions,3
+02/11/2023,England,NewAdmissions,379
+02/11/2023,Northern Ireland,NewAdmissions,3
+03/11/2023,Northern Ireland,NewAdmissions,5
+03/11/2023,England,NewAdmissions,289
+04/11/2023,England,NewAdmissions,294
+04/11/2023,Northern Ireland,NewAdmissions,4
+05/11/2023,Northern Ireland,NewAdmissions,3
+05/11/2023,England,NewAdmissions,362
+06/11/2023,England,NewAdmissions,361
+06/11/2023,Northern Ireland,NewAdmissions,3
+07/11/2023,Northern Ireland,NewAdmissions,6
+07/11/2023,England,NewAdmissions,356
+08/11/2023,England,NewAdmissions,338
+08/11/2023,Northern Ireland,NewAdmissions,9
+09/11/2023,Northern Ireland,NewAdmissions,1
+09/11/2023,England,NewAdmissions,351
+10/11/2023,England,NewAdmissions,238
+10/11/2023,Northern Ireland,NewAdmissions,4
+11/11/2023,Northern Ireland,NewAdmissions,1
+11/11/2023,England,NewAdmissions,251
+12/11/2023,England,NewAdmissions,303
+12/11/2023,Northern Ireland,NewAdmissions,3
+13/11/2023,Northern Ireland,NewAdmissions,3
+13/11/2023,England,NewAdmissions,314
+14/11/2023,England,NewAdmissions,313
+14/11/2023,Northern Ireland,NewAdmissions,5
+15/11/2023,Northern Ireland,NewAdmissions,3
+15/11/2023,England,NewAdmissions,316
+16/11/2023,England,NewAdmissions,282
+16/11/2023,Northern Ireland,NewAdmissions,2
+17/11/2023,Northern Ireland,NewAdmissions,3
+17/11/2023,England,NewAdmissions,233
+18/11/2023,England,NewAdmissions,216
+18/11/2023,Northern Ireland,NewAdmissions,2
+19/11/2023,Northern Ireland,NewAdmissions,2
+19/11/2023,England,NewAdmissions,281
+20/11/2023,England,NewAdmissions,280
+20/11/2023,Northern Ireland,NewAdmissions,2
+21/11/2023,Northern Ireland,NewAdmissions,4
+21/11/2023,England,NewAdmissions,295
+22/11/2023,England,NewAdmissions,291
+22/11/2023,Northern Ireland,NewAdmissions,4
+23/11/2023,Northern Ireland,NewAdmissions,4
+23/11/2023,England,NewAdmissions,283
+24/11/2023,England,NewAdmissions,231
+24/11/2023,Northern Ireland,NewAdmissions,3
+25/11/2023,Northern Ireland,NewAdmissions,2
+25/11/2023,England,NewAdmissions,216
+26/11/2023,England,NewAdmissions,302
+26/11/2023,Northern Ireland,NewAdmissions,2
+27/11/2023,Northern Ireland,NewAdmissions,4
+27/11/2023,England,NewAdmissions,327
+28/11/2023,England,NewAdmissions,333
+28/11/2023,Northern Ireland,NewAdmissions,6
+29/11/2023,Northern Ireland,NewAdmissions,5
+29/11/2023,England,NewAdmissions,325
+30/11/2023,England,NewAdmissions,306
+30/11/2023,Northern Ireland,NewAdmissions,1
+01/12/2023,Northern Ireland,NewAdmissions,2
+01/12/2023,England,NewAdmissions,255
+02/12/2023,England,NewAdmissions,263
+02/12/2023,Northern Ireland,NewAdmissions,4
+03/12/2023,Northern Ireland,NewAdmissions,4
+03/12/2023,England,NewAdmissions,380
+04/12/2023,England,NewAdmissions,432
+04/12/2023,Northern Ireland,NewAdmissions,4
+05/12/2023,Northern Ireland,NewAdmissions,4
+05/12/2023,England,NewAdmissions,420
+06/12/2023,England,NewAdmissions,455
+06/12/2023,Northern Ireland,NewAdmissions,5
+07/12/2023,Northern Ireland,NewAdmissions,5
+07/12/2023,England,NewAdmissions,364
+08/12/2023,England,NewAdmissions,308
+08/12/2023,Northern Ireland,NewAdmissions,6
+09/12/2023,Northern Ireland,NewAdmissions,3
+10/12/2023,Northern Ireland,NewAdmissions,5
+11/12/2023,Northern Ireland,NewAdmissions,1

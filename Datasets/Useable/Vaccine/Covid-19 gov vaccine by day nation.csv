@@ -1,0 +1,1105 @@
+Date,Nation,Metric,Vaccine
+11/01/2021,England,FullyVaccByDate,19312
+11/01/2021,Northern Ireland,FullyVaccByDate,1339
+11/01/2021,Wales,FullyVaccByDate,18
+11/01/2021,Scotland,FullyVaccByDate,99
+12/01/2021,Scotland,FullyVaccByDate,133
+12/01/2021,Northern Ireland,FullyVaccByDate,2552
+12/01/2021,Wales,FullyVaccByDate,11
+12/01/2021,England,FullyVaccByDate,13369
+13/01/2021,Northern Ireland,FullyVaccByDate,1170
+13/01/2021,England,FullyVaccByDate,8362
+13/01/2021,Wales,FullyVaccByDate,13
+13/01/2021,Scotland,FullyVaccByDate,200
+14/01/2021,Scotland,FullyVaccByDate,141
+14/01/2021,England,FullyVaccByDate,4854
+14/01/2021,Wales,FullyVaccByDate,8
+14/01/2021,Northern Ireland,FullyVaccByDate,254
+15/01/2021,England,FullyVaccByDate,3817
+15/01/2021,Wales,FullyVaccByDate,
+15/01/2021,Northern Ireland,FullyVaccByDate,210
+15/01/2021,Scotland,FullyVaccByDate,181
+16/01/2021,Scotland,FullyVaccByDate,145
+16/01/2021,Northern Ireland,FullyVaccByDate,700
+16/01/2021,Wales,FullyVaccByDate,
+16/01/2021,England,FullyVaccByDate,1775
+17/01/2021,Northern Ireland,FullyVaccByDate,842
+17/01/2021,Wales,FullyVaccByDate,72
+17/01/2021,England,FullyVaccByDate,1284
+17/01/2021,Scotland,FullyVaccByDate,41
+18/01/2021,Scotland,FullyVaccByDate,188
+18/01/2021,England,FullyVaccByDate,3750
+18/01/2021,Wales,FullyVaccByDate,64
+18/01/2021,Northern Ireland,FullyVaccByDate,563
+19/01/2021,England,FullyVaccByDate,2989
+19/01/2021,Wales,FullyVaccByDate,105
+19/01/2021,Northern Ireland,FullyVaccByDate,381
+19/01/2021,Scotland,FullyVaccByDate,284
+20/01/2021,Scotland,FullyVaccByDate,296
+20/01/2021,England,FullyVaccByDate,2723
+20/01/2021,Wales,FullyVaccByDate,26
+20/01/2021,Northern Ireland,FullyVaccByDate,366
+21/01/2021,Wales,FullyVaccByDate,19
+21/01/2021,England,FullyVaccByDate,2334
+21/01/2021,Northern Ireland,FullyVaccByDate,184
+21/01/2021,Scotland,FullyVaccByDate,223
+22/01/2021,Scotland,FullyVaccByDate,499
+22/01/2021,Wales,FullyVaccByDate,54
+22/01/2021,England,FullyVaccByDate,1118
+22/01/2021,Northern Ireland,FullyVaccByDate,150
+23/01/2021,England,FullyVaccByDate,774
+23/01/2021,Northern Ireland,FullyVaccByDate,27
+23/01/2021,Wales,FullyVaccByDate,47
+23/01/2021,Scotland,FullyVaccByDate,195
+24/01/2021,Scotland,FullyVaccByDate,155
+24/01/2021,Northern Ireland,FullyVaccByDate,26
+24/01/2021,Wales,FullyVaccByDate,27
+24/01/2021,England,FullyVaccByDate,610
+25/01/2021,England,FullyVaccByDate,1326
+25/01/2021,Northern Ireland,FullyVaccByDate,82
+25/01/2021,Wales,FullyVaccByDate,38
+25/01/2021,Scotland,FullyVaccByDate,522
+26/01/2021,Scotland,FullyVaccByDate,536
+26/01/2021,Wales,FullyVaccByDate,58
+26/01/2021,Northern Ireland,FullyVaccByDate,115
+26/01/2021,England,FullyVaccByDate,1001
+27/01/2021,Northern Ireland,FullyVaccByDate,1017
+27/01/2021,England,FullyVaccByDate,1090
+27/01/2021,Wales,FullyVaccByDate,35
+27/01/2021,Scotland,FullyVaccByDate,187
+28/01/2021,Scotland,FullyVaccByDate,312
+28/01/2021,Northern Ireland,FullyVaccByDate,143
+28/01/2021,Wales,FullyVaccByDate,43
+28/01/2021,England,FullyVaccByDate,1271
+29/01/2021,England,FullyVaccByDate,1526
+29/01/2021,Northern Ireland,FullyVaccByDate,76
+29/01/2021,Wales,FullyVaccByDate,33
+29/01/2021,Scotland,FullyVaccByDate,543
+30/01/2021,Scotland,FullyVaccByDate,156
+30/01/2021,England,FullyVaccByDate,10252
+30/01/2021,Wales,FullyVaccByDate,36
+30/01/2021,Northern Ireland,FullyVaccByDate,177
+31/01/2021,Wales,FullyVaccByDate,55
+31/01/2021,Northern Ireland,FullyVaccByDate,289
+31/01/2021,England,FullyVaccByDate,2757
+31/01/2021,Scotland,FullyVaccByDate,55
+01/02/2021,Scotland,FullyVaccByDate,496
+01/02/2021,Northern Ireland,FullyVaccByDate,270
+01/02/2021,Wales,FullyVaccByDate,225
+01/02/2021,England,FullyVaccByDate,1596
+02/02/2021,Northern Ireland,FullyVaccByDate,273
+02/02/2021,Wales,FullyVaccByDate,94
+02/02/2021,England,FullyVaccByDate,1386
+02/02/2021,Scotland,FullyVaccByDate,413
+03/02/2021,Scotland,FullyVaccByDate,273
+03/02/2021,England,FullyVaccByDate,2282
+03/02/2021,Wales,FullyVaccByDate,56
+03/02/2021,Northern Ireland,FullyVaccByDate,384
+04/02/2021,Wales,FullyVaccByDate,419
+04/02/2021,England,FullyVaccByDate,2611
+04/02/2021,Northern Ireland,FullyVaccByDate,508
+04/02/2021,Scotland,FullyVaccByDate,498
+05/02/2021,Scotland,FullyVaccByDate,803
+05/02/2021,Northern Ireland,FullyVaccByDate,484
+05/02/2021,Wales,FullyVaccByDate,836
+05/02/2021,England,FullyVaccByDate,1941
+06/02/2021,Northern Ireland,FullyVaccByDate,676
+06/02/2021,England,FullyVaccByDate,601
+06/02/2021,Wales,FullyVaccByDate,135
+06/02/2021,Scotland,FullyVaccByDate,250
+07/02/2021,Scotland,FullyVaccByDate,108
+07/02/2021,England,FullyVaccByDate,312
+07/02/2021,Wales,FullyVaccByDate,186
+07/02/2021,Northern Ireland,FullyVaccByDate,256
+08/02/2021,Wales,FullyVaccByDate,699
+08/02/2021,England,FullyVaccByDate,1419
+08/02/2021,Northern Ireland,FullyVaccByDate,126
+08/02/2021,Scotland,FullyVaccByDate,1567
+09/02/2021,Scotland,FullyVaccByDate,609
+09/02/2021,Wales,FullyVaccByDate,196
+09/02/2021,Northern Ireland,FullyVaccByDate,183
+09/02/2021,England,FullyVaccByDate,2173
+10/02/2021,Wales,FullyVaccByDate,108
+10/02/2021,Northern Ireland,FullyVaccByDate,365
+10/02/2021,England,FullyVaccByDate,4092
+10/02/2021,Scotland,FullyVaccByDate,329
+11/02/2021,Scotland,FullyVaccByDate,371
+11/02/2021,Wales,FullyVaccByDate,215
+11/02/2021,Northern Ireland,FullyVaccByDate,415
+11/02/2021,England,FullyVaccByDate,4646
+12/02/2021,England,FullyVaccByDate,3733
+12/02/2021,Northern Ireland,FullyVaccByDate,385
+12/02/2021,Wales,FullyVaccByDate,214
+12/02/2021,Scotland,FullyVaccByDate,443
+13/02/2021,Scotland,FullyVaccByDate,272
+13/02/2021,Northern Ireland,FullyVaccByDate,39
+13/02/2021,England,FullyVaccByDate,2186
+13/02/2021,Wales,FullyVaccByDate,349
+14/02/2021,Wales,FullyVaccByDate,829
+14/02/2021,England,FullyVaccByDate,837
+14/02/2021,Northern Ireland,FullyVaccByDate,29
+14/02/2021,Scotland,FullyVaccByDate,220
+15/02/2021,Scotland,FullyVaccByDate,2636
+15/02/2021,England,FullyVaccByDate,1854
+15/02/2021,Wales,FullyVaccByDate,1849
+15/02/2021,Northern Ireland,FullyVaccByDate,196
+16/02/2021,Wales,FullyVaccByDate,5737
+16/02/2021,Northern Ireland,FullyVaccByDate,275
+16/02/2021,England,FullyVaccByDate,3128
+16/02/2021,Scotland,FullyVaccByDate,3272
+17/02/2021,Scotland,FullyVaccByDate,3760
+17/02/2021,England,FullyVaccByDate,4497
+17/02/2021,Wales,FullyVaccByDate,6354
+17/02/2021,Northern Ireland,FullyVaccByDate,536
+18/02/2021,England,FullyVaccByDate,4561
+18/02/2021,Northern Ireland,FullyVaccByDate,369
+18/02/2021,Wales,FullyVaccByDate,6091
+18/02/2021,Scotland,FullyVaccByDate,4846
+19/02/2021,Scotland,FullyVaccByDate,4458
+19/02/2021,Wales,FullyVaccByDate,6569
+19/02/2021,Northern Ireland,FullyVaccByDate,372
+19/02/2021,England,FullyVaccByDate,3895
+20/02/2021,England,FullyVaccByDate,2432
+20/02/2021,Northern Ireland,FullyVaccByDate,54
+20/02/2021,Wales,FullyVaccByDate,5771
+20/02/2021,Scotland,FullyVaccByDate,2006
+21/02/2021,Scotland,FullyVaccByDate,1863
+21/02/2021,England,FullyVaccByDate,2346
+21/02/2021,Wales,FullyVaccByDate,4979
+21/02/2021,Northern Ireland,FullyVaccByDate,0
+22/02/2021,Wales,FullyVaccByDate,6977
+22/02/2021,England,FullyVaccByDate,5344
+22/02/2021,Northern Ireland,FullyVaccByDate,281
+22/02/2021,Scotland,FullyVaccByDate,5861
+23/02/2021,Scotland,FullyVaccByDate,6918
+23/02/2021,England,FullyVaccByDate,9581
+23/02/2021,Northern Ireland,FullyVaccByDate,268
+23/02/2021,Wales,FullyVaccByDate,9550
+24/02/2021,Wales,FullyVaccByDate,10572
+24/02/2021,Northern Ireland,FullyVaccByDate,292
+24/02/2021,England,FullyVaccByDate,14209
+24/02/2021,Scotland,FullyVaccByDate,6540
+25/02/2021,Scotland,FullyVaccByDate,8679
+25/02/2021,England,FullyVaccByDate,16168
+25/02/2021,Northern Ireland,FullyVaccByDate,261
+25/02/2021,Wales,FullyVaccByDate,10211
+26/02/2021,England,FullyVaccByDate,16226
+26/02/2021,Northern Ireland,FullyVaccByDate,718
+26/02/2021,Wales,FullyVaccByDate,8991
+26/02/2021,Scotland,FullyVaccByDate,6838
+27/02/2021,Scotland,FullyVaccByDate,4334
+27/02/2021,England,FullyVaccByDate,15584
+27/02/2021,Wales,FullyVaccByDate,7355
+27/02/2021,Northern Ireland,FullyVaccByDate,49
+28/02/2021,Northern Ireland,FullyVaccByDate,532
+28/02/2021,Wales,FullyVaccByDate,7411
+28/02/2021,England,FullyVaccByDate,9388
+28/02/2021,Scotland,FullyVaccByDate,2353
+01/03/2021,Scotland,FullyVaccByDate,5580
+01/03/2021,England,FullyVaccByDate,12632
+01/03/2021,Northern Ireland,FullyVaccByDate,2173
+01/03/2021,Wales,FullyVaccByDate,7897
+02/03/2021,England,FullyVaccByDate,27652
+02/03/2021,Wales,FullyVaccByDate,13065
+02/03/2021,Northern Ireland,FullyVaccByDate,2492
+02/03/2021,Scotland,FullyVaccByDate,8105
+03/03/2021,Scotland,FullyVaccByDate,7508
+03/03/2021,Wales,FullyVaccByDate,14664
+03/03/2021,Northern Ireland,FullyVaccByDate,2277
+03/03/2021,England,FullyVaccByDate,44001
+04/03/2021,Wales,FullyVaccByDate,15374
+04/03/2021,Northern Ireland,FullyVaccByDate,1648
+04/03/2021,England,FullyVaccByDate,45045
+04/03/2021,Scotland,FullyVaccByDate,8139
+05/03/2021,Scotland,FullyVaccByDate,5884
+05/03/2021,Wales,FullyVaccByDate,13344
+05/03/2021,England,FullyVaccByDate,37235
+05/03/2021,Northern Ireland,FullyVaccByDate,309
+06/03/2021,Wales,FullyVaccByDate,7891
+06/03/2021,Northern Ireland,FullyVaccByDate,134
+06/03/2021,England,FullyVaccByDate,21688
+06/03/2021,Scotland,FullyVaccByDate,1849
+07/03/2021,Scotland,FullyVaccByDate,2802
+07/03/2021,England,FullyVaccByDate,9133
+07/03/2021,Northern Ireland,FullyVaccByDate,621
+07/03/2021,Wales,FullyVaccByDate,7685
+08/03/2021,Wales,FullyVaccByDate,8291
+08/03/2021,Northern Ireland,FullyVaccByDate,1743
+08/03/2021,England,FullyVaccByDate,23800
+08/03/2021,Scotland,FullyVaccByDate,4954
+09/03/2021,Scotland,FullyVaccByDate,9074
+09/03/2021,Wales,FullyVaccByDate,14364
+09/03/2021,Northern Ireland,FullyVaccByDate,2333
+09/03/2021,England,FullyVaccByDate,47151
+10/03/2021,Northern Ireland,FullyVaccByDate,2021
+10/03/2021,England,FullyVaccByDate,70960
+10/03/2021,Wales,FullyVaccByDate,15508
+10/03/2021,Scotland,FullyVaccByDate,8673
+11/03/2021,Scotland,FullyVaccByDate,7976
+11/03/2021,Wales,FullyVaccByDate,15455
+11/03/2021,Northern Ireland,FullyVaccByDate,452
+11/03/2021,England,FullyVaccByDate,69680
+12/03/2021,England,FullyVaccByDate,67514
+12/03/2021,Wales,FullyVaccByDate,12669
+12/03/2021,Northern Ireland,FullyVaccByDate,652
+12/03/2021,Scotland,FullyVaccByDate,6841
+13/03/2021,Scotland,FullyVaccByDate,3788
+13/03/2021,England,FullyVaccByDate,38640
+13/03/2021,Northern Ireland,FullyVaccByDate,2355
+13/03/2021,Wales,FullyVaccByDate,7372
+14/03/2021,Northern Ireland,FullyVaccByDate,2229
+14/03/2021,England,FullyVaccByDate,14378
+14/03/2021,Wales,FullyVaccByDate,6857
+14/03/2021,Scotland,FullyVaccByDate,1907
+15/03/2021,Scotland,FullyVaccByDate,8947
+15/03/2021,England,FullyVaccByDate,32082
+15/03/2021,Northern Ireland,FullyVaccByDate,3609
+15/03/2021,Wales,FullyVaccByDate,8728
+16/03/2021,Wales,FullyVaccByDate,16202
+16/03/2021,Northern Ireland,FullyVaccByDate,5701
+16/03/2021,England,FullyVaccByDate,62909
+16/03/2021,Scotland,FullyVaccByDate,10987
+17/03/2021,Scotland,FullyVaccByDate,10221
+17/03/2021,Wales,FullyVaccByDate,15226
+17/03/2021,Northern Ireland,FullyVaccByDate,3256
+17/03/2021,England,FullyVaccByDate,90906
+18/03/2021,Wales,FullyVaccByDate,14565
+18/03/2021,England,FullyVaccByDate,104609
+18/03/2021,Northern Ireland,FullyVaccByDate,3507
+18/03/2021,Scotland,FullyVaccByDate,9335
+19/03/2021,Scotland,FullyVaccByDate,9837
+19/03/2021,Northern Ireland,FullyVaccByDate,4604
+19/03/2021,Wales,FullyVaccByDate,10554
+19/03/2021,England,FullyVaccByDate,100730
+20/03/2021,Wales,FullyVaccByDate,9429
+20/03/2021,Northern Ireland,FullyVaccByDate,3183
+20/03/2021,England,FullyVaccByDate,70449
+20/03/2021,Scotland,FullyVaccByDate,8916
+21/03/2021,Scotland,FullyVaccByDate,4908
+21/03/2021,Wales,FullyVaccByDate,7099
+21/03/2021,England,FullyVaccByDate,30418
+21/03/2021,Northern Ireland,FullyVaccByDate,10187
+22/03/2021,Northern Ireland,FullyVaccByDate,
+22/03/2021,England,FullyVaccByDate,64436
+22/03/2021,Wales,FullyVaccByDate,7289
+22/03/2021,Scotland,FullyVaccByDate,10575
+23/03/2021,Scotland,FullyVaccByDate,13581
+23/03/2021,Wales,FullyVaccByDate,13456
+23/03/2021,Northern Ireland,FullyVaccByDate,7571
+23/03/2021,England,FullyVaccByDate,134547
+24/03/2021,Wales,FullyVaccByDate,11992
+24/03/2021,Northern Ireland,FullyVaccByDate,8653
+24/03/2021,England,FullyVaccByDate,208013
+24/03/2021,Scotland,FullyVaccByDate,13984
+25/03/2021,Scotland,FullyVaccByDate,16578
+25/03/2021,Northern Ireland,FullyVaccByDate,8730
+25/03/2021,England,FullyVaccByDate,198206
+25/03/2021,Wales,FullyVaccByDate,10868
+26/03/2021,England,FullyVaccByDate,250962
+26/03/2021,Northern Ireland,FullyVaccByDate,6712
+26/03/2021,Wales,FullyVaccByDate,11080
+26/03/2021,Scotland,FullyVaccByDate,14900
+27/03/2021,Scotland,FullyVaccByDate,22503
+27/03/2021,Northern Ireland,FullyVaccByDate,3103
+27/03/2021,England,FullyVaccByDate,201335
+27/03/2021,Wales,FullyVaccByDate,11920
+28/03/2021,Wales,FullyVaccByDate,4199
+28/03/2021,England,FullyVaccByDate,127078
+28/03/2021,Northern Ireland,FullyVaccByDate,1565
+28/03/2021,Scotland,FullyVaccByDate,14752
+29/03/2021,Scotland,FullyVaccByDate,16666
+29/03/2021,Northern Ireland,FullyVaccByDate,7005
+29/03/2021,England,FullyVaccByDate,137405
+29/03/2021,Wales,FullyVaccByDate,7154
+30/03/2021,England,FullyVaccByDate,233828
+30/03/2021,Northern Ireland,FullyVaccByDate,6464
+30/03/2021,Wales,FullyVaccByDate,13921
+30/03/2021,Scotland,FullyVaccByDate,23469
+31/03/2021,Scotland,FullyVaccByDate,26958
+31/03/2021,Northern Ireland,FullyVaccByDate,7267
+31/03/2021,England,FullyVaccByDate,341748
+31/03/2021,Wales,FullyVaccByDate,11601
+01/04/2021,Wales,FullyVaccByDate,10239
+01/04/2021,England,FullyVaccByDate,411998
+01/04/2021,Northern Ireland,FullyVaccByDate,7701
+01/04/2021,Scotland,FullyVaccByDate,15478
+02/04/2021,Scotland,FullyVaccByDate,20401
+02/04/2021,England,FullyVaccByDate,215754
+02/04/2021,Northern Ireland,FullyVaccByDate,6808
+02/04/2021,Wales,FullyVaccByDate,3668
+03/04/2021,Northern Ireland,FullyVaccByDate,2221
+03/04/2021,Wales,FullyVaccByDate,2673
+03/04/2021,England,FullyVaccByDate,157903
+03/04/2021,Scotland,FullyVaccByDate,16116
+04/04/2021,Scotland,FullyVaccByDate,5317
+04/04/2021,Wales,FullyVaccByDate,1565
+04/04/2021,Northern Ireland,FullyVaccByDate,1335
+04/04/2021,England,FullyVaccByDate,39491
+05/04/2021,Wales,FullyVaccByDate,1568
+05/04/2021,Northern Ireland,FullyVaccByDate,1556
+05/04/2021,England,FullyVaccByDate,54060
+05/04/2021,Scotland,FullyVaccByDate,7406
+06/04/2021,Scotland,FullyVaccByDate,15459
+06/04/2021,England,FullyVaccByDate,162466
+06/04/2021,Northern Ireland,FullyVaccByDate,2549
+06/04/2021,Wales,FullyVaccByDate,6319
+07/04/2021,Northern Ireland,FullyVaccByDate,5849
+07/04/2021,England,FullyVaccByDate,372241
+07/04/2021,Wales,FullyVaccByDate,9169
+07/04/2021,Scotland,FullyVaccByDate,21137
+08/04/2021,Scotland,FullyVaccByDate,24436
+08/04/2021,Wales,FullyVaccByDate,13579
+08/04/2021,Northern Ireland,FullyVaccByDate,8042
+08/04/2021,England,FullyVaccByDate,403212
+09/04/2021,England,FullyVaccByDate,404206
+09/04/2021,Northern Ireland,FullyVaccByDate,7883
+09/04/2021,Scotland,FullyVaccByDate,26887
+09/04/2021,Wales,FullyVaccByDate,11160
+10/04/2021,Scotland,FullyVaccByDate,17176
+10/04/2021,Wales,FullyVaccByDate,15699
+10/04/2021,Northern Ireland,FullyVaccByDate,4913
+10/04/2021,England,FullyVaccByDate,437442
+11/04/2021,Northern Ireland,FullyVaccByDate,4890
+11/04/2021,England,FullyVaccByDate,160454
+11/04/2021,Wales,FullyVaccByDate,3022
+11/04/2021,Scotland,FullyVaccByDate,21299
+12/04/2021,Scotland,FullyVaccByDate,14952
+12/04/2021,Wales,FullyVaccByDate,8996
+12/04/2021,England,FullyVaccByDate,166273
+12/04/2021,Northern Ireland,FullyVaccByDate,10970
+13/04/2021,England,FullyVaccByDate,257732
+13/04/2021,Northern Ireland,FullyVaccByDate,13659
+13/04/2021,Wales,FullyVaccByDate,11998
+13/04/2021,Scotland,FullyVaccByDate,29296
+14/04/2021,Wales,FullyVaccByDate,10695
+14/04/2021,Scotland,FullyVaccByDate,27553
+14/04/2021,England,FullyVaccByDate,292383
+14/04/2021,Northern Ireland,FullyVaccByDate,13152
+15/04/2021,Northern Ireland,FullyVaccByDate,13193
+15/04/2021,England,FullyVaccByDate,363002
+15/04/2021,Scotland,FullyVaccByDate,26786
+15/04/2021,Wales,FullyVaccByDate,14702
+16/04/2021,Wales,FullyVaccByDate,14243
+16/04/2021,Scotland,FullyVaccByDate,26953
+16/04/2021,Northern Ireland,FullyVaccByDate,12443
+16/04/2021,England,FullyVaccByDate,446025
+17/04/2021,England,FullyVaccByDate,458880
+17/04/2021,Northern Ireland,FullyVaccByDate,5424
+17/04/2021,Scotland,FullyVaccByDate,22706
+17/04/2021,Wales,FullyVaccByDate,12625
+18/04/2021,Wales,FullyVaccByDate,1349
+18/04/2021,Scotland,FullyVaccByDate,18695
+18/04/2021,Northern Ireland,FullyVaccByDate,5278
+18/04/2021,England,FullyVaccByDate,195871
+19/04/2021,England,FullyVaccByDate,215665
+19/04/2021,Northern Ireland,FullyVaccByDate,9859
+19/04/2021,Wales,FullyVaccByDate,8075
+19/04/2021,Scotland,FullyVaccByDate,40152
+20/04/2021,Scotland,FullyVaccByDate,50388
+20/04/2021,Wales,FullyVaccByDate,11631
+20/04/2021,Northern Ireland,FullyVaccByDate,15079
+20/04/2021,England,FullyVaccByDate,272929
+21/04/2021,Northern Ireland,FullyVaccByDate,13293
+21/04/2021,England,FullyVaccByDate,339773
+21/04/2021,Wales,FullyVaccByDate,13142
+21/04/2021,Scotland,FullyVaccByDate,50576
+22/04/2021,Scotland,FullyVaccByDate,50997
+22/04/2021,Wales,FullyVaccByDate,17882
+22/04/2021,England,FullyVaccByDate,345675
+22/04/2021,Northern Ireland,FullyVaccByDate,16516
+23/04/2021,England,FullyVaccByDate,394144
+23/04/2021,Northern Ireland,FullyVaccByDate,10043
+23/04/2021,Scotland,FullyVaccByDate,43952
+23/04/2021,Wales,FullyVaccByDate,16876
+24/04/2021,Wales,FullyVaccByDate,16636
+24/04/2021,Scotland,FullyVaccByDate,49206
+24/04/2021,Northern Ireland,FullyVaccByDate,3786
+24/04/2021,England,FullyVaccByDate,478008
+25/04/2021,Northern Ireland,FullyVaccByDate,4839
+25/04/2021,England,FullyVaccByDate,227159
+25/04/2021,Wales,FullyVaccByDate,2485
+25/04/2021,Scotland,FullyVaccByDate,26318
+26/04/2021,Scotland,FullyVaccByDate,33986
+26/04/2021,Wales,FullyVaccByDate,11565
+26/04/2021,Northern Ireland,FullyVaccByDate,9369
+26/04/2021,England,FullyVaccByDate,249768
+27/04/2021,England,FullyVaccByDate,313616
+27/04/2021,Northern Ireland,FullyVaccByDate,11066
+27/04/2021,Scotland,FullyVaccByDate,40257
+27/04/2021,Wales,FullyVaccByDate,14326
+28/04/2021,Wales,FullyVaccByDate,17218
+28/04/2021,Scotland,FullyVaccByDate,41682
+28/04/2021,Northern Ireland,FullyVaccByDate,9833
+28/04/2021,England,FullyVaccByDate,394152
+29/04/2021,England,FullyVaccByDate,395043
+29/04/2021,Northern Ireland,FullyVaccByDate,40235
+29/04/2021,Scotland,FullyVaccByDate,40232
+29/04/2021,Wales,FullyVaccByDate,16057
+30/04/2021,Scotland,FullyVaccByDate,39001
+30/04/2021,Wales,FullyVaccByDate,16329
+30/04/2021,Northern Ireland,FullyVaccByDate,4697
+30/04/2021,England,FullyVaccByDate,361758
+01/05/2021,England,FullyVaccByDate,329170
+01/05/2021,Northern Ireland,FullyVaccByDate,4642
+01/05/2021,Scotland,FullyVaccByDate,33802
+01/05/2021,Wales,FullyVaccByDate,4690
+02/05/2021,Wales,FullyVaccByDate,1559
+02/05/2021,Scotland,FullyVaccByDate,28935
+02/05/2021,England,FullyVaccByDate,137400
+02/05/2021,Northern Ireland,FullyVaccByDate,4997
+03/05/2021,Northern Ireland,FullyVaccByDate,5014
+03/05/2021,England,FullyVaccByDate,99785
+03/05/2021,Scotland,FullyVaccByDate,21451
+03/05/2021,Wales,FullyVaccByDate,1249
+04/05/2021,Scotland,FullyVaccByDate,25832
+04/05/2021,Wales,FullyVaccByDate,10593
+04/05/2021,England,FullyVaccByDate,211639
+04/05/2021,Northern Ireland,FullyVaccByDate,9422
+05/05/2021,Northern Ireland,FullyVaccByDate,13454
+05/05/2021,England,FullyVaccByDate,348553
+05/05/2021,Scotland,FullyVaccByDate,26414
+05/05/2021,Wales,FullyVaccByDate,15805
+06/05/2021,Wales,FullyVaccByDate,16118
+06/05/2021,England,FullyVaccByDate,419232
+06/05/2021,Scotland,FullyVaccByDate,23912
+06/05/2021,Northern Ireland,FullyVaccByDate,13739
+07/05/2021,Northern Ireland,FullyVaccByDate,8395
+07/05/2021,Scotland,FullyVaccByDate,26590
+07/05/2021,England,FullyVaccByDate,414731
+07/05/2021,Wales,FullyVaccByDate,16106
+08/05/2021,Wales,FullyVaccByDate,10898
+08/05/2021,Scotland,FullyVaccByDate,17498
+08/05/2021,England,FullyVaccByDate,404510
+08/05/2021,Northern Ireland,FullyVaccByDate,5931
+09/05/2021,Northern Ireland,FullyVaccByDate,5725
+09/05/2021,England,FullyVaccByDate,160313
+09/05/2021,Wales,FullyVaccByDate,4133
+09/05/2021,Scotland,FullyVaccByDate,17000
+10/05/2021,England,FullyVaccByDate,192723
+10/05/2021,Scotland,FullyVaccByDate,21317
+10/05/2021,Wales,FullyVaccByDate,8261
+10/05/2021,Northern Ireland,FullyVaccByDate,9534
+11/05/2021,Northern Ireland,FullyVaccByDate,11928
+11/05/2021,England,FullyVaccByDate,308915
+11/05/2021,Scotland,FullyVaccByDate,20276
+11/05/2021,Wales,FullyVaccByDate,9028
+12/05/2021,Scotland,FullyVaccByDate,24450
+12/05/2021,England,FullyVaccByDate,402524
+12/05/2021,Wales,FullyVaccByDate,14287
+12/05/2021,Northern Ireland,FullyVaccByDate,11176
+13/05/2021,Northern Ireland,FullyVaccByDate,11152
+13/05/2021,Scotland,FullyVaccByDate,24426
+13/05/2021,Wales,FullyVaccByDate,13813
+13/05/2021,England,FullyVaccByDate,378650
+14/05/2021,Wales,FullyVaccByDate,14291
+14/05/2021,Scotland,FullyVaccByDate,23754
+14/05/2021,England,FullyVaccByDate,346425
+14/05/2021,Northern Ireland,FullyVaccByDate,8932
+15/05/2021,Northern Ireland,FullyVaccByDate,6156
+15/05/2021,Wales,FullyVaccByDate,9814
+15/05/2021,Scotland,FullyVaccByDate,21512
+15/05/2021,England,FullyVaccByDate,353764
+16/05/2021,Scotland,FullyVaccByDate,17505
+16/05/2021,England,FullyVaccByDate,157687
+16/05/2021,Wales,FullyVaccByDate,1757
+16/05/2021,Northern Ireland,FullyVaccByDate,6796
+17/05/2021,Northern Ireland,FullyVaccByDate,7890
+17/05/2021,Scotland,FullyVaccByDate,30933
+17/05/2021,Wales,FullyVaccByDate,9784
+17/05/2021,England,FullyVaccByDate,210442
+18/05/2021,Scotland,FullyVaccByDate,34919
+18/05/2021,England,FullyVaccByDate,269283
+18/05/2021,Wales,FullyVaccByDate,11857
+18/05/2021,Northern Ireland,FullyVaccByDate,7942
+19/05/2021,Northern Ireland,FullyVaccByDate,8918
+19/05/2021,Scotland,FullyVaccByDate,37684
+19/05/2021,Wales,FullyVaccByDate,13396
+19/05/2021,England,FullyVaccByDate,309020
+20/05/2021,Wales,FullyVaccByDate,17214
+20/05/2021,Scotland,FullyVaccByDate,26968
+20/05/2021,England,FullyVaccByDate,367142
+20/05/2021,Northern Ireland,FullyVaccByDate,8988
+21/05/2021,Northern Ireland,FullyVaccByDate,9338
+21/05/2021,Wales,FullyVaccByDate,14969
+21/05/2021,Scotland,FullyVaccByDate,30916
+21/05/2021,England,FullyVaccByDate,371460
+22/05/2021,England,FullyVaccByDate,508013
+22/05/2021,Wales,FullyVaccByDate,16055
+22/05/2021,Scotland,FullyVaccByDate,28974
+22/05/2021,Northern Ireland,FullyVaccByDate,3909
+23/05/2021,Northern Ireland,FullyVaccByDate,5852
+23/05/2021,Wales,FullyVaccByDate,2976
+23/05/2021,Scotland,FullyVaccByDate,23249
+23/05/2021,England,FullyVaccByDate,220062
+24/05/2021,England,FullyVaccByDate,279672
+24/05/2021,Scotland,FullyVaccByDate,29035
+24/05/2021,Wales,FullyVaccByDate,15548
+24/05/2021,Northern Ireland,FullyVaccByDate,8700
+25/05/2021,Northern Ireland,FullyVaccByDate,9406
+25/05/2021,England,FullyVaccByDate,327467
+25/05/2021,Wales,FullyVaccByDate,18519
+25/05/2021,Scotland,FullyVaccByDate,32595
+26/05/2021,England,FullyVaccByDate,368554
+26/05/2021,Wales,FullyVaccByDate,20715
+26/05/2021,Scotland,FullyVaccByDate,28476
+26/05/2021,Northern Ireland,FullyVaccByDate,9713
+27/05/2021,Northern Ireland,FullyVaccByDate,8635
+27/05/2021,Wales,FullyVaccByDate,22698
+27/05/2021,England,FullyVaccByDate,374042
+27/05/2021,Scotland,FullyVaccByDate,28721
+28/05/2021,Scotland,FullyVaccByDate,27403
+28/05/2021,Wales,FullyVaccByDate,21587
+28/05/2021,England,FullyVaccByDate,380855
+28/05/2021,Northern Ireland,FullyVaccByDate,6106
+29/05/2021,Northern Ireland,FullyVaccByDate,3533
+29/05/2021,England,FullyVaccByDate,381816
+29/05/2021,Scotland,FullyVaccByDate,24319
+29/05/2021,Wales,FullyVaccByDate,9180
+30/05/2021,Wales,FullyVaccByDate,2040
+30/05/2021,England,FullyVaccByDate,179424
+30/05/2021,Scotland,FullyVaccByDate,21525
+30/05/2021,Northern Ireland,FullyVaccByDate,3333
+31/05/2021,Northern Ireland,FullyVaccByDate,5467
+31/05/2021,Wales,FullyVaccByDate,4427
+31/05/2021,Scotland,FullyVaccByDate,30978
+31/05/2021,England,FullyVaccByDate,154674
+01/06/2021,England,FullyVaccByDate,279285
+01/06/2021,Wales,FullyVaccByDate,19716
+01/06/2021,Scotland,FullyVaccByDate,30946
+01/06/2021,Northern Ireland,FullyVaccByDate,8618
+02/06/2021,Northern Ireland,FullyVaccByDate,8823
+02/06/2021,England,FullyVaccByDate,288963
+02/06/2021,Wales,FullyVaccByDate,19792
+02/06/2021,Scotland,FullyVaccByDate,31441
+03/06/2021,England,FullyVaccByDate,313526
+03/06/2021,Scotland,FullyVaccByDate,32952
+03/06/2021,Wales,FullyVaccByDate,23355
+03/06/2021,Northern Ireland,FullyVaccByDate,7808
+04/06/2021,Northern Ireland,FullyVaccByDate,7112
+04/06/2021,England,FullyVaccByDate,321602
+04/06/2021,Wales,FullyVaccByDate,27340
+04/06/2021,Scotland,FullyVaccByDate,31977
+05/06/2021,Wales,FullyVaccByDate,28524
+05/06/2021,Scotland,FullyVaccByDate,24946
+05/06/2021,England,FullyVaccByDate,415644
+05/06/2021,Northern Ireland,FullyVaccByDate,4264
+06/06/2021,Northern Ireland,FullyVaccByDate,6539
+06/06/2021,England,FullyVaccByDate,217491
+06/06/2021,Wales,FullyVaccByDate,12145
+06/06/2021,Scotland,FullyVaccByDate,23766
+07/06/2021,Scotland,FullyVaccByDate,30944
+07/06/2021,Wales,FullyVaccByDate,21338
+07/06/2021,England,FullyVaccByDate,244107
+07/06/2021,Northern Ireland,FullyVaccByDate,9679
+08/06/2021,Northern Ireland,FullyVaccByDate,8200
+08/06/2021,Scotland,FullyVaccByDate,31492
+08/06/2021,Wales,FullyVaccByDate,21093
+08/06/2021,England,FullyVaccByDate,252697
+09/06/2021,Wales,FullyVaccByDate,22669
+09/06/2021,Scotland,FullyVaccByDate,31486
+09/06/2021,England,FullyVaccByDate,253913
+09/06/2021,Northern Ireland,FullyVaccByDate,8190
+10/06/2021,Northern Ireland,FullyVaccByDate,7212
+10/06/2021,England,FullyVaccByDate,248650
+10/06/2021,Wales,FullyVaccByDate,22111
+10/06/2021,Scotland,FullyVaccByDate,30065
+11/06/2021,Wales,FullyVaccByDate,21679
+11/06/2021,England,FullyVaccByDate,251641
+11/06/2021,Scotland,FullyVaccByDate,27454
+11/06/2021,Northern Ireland,FullyVaccByDate,6418
+12/06/2021,Northern Ireland,FullyVaccByDate,536
+12/06/2021,Scotland,FullyVaccByDate,23125
+12/06/2021,Wales,FullyVaccByDate,19852
+12/06/2021,England,FullyVaccByDate,276813
+13/06/2021,Wales,FullyVaccByDate,6663
+13/06/2021,England,FullyVaccByDate,153449
+13/06/2021,Scotland,FullyVaccByDate,21009
+13/06/2021,Northern Ireland,FullyVaccByDate,
+14/06/2021,Northern Ireland,FullyVaccByDate,12068
+14/06/2021,Scotland,FullyVaccByDate,23347
+14/06/2021,England,FullyVaccByDate,174262
+14/06/2021,Wales,FullyVaccByDate,26251
+15/06/2021,Wales,FullyVaccByDate,21277
+15/06/2021,England,FullyVaccByDate,175703
+15/06/2021,Scotland,FullyVaccByDate,23177
+15/06/2021,Northern Ireland,FullyVaccByDate,10509
+16/06/2021,Northern Ireland,FullyVaccByDate,9636
+16/06/2021,England,FullyVaccByDate,180627
+16/06/2021,Scotland,FullyVaccByDate,22708
+16/06/2021,Wales,FullyVaccByDate,21863
+17/06/2021,Wales,FullyVaccByDate,19863
+17/06/2021,Scotland,FullyVaccByDate,19737
+17/06/2021,England,FullyVaccByDate,176158
+17/06/2021,Northern Ireland,FullyVaccByDate,7502
+18/06/2021,Northern Ireland,FullyVaccByDate,7323
+18/06/2021,Scotland,FullyVaccByDate,19505
+18/06/2021,Wales,FullyVaccByDate,16819
+18/06/2021,England,FullyVaccByDate,162030
+19/06/2021,Wales,FullyVaccByDate,18398
+19/06/2021,England,FullyVaccByDate,195646
+19/06/2021,Scotland,FullyVaccByDate,16329
+19/06/2021,Northern Ireland,FullyVaccByDate,5990
+20/06/2021,Northern Ireland,FullyVaccByDate,7021
+20/06/2021,Wales,FullyVaccByDate,8460
+20/06/2021,Scotland,FullyVaccByDate,15333
+20/06/2021,England,FullyVaccByDate,78594
+21/06/2021,Scotland,FullyVaccByDate,15783
+21/06/2021,England,FullyVaccByDate,
+21/06/2021,Wales,FullyVaccByDate,16769
+21/06/2021,Northern Ireland,FullyVaccByDate,6773
+22/06/2021,Northern Ireland,FullyVaccByDate,6730
+22/06/2021,Wales,FullyVaccByDate,18718
+22/06/2021,Scotland,FullyVaccByDate,14697
+22/06/2021,England,FullyVaccByDate,210730
+23/06/2021,Scotland,FullyVaccByDate,14083
+23/06/2021,Wales,FullyVaccByDate,18619
+23/06/2021,England,FullyVaccByDate,128688
+23/06/2021,Northern Ireland,FullyVaccByDate,6598
+24/06/2021,Northern Ireland,FullyVaccByDate,5658
+24/06/2021,Wales,FullyVaccByDate,19612
+24/06/2021,Scotland,FullyVaccByDate,15864
+24/06/2021,England,FullyVaccByDate,136679
+25/06/2021,Scotland,FullyVaccByDate,19430
+25/06/2021,England,FullyVaccByDate,133375
+25/06/2021,Wales,FullyVaccByDate,16463
+25/06/2021,Northern Ireland,FullyVaccByDate,5502
+26/06/2021,Northern Ireland,FullyVaccByDate,3960
+26/06/2021,Scotland,FullyVaccByDate,12530
+26/06/2021,England,FullyVaccByDate,172324
+26/06/2021,Wales,FullyVaccByDate,10691
+27/06/2021,Wales,FullyVaccByDate,8766
+27/06/2021,England,FullyVaccByDate,97993
+27/06/2021,Scotland,FullyVaccByDate,12418
+27/06/2021,Northern Ireland,FullyVaccByDate,4378
+28/06/2021,Northern Ireland,FullyVaccByDate,5732
+28/06/2021,England,FullyVaccByDate,107318
+28/06/2021,Scotland,FullyVaccByDate,9420
+28/06/2021,Wales,FullyVaccByDate,15546
+29/06/2021,Wales,FullyVaccByDate,16966
+29/06/2021,England,FullyVaccByDate,115484
+29/06/2021,Scotland,FullyVaccByDate,11042
+29/06/2021,Northern Ireland,FullyVaccByDate,7196
+30/06/2021,Northern Ireland,FullyVaccByDate,8284
+30/06/2021,England,FullyVaccByDate,138993
+30/06/2021,Scotland,FullyVaccByDate,10488
+30/06/2021,Wales,FullyVaccByDate,17984
+01/07/2021,Wales,FullyVaccByDate,18081
+01/07/2021,England,FullyVaccByDate,154177
+01/07/2021,Scotland,FullyVaccByDate,14622
+01/07/2021,Northern Ireland,FullyVaccByDate,6186
+02/07/2021,Northern Ireland,FullyVaccByDate,6462
+02/07/2021,Scotland,FullyVaccByDate,12026
+02/07/2021,England,FullyVaccByDate,142275
+02/07/2021,Wales,FullyVaccByDate,16715
+03/07/2021,Scotland,FullyVaccByDate,12783
+03/07/2021,Wales,FullyVaccByDate,11290
+03/07/2021,England,FullyVaccByDate,165665
+03/07/2021,Northern Ireland,FullyVaccByDate,6471
+04/07/2021,Northern Ireland,FullyVaccByDate,6874
+04/07/2021,Wales,FullyVaccByDate,6808
+04/07/2021,Scotland,FullyVaccByDate,11980
+04/07/2021,England,FullyVaccByDate,85748
+05/07/2021,Wales,FullyVaccByDate,15504
+05/07/2021,Scotland,FullyVaccByDate,16935
+05/07/2021,England,FullyVaccByDate,107977
+05/07/2021,Northern Ireland,FullyVaccByDate,7398
+06/07/2021,Northern Ireland,FullyVaccByDate,7643
+06/07/2021,England,FullyVaccByDate,109148
+06/07/2021,Scotland,FullyVaccByDate,17831
+06/07/2021,Wales,FullyVaccByDate,18504
+07/07/2021,England,FullyVaccByDate,128226
+07/07/2021,Wales,FullyVaccByDate,18439
+07/07/2021,Scotland,FullyVaccByDate,16984
+07/07/2021,Northern Ireland,FullyVaccByDate,7828
+08/07/2021,Northern Ireland,FullyVaccByDate,6777
+08/07/2021,Scotland,FullyVaccByDate,18052
+08/07/2021,England,FullyVaccByDate,135457
+08/07/2021,Wales,FullyVaccByDate,15181
+09/07/2021,Scotland,FullyVaccByDate,17172
+09/07/2021,England,FullyVaccByDate,143603
+09/07/2021,Wales,FullyVaccByDate,11936
+09/07/2021,Northern Ireland,FullyVaccByDate,6108
+10/07/2021,Northern Ireland,FullyVaccByDate,5514
+10/07/2021,Wales,FullyVaccByDate,14971
+10/07/2021,England,FullyVaccByDate,174745
+10/07/2021,Scotland,FullyVaccByDate,16216
+11/07/2021,Scotland,FullyVaccByDate,15945
+11/07/2021,Wales,FullyVaccByDate,7383
+11/07/2021,England,FullyVaccByDate,80755
+11/07/2021,Northern Ireland,FullyVaccByDate,3537
+12/07/2021,Northern Ireland,FullyVaccByDate,1764
+12/07/2021,Scotland,FullyVaccByDate,10286
+12/07/2021,England,FullyVaccByDate,99817
+12/07/2021,Wales,FullyVaccByDate,13493
+13/07/2021,Scotland,FullyVaccByDate,11347
+13/07/2021,England,FullyVaccByDate,124905
+13/07/2021,Wales,FullyVaccByDate,15657
+13/07/2021,Northern Ireland,FullyVaccByDate,6367
+14/07/2021,Northern Ireland,FullyVaccByDate,7091
+14/07/2021,England,FullyVaccByDate,151335
+14/07/2021,Wales,FullyVaccByDate,15009
+14/07/2021,Scotland,FullyVaccByDate,12226
+15/07/2021,England,FullyVaccByDate,167152
+15/07/2021,Scotland,FullyVaccByDate,13072
+15/07/2021,Wales,FullyVaccByDate,15373
+15/07/2021,Northern Ireland,FullyVaccByDate,6296
+16/07/2021,Northern Ireland,FullyVaccByDate,10466
+16/07/2021,Scotland,FullyVaccByDate,14574
+16/07/2021,Wales,FullyVaccByDate,13338
+16/07/2021,England,FullyVaccByDate,163936
+17/07/2021,Scotland,FullyVaccByDate,11278
+17/07/2021,England,FullyVaccByDate,196422
+17/07/2021,Wales,FullyVaccByDate,12925
+17/07/2021,Northern Ireland,FullyVaccByDate,4589
+18/07/2021,Northern Ireland,FullyVaccByDate,3975
+18/07/2021,Wales,FullyVaccByDate,6739
+18/07/2021,England,FullyVaccByDate,105472
+18/07/2021,Scotland,FullyVaccByDate,12692
+19/07/2021,England,FullyVaccByDate,112544
+19/07/2021,Scotland,FullyVaccByDate,16340
+19/07/2021,Wales,FullyVaccByDate,8580
+19/07/2021,Northern Ireland,FullyVaccByDate,6096
+20/07/2021,Northern Ireland,FullyVaccByDate,6835
+20/07/2021,Wales,FullyVaccByDate,12862
+20/07/2021,England,FullyVaccByDate,126163
+20/07/2021,Scotland,FullyVaccByDate,15419
+21/07/2021,Scotland,FullyVaccByDate,17766
+21/07/2021,England,FullyVaccByDate,146281
+21/07/2021,Wales,FullyVaccByDate,13115
+21/07/2021,Northern Ireland,FullyVaccByDate,6176
+22/07/2021,Northern Ireland,FullyVaccByDate,1965
+22/07/2021,Wales,FullyVaccByDate,13555
+22/07/2021,Scotland,FullyVaccByDate,16532
+22/07/2021,England,FullyVaccByDate,156245
+23/07/2021,Scotland,FullyVaccByDate,19638
+23/07/2021,England,FullyVaccByDate,154761
+23/07/2021,Wales,FullyVaccByDate,11851
+23/07/2021,Northern Ireland,FullyVaccByDate,3091
+24/07/2021,Northern Ireland,FullyVaccByDate,2181
+24/07/2021,England,FullyVaccByDate,177885
+24/07/2021,Wales,FullyVaccByDate,8769
+24/07/2021,Scotland,FullyVaccByDate,15051
+25/07/2021,Scotland,FullyVaccByDate,12610
+25/07/2021,England,FullyVaccByDate,94435
+25/07/2021,Wales,FullyVaccByDate,8346
+25/07/2021,Northern Ireland,FullyVaccByDate,2565
+26/07/2021,Northern Ireland,FullyVaccByDate,5220
+26/07/2021,Scotland,FullyVaccByDate,16826
+26/07/2021,England,FullyVaccByDate,115924
+26/07/2021,Wales,FullyVaccByDate,10966
+27/07/2021,Wales,FullyVaccByDate,10605
+27/07/2021,Scotland,FullyVaccByDate,16762
+27/07/2021,England,FullyVaccByDate,118328
+27/07/2021,Northern Ireland,FullyVaccByDate,5955
+28/07/2021,Scotland,FullyVaccByDate,19327
+28/07/2021,Northern Ireland,FullyVaccByDate,7861
+28/07/2021,Wales,FullyVaccByDate,12937
+28/07/2021,England,FullyVaccByDate,131048
+29/07/2021,Northern Ireland,FullyVaccByDate,5855
+29/07/2021,Wales,FullyVaccByDate,10946
+29/07/2021,England,FullyVaccByDate,145472
+29/07/2021,Scotland,FullyVaccByDate,17645
+30/07/2021,England,FullyVaccByDate,142715
+30/07/2021,Wales,FullyVaccByDate,6980
+30/07/2021,Scotland,FullyVaccByDate,17498
+30/07/2021,Northern Ireland,FullyVaccByDate,3903
+31/07/2021,Northern Ireland,FullyVaccByDate,3644
+31/07/2021,Wales,FullyVaccByDate,7806
+31/07/2021,Scotland,FullyVaccByDate,17739
+31/07/2021,England,FullyVaccByDate,182825
+01/08/2021,Scotland,FullyVaccByDate,16902
+01/08/2021,Northern Ireland,FullyVaccByDate,4686
+01/08/2021,England,FullyVaccByDate,92416
+01/08/2021,Wales,FullyVaccByDate,4040
+02/08/2021,Wales,FullyVaccByDate,7554
+02/08/2021,England,FullyVaccByDate,94425
+02/08/2021,Northern Ireland,FullyVaccByDate,7683
+02/08/2021,Scotland,FullyVaccByDate,16530
+03/08/2021,Northern Ireland,FullyVaccByDate,6519
+03/08/2021,Wales,FullyVaccByDate,9347
+03/08/2021,England,FullyVaccByDate,108604
+03/08/2021,Scotland,FullyVaccByDate,18291
+04/08/2021,Scotland,FullyVaccByDate,19265
+04/08/2021,England,FullyVaccByDate,131581
+04/08/2021,Northern Ireland,FullyVaccByDate,6063
+04/08/2021,Wales,FullyVaccByDate,8760
+05/08/2021,England,FullyVaccByDate,143423
+05/08/2021,Scotland,FullyVaccByDate,17266
+05/08/2021,Northern Ireland,FullyVaccByDate,4482
+05/08/2021,Wales,FullyVaccByDate,7521
+06/08/2021,Northern Ireland,FullyVaccByDate,6483
+06/08/2021,Wales,FullyVaccByDate,5529
+06/08/2021,England,FullyVaccByDate,137172
+06/08/2021,Scotland,FullyVaccByDate,19172
+07/08/2021,Wales,FullyVaccByDate,6135
+07/08/2021,Northern Ireland,FullyVaccByDate,4438
+07/08/2021,England,FullyVaccByDate,184869
+07/08/2021,Scotland,FullyVaccByDate,18141
+08/08/2021,Northern Ireland,FullyVaccByDate,4959
+08/08/2021,Wales,FullyVaccByDate,4189
+08/08/2021,England,FullyVaccByDate,94332
+08/08/2021,Scotland,FullyVaccByDate,18590
+09/08/2021,Northern Ireland,FullyVaccByDate,5765
+09/08/2021,Wales,FullyVaccByDate,3230
+09/08/2021,Scotland,FullyVaccByDate,15747
+09/08/2021,England,FullyVaccByDate,112286
+10/08/2021,Wales,FullyVaccByDate,4452
+10/08/2021,Northern Ireland,FullyVaccByDate,5249
+10/08/2021,England,FullyVaccByDate,123721
+10/08/2021,Scotland,FullyVaccByDate,17721
+11/08/2021,Scotland,FullyVaccByDate,18376
+11/08/2021,Northern Ireland,FullyVaccByDate,4669
+11/08/2021,England,FullyVaccByDate,145954
+11/08/2021,Wales,FullyVaccByDate,4762
+12/08/2021,Scotland,FullyVaccByDate,18151
+12/08/2021,Wales,FullyVaccByDate,4195
+12/08/2021,Northern Ireland,FullyVaccByDate,4788
+12/08/2021,England,FullyVaccByDate,165425
+13/08/2021,Scotland,FullyVaccByDate,19011
+13/08/2021,Northern Ireland,FullyVaccByDate,4251
+13/08/2021,Wales,FullyVaccByDate,4633
+13/08/2021,England,FullyVaccByDate,143690
+14/08/2021,Scotland,FullyVaccByDate,18839
+14/08/2021,Northern Ireland,FullyVaccByDate,2737
+14/08/2021,Wales,FullyVaccByDate,4290
+14/08/2021,England,FullyVaccByDate,173718
+15/08/2021,Scotland,FullyVaccByDate,17916
+15/08/2021,England,FullyVaccByDate,101881
+15/08/2021,Northern Ireland,FullyVaccByDate,3506
+15/08/2021,Wales,FullyVaccByDate,3080
+16/08/2021,England,FullyVaccByDate,117998
+16/08/2021,Scotland,FullyVaccByDate,14371
+16/08/2021,Northern Ireland,FullyVaccByDate,3749
+16/08/2021,Wales,FullyVaccByDate,2272
+17/08/2021,Scotland,FullyVaccByDate,16069
+17/08/2021,England,FullyVaccByDate,120908
+17/08/2021,Wales,FullyVaccByDate,3750
+17/08/2021,Northern Ireland,FullyVaccByDate,5148
+18/08/2021,Wales,FullyVaccByDate,3376
+18/08/2021,Northern Ireland,FullyVaccByDate,3862
+18/08/2021,Scotland,FullyVaccByDate,14416
+18/08/2021,England,FullyVaccByDate,147569
+19/08/2021,Wales,FullyVaccByDate,3136
+19/08/2021,Scotland,FullyVaccByDate,14081
+19/08/2021,England,FullyVaccByDate,153886
+19/08/2021,Northern Ireland,FullyVaccByDate,3956
+20/08/2021,Wales,FullyVaccByDate,2944
+20/08/2021,England,FullyVaccByDate,145473
+20/08/2021,Northern Ireland,FullyVaccByDate,4021
+20/08/2021,Scotland,FullyVaccByDate,14954
+21/08/2021,Scotland,FullyVaccByDate,15239
+21/08/2021,Wales,FullyVaccByDate,2821
+21/08/2021,Northern Ireland,FullyVaccByDate,2783
+21/08/2021,England,FullyVaccByDate,174038
+22/08/2021,Wales,FullyVaccByDate,2701
+22/08/2021,Northern Ireland,FullyVaccByDate,2310
+22/08/2021,England,FullyVaccByDate,96246
+22/08/2021,Scotland,FullyVaccByDate,15095
+23/08/2021,Scotland,FullyVaccByDate,15103
+23/08/2021,England,FullyVaccByDate,113005
+23/08/2021,Northern Ireland,FullyVaccByDate,1725
+23/08/2021,Wales,FullyVaccByDate,1450
+24/08/2021,Wales,FullyVaccByDate,2789
+24/08/2021,England,FullyVaccByDate,109221
+24/08/2021,Northern Ireland,FullyVaccByDate,2382
+24/08/2021,Scotland,FullyVaccByDate,16284
+25/08/2021,Scotland,FullyVaccByDate,14258
+25/08/2021,England,FullyVaccByDate,142307
+25/08/2021,Wales,FullyVaccByDate,2141
+25/08/2021,Northern Ireland,FullyVaccByDate,2999
+26/08/2021,England,FullyVaccByDate,127267
+26/08/2021,Wales,FullyVaccByDate,3438
+26/08/2021,Northern Ireland,FullyVaccByDate,2436
+26/08/2021,Scotland,FullyVaccByDate,11795
+27/08/2021,Scotland,FullyVaccByDate,11383
+27/08/2021,Northern Ireland,FullyVaccByDate,1616
+27/08/2021,England,FullyVaccByDate,115249
+27/08/2021,Wales,FullyVaccByDate,3208
+28/08/2021,England,FullyVaccByDate,116583
+28/08/2021,Northern Ireland,FullyVaccByDate,1175
+28/08/2021,Wales,FullyVaccByDate,1508
+28/08/2021,Scotland,FullyVaccByDate,14422
+29/08/2021,Scotland,FullyVaccByDate,12754
+29/08/2021,Wales,FullyVaccByDate,569
+29/08/2021,England,FullyVaccByDate,64710
+29/08/2021,Northern Ireland,FullyVaccByDate,1407
+30/08/2021,Northern Ireland,FullyVaccByDate,1677
+30/08/2021,Wales,FullyVaccByDate,114
+30/08/2021,England,FullyVaccByDate,52137
+30/08/2021,Scotland,FullyVaccByDate,12720
+31/08/2021,Scotland,FullyVaccByDate,10305
+31/08/2021,Northern Ireland,FullyVaccByDate,2129
+31/08/2021,England,FullyVaccByDate,105003
+31/08/2021,Wales,FullyVaccByDate,1965
+01/09/2021,Wales,FullyVaccByDate,1355
+01/09/2021,England,FullyVaccByDate,102086
+01/09/2021,Northern Ireland,FullyVaccByDate,1760
+01/09/2021,Scotland,FullyVaccByDate,8184
+02/09/2021,Scotland,FullyVaccByDate,10078
+02/09/2021,Northern Ireland,FullyVaccByDate,2252
+02/09/2021,England,FullyVaccByDate,103997
+02/09/2021,Wales,FullyVaccByDate,3048
+03/09/2021,England,FullyVaccByDate,98122
+03/09/2021,Wales,FullyVaccByDate,2300
+03/09/2021,Northern Ireland,FullyVaccByDate,1909
+03/09/2021,Scotland,FullyVaccByDate,8259
+04/09/2021,Scotland,FullyVaccByDate,9182
+04/09/2021,England,FullyVaccByDate,116327
+04/09/2021,Northern Ireland,FullyVaccByDate,1647
+04/09/2021,Wales,FullyVaccByDate,1397
+05/09/2021,Northern Ireland,FullyVaccByDate,2891
+05/09/2021,Wales,FullyVaccByDate,1044
+05/09/2021,England,FullyVaccByDate,59265
+05/09/2021,Scotland,FullyVaccByDate,9993
+06/09/2021,Scotland,FullyVaccByDate,6064
+06/09/2021,Wales,FullyVaccByDate,896
+06/09/2021,England,FullyVaccByDate,69758
+06/09/2021,Northern Ireland,FullyVaccByDate,3297
+07/09/2021,England,FullyVaccByDate,73004
+07/09/2021,Wales,FullyVaccByDate,1734
+07/09/2021,Northern Ireland,FullyVaccByDate,4169
+07/09/2021,Scotland,FullyVaccByDate,6941
+08/09/2021,Scotland,FullyVaccByDate,7570
+08/09/2021,Northern Ireland,FullyVaccByDate,3500
+08/09/2021,Wales,FullyVaccByDate,1342
+08/09/2021,England,FullyVaccByDate,75548
+09/09/2021,England,FullyVaccByDate,86592
+09/09/2021,Wales,FullyVaccByDate,1540
+09/09/2021,Northern Ireland,FullyVaccByDate,3540
+09/09/2021,Scotland,FullyVaccByDate,5030
+10/09/2021,Scotland,FullyVaccByDate,6953
+10/09/2021,Northern Ireland,FullyVaccByDate,4116
+10/09/2021,Wales,FullyVaccByDate,1979
+10/09/2021,England,FullyVaccByDate,78763
+11/09/2021,Northern Ireland,FullyVaccByDate,2226
+11/09/2021,Wales,FullyVaccByDate,1624
+11/09/2021,England,FullyVaccByDate,86068
+11/09/2021,Scotland,FullyVaccByDate,8141
+12/09/2021,Scotland,FullyVaccByDate,7753
+12/09/2021,England,FullyVaccByDate,42902
+12/09/2021,Wales,FullyVaccByDate,829
+12/09/2021,Northern Ireland,FullyVaccByDate,1131
+13/09/2021,Northern Ireland,FullyVaccByDate,1505
+13/09/2021,England,FullyVaccByDate,54807
+13/09/2021,Wales,FullyVaccByDate,1004
+13/09/2021,Scotland,FullyVaccByDate,3337
+14/09/2021,Scotland,FullyVaccByDate,3046
+14/09/2021,Northern Ireland,FullyVaccByDate,1091
+14/09/2021,England,FullyVaccByDate,56521
+14/09/2021,Wales,FullyVaccByDate,6067
+15/09/2021,Northern Ireland,FullyVaccByDate,569
+15/09/2021,Wales,FullyVaccByDate,1325
+15/09/2021,England,FullyVaccByDate,57096
+15/09/2021,Scotland,FullyVaccByDate,4300
+16/09/2021,Scotland,FullyVaccByDate,3041
+16/09/2021,England,FullyVaccByDate,58941
+16/09/2021,Northern Ireland,FullyVaccByDate,741
+16/09/2021,Wales,FullyVaccByDate,1250
+17/09/2021,Wales,FullyVaccByDate,1352
+17/09/2021,Northern Ireland,FullyVaccByDate,530
+17/09/2021,England,FullyVaccByDate,55257
+17/09/2021,Scotland,FullyVaccByDate,3245
+18/09/2021,Scotland,FullyVaccByDate,4797
+18/09/2021,Wales,FullyVaccByDate,1396
+18/09/2021,England,FullyVaccByDate,66134
+18/09/2021,Northern Ireland,FullyVaccByDate,170
+19/09/2021,Wales,FullyVaccByDate,436
+19/09/2021,England,FullyVaccByDate,30458
+19/09/2021,Northern Ireland,FullyVaccByDate,468
+19/09/2021,Scotland,FullyVaccByDate,3795
+20/09/2021,Scotland,FullyVaccByDate,2772
+20/09/2021,England,FullyVaccByDate,41438
+20/09/2021,Wales,FullyVaccByDate,1549
+20/09/2021,Northern Ireland,FullyVaccByDate,583
+21/09/2021,England,FullyVaccByDate,39248
+21/09/2021,Wales,FullyVaccByDate,1144
+21/09/2021,Northern Ireland,FullyVaccByDate,654
+21/09/2021,Scotland,FullyVaccByDate,2360
+22/09/2021,Scotland,FullyVaccByDate,2521
+22/09/2021,Wales,FullyVaccByDate,1044
+22/09/2021,Northern Ireland,FullyVaccByDate,806
+22/09/2021,England,FullyVaccByDate,39676
+23/09/2021,England,FullyVaccByDate,41728
+23/09/2021,Wales,FullyVaccByDate,559
+23/09/2021,Northern Ireland,FullyVaccByDate,547
+23/09/2021,Scotland,FullyVaccByDate,1754
+24/09/2021,Scotland,FullyVaccByDate,3892
+24/09/2021,Northern Ireland,FullyVaccByDate,342
+24/09/2021,Wales,FullyVaccByDate,958
+24/09/2021,England,FullyVaccByDate,39567
+25/09/2021,Northern Ireland,FullyVaccByDate,432
+25/09/2021,England,FullyVaccByDate,43049
+25/09/2021,Wales,FullyVaccByDate,601
+25/09/2021,Scotland,FullyVaccByDate,3036
+26/09/2021,Scotland,FullyVaccByDate,2771
+26/09/2021,Northern Ireland,FullyVaccByDate,604
+26/09/2021,Wales,FullyVaccByDate,688
+26/09/2021,England,FullyVaccByDate,21476
+27/09/2021,England,FullyVaccByDate,28590
+27/09/2021,Wales,FullyVaccByDate,850
+27/09/2021,Northern Ireland,FullyVaccByDate,1120
+27/09/2021,Scotland,FullyVaccByDate,2617
+28/09/2021,Scotland,FullyVaccByDate,2515
+28/09/2021,Wales,FullyVaccByDate,590
+28/09/2021,England,FullyVaccByDate,29670
+28/09/2021,Northern Ireland,FullyVaccByDate,757
+29/09/2021,Northern Ireland,FullyVaccByDate,882
+29/09/2021,Wales,FullyVaccByDate,628
+29/09/2021,England,FullyVaccByDate,29907
+29/09/2021,Scotland,FullyVaccByDate,2676
+30/09/2021,Scotland,FullyVaccByDate,2562
+30/09/2021,England,FullyVaccByDate,30318
+30/09/2021,Wales,FullyVaccByDate,715
+30/09/2021,Northern Ireland,FullyVaccByDate,864
+01/10/2021,Wales,FullyVaccByDate,651
+01/10/2021,Northern Ireland,FullyVaccByDate,896
+01/10/2021,England,FullyVaccByDate,29993
+01/10/2021,Scotland,FullyVaccByDate,2749
+02/10/2021,Scotland,FullyVaccByDate,2180
+02/10/2021,Wales,FullyVaccByDate,465
+02/10/2021,Northern Ireland,FullyVaccByDate,897
+02/10/2021,England,FullyVaccByDate,30849
+03/10/2021,England,FullyVaccByDate,17502
+03/10/2021,Northern Ireland,FullyVaccByDate,1228
+03/10/2021,Wales,FullyVaccByDate,864
+03/10/2021,Scotland,FullyVaccByDate,1938
+04/10/2021,Scotland,FullyVaccByDate,2538
+04/10/2021,England,FullyVaccByDate,24746
+04/10/2021,Northern Ireland,FullyVaccByDate,1438
+04/10/2021,Wales,FullyVaccByDate,615
+05/10/2021,Northern Ireland,FullyVaccByDate,1340
+05/10/2021,England,FullyVaccByDate,24253
+05/10/2021,Wales,FullyVaccByDate,568
+05/10/2021,Scotland,FullyVaccByDate,2411
+06/10/2021,Scotland,FullyVaccByDate,2780
+06/10/2021,England,FullyVaccByDate,24135
+06/10/2021,Northern Ireland,FullyVaccByDate,847
+06/10/2021,Wales,FullyVaccByDate,814
+07/10/2021,England,FullyVaccByDate,24208
+07/10/2021,Wales,FullyVaccByDate,600
+07/10/2021,Northern Ireland,FullyVaccByDate,1253
+07/10/2021,Scotland,FullyVaccByDate,2595
+08/10/2021,Scotland,FullyVaccByDate,2397
+08/10/2021,England,FullyVaccByDate,25006
+08/10/2021,Wales,FullyVaccByDate,664
+08/10/2021,Northern Ireland,FullyVaccByDate,1001
+09/10/2021,Wales,FullyVaccByDate,722
+09/10/2021,Northern Ireland,FullyVaccByDate,944
+09/10/2021,England,FullyVaccByDate,29751
+09/10/2021,Scotland,FullyVaccByDate,2060
+10/10/2021,Scotland,FullyVaccByDate,2771
+10/10/2021,Wales,FullyVaccByDate,448
+10/10/2021,England,FullyVaccByDate,15643
+10/10/2021,Northern Ireland,FullyVaccByDate,589
+11/10/2021,Northern Ireland,FullyVaccByDate,862
+11/10/2021,England,FullyVaccByDate,20350
+11/10/2021,Wales,FullyVaccByDate,718
+11/10/2021,Scotland,FullyVaccByDate,1702
+12/10/2021,Scotland,FullyVaccByDate,2284
+12/10/2021,Northern Ireland,FullyVaccByDate,1085
+12/10/2021,Wales,FullyVaccByDate,1130
+12/10/2021,England,FullyVaccByDate,22447
+13/10/2021,England,FullyVaccByDate,24828
+13/10/2021,Northern Ireland,FullyVaccByDate,740
+13/10/2021,Wales,FullyVaccByDate,1163
+13/10/2021,Scotland,FullyVaccByDate,2750

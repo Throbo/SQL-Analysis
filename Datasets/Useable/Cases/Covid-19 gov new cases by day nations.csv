@@ -1,0 +1,4974 @@
+Date,Nation,Metric,Cases
+31/01/2020,England,CasesByDate,2
+01/02/2020,England,CasesByDate,0
+02/02/2020,England,CasesByDate,0
+03/02/2020,England,CasesByDate,0
+04/02/2020,England,CasesByDate,0
+05/02/2020,England,CasesByDate,0
+06/02/2020,England,CasesByDate,1
+07/02/2020,England,CasesByDate,0
+08/02/2020,England,CasesByDate,0
+09/02/2020,England,CasesByDate,1
+10/02/2020,England,CasesByDate,4
+11/02/2020,England,CasesByDate,0
+12/02/2020,England,CasesByDate,0
+13/02/2020,England,CasesByDate,1
+14/02/2020,England,CasesByDate,0
+15/02/2020,England,CasesByDate,0
+16/02/2020,England,CasesByDate,0
+17/02/2020,England,CasesByDate,0
+18/02/2020,England,CasesByDate,0
+19/02/2020,England,CasesByDate,0
+20/02/2020,England,CasesByDate,0
+21/02/2020,England,CasesByDate,0
+22/02/2020,England,CasesByDate,0
+23/02/2020,England,CasesByDate,0
+24/02/2020,England,CasesByDate,4
+25/02/2020,England,CasesByDate,0
+26/02/2020,England,CasesByDate,0
+27/02/2020,England,CasesByDate,0
+28/02/2020,England,CasesByDate,5
+28/02/2020,Wales,CasesByDate,1
+29/02/2020,Wales,CasesByDate,0
+29/02/2020,England,CasesByDate,3
+29/02/2020,Northern Ireland,CasesByDate,1
+01/03/2020,Northern Ireland,CasesByDate,0
+01/03/2020,Wales,CasesByDate,0
+01/03/2020,England,CasesByDate,12
+02/03/2020,England,CasesByDate,4
+02/03/2020,Scotland,CasesByDate,1
+02/03/2020,Northern Ireland,CasesByDate,0
+02/03/2020,Wales,CasesByDate,0
+03/03/2020,Wales,CasesByDate,0
+03/03/2020,England,CasesByDate,11
+03/03/2020,Northern Ireland,CasesByDate,0
+03/03/2020,Scotland,CasesByDate,0
+04/03/2020,Scotland,CasesByDate,2
+04/03/2020,Northern Ireland,CasesByDate,2
+04/03/2020,Wales,CasesByDate,0
+04/03/2020,England,CasesByDate,32
+05/03/2020,England,CasesByDate,25
+05/03/2020,Scotland,CasesByDate,3
+05/03/2020,Northern Ireland,CasesByDate,0
+05/03/2020,Wales,CasesByDate,1
+06/03/2020,Wales,CasesByDate,0
+06/03/2020,England,CasesByDate,39
+06/03/2020,Northern Ireland,CasesByDate,2
+06/03/2020,Scotland,CasesByDate,5
+07/03/2020,Northern Ireland,CasesByDate,2
+07/03/2020,Scotland,CasesByDate,5
+07/03/2020,Wales,CasesByDate,0
+07/03/2020,England,CasesByDate,39
+08/03/2020,England,CasesByDate,58
+08/03/2020,Northern Ireland,CasesByDate,5
+08/03/2020,Scotland,CasesByDate,2
+08/03/2020,Wales,CasesByDate,0
+09/03/2020,Wales,CasesByDate,2
+09/03/2020,England,CasesByDate,40
+09/03/2020,Northern Ireland,CasesByDate,3
+09/03/2020,Scotland,CasesByDate,5
+10/03/2020,Northern Ireland,CasesByDate,0
+10/03/2020,Scotland,CasesByDate,4
+10/03/2020,Wales,CasesByDate,2
+10/03/2020,England,CasesByDate,46
+11/03/2020,England,CasesByDate,63
+11/03/2020,Scotland,CasesByDate,9
+11/03/2020,Northern Ireland,CasesByDate,2
+11/03/2020,Wales,CasesByDate,9
+12/03/2020,Wales,CasesByDate,10
+12/03/2020,England,CasesByDate,99
+12/03/2020,Northern Ireland,CasesByDate,1
+12/03/2020,Scotland,CasesByDate,24
+13/03/2020,Scotland,CasesByDate,25
+13/03/2020,Northern Ireland,CasesByDate,10
+13/03/2020,Wales,CasesByDate,13
+13/03/2020,England,CasesByDate,159
+14/03/2020,England,CasesByDate,201
+14/03/2020,Northern Ireland,CasesByDate,5
+14/03/2020,Scotland,CasesByDate,36
+14/03/2020,Wales,CasesByDate,22
+15/03/2020,Wales,CasesByDate,34
+15/03/2020,England,CasesByDate,253
+15/03/2020,Northern Ireland,CasesByDate,11
+15/03/2020,Scotland,CasesByDate,32
+16/03/2020,Scotland,CasesByDate,18
+16/03/2020,Northern Ireland,CasesByDate,7
+16/03/2020,Wales,CasesByDate,30
+16/03/2020,England,CasesByDate,97
+17/03/2020,England,CasesByDate,361
+17/03/2020,Scotland,CasesByDate,24
+17/03/2020,Northern Ireland,CasesByDate,10
+17/03/2020,Wales,CasesByDate,12
+18/03/2020,Wales,CasesByDate,13
+18/03/2020,England,CasesByDate,625
+18/03/2020,Scotland,CasesByDate,32
+18/03/2020,Northern Ireland,CasesByDate,6
+19/03/2020,Northern Ireland,CasesByDate,9
+19/03/2020,Scotland,CasesByDate,39
+19/03/2020,Wales,CasesByDate,21
+19/03/2020,England,CasesByDate,574
+20/03/2020,England,CasesByDate,628
+20/03/2020,Scotland,CasesByDate,56
+20/03/2020,Northern Ireland,CasesByDate,9
+20/03/2020,Wales,CasesByDate,21
+21/03/2020,Wales,CasesByDate,89
+21/03/2020,England,CasesByDate,873
+21/03/2020,Northern Ireland,CasesByDate,22
+21/03/2020,Scotland,CasesByDate,51
+22/03/2020,Northern Ireland,CasesByDate,20
+22/03/2020,Scotland,CasesByDate,43
+22/03/2020,Wales,CasesByDate,67
+22/03/2020,England,CasesByDate,535
+23/03/2020,England,CasesByDate,793
+23/03/2020,Scotland,CasesByDate,83
+23/03/2020,Northern Ireland,CasesByDate,20
+23/03/2020,Wales,CasesByDate,71
+24/03/2020,Wales,CasesByDate,60
+24/03/2020,England,CasesByDate,1258
+24/03/2020,Northern Ireland,CasesByDate,24
+24/03/2020,Scotland,CasesByDate,85
+25/03/2020,Scotland,CasesByDate,135
+25/03/2020,Northern Ireland,CasesByDate,37
+25/03/2020,Wales,CasesByDate,150
+25/03/2020,England,CasesByDate,1130
+26/03/2020,England,CasesByDate,1809
+26/03/2020,Northern Ireland,CasesByDate,32
+26/03/2020,Scotland,CasesByDate,175
+26/03/2020,Wales,CasesByDate,113
+27/03/2020,Wales,CasesByDate,180
+27/03/2020,England,CasesByDate,2506
+27/03/2020,Northern Ireland,CasesByDate,34
+27/03/2020,Scotland,CasesByDate,165
+28/03/2020,Northern Ireland,CasesByDate,49
+28/03/2020,Scotland,CasesByDate,186
+28/03/2020,Wales,CasesByDate,172
+28/03/2020,England,CasesByDate,2139
+29/03/2020,England,CasesByDate,2060
+29/03/2020,Northern Ireland,CasesByDate,86
+29/03/2020,Scotland,CasesByDate,139
+29/03/2020,Wales,CasesByDate,148
+30/03/2020,Wales,CasesByDate,210
+30/03/2020,England,CasesByDate,2107
+30/03/2020,Scotland,CasesByDate,179
+30/03/2020,Northern Ireland,CasesByDate,123
+31/03/2020,Scotland,CasesByDate,430
+31/03/2020,Northern Ireland,CasesByDate,53
+31/03/2020,Wales,CasesByDate,112
+31/03/2020,England,CasesByDate,2414
+01/04/2020,England,CasesByDate,3630
+01/04/2020,Northern Ireland,CasesByDate,103
+01/04/2020,Scotland,CasesByDate,317
+01/04/2020,Wales,CasesByDate,274
+02/04/2020,Wales,CasesByDate,284
+02/04/2020,England,CasesByDate,3583
+02/04/2020,Northern Ireland,CasesByDate,85
+02/04/2020,Scotland,CasesByDate,292
+03/04/2020,Northern Ireland,CasesByDate,130
+03/04/2020,Scotland,CasesByDate,399
+03/04/2020,Wales,CasesByDate,345
+03/04/2020,England,CasesByDate,3576
+04/04/2020,England,CasesByDate,2910
+04/04/2020,Scotland,CasesByDate,344
+04/04/2020,Northern Ireland,CasesByDate,94
+04/04/2020,Wales,CasesByDate,387
+05/04/2020,Wales,CasesByDate,344
+05/04/2020,England,CasesByDate,5107
+05/04/2020,Scotland,CasesByDate,361
+05/04/2020,Northern Ireland,CasesByDate,91
+06/04/2020,Northern Ireland,CasesByDate,69
+06/04/2020,Scotland,CasesByDate,255
+06/04/2020,Wales,CasesByDate,302
+06/04/2020,England,CasesByDate,3176
+07/04/2020,England,CasesByDate,2978
+07/04/2020,Scotland,CasesByDate,268
+07/04/2020,Northern Ireland,CasesByDate,97
+07/04/2020,Wales,CasesByDate,291
+08/04/2020,Wales,CasesByDate,283
+08/04/2020,England,CasesByDate,4788
+08/04/2020,Northern Ireland,CasesByDate,84
+08/04/2020,Scotland,CasesByDate,336
+09/04/2020,Scotland,CasesByDate,392
+09/04/2020,Northern Ireland,CasesByDate,138
+09/04/2020,Wales,CasesByDate,16
+09/04/2020,England,CasesByDate,3798
+10/04/2020,England,CasesByDate,4263
+10/04/2020,Northern Ireland,CasesByDate,112
+10/04/2020,Scotland,CasesByDate,318
+10/04/2020,Wales,CasesByDate,502
+11/04/2020,Wales,CasesByDate,340
+11/04/2020,England,CasesByDate,3841
+11/04/2020,Scotland,CasesByDate,315
+11/04/2020,Northern Ireland,CasesByDate,128
+12/04/2020,Scotland,CasesByDate,322
+12/04/2020,Northern Ireland,CasesByDate,89
+12/04/2020,Wales,CasesByDate,367
+12/04/2020,England,CasesByDate,3672
+13/04/2020,England,CasesByDate,2999
+13/04/2020,Northern Ireland,CasesByDate,76
+13/04/2020,Scotland,CasesByDate,155
+13/04/2020,Wales,CasesByDate,313
+14/04/2020,Wales,CasesByDate,238
+14/04/2020,England,CasesByDate,3854
+14/04/2020,Scotland,CasesByDate,291
+14/04/2020,Northern Ireland,CasesByDate,85
+15/04/2020,Scotland,CasesByDate,390
+15/04/2020,Northern Ireland,CasesByDate,121
+15/04/2020,Wales,CasesByDate,272
+15/04/2020,England,CasesByDate,3188
+16/04/2020,England,CasesByDate,3118
+16/04/2020,Northern Ireland,CasesByDate,113
+16/04/2020,Scotland,CasesByDate,354
+16/04/2020,Wales,CasesByDate,284
+17/04/2020,Wales,CasesByDate,244
+17/04/2020,England,CasesByDate,3985
+17/04/2020,Northern Ireland,CasesByDate,137
+17/04/2020,Scotland,CasesByDate,307
+18/04/2020,Northern Ireland,CasesByDate,148
+18/04/2020,Scotland,CasesByDate,411
+18/04/2020,Wales,CasesByDate,292
+18/04/2020,England,CasesByDate,3548
+19/04/2020,England,CasesByDate,3607
+19/04/2020,Northern Ireland,CasesByDate,159
+19/04/2020,Scotland,CasesByDate,367
+19/04/2020,Wales,CasesByDate,334
+20/04/2020,Wales,CasesByDate,276
+20/04/2020,England,CasesByDate,2401
+20/04/2020,Scotland,CasesByDate,263
+20/04/2020,Northern Ireland,CasesByDate,83
+21/04/2020,Scotland,CasesByDate,222
+21/04/2020,Northern Ireland,CasesByDate,30
+21/04/2020,Wales,CasesByDate,304
+21/04/2020,England,CasesByDate,3087
+22/04/2020,England,CasesByDate,3020
+22/04/2020,Northern Ireland,CasesByDate,116
+22/04/2020,Scotland,CasesByDate,366
+22/04/2020,Wales,CasesByDate,274
+23/04/2020,Wales,CasesByDate,234
+23/04/2020,England,CasesByDate,3084
+23/04/2020,Scotland,CasesByDate,371
+23/04/2020,Northern Ireland,CasesByDate,142
+24/04/2020,Northern Ireland,CasesByDate,106
+24/04/2020,Scotland,CasesByDate,288
+24/04/2020,Wales,CasesByDate,243
+24/04/2020,England,CasesByDate,3004
+25/04/2020,England,CasesByDate,2826
+25/04/2020,Scotland,CasesByDate,354
+25/04/2020,Northern Ireland,CasesByDate,104
+25/04/2020,Wales,CasesByDate,299
+26/04/2020,Wales,CasesByDate,178
+26/04/2020,England,CasesByDate,2152
+26/04/2020,Northern Ireland,CasesByDate,82
+26/04/2020,Scotland,CasesByDate,273
+27/04/2020,Scotland,CasesByDate,197
+27/04/2020,Northern Ireland,CasesByDate,66
+27/04/2020,Wales,CasesByDate,203
+27/04/2020,England,CasesByDate,2264
+28/04/2020,England,CasesByDate,1989
+28/04/2020,Scotland,CasesByDate,200
+28/04/2020,Northern Ireland,CasesByDate,34
+28/04/2020,Wales,CasesByDate,232
+29/04/2020,Wales,CasesByDate,117
+29/04/2020,England,CasesByDate,1403
+29/04/2020,Scotland,CasesByDate,313
+29/04/2020,Northern Ireland,CasesByDate,55
+30/04/2020,Scotland,CasesByDate,319
+30/04/2020,Northern Ireland,CasesByDate,73
+30/04/2020,Wales,CasesByDate,183
+30/04/2020,England,CasesByDate,2484
+01/05/2020,England,CasesByDate,2501
+01/05/2020,Northern Ireland,CasesByDate,87
+01/05/2020,Scotland,CasesByDate,301
+01/05/2020,Wales,CasesByDate,160
+02/05/2020,Wales,CasesByDate,183
+02/05/2020,England,CasesByDate,2228
+02/05/2020,Scotland,CasesByDate,273
+02/05/2020,Northern Ireland,CasesByDate,66
+03/05/2020,Northern Ireland,CasesByDate,78
+03/05/2020,Scotland,CasesByDate,170
+03/05/2020,Wales,CasesByDate,174
+03/05/2020,England,CasesByDate,2019
+04/05/2020,England,CasesByDate,1485
+04/05/2020,Scotland,CasesByDate,169
+04/05/2020,Northern Ireland,CasesByDate,69
+04/05/2020,Wales,CasesByDate,195
+05/05/2020,Wales,CasesByDate,145
+05/05/2020,England,CasesByDate,1842
+05/05/2020,Northern Ireland,CasesByDate,45
+05/05/2020,Scotland,CasesByDate,171
+06/05/2020,Northern Ireland,CasesByDate,53
+06/05/2020,Scotland,CasesByDate,272
+06/05/2020,Wales,CasesByDate,95
+06/05/2020,England,CasesByDate,1611
+07/05/2020,England,CasesByDate,2133
+07/05/2020,Scotland,CasesByDate,215
+07/05/2020,Northern Ireland,CasesByDate,50
+07/05/2020,Wales,CasesByDate,87
+08/05/2020,Wales,CasesByDate,152
+08/05/2020,England,CasesByDate,1694
+08/05/2020,Northern Ireland,CasesByDate,38
+08/05/2020,Scotland,CasesByDate,225
+09/05/2020,Northern Ireland,CasesByDate,56
+09/05/2020,Scotland,CasesByDate,156
+09/05/2020,Wales,CasesByDate,118
+09/05/2020,England,CasesByDate,1349
+10/05/2020,England,CasesByDate,1007
+10/05/2020,Scotland,CasesByDate,181
+10/05/2020,Northern Ireland,CasesByDate,41
+10/05/2020,Wales,CasesByDate,223
+11/05/2020,Wales,CasesByDate,124
+11/05/2020,England,CasesByDate,891
+11/05/2020,Scotland,CasesByDate,141
+11/05/2020,Northern Ireland,CasesByDate,30
+12/05/2020,Scotland,CasesByDate,136
+12/05/2020,Northern Ireland,CasesByDate,44
+12/05/2020,Wales,CasesByDate,105
+12/05/2020,England,CasesByDate,1067
+13/05/2020,England,CasesByDate,1146
+13/05/2020,Northern Ireland,CasesByDate,60
+13/05/2020,Scotland,CasesByDate,166
+13/05/2020,Wales,CasesByDate,133
+14/05/2020,Wales,CasesByDate,128
+14/05/2020,England,CasesByDate,1189
+14/05/2020,Northern Ireland,CasesByDate,38
+14/05/2020,Scotland,CasesByDate,188
+15/05/2020,Northern Ireland,CasesByDate,26
+15/05/2020,Scotland,CasesByDate,143
+15/05/2020,Wales,CasesByDate,126
+15/05/2020,England,CasesByDate,1112
+16/05/2020,England,CasesByDate,1136
+16/05/2020,Northern Ireland,CasesByDate,40
+16/05/2020,Scotland,CasesByDate,187
+16/05/2020,Wales,CasesByDate,183
+17/05/2020,Wales,CasesByDate,162
+17/05/2020,England,CasesByDate,788
+17/05/2020,Northern Ireland,CasesByDate,28
+17/05/2020,Scotland,CasesByDate,90
+18/05/2020,Northern Ireland,CasesByDate,16
+18/05/2020,Scotland,CasesByDate,57
+18/05/2020,Wales,CasesByDate,101
+18/05/2020,England,CasesByDate,816
+19/05/2020,England,CasesByDate,857
+19/05/2020,Scotland,CasesByDate,61
+19/05/2020,Northern Ireland,CasesByDate,20
+19/05/2020,Wales,CasesByDate,166
+20/05/2020,Wales,CasesByDate,110
+20/05/2020,England,CasesByDate,824
+20/05/2020,Northern Ireland,CasesByDate,18
+20/05/2020,Scotland,CasesByDate,96
+21/05/2020,Scotland,CasesByDate,105
+21/05/2020,Northern Ireland,CasesByDate,42
+21/05/2020,Wales,CasesByDate,166
+21/05/2020,England,CasesByDate,854
+22/05/2020,England,CasesByDate,1083
+22/05/2020,Northern Ireland,CasesByDate,23
+22/05/2020,Scotland,CasesByDate,113
+22/05/2020,Wales,CasesByDate,138
+23/05/2020,Wales,CasesByDate,185
+23/05/2020,England,CasesByDate,979
+23/05/2020,Scotland,CasesByDate,72
+23/05/2020,Northern Ireland,CasesByDate,41
+24/05/2020,Northern Ireland,CasesByDate,25
+24/05/2020,Scotland,CasesByDate,60
+24/05/2020,Wales,CasesByDate,140
+24/05/2020,England,CasesByDate,584
+25/05/2020,England,CasesByDate,494
+25/05/2020,Northern Ireland,CasesByDate,39
+25/05/2020,Scotland,CasesByDate,55
+25/05/2020,Wales,CasesByDate,106
+26/05/2020,Wales,CasesByDate,141
+26/05/2020,England,CasesByDate,492
+26/05/2020,Scotland,CasesByDate,29
+26/05/2020,Northern Ireland,CasesByDate,28
+27/05/2020,Scotland,CasesByDate,55
+27/05/2020,Northern Ireland,CasesByDate,26
+27/05/2020,Wales,CasesByDate,97
+27/05/2020,England,CasesByDate,609
+28/05/2020,England,CasesByDate,519
+28/05/2020,Scotland,CasesByDate,48
+28/05/2020,Northern Ireland,CasesByDate,16
+28/05/2020,Wales,CasesByDate,72
+29/05/2020,Wales,CasesByDate,102
+29/05/2020,England,CasesByDate,560
+29/05/2020,Scotland,CasesByDate,39
+29/05/2020,Northern Ireland,CasesByDate,17
+30/05/2020,Scotland,CasesByDate,55
+30/05/2020,Northern Ireland,CasesByDate,13
+30/05/2020,Wales,CasesByDate,86
+30/05/2020,England,CasesByDate,715
+31/05/2020,England,CasesByDate,320
+31/05/2020,Northern Ireland,CasesByDate,7
+31/05/2020,Scotland,CasesByDate,18
+31/05/2020,Wales,CasesByDate,82
+01/06/2020,Wales,CasesByDate,59
+01/06/2020,England,CasesByDate,294
+01/06/2020,Scotland,CasesByDate,18
+01/06/2020,Northern Ireland,CasesByDate,12
+02/06/2020,Scotland,CasesByDate,53
+02/06/2020,Northern Ireland,CasesByDate,4
+02/06/2020,Wales,CasesByDate,67
+02/06/2020,England,CasesByDate,444
+03/06/2020,England,CasesByDate,462
+03/06/2020,Northern Ireland,CasesByDate,8
+03/06/2020,Scotland,CasesByDate,33
+03/06/2020,Wales,CasesByDate,82
+04/06/2020,Wales,CasesByDate,35
+04/06/2020,England,CasesByDate,431
+04/06/2020,Northern Ireland,CasesByDate,33
+04/06/2020,Scotland,CasesByDate,49
+05/06/2020,Northern Ireland,CasesByDate,3
+05/06/2020,Scotland,CasesByDate,29
+05/06/2020,Wales,CasesByDate,76
+05/06/2020,England,CasesByDate,451
+06/06/2020,England,CasesByDate,422
+06/06/2020,Northern Ireland,CasesByDate,14
+06/06/2020,Scotland,CasesByDate,21
+06/06/2020,Wales,CasesByDate,42
+07/06/2020,Wales,CasesByDate,40
+07/06/2020,England,CasesByDate,228
+07/06/2020,Scotland,CasesByDate,18
+07/06/2020,Northern Ireland,CasesByDate,6
+08/06/2020,Scotland,CasesByDate,18
+08/06/2020,Northern Ireland,CasesByDate,6
+08/06/2020,Wales,CasesByDate,42
+08/06/2020,England,CasesByDate,92
+09/06/2020,England,CasesByDate,651
+09/06/2020,Scotland,CasesByDate,14
+09/06/2020,Northern Ireland,CasesByDate,3
+09/06/2020,Wales,CasesByDate,42
+10/06/2020,Wales,CasesByDate,38
+10/06/2020,England,CasesByDate,63
+10/06/2020,Northern Ireland,CasesByDate,13
+10/06/2020,Scotland,CasesByDate,12
+11/06/2020,Northern Ireland,CasesByDate,4
+11/06/2020,Scotland,CasesByDate,17
+11/06/2020,Wales,CasesByDate,63
+11/06/2020,England,CasesByDate,304
+12/06/2020,England,CasesByDate,392
+12/06/2020,Scotland,CasesByDate,27
+12/06/2020,Northern Ireland,CasesByDate,16
+12/06/2020,Wales,CasesByDate,77
+13/06/2020,Wales,CasesByDate,45
+13/06/2020,England,CasesByDate,372
+13/06/2020,Northern Ireland,CasesByDate,3
+13/06/2020,Scotland,CasesByDate,21
+14/06/2020,Scotland,CasesByDate,25
+14/06/2020,Northern Ireland,CasesByDate,7
+14/06/2020,Wales,CasesByDate,39
+14/06/2020,England,CasesByDate,292
+15/06/2020,England,CasesByDate,219
+15/06/2020,Northern Ireland,CasesByDate,4
+15/06/2020,Scotland,CasesByDate,29
+15/06/2020,Wales,CasesByDate,62
+16/06/2020,Wales,CasesByDate,65
+16/06/2020,England,CasesByDate,252
+16/06/2020,Scotland,CasesByDate,15
+16/06/2020,Northern Ireland,CasesByDate,2
+17/06/2020,Northern Ireland,CasesByDate,8
+17/06/2020,Scotland,CasesByDate,21
+17/06/2020,Wales,CasesByDate,53
+17/06/2020,England,CasesByDate,252
+18/06/2020,England,CasesByDate,281
+18/06/2020,Northern Ireland,CasesByDate,1
+18/06/2020,Scotland,CasesByDate,11
+18/06/2020,Wales,CasesByDate,48
+19/06/2020,Wales,CasesByDate,31
+19/06/2020,England,CasesByDate,323
+19/06/2020,Scotland,CasesByDate,27
+19/06/2020,Northern Ireland,CasesByDate,3
+20/06/2020,Scotland,CasesByDate,26
+20/06/2020,Northern Ireland,CasesByDate,0
+20/06/2020,Wales,CasesByDate,25
+20/06/2020,England,CasesByDate,324
+21/06/2020,England,CasesByDate,215
+21/06/2020,Scotland,CasesByDate,26
+21/06/2020,Northern Ireland,CasesByDate,4
+21/06/2020,Wales,CasesByDate,100
+22/06/2020,Wales,CasesByDate,71
+22/06/2020,England,CasesByDate,178
+22/06/2020,Scotland,CasesByDate,14
+22/06/2020,Northern Ireland,CasesByDate,1
+23/06/2020,Northern Ireland,CasesByDate,0
+23/06/2020,Scotland,CasesByDate,12
+23/06/2020,Wales,CasesByDate,51
+23/06/2020,England,CasesByDate,210
+24/06/2020,England,CasesByDate,107
+24/06/2020,Scotland,CasesByDate,9
+24/06/2020,Northern Ireland,CasesByDate,2
+24/06/2020,Wales,CasesByDate,47
+25/06/2020,Wales,CasesByDate,125
+25/06/2020,England,CasesByDate,261
+25/06/2020,Scotland,CasesByDate,5
+25/06/2020,Northern Ireland,CasesByDate,1
+26/06/2020,Northern Ireland,CasesByDate,4
+26/06/2020,Scotland,CasesByDate,17
+26/06/2020,Wales,CasesByDate,65
+26/06/2020,England,CasesByDate,175
+27/06/2020,England,CasesByDate,192
+27/06/2020,Scotland,CasesByDate,15
+27/06/2020,Northern Ireland,CasesByDate,2
+27/06/2020,Wales,CasesByDate,46
+28/06/2020,Wales,CasesByDate,25
+28/06/2020,England,CasesByDate,142
+28/06/2020,Scotland,CasesByDate,8
+28/06/2020,Northern Ireland,CasesByDate,1
+29/06/2020,Northern Ireland,CasesByDate,6
+29/06/2020,Scotland,CasesByDate,5
+29/06/2020,Wales,CasesByDate,116
+29/06/2020,England,CasesByDate,99
+30/06/2020,England,CasesByDate,196
+30/06/2020,Northern Ireland,CasesByDate,3
+30/06/2020,Scotland,CasesByDate,10
+30/06/2020,Wales,CasesByDate,26
+01/07/2020,Wales,CasesByDate,32
+01/07/2020,England,CasesByDate,177
+01/07/2020,Northern Ireland,CasesByDate,1
+01/07/2020,Scotland,CasesByDate,8
+02/07/2020,Scotland,CasesByDate,5
+02/07/2020,Northern Ireland,CasesByDate,7
+02/07/2020,Wales,CasesByDate,41
+02/07/2020,England,CasesByDate,523
+03/07/2020,England,CasesByDate,502
+03/07/2020,Scotland,CasesByDate,12
+03/07/2020,Northern Ireland,CasesByDate,4
+03/07/2020,Wales,CasesByDate,26
+04/07/2020,Wales,CasesByDate,34
+04/07/2020,England,CasesByDate,579
+04/07/2020,Scotland,CasesByDate,11
+04/07/2020,Northern Ireland,CasesByDate,0
+05/07/2020,Northern Ireland,CasesByDate,0
+05/07/2020,Scotland,CasesByDate,9
+05/07/2020,Wales,CasesByDate,15
+05/07/2020,England,CasesByDate,492
+06/07/2020,England,CasesByDate,331
+06/07/2020,Scotland,CasesByDate,4
+06/07/2020,Northern Ireland,CasesByDate,0
+06/07/2020,Wales,CasesByDate,8
+07/07/2020,Wales,CasesByDate,2
+07/07/2020,England,CasesByDate,572
+07/07/2020,Northern Ireland,CasesByDate,5
+07/07/2020,Scotland,CasesByDate,2
+08/07/2020,Northern Ireland,CasesByDate,4
+08/07/2020,Scotland,CasesByDate,7
+08/07/2020,Wales,CasesByDate,13
+08/07/2020,England,CasesByDate,606
+09/07/2020,England,CasesByDate,617
+09/07/2020,Scotland,CasesByDate,6
+09/07/2020,Northern Ireland,CasesByDate,3
+09/07/2020,Wales,CasesByDate,16
+10/07/2020,Wales,CasesByDate,10
+10/07/2020,England,CasesByDate,480
+10/07/2020,Northern Ireland,CasesByDate,4
+10/07/2020,Scotland,CasesByDate,18
+11/07/2020,Scotland,CasesByDate,7
+11/07/2020,Northern Ireland,CasesByDate,0
+11/07/2020,Wales,CasesByDate,7
+11/07/2020,England,CasesByDate,806
+12/07/2020,England,CasesByDate,615
+12/07/2020,Scotland,CasesByDate,19
+12/07/2020,Northern Ireland,CasesByDate,0
+12/07/2020,Wales,CasesByDate,16
+13/07/2020,Wales,CasesByDate,11
+13/07/2020,England,CasesByDate,497
+13/07/2020,Northern Ireland,CasesByDate,0
+13/07/2020,Scotland,CasesByDate,6
+14/07/2020,Scotland,CasesByDate,3
+14/07/2020,Northern Ireland,CasesByDate,2
+14/07/2020,Wales,CasesByDate,21
+14/07/2020,England,CasesByDate,372
+15/07/2020,England,CasesByDate,506
+15/07/2020,Northern Ireland,CasesByDate,9
+15/07/2020,Scotland,CasesByDate,5
+15/07/2020,Wales,CasesByDate,18
+16/07/2020,Wales,CasesByDate,18
+16/07/2020,England,CasesByDate,597
+16/07/2020,Scotland,CasesByDate,11
+16/07/2020,Northern Ireland,CasesByDate,16
+17/07/2020,Northern Ireland,CasesByDate,19
+17/07/2020,Scotland,CasesByDate,17
+17/07/2020,Wales,CasesByDate,16
+17/07/2020,England,CasesByDate,635
+18/07/2020,England,CasesByDate,796
+18/07/2020,Scotland,CasesByDate,21
+18/07/2020,Northern Ireland,CasesByDate,0
+18/07/2020,Wales,CasesByDate,10
+19/07/2020,Wales,CasesByDate,31
+19/07/2020,England,CasesByDate,672
+19/07/2020,Northern Ireland,CasesByDate,0
+19/07/2020,Scotland,CasesByDate,23
+20/07/2020,Scotland,CasesByDate,7
+20/07/2020,Northern Ireland,CasesByDate,0
+20/07/2020,Wales,CasesByDate,15
+20/07/2020,England,CasesByDate,535
+21/07/2020,England,CasesByDate,399
+21/07/2020,Scotland,CasesByDate,22
+21/07/2020,Northern Ireland,CasesByDate,2
+21/07/2020,Wales,CasesByDate,22
+22/07/2020,Wales,CasesByDate,22
+22/07/2020,England,CasesByDate,519
+22/07/2020,Northern Ireland,CasesByDate,9
+22/07/2020,Scotland,CasesByDate,10
+23/07/2020,Northern Ireland,CasesByDate,8
+23/07/2020,Scotland,CasesByDate,16
+23/07/2020,Wales,CasesByDate,43
+23/07/2020,England,CasesByDate,702
+24/07/2020,England,CasesByDate,688
+24/07/2020,Scotland,CasesByDate,20
+24/07/2020,Northern Ireland,CasesByDate,15
+24/07/2020,Wales,CasesByDate,45
+25/07/2020,Wales,CasesByDate,30
+25/07/2020,England,CasesByDate,710
+25/07/2020,Northern Ireland,CasesByDate,0
+25/07/2020,Scotland,CasesByDate,27
+26/07/2020,Northern Ireland,CasesByDate,0
+26/07/2020,Scotland,CasesByDate,4
+26/07/2020,Wales,CasesByDate,22
+26/07/2020,England,CasesByDate,721
+27/07/2020,England,CasesByDate,616
+27/07/2020,Scotland,CasesByDate,3
+27/07/2020,Northern Ireland,CasesByDate,0
+27/07/2020,Wales,CasesByDate,45
+28/07/2020,Wales,CasesByDate,21
+28/07/2020,England,CasesByDate,547
+28/07/2020,Northern Ireland,CasesByDate,9
+28/07/2020,Scotland,CasesByDate,4
+29/07/2020,Scotland,CasesByDate,22
+29/07/2020,Northern Ireland,CasesByDate,9
+29/07/2020,Wales,CasesByDate,32
+29/07/2020,England,CasesByDate,700
+30/07/2020,England,CasesByDate,812
+30/07/2020,Scotland,CasesByDate,17
+30/07/2020,Northern Ireland,CasesByDate,8
+30/07/2020,Wales,CasesByDate,9
+31/07/2020,Wales,CasesByDate,26
+31/07/2020,England,CasesByDate,814
+31/07/2020,Scotland,CasesByDate,30
+31/07/2020,Northern Ireland,CasesByDate,10
+01/08/2020,Scotland,CasesByDate,18
+01/08/2020,Northern Ireland,CasesByDate,0
+01/08/2020,Wales,CasesByDate,21
+01/08/2020,England,CasesByDate,722
+02/08/2020,England,CasesByDate,676
+02/08/2020,Scotland,CasesByDate,31
+02/08/2020,Northern Ireland,CasesByDate,0
+02/08/2020,Wales,CasesByDate,37
+03/08/2020,Wales,CasesByDate,24
+03/08/2020,England,CasesByDate,856
+03/08/2020,Northern Ireland,CasesByDate,0
+03/08/2020,Scotland,CasesByDate,18
+04/08/2020,Northern Ireland,CasesByDate,8
+04/08/2020,Scotland,CasesByDate,23
+04/08/2020,Wales,CasesByDate,22
+04/08/2020,England,CasesByDate,617
+05/08/2020,England,CasesByDate,804
+05/08/2020,Scotland,CasesByDate,64
+05/08/2020,Northern Ireland,CasesByDate,10
+05/08/2020,Wales,CasesByDate,14
+06/08/2020,Wales,CasesByDate,15
+06/08/2020,England,CasesByDate,826
+06/08/2020,Scotland,CasesByDate,66
+06/08/2020,Northern Ireland,CasesByDate,43
+07/08/2020,Northern Ireland,CasesByDate,15
+07/08/2020,Scotland,CasesByDate,43
+07/08/2020,Wales,CasesByDate,17
+07/08/2020,England,CasesByDate,796
+08/08/2020,England,CasesByDate,679
+08/08/2020,Northern Ireland,CasesByDate,0
+08/08/2020,Scotland,CasesByDate,60
+08/08/2020,Wales,CasesByDate,19
+09/08/2020,Wales,CasesByDate,26
+09/08/2020,England,CasesByDate,988
+09/08/2020,Scotland,CasesByDate,48
+09/08/2020,Northern Ireland,CasesByDate,0
+10/08/2020,Scotland,CasesByDate,29
+10/08/2020,Northern Ireland,CasesByDate,0
+10/08/2020,Wales,CasesByDate,12
+10/08/2020,England,CasesByDate,699
+11/08/2020,England,CasesByDate,1035
+11/08/2020,Northern Ireland,CasesByDate,48
+11/08/2020,Scotland,CasesByDate,52
+11/08/2020,Wales,CasesByDate,13
+12/08/2020,Wales,CasesByDate,8
+12/08/2020,England,CasesByDate,925
+12/08/2020,Northern Ireland,CasesByDate,29
+12/08/2020,Scotland,CasesByDate,47
+13/08/2020,Scotland,CasesByDate,47
+13/08/2020,Northern Ireland,CasesByDate,8
+13/08/2020,Wales,CasesByDate,15
+13/08/2020,England,CasesByDate,1059
+14/08/2020,England,CasesByDate,1284
+14/08/2020,Northern Ireland,CasesByDate,74
+14/08/2020,Scotland,CasesByDate,65
+14/08/2020,Wales,CasesByDate,18
+15/08/2020,Wales,CasesByDate,27
+15/08/2020,England,CasesByDate,934
+15/08/2020,Northern Ireland,CasesByDate,65
+15/08/2020,Scotland,CasesByDate,51
+16/08/2020,Scotland,CasesByDate,43
+16/08/2020,Northern Ireland,CasesByDate,27
+16/08/2020,Wales,CasesByDate,18
+16/08/2020,England,CasesByDate,952
+17/08/2020,England,CasesByDate,634
+17/08/2020,Northern Ireland,CasesByDate,39
+17/08/2020,Scotland,CasesByDate,26
+17/08/2020,Wales,CasesByDate,14
+18/08/2020,Wales,CasesByDate,24
+18/08/2020,England,CasesByDate,975
+18/08/2020,Scotland,CasesByDate,49
+18/08/2020,Northern Ireland,CasesByDate,41
+19/08/2020,Northern Ireland,CasesByDate,34
+19/08/2020,Scotland,CasesByDate,50
+19/08/2020,Wales,CasesByDate,21
+19/08/2020,England,CasesByDate,707
+20/08/2020,England,CasesByDate,1035
+20/08/2020,Northern Ireland,CasesByDate,51
+20/08/2020,Scotland,CasesByDate,77
+20/08/2020,Wales,CasesByDate,19
+21/08/2020,Wales,CasesByDate,34
+21/08/2020,England,CasesByDate,908
+21/08/2020,Scotland,CasesByDate,71
+21/08/2020,Northern Ireland,CasesByDate,20
+22/08/2020,Scotland,CasesByDate,123
+22/08/2020,Northern Ireland,CasesByDate,71
+22/08/2020,Wales,CasesByDate,34
+22/08/2020,England,CasesByDate,1060
+23/08/2020,England,CasesByDate,938
+23/08/2020,Northern Ireland,CasesByDate,119
+23/08/2020,Scotland,CasesByDate,83
+23/08/2020,Wales,CasesByDate,20
+24/08/2020,Wales,CasesByDate,19
+24/08/2020,England,CasesByDate,758
+24/08/2020,Scotland,CasesByDate,66
+24/08/2020,Northern Ireland,CasesByDate,10
+25/08/2020,Scotland,CasesByDate,44
+25/08/2020,Northern Ireland,CasesByDate,47
+25/08/2020,Wales,CasesByDate,28
+25/08/2020,England,CasesByDate,1065
+26/08/2020,England,CasesByDate,875
+26/08/2020,Northern Ireland,CasesByDate,72
+26/08/2020,Scotland,CasesByDate,67
+26/08/2020,Wales,CasesByDate,34
+27/08/2020,Wales,CasesByDate,35
+27/08/2020,England,CasesByDate,1350
+27/08/2020,Northern Ireland,CasesByDate,69
+27/08/2020,Scotland,CasesByDate,68
+28/08/2020,Scotland,CasesByDate,51
+28/08/2020,Northern Ireland,CasesByDate,85
+28/08/2020,Wales,CasesByDate,34
+28/08/2020,England,CasesByDate,1106
+29/08/2020,England,CasesByDate,891
+29/08/2020,Northern Ireland,CasesByDate,89
+29/08/2020,Scotland,CasesByDate,88
+29/08/2020,Wales,CasesByDate,40
+30/08/2020,Wales,CasesByDate,56
+30/08/2020,England,CasesByDate,1487
+30/08/2020,Scotland,CasesByDate,123
+30/08/2020,Northern Ireland,CasesByDate,49
+31/08/2020,Northern Ireland,CasesByDate,58
+31/08/2020,Scotland,CasesByDate,160
+31/08/2020,Wales,CasesByDate,39
+31/08/2020,England,CasesByDate,1149
+01/09/2020,England,CasesByDate,1041
+01/09/2020,Scotland,CasesByDate,154
+01/09/2020,Northern Ireland,CasesByDate,49
+01/09/2020,Wales,CasesByDate,51
+02/09/2020,Wales,CasesByDate,42
+02/09/2020,England,CasesByDate,1239
+02/09/2020,Scotland,CasesByDate,156
+02/09/2020,Northern Ireland,CasesByDate,71
+03/09/2020,Northern Ireland,CasesByDate,77
+03/09/2020,Scotland,CasesByDate,101
+03/09/2020,Wales,CasesByDate,50
+03/09/2020,England,CasesByDate,1507
+04/09/2020,England,CasesByDate,1669
+04/09/2020,Northern Ireland,CasesByDate,61
+04/09/2020,Scotland,CasesByDate,159
+04/09/2020,Wales,CasesByDate,51
+05/09/2020,Wales,CasesByDate,77
+05/09/2020,England,CasesByDate,1477
+05/09/2020,Scotland,CasesByDate,141
+05/09/2020,Northern Ireland,CasesByDate,118
+06/09/2020,Northern Ireland,CasesByDate,106
+06/09/2020,Scotland,CasesByDate,208
+06/09/2020,Wales,CasesByDate,98
+06/09/2020,England,CasesByDate,2576
+07/09/2020,England,CasesByDate,2528
+07/09/2020,Scotland,CasesByDate,146
+07/09/2020,Northern Ireland,CasesByDate,141
+07/09/2020,Wales,CasesByDate,133
+08/09/2020,Wales,CasesByDate,150
+08/09/2020,England,CasesByDate,2094
+08/09/2020,Northern Ireland,CasesByDate,40
+08/09/2020,Scotland,CasesByDate,176
+09/09/2020,Northern Ireland,CasesByDate,49
+09/09/2020,Scotland,CasesByDate,159
+09/09/2020,Wales,CasesByDate,165
+09/09/2020,England,CasesByDate,2286
+10/09/2020,England,CasesByDate,2578
+10/09/2020,Northern Ireland,CasesByDate,78
+10/09/2020,Scotland,CasesByDate,161
+10/09/2020,Wales,CasesByDate,102
+11/09/2020,Wales,CasesByDate,133
+11/09/2020,England,CasesByDate,3143
+11/09/2020,Northern Ireland,CasesByDate,88
+11/09/2020,Scotland,CasesByDate,175
+12/09/2020,Scotland,CasesByDate,221
+12/09/2020,Northern Ireland,CasesByDate,104
+12/09/2020,Wales,CasesByDate,164
+12/09/2020,England,CasesByDate,3008
+13/09/2020,England,CasesByDate,2837
+13/09/2020,Scotland,CasesByDate,244
+13/09/2020,Northern Ireland,CasesByDate,87
+13/09/2020,Wales,CasesByDate,162
+14/09/2020,Wales,CasesByDate,183
+14/09/2020,England,CasesByDate,2259
+14/09/2020,Scotland,CasesByDate,70
+14/09/2020,Northern Ireland,CasesByDate,109
+15/09/2020,Northern Ireland,CasesByDate,79
+15/09/2020,Scotland,CasesByDate,267
+15/09/2020,Wales,CasesByDate,110
+15/09/2020,England,CasesByDate,2649
+16/09/2020,England,CasesByDate,3396
+16/09/2020,Scotland,CasesByDate,267
+16/09/2020,Northern Ireland,CasesByDate,129
+16/09/2020,Wales,CasesByDate,199
+17/09/2020,Wales,CasesByDate,168
+17/09/2020,England,CasesByDate,2788
+17/09/2020,Scotland,CasesByDate,290
+17/09/2020,Northern Ireland,CasesByDate,149
+18/09/2020,Northern Ireland,CasesByDate,163
+18/09/2020,Scotland,CasesByDate,203
+18/09/2020,Wales,CasesByDate,185
+18/09/2020,England,CasesByDate,3771
+19/09/2020,England,CasesByDate,3638
+19/09/2020,Scotland,CasesByDate,350
+19/09/2020,Northern Ireland,CasesByDate,222
+19/09/2020,Wales,CasesByDate,212
+20/09/2020,Wales,CasesByDate,199
+20/09/2020,England,CasesByDate,3279
+20/09/2020,Northern Ireland,CasesByDate,176
+20/09/2020,Scotland,CasesByDate,245
+21/09/2020,Northern Ireland,CasesByDate,125
+21/09/2020,Scotland,CasesByDate,255
+21/09/2020,Wales,CasesByDate,234
+21/09/2020,England,CasesByDate,3754
+22/09/2020,England,CasesByDate,4187
+22/09/2020,Northern Ireland,CasesByDate,75
+22/09/2020,Scotland,CasesByDate,383
+22/09/2020,Wales,CasesByDate,281
+23/09/2020,Wales,CasesByDate,389
+23/09/2020,England,CasesByDate,5083
+23/09/2020,Northern Ireland,CasesByDate,220
+23/09/2020,Scotland,CasesByDate,486
+24/09/2020,Scotland,CasesByDate,465
+24/09/2020,Northern Ireland,CasesByDate,189
+24/09/2020,Wales,CasesByDate,348
+24/09/2020,England,CasesByDate,5632
+25/09/2020,England,CasesByDate,5723
+25/09/2020,Northern Ireland,CasesByDate,273
+25/09/2020,Scotland,CasesByDate,558
+25/09/2020,Wales,CasesByDate,320
+26/09/2020,Wales,CasesByDate,370
+26/09/2020,England,CasesByDate,4639
+26/09/2020,Scotland,CasesByDate,714
+26/09/2020,Northern Ireland,CasesByDate,319
+27/09/2020,Northern Ireland,CasesByDate,187
+27/09/2020,Scotland,CasesByDate,344
+27/09/2020,Wales,CasesByDate,362
+27/09/2020,England,CasesByDate,4800
+28/09/2020,England,CasesByDate,3316
+28/09/2020,Northern Ireland,CasesByDate,220
+28/09/2020,Scotland,CasesByDate,222
+28/09/2020,Wales,CasesByDate,286
+29/09/2020,Wales,CasesByDate,366
+29/09/2020,England,CasesByDate,5651
+29/09/2020,Northern Ireland,CasesByDate,320
+29/09/2020,Scotland,CasesByDate,806
+30/09/2020,Scotland,CasesByDate,640
+30/09/2020,Northern Ireland,CasesByDate,424
+30/09/2020,Wales,CasesByDate,388
+30/09/2020,England,CasesByDate,5656
+01/10/2020,England,CasesByDate,5589
+01/10/2020,Northern Ireland,CasesByDate,259
+01/10/2020,Scotland,CasesByDate,668
+01/10/2020,Wales,CasesByDate,398
+02/10/2020,Wales,CasesByDate,462
+02/10/2020,England,CasesByDate,4797
+02/10/2020,Scotland,CasesByDate,775
+02/10/2020,Northern Ireland,CasesByDate,934
+03/10/2020,Northern Ireland,CasesByDate,726
+03/10/2020,Scotland,CasesByDate,764
+03/10/2020,Wales,CasesByDate,576
+03/10/2020,England,CasesByDate,10806
+04/10/2020,England,CasesByDate,21309
+04/10/2020,Scotland,CasesByDate,758
+04/10/2020,Northern Ireland,CasesByDate,462
+04/10/2020,Wales,CasesByDate,432
+05/10/2020,Wales,CasesByDate,596
+05/10/2020,England,CasesByDate,10685
+05/10/2020,Northern Ireland,CasesByDate,616
+05/10/2020,Scotland,CasesByDate,697
+06/10/2020,Scotland,CasesByDate,800
+06/10/2020,Northern Ireland,CasesByDate,669
+06/10/2020,Wales,CasesByDate,425
+06/10/2020,England,CasesByDate,12648
+07/10/2020,England,CasesByDate,11528
+07/10/2020,Northern Ireland,CasesByDate,828
+07/10/2020,Scotland,CasesByDate,1054
+07/10/2020,Wales,CasesByDate,752
+08/10/2020,Wales,CasesByDate,638
+08/10/2020,England,CasesByDate,14952
+08/10/2020,Northern Ireland,CasesByDate,923
+08/10/2020,Scotland,CasesByDate,1027
+09/10/2020,Scotland,CasesByDate,1246
+09/10/2020,Northern Ireland,CasesByDate,1080
+09/10/2020,Wales,CasesByDate,766
+09/10/2020,England,CasesByDate,10772
+10/10/2020,England,CasesByDate,12628
+10/10/2020,Scotland,CasesByDate,1009
+10/10/2020,Northern Ireland,CasesByDate,902
+10/10/2020,Wales,CasesByDate,627
+11/10/2020,Wales,CasesByDate,467
+11/10/2020,England,CasesByDate,10383
+11/10/2020,Northern Ireland,CasesByDate,1066
+11/10/2020,Scotland,CasesByDate,956
+12/10/2020,Northern Ireland,CasesByDate,877
+12/10/2020,Scotland,CasesByDate,961
+12/10/2020,Wales,CasesByDate,487
+12/10/2020,England,CasesByDate,11647
+13/10/2020,England,CasesByDate,14310
+13/10/2020,Northern Ireland,CasesByDate,863
+13/10/2020,Scotland,CasesByDate,1297
+13/10/2020,Wales,CasesByDate,764
+14/10/2020,Wales,CasesByDate,946
+14/10/2020,England,CasesByDate,16132
+14/10/2020,Scotland,CasesByDate,1429
+14/10/2020,Northern Ireland,CasesByDate,1217
+15/10/2020,Northern Ireland,CasesByDate,763
+15/10/2020,Scotland,CasesByDate,1351
+15/10/2020,Wales,CasesByDate,727
+15/10/2020,England,CasesByDate,16139
+16/10/2020,England,CasesByDate,12176
+16/10/2020,Scotland,CasesByDate,1196
+16/10/2020,Northern Ireland,CasesByDate,1299
+16/10/2020,Wales,CasesByDate,979
+17/10/2020,Wales,CasesByDate,674
+17/10/2020,England,CasesByDate,13299
+17/10/2020,Scotland,CasesByDate,1167
+17/10/2020,Northern Ireland,CasesByDate,1031
+18/10/2020,Northern Ireland,CasesByDate,1012
+18/10/2020,Scotland,CasesByDate,316
+18/10/2020,England,CasesByDate,14704
+18/10/2020,Wales,CasesByDate,950
+19/10/2020,England,CasesByDate,16365
+19/10/2020,Wales,CasesByDate,626
+19/10/2020,Scotland,CasesByDate,993
+19/10/2020,Northern Ireland,CasesByDate,820
+20/10/2020,Northern Ireland,CasesByDate,913
+20/10/2020,Scotland,CasesByDate,1456
+20/10/2020,Wales,CasesByDate,1148
+20/10/2020,England,CasesByDate,17814
+21/10/2020,Wales,CasesByDate,962
+21/10/2020,England,CasesByDate,22948
+21/10/2020,Scotland,CasesByDate,1739
+21/10/2020,Northern Ireland,CasesByDate,1039
+22/10/2020,Scotland,CasesByDate,1712
+22/10/2020,Northern Ireland,CasesByDate,1042
+22/10/2020,Wales,CasesByDate,1134
+22/10/2020,England,CasesByDate,17354
+23/10/2020,England,CasesByDate,17116
+23/10/2020,Wales,CasesByDate,761
+23/10/2020,Northern Ireland,CasesByDate,1252
+23/10/2020,Scotland,CasesByDate,1401
+24/10/2020,Northern Ireland,CasesByDate,923
+24/10/2020,Scotland,CasesByDate,1433
+24/10/2020,Wales,CasesByDate,1324
+24/10/2020,England,CasesByDate,19332
+25/10/2020,England,CasesByDate,16487
+25/10/2020,Wales,CasesByDate,1104
+25/10/2020,Northern Ireland,CasesByDate,896
+25/10/2020,Scotland,CasesByDate,1303
+26/10/2020,Northern Ireland,CasesByDate,727
+26/10/2020,Scotland,CasesByDate,1122
+26/10/2020,England,CasesByDate,17883
+26/10/2020,Wales,CasesByDate,1158
+27/10/2020,Wales,CasesByDate,1207
+27/10/2020,England,CasesByDate,19629
+27/10/2020,Scotland,CasesByDate,1327
+27/10/2020,Northern Ireland,CasesByDate,722
+28/10/2020,Scotland,CasesByDate,1202
+28/10/2020,Northern Ireland,CasesByDate,840
+28/10/2020,England,CasesByDate,21245
+28/10/2020,Wales,CasesByDate,1414
+29/10/2020,Wales,CasesByDate,1375
+29/10/2020,England,CasesByDate,19740
+29/10/2020,Northern Ireland,CasesByDate,822
+29/10/2020,Scotland,CasesByDate,1128
+30/10/2020,Northern Ireland,CasesByDate,566
+30/10/2020,Scotland,CasesByDate,1281
+30/10/2020,Wales,CasesByDate,1737
+30/10/2020,England,CasesByDate,20821
+31/10/2020,England,CasesByDate,18864
+31/10/2020,Wales,CasesByDate,1301
+31/10/2020,Scotland,CasesByDate,1101
+31/10/2020,Northern Ireland,CasesByDate,649
+01/11/2020,Scotland,CasesByDate,1148
+01/11/2020,Northern Ireland,CasesByDate,685
+01/11/2020,England,CasesByDate,20602
+01/11/2020,Wales,CasesByDate,819
+02/11/2020,Wales,CasesByDate,1646
+02/11/2020,England,CasesByDate,15860
+02/11/2020,Northern Ireland,CasesByDate,493
+02/11/2020,Scotland,CasesByDate,951
+03/11/2020,Scotland,CasesByDate,999
+03/11/2020,Northern Ireland,CasesByDate,570
+03/11/2020,Wales,CasesByDate,1119
+03/11/2020,England,CasesByDate,17330
+04/11/2020,Wales,CasesByDate,1202
+04/11/2020,England,CasesByDate,21863
+04/11/2020,Northern Ireland,CasesByDate,679
+04/11/2020,Scotland,CasesByDate,1433
+05/11/2020,Northern Ireland,CasesByDate,516
+05/11/2020,Scotland,CasesByDate,1216
+05/11/2020,Wales,CasesByDate,1272
+05/11/2020,England,CasesByDate,21137
+06/11/2020,England,CasesByDate,20268
+06/11/2020,Wales,CasesByDate,1352
+06/11/2020,Scotland,CasesByDate,1072
+06/11/2020,Northern Ireland,CasesByDate,595
+07/11/2020,Northern Ireland,CasesByDate,528
+07/11/2020,Scotland,CasesByDate,1596
+07/11/2020,England,CasesByDate,21875
+07/11/2020,Wales,CasesByDate,958
+08/11/2020,Wales,CasesByDate,744
+08/11/2020,England,CasesByDate,18293
+08/11/2020,Scotland,CasesByDate,1115
+08/11/2020,Northern Ireland,CasesByDate,420
+09/11/2020,Northern Ireland,CasesByDate,471
+09/11/2020,Scotland,CasesByDate,912
+09/11/2020,England,CasesByDate,19036
+09/11/2020,Wales,CasesByDate,931
+10/11/2020,Wales,CasesByDate,444
+10/11/2020,England,CasesByDate,18622
+10/11/2020,Scotland,CasesByDate,832
+10/11/2020,Northern Ireland,CasesByDate,514
+11/11/2020,Northern Ireland,CasesByDate,791
+11/11/2020,Scotland,CasesByDate,1261
+11/11/2020,Wales,CasesByDate,928
+11/11/2020,England,CasesByDate,19970
+12/11/2020,Wales,CasesByDate,867
+12/11/2020,Scotland,CasesByDate,1212
+12/11/2020,England,CasesByDate,30843
+12/11/2020,Northern Ireland,CasesByDate,548
+13/11/2020,Northern Ireland,CasesByDate,607
+13/11/2020,England,CasesByDate,24540
+13/11/2020,Scotland,CasesByDate,1357
+13/11/2020,Wales,CasesByDate,797
+14/11/2020,England,CasesByDate,24298
+14/11/2020,Wales,CasesByDate,933
+14/11/2020,Scotland,CasesByDate,1118
+14/11/2020,Northern Ireland,CasesByDate,511
+15/11/2020,Northern Ireland,CasesByDate,472
+15/11/2020,Scotland,CasesByDate,1159
+15/11/2020,England,CasesByDate,21998
+15/11/2020,Wales,CasesByDate,1333
+16/11/2020,Scotland,CasesByDate,717
+16/11/2020,Wales,CasesByDate,892
+16/11/2020,England,CasesByDate,19423
+16/11/2020,Northern Ireland,CasesByDate,331
+17/11/2020,Northern Ireland,CasesByDate,549
+17/11/2020,Wales,CasesByDate,705
+17/11/2020,England,CasesByDate,17549
+17/11/2020,Scotland,CasesByDate,1248
+18/11/2020,England,CasesByDate,17189
+18/11/2020,Scotland,CasesByDate,1264
+18/11/2020,Wales,CasesByDate,638
+18/11/2020,Northern Ireland,CasesByDate,518
+19/11/2020,Northern Ireland,CasesByDate,487
+19/11/2020,Wales,CasesByDate,1048
+19/11/2020,Scotland,CasesByDate,1089
+19/11/2020,England,CasesByDate,20291
+20/11/2020,Scotland,CasesByDate,1018
+20/11/2020,England,CasesByDate,17845
+20/11/2020,Wales,CasesByDate,1020
+20/11/2020,Northern Ireland,CasesByDate,369
+21/11/2020,Northern Ireland,CasesByDate,357
+21/11/2020,Wales,CasesByDate,1016
+21/11/2020,Scotland,CasesByDate,887
+21/11/2020,England,CasesByDate,17615
+22/11/2020,England,CasesByDate,16668
+22/11/2020,Wales,CasesByDate,808
+22/11/2020,Scotland,CasesByDate,844
+22/11/2020,Northern Ireland,CasesByDate,342
+23/11/2020,Northern Ireland,CasesByDate,280
+23/11/2020,Scotland,CasesByDate,949
+23/11/2020,Wales,CasesByDate,892
+23/11/2020,England,CasesByDate,13329
+24/11/2020,Wales,CasesByDate,595
+24/11/2020,Scotland,CasesByDate,771
+24/11/2020,England,CasesByDate,9854
+24/11/2020,Northern Ireland,CasesByDate,79
+25/11/2020,Northern Ireland,CasesByDate,533
+25/11/2020,England,CasesByDate,15893
+25/11/2020,Wales,CasesByDate,907
+25/11/2020,Scotland,CasesByDate,880
+26/11/2020,England,CasesByDate,14637
+26/11/2020,Wales,CasesByDate,1251
+26/11/2020,Scotland,CasesByDate,1225
+26/11/2020,Northern Ireland,CasesByDate,442
+27/11/2020,Northern Ireland,CasesByDate,391
+27/11/2020,Scotland,CasesByDate,969
+27/11/2020,Wales,CasesByDate,1105
+27/11/2020,England,CasesByDate,13557
+28/11/2020,Wales,CasesByDate,1445
+28/11/2020,England,CasesByDate,13323
+28/11/2020,Scotland,CasesByDate,788
+28/11/2020,Northern Ireland,CasesByDate,315
+29/11/2020,Northern Ireland,CasesByDate,351
+29/11/2020,Scotland,CasesByDate,746
+29/11/2020,Wales,CasesByDate,1004
+29/11/2020,England,CasesByDate,10054
+30/11/2020,Scotland,CasesByDate,369
+30/11/2020,England,CasesByDate,10869
+30/11/2020,Wales,CasesByDate,802
+30/11/2020,Northern Ireland,CasesByDate,290
+01/12/2020,Northern Ireland,CasesByDate,391
+01/12/2020,Wales,CasesByDate,667
+01/12/2020,Scotland,CasesByDate,754
+01/12/2020,England,CasesByDate,11618
+02/12/2020,England,CasesByDate,13323
+02/12/2020,Scotland,CasesByDate,951
+02/12/2020,Wales,CasesByDate,1480
+02/12/2020,Northern Ireland,CasesByDate,416
+03/12/2020,Northern Ireland,CasesByDate,456
+03/12/2020,England,CasesByDate,11992
+03/12/2020,Wales,CasesByDate,1473
+03/12/2020,Scotland,CasesByDate,958
+04/12/2020,Scotland,CasesByDate,966
+04/12/2020,England,CasesByDate,13412
+04/12/2020,Wales,CasesByDate,1471
+04/12/2020,Northern Ireland,CasesByDate,449
+05/12/2020,Northern Ireland,CasesByDate,451
+05/12/2020,Scotland,CasesByDate,777
+05/12/2020,England,CasesByDate,12666
+05/12/2020,Wales,CasesByDate,1645
+06/12/2020,Scotland,CasesByDate,643
+06/12/2020,England,CasesByDate,14294
+06/12/2020,Wales,CasesByDate,1916
+06/12/2020,Northern Ireland,CasesByDate,419
+07/12/2020,Northern Ireland,CasesByDate,397
+07/12/2020,England,CasesByDate,11623
+07/12/2020,Scotland,CasesByDate,677
+07/12/2020,Wales,CasesByDate,2021
+08/12/2020,England,CasesByDate,10459
+08/12/2020,Scotland,CasesByDate,692
+08/12/2020,Wales,CasesByDate,780
+08/12/2020,Northern Ireland,CasesByDate,351
+09/12/2020,Northern Ireland,CasesByDate,483
+09/12/2020,Scotland,CasesByDate,897
+09/12/2020,Wales,CasesByDate,2238
+09/12/2020,England,CasesByDate,12960
+10/12/2020,England,CasesByDate,17622
+10/12/2020,Scotland,CasesByDate,933
+10/12/2020,Wales,CasesByDate,1968
+10/12/2020,Northern Ireland,CasesByDate,441
+11/12/2020,Northern Ireland,CasesByDate,538
+11/12/2020,Wales,CasesByDate,2234
+11/12/2020,Scotland,CasesByDate,1001
+11/12/2020,England,CasesByDate,17899
+12/12/2020,Wales,CasesByDate,2494
+12/12/2020,Scotland,CasesByDate,1064
+12/12/2020,England,CasesByDate,17468
+12/12/2020,Northern Ireland,CasesByDate,476
+13/12/2020,Northern Ireland,CasesByDate,483
+13/12/2020,Scotland,CasesByDate,800
+13/12/2020,England,CasesByDate,17164
+13/12/2020,Wales,CasesByDate,0
+14/12/2020,England,CasesByDate,17882
+14/12/2020,Scotland,CasesByDate,734
+14/12/2020,Wales,CasesByDate,1228
+14/12/2020,Northern Ireland,CasesByDate,419
+15/12/2020,Northern Ireland,CasesByDate,486
+15/12/2020,Scotland,CasesByDate,845
+15/12/2020,Wales,CasesByDate,615
+15/12/2020,England,CasesByDate,16504
+16/12/2020,England,CasesByDate,23432
+16/12/2020,Scotland,CasesByDate,689
+16/12/2020,Wales,CasesByDate,530
+16/12/2020,Northern Ireland,CasesByDate,510
+17/12/2020,Northern Ireland,CasesByDate,656
+17/12/2020,Wales,CasesByDate,11468
+17/12/2020,Scotland,CasesByDate,858
+17/12/2020,England,CasesByDate,22401
+18/12/2020,Scotland,CasesByDate,744
+18/12/2020,Wales,CasesByDate,2801
+18/12/2020,England,CasesByDate,24452
+18/12/2020,Northern Ireland,CasesByDate,510
+19/12/2020,Northern Ireland,CasesByDate,640
+19/12/2020,England,CasesByDate,22775
+19/12/2020,Wales,CasesByDate,3065
+19/12/2020,Scotland,CasesByDate,572
+20/12/2020,Scotland,CasesByDate,934
+20/12/2020,England,CasesByDate,32155
+20/12/2020,Wales,CasesByDate,2334
+20/12/2020,Northern Ireland,CasesByDate,505
+21/12/2020,Northern Ireland,CasesByDate,555
+21/12/2020,Scotland,CasesByDate,1504
+21/12/2020,Wales,CasesByDate,2563
+21/12/2020,England,CasesByDate,28742
+22/12/2020,Scotland,CasesByDate,1316
+22/12/2020,Wales,CasesByDate,2761
+22/12/2020,England,CasesByDate,32288
+22/12/2020,Northern Ireland,CasesByDate,439
+23/12/2020,Northern Ireland,CasesByDate,787
+23/12/2020,Scotland,CasesByDate,1190
+23/12/2020,England,CasesByDate,34247
+23/12/2020,Wales,CasesByDate,3013
+24/12/2020,England,CasesByDate,35561
+24/12/2020,Wales,CasesByDate,2161
+24/12/2020,Scotland,CasesByDate,1314
+24/12/2020,Northern Ireland,CasesByDate,841
+25/12/2020,Northern Ireland,CasesByDate,0
+25/12/2020,Scotland,CasesByDate,1165
+25/12/2020,England,CasesByDate,31560
+25/12/2020,Wales,CasesByDate,0
+26/12/2020,Wales,CasesByDate,2237
+26/12/2020,Scotland,CasesByDate,1149
+26/12/2020,England,CasesByDate,31307
+26/12/2020,Northern Ireland,CasesByDate,998
+27/12/2020,Northern Ireland,CasesByDate,0
+27/12/2020,Wales,CasesByDate,4142
+27/12/2020,England,CasesByDate,25619
+27/12/2020,Scotland,CasesByDate,740
+28/12/2020,Scotland,CasesByDate,967
+28/12/2020,Wales,CasesByDate,2273
+28/12/2020,England,CasesByDate,36511
+28/12/2020,Northern Ireland,CasesByDate,1634
+29/12/2020,Northern Ireland,CasesByDate,1566
+29/12/2020,Wales,CasesByDate,2510
+29/12/2020,England,CasesByDate,47164
+29/12/2020,Scotland,CasesByDate,1895
+30/12/2020,Scotland,CasesByDate,2045
+30/12/2020,England,CasesByDate,43554
+30/12/2020,Wales,CasesByDate,2281
+30/12/2020,Northern Ireland,CasesByDate,2143
+31/12/2020,Northern Ireland,CasesByDate,1929
+31/12/2020,Wales,CasesByDate,1831
+31/12/2020,Scotland,CasesByDate,2622
+31/12/2020,England,CasesByDate,49510
+01/01/2021,Scotland,CasesByDate,2539
+01/01/2021,England,CasesByDate,50746
+01/01/2021,Wales,CasesByDate,0
+01/01/2021,Northern Ireland,CasesByDate,0
+02/01/2021,Northern Ireland,CasesByDate,3576
+02/01/2021,Wales,CasesByDate,2764
+02/01/2021,England,CasesByDate,49248
+02/01/2021,Scotland,CasesByDate,2137
+03/01/2021,Wales,CasesByDate,4011
+03/01/2021,Scotland,CasesByDate,2464
+03/01/2021,England,CasesByDate,46853
+03/01/2021,Northern Ireland,CasesByDate,1662
+04/01/2021,Northern Ireland,CasesByDate,1801
+04/01/2021,Wales,CasesByDate,1898
+04/01/2021,Scotland,CasesByDate,1905
+04/01/2021,England,CasesByDate,53180
+05/01/2021,Wales,CasesByDate,2069
+05/01/2021,England,CasesByDate,54940
+05/01/2021,Scotland,CasesByDate,2529
+05/01/2021,Northern Ireland,CasesByDate,1378
+06/01/2021,Northern Ireland,CasesByDate,1985
+06/01/2021,England,CasesByDate,56060
+06/01/2021,Wales,CasesByDate,2238
+06/01/2021,Scotland,CasesByDate,2039
+07/01/2021,Wales,CasesByDate,1718
+07/01/2021,Scotland,CasesByDate,2649
+07/01/2021,England,CasesByDate,46841
+07/01/2021,Northern Ireland,CasesByDate,1410
+08/01/2021,Northern Ireland,CasesByDate,1500
+08/01/2021,Scotland,CasesByDate,2309
+08/01/2021,England,CasesByDate,61757
+08/01/2021,Wales,CasesByDate,2487
+09/01/2021,Scotland,CasesByDate,1865
+09/01/2021,England,CasesByDate,54257
+09/01/2021,Wales,CasesByDate,2373
+09/01/2021,Northern Ireland,CasesByDate,1442
+10/01/2021,Northern Ireland,CasesByDate,1112
+10/01/2021,Wales,CasesByDate,1660
+10/01/2021,England,CasesByDate,50291
+10/01/2021,Scotland,CasesByDate,1877
+11/01/2021,England,CasesByDate,41835
+11/01/2021,Scotland,CasesByDate,1782
+11/01/2021,Wales,CasesByDate,1793
+11/01/2021,Northern Ireland,CasesByDate,759
+12/01/2021,Northern Ireland,CasesByDate,1205
+12/01/2021,England,CasesByDate,41121
+12/01/2021,Scotland,CasesByDate,1875
+12/01/2021,Wales,CasesByDate,1332
+13/01/2021,England,CasesByDate,42898
+13/01/2021,Wales,CasesByDate,1533
+13/01/2021,Scotland,CasesByDate,1949
+13/01/2021,Northern Ireland,CasesByDate,1145
+14/01/2021,Northern Ireland,CasesByDate,973
+14/01/2021,Scotland,CasesByDate,1707
+14/01/2021,England,CasesByDate,44358
+14/01/2021,Wales,CasesByDate,1644
+15/01/2021,Wales,CasesByDate,1808
+15/01/2021,England,CasesByDate,50741
+15/01/2021,Scotland,CasesByDate,2160
+15/01/2021,Northern Ireland,CasesByDate,1052
+16/01/2021,Northern Ireland,CasesByDate,705
+16/01/2021,Wales,CasesByDate,1129
+16/01/2021,England,CasesByDate,37759
+16/01/2021,Scotland,CasesByDate,1753
+17/01/2021,England,CasesByDate,35263
+17/01/2021,Scotland,CasesByDate,1341
+17/01/2021,Wales,CasesByDate,1172
+17/01/2021,Northern Ireland,CasesByDate,822
+18/01/2021,Northern Ireland,CasesByDate,640
+18/01/2021,Wales,CasesByDate,1332
+18/01/2021,Scotland,CasesByDate,1429
+18/01/2021,England,CasesByDate,34134
+19/01/2021,Scotland,CasesByDate,1165
+19/01/2021,Wales,CasesByDate,1106
+19/01/2021,England,CasesByDate,30371
+19/01/2021,Northern Ireland,CasesByDate,713
+20/01/2021,Northern Ireland,CasesByDate,905
+20/01/2021,England,CasesByDate,35061
+20/01/2021,Wales,CasesByDate,1283
+20/01/2021,Scotland,CasesByDate,1656
+21/01/2021,Wales,CasesByDate,1153
+21/01/2021,Scotland,CasesByDate,1636
+21/01/2021,England,CasesByDate,34371
+21/01/2021,Northern Ireland,CasesByDate,732
+22/01/2021,Northern Ireland,CasesByDate,865
+22/01/2021,Scotland,CasesByDate,1480
+22/01/2021,England,CasesByDate,37115
+22/01/2021,Wales,CasesByDate,801
+23/01/2021,Scotland,CasesByDate,1307
+23/01/2021,Wales,CasesByDate,1079
+23/01/2021,England,CasesByDate,30496
+23/01/2021,Northern Ireland,CasesByDate,670
+24/01/2021,Northern Ireland,CasesByDate,433
+24/01/2021,Scotland,CasesByDate,1195
+24/01/2021,England,CasesByDate,27580
+24/01/2021,Wales,CasesByDate,796
+25/01/2021,England,CasesByDate,20149
+25/01/2021,Scotland,CasesByDate,752
+25/01/2021,Wales,CasesByDate,872
+25/01/2021,Northern Ireland,CasesByDate,422
+26/01/2021,Northern Ireland,CasesByDate,550
+26/01/2021,Scotland,CasesByDate,1049
+26/01/2021,Wales,CasesByDate,570
+26/01/2021,England,CasesByDate,17920
+27/01/2021,Wales,CasesByDate,537
+27/01/2021,Scotland,CasesByDate,1330
+27/01/2021,England,CasesByDate,22914
+27/01/2021,Northern Ireland,CasesByDate,527
+28/01/2021,Northern Ireland,CasesByDate,592
+28/01/2021,Scotland,CasesByDate,1201
+28/01/2021,Wales,CasesByDate,705
+28/01/2021,England,CasesByDate,26182
+29/01/2021,England,CasesByDate,26709
+29/01/2021,Scotland,CasesByDate,1155
+29/01/2021,Wales,CasesByDate,546
+29/01/2021,Northern Ireland,CasesByDate,669
+30/01/2021,Northern Ireland,CasesByDate,455
+30/01/2021,England,CasesByDate,21089
+30/01/2021,Wales,CasesByDate,737
+30/01/2021,Scotland,CasesByDate,994
+31/01/2021,Wales,CasesByDate,605
+31/01/2021,Scotland,CasesByDate,1003
+31/01/2021,England,CasesByDate,19054
+31/01/2021,Northern Ireland,CasesByDate,426
+01/02/2021,Northern Ireland,CasesByDate,314
+01/02/2021,Wales,CasesByDate,630
+01/02/2021,Scotland,CasesByDate,848
+01/02/2021,England,CasesByDate,16815
+02/02/2021,Scotland,CasesByDate,758
+02/02/2021,England,CasesByDate,15021
+02/02/2021,Wales,CasesByDate,614
+02/02/2021,Northern Ireland,CasesByDate,447
+03/02/2021,Northern Ireland,CasesByDate,504
+03/02/2021,England,CasesByDate,17265
+03/02/2021,Scotland,CasesByDate,978
+03/02/2021,Wales,CasesByDate,455
+04/02/2021,England,CasesByDate,18529
+04/02/2021,Wales,CasesByDate,544
+04/02/2021,Scotland,CasesByDate,1149
+04/02/2021,Northern Ireland,CasesByDate,412
+05/02/2021,Northern Ireland,CasesByDate,506
+05/02/2021,Wales,CasesByDate,399
+05/02/2021,England,CasesByDate,17314
+05/02/2021,Scotland,CasesByDate,895
+06/02/2021,England,CasesByDate,16302
+06/02/2021,Wales,CasesByDate,675
+06/02/2021,Scotland,CasesByDate,895
+06/02/2021,Northern Ireland,CasesByDate,390
+07/02/2021,Northern Ireland,CasesByDate,334
+07/02/2021,Wales,CasesByDate,461
+07/02/2021,England,CasesByDate,14466
+07/02/2021,Scotland,CasesByDate,584
+08/02/2021,England,CasesByDate,12270
+08/02/2021,Wales,CasesByDate,610
+08/02/2021,Scotland,CasesByDate,928
+08/02/2021,Northern Ireland,CasesByDate,296
+09/02/2021,Northern Ireland,CasesByDate,275
+09/02/2021,Scotland,CasesByDate,822
+09/02/2021,Wales,CasesByDate,351
+09/02/2021,England,CasesByDate,10916
+10/02/2021,England,CasesByDate,11551
+10/02/2021,Wales,CasesByDate,323
+10/02/2021,Scotland,CasesByDate,803
+10/02/2021,Northern Ireland,CasesByDate,336
+11/02/2021,Northern Ireland,CasesByDate,253
+11/02/2021,Scotland,CasesByDate,830
+11/02/2021,Wales,CasesByDate,410
+11/02/2021,England,CasesByDate,12001
+12/02/2021,Scotland,CasesByDate,830
+12/02/2021,England,CasesByDate,13299
+12/02/2021,Wales,CasesByDate,608
+12/02/2021,Northern Ireland,CasesByDate,407
+13/02/2021,Northern Ireland,CasesByDate,303
+13/02/2021,Scotland,CasesByDate,908
+13/02/2021,England,CasesByDate,11697
+13/02/2021,Wales,CasesByDate,400
+14/02/2021,England,CasesByDate,9499
+14/02/2021,Wales,CasesByDate,394
+14/02/2021,Scotland,CasesByDate,903
+14/02/2021,Northern Ireland,CasesByDate,176
+15/02/2021,Northern Ireland,CasesByDate,234
+15/02/2021,Wales,CasesByDate,363
+15/02/2021,England,CasesByDate,8609
+15/02/2021,Scotland,CasesByDate,559
+16/02/2021,England,CasesByDate,9236
+16/02/2021,Scotland,CasesByDate,773
+16/02/2021,Wales,CasesByDate,275
+16/02/2021,Northern Ireland,CasesByDate,341
+17/02/2021,Northern Ireland,CasesByDate,297
+17/02/2021,England,CasesByDate,10926
+17/02/2021,Scotland,CasesByDate,1121
+17/02/2021,Wales,CasesByDate,374
+18/02/2021,England,CasesByDate,10740
+18/02/2021,Wales,CasesByDate,290
+18/02/2021,Scotland,CasesByDate,685
+18/02/2021,Northern Ireland,CasesByDate,342
+19/02/2021,Northern Ireland,CasesByDate,313
+19/02/2021,Scotland,CasesByDate,885
+19/02/2021,England,CasesByDate,10296
+19/02/2021,Wales,CasesByDate,533
+20/02/2021,Wales,CasesByDate,363
+20/02/2021,England,CasesByDate,8964
+20/02/2021,Scotland,CasesByDate,803
+20/02/2021,Northern Ireland,CasesByDate,276
+21/02/2021,Northern Ireland,CasesByDate,263
+21/02/2021,England,CasesByDate,8408
+21/02/2021,Wales,CasesByDate,336
+21/02/2021,Scotland,CasesByDate,827
+22/02/2021,Wales,CasesByDate,319
+22/02/2021,England,CasesByDate,9420
+22/02/2021,Scotland,CasesByDate,715
+22/02/2021,Northern Ireland,CasesByDate,187
+23/02/2021,Northern Ireland,CasesByDate,225
+23/02/2021,England,CasesByDate,7292
+23/02/2021,Wales,CasesByDate,317
+23/02/2021,Scotland,CasesByDate,655
+24/02/2021,Wales,CasesByDate,236
+24/02/2021,England,CasesByDate,8644
+24/02/2021,Scotland,CasesByDate,798
+24/02/2021,Northern Ireland,CasesByDate,260
+25/02/2021,Northern Ireland,CasesByDate,281
+25/02/2021,Scotland,CasesByDate,769
+25/02/2021,England,CasesByDate,8623
+25/02/2021,Wales,CasesByDate,312
+26/02/2021,England,CasesByDate,7393
+26/02/2021,Wales,CasesByDate,308
+26/02/2021,Scotland,CasesByDate,581
+26/02/2021,Northern Ireland,CasesByDate,241
+27/02/2021,Northern Ireland,CasesByDate,184
+27/02/2021,Wales,CasesByDate,198
+27/02/2021,England,CasesByDate,6527
+27/02/2021,Scotland,CasesByDate,525
+28/02/2021,England,CasesByDate,5080
+28/02/2021,Scotland,CasesByDate,572
+28/02/2021,Wales,CasesByDate,247
+28/02/2021,Northern Ireland,CasesByDate,136
+01/03/2021,Northern Ireland,CasesByDate,138
+01/03/2021,Scotland,CasesByDate,386
+01/03/2021,England,CasesByDate,4738
+01/03/2021,Wales,CasesByDate,193
+02/03/2021,Wales,CasesByDate,170
+02/03/2021,Scotland,CasesByDate,542
+02/03/2021,England,CasesByDate,5530
+02/03/2021,Northern Ireland,CasesByDate,149
+03/03/2021,Northern Ireland,CasesByDate,226
+03/03/2021,Scotland,CasesByDate,543
+03/03/2021,Wales,CasesByDate,208
+03/03/2021,England,CasesByDate,5408
+04/03/2021,England,CasesByDate,5643
+04/03/2021,Scotland,CasesByDate,500
+04/03/2021,Wales,CasesByDate,267
+04/03/2021,Northern Ireland,CasesByDate,163
+05/03/2021,Northern Ireland,CasesByDate,166
+05/03/2021,Scotland,CasesByDate,498
+05/03/2021,England,CasesByDate,5053
+05/03/2021,Wales,CasesByDate,230
+06/03/2021,Scotland,CasesByDate,555
+06/03/2021,England,CasesByDate,5118
+06/03/2021,Wales,CasesByDate,195
+06/03/2021,Northern Ireland,CasesByDate,172
+07/03/2021,Northern Ireland,CasesByDate,138
+07/03/2021,England,CasesByDate,4497
+07/03/2021,Wales,CasesByDate,152
+07/03/2021,Scotland,CasesByDate,390
+08/03/2021,England,CasesByDate,3903
+08/03/2021,Wales,CasesByDate,164
+08/03/2021,Scotland,CasesByDate,501
+08/03/2021,Northern Ireland,CasesByDate,144
+09/03/2021,Northern Ireland,CasesByDate,240
+09/03/2021,Scotland,CasesByDate,466
+09/03/2021,Wales,CasesByDate,166
+09/03/2021,England,CasesByDate,4894
+10/03/2021,Scotland,CasesByDate,691
+10/03/2021,England,CasesByDate,4863
+10/03/2021,Wales,CasesByDate,225
+10/03/2021,Northern Ireland,CasesByDate,147
+11/03/2021,Northern Ireland,CasesByDate,223
+11/03/2021,Scotland,CasesByDate,591
+11/03/2021,England,CasesByDate,5744
+11/03/2021,Wales,CasesByDate,195
+12/03/2021,England,CasesByDate,5529
+12/03/2021,Wales,CasesByDate,190
+12/03/2021,Scotland,CasesByDate,682
+12/03/2021,Northern Ireland,CasesByDate,208
+13/03/2021,Northern Ireland,CasesByDate,146
+13/03/2021,Scotland,CasesByDate,639
+13/03/2021,England,CasesByDate,4539
+13/03/2021,Wales,CasesByDate,210
+14/03/2021,England,CasesByDate,3774
+14/03/2021,Scotland,CasesByDate,484
+14/03/2021,Wales,CasesByDate,217
+14/03/2021,Northern Ireland,CasesByDate,143
+15/03/2021,Northern Ireland,CasesByDate,121
+15/03/2021,Scotland,CasesByDate,456
+15/03/2021,Wales,CasesByDate,248
+15/03/2021,England,CasesByDate,4264
+16/03/2021,Wales,CasesByDate,142
+16/03/2021,England,CasesByDate,4391
+16/03/2021,Scotland,CasesByDate,597
+16/03/2021,Northern Ireland,CasesByDate,164
+17/03/2021,Northern Ireland,CasesByDate,161
+17/03/2021,England,CasesByDate,4827
+17/03/2021,Scotland,CasesByDate,625
+17/03/2021,Wales,CasesByDate,145
+18/03/2021,Wales,CasesByDate,297
+18/03/2021,Scotland,CasesByDate,624
+18/03/2021,England,CasesByDate,5213
+18/03/2021,Northern Ireland,CasesByDate,169
+19/03/2021,Northern Ireland,CasesByDate,137
+19/03/2021,Wales,CasesByDate,201
+19/03/2021,England,CasesByDate,3809
+19/03/2021,Scotland,CasesByDate,655
+20/03/2021,Wales,CasesByDate,208
+20/03/2021,England,CasesByDate,4732
+20/03/2021,Scotland,CasesByDate,488
+20/03/2021,Northern Ireland,CasesByDate,159
+21/03/2021,Northern Ireland,CasesByDate,125
+21/03/2021,England,CasesByDate,4459
+21/03/2021,Wales,CasesByDate,196
+21/03/2021,Scotland,CasesByDate,532
+22/03/2021,Wales,CasesByDate,150
+22/03/2021,England,CasesByDate,4746
+22/03/2021,Scotland,CasesByDate,359
+22/03/2021,Northern Ireland,CasesByDate,87
+23/03/2021,Northern Ireland,CasesByDate,174
+23/03/2021,England,CasesByDate,4583
+23/03/2021,Scotland,CasesByDate,495
+23/03/2021,Wales,CasesByDate,127
+24/03/2021,Wales,CasesByDate,159
+24/03/2021,England,CasesByDate,4615
+24/03/2021,Scotland,CasesByDate,692
+24/03/2021,Northern Ireland,CasesByDate,139
+25/03/2021,Northern Ireland,CasesByDate,183
+25/03/2021,Wales,CasesByDate,227
+25/03/2021,England,CasesByDate,5286
+25/03/2021,Scotland,CasesByDate,701
+26/03/2021,England,CasesByDate,5273
+26/03/2021,Scotland,CasesByDate,543
+26/03/2021,Wales,CasesByDate,190
+26/03/2021,Northern Ireland,CasesByDate,181
+27/03/2021,Northern Ireland,CasesByDate,138
+27/03/2021,Wales,CasesByDate,201
+27/03/2021,Scotland,CasesByDate,563
+27/03/2021,England,CasesByDate,3813
+28/03/2021,Scotland,CasesByDate,422
+28/03/2021,Wales,CasesByDate,171
+28/03/2021,England,CasesByDate,3153
+28/03/2021,Northern Ireland,CasesByDate,116
+29/03/2021,Northern Ireland,CasesByDate,65
+29/03/2021,England,CasesByDate,4112
+29/03/2021,Scotland,CasesByDate,352
+29/03/2021,Wales,CasesByDate,125
+30/03/2021,England,CasesByDate,3384
+30/03/2021,Wales,CasesByDate,94
+30/03/2021,Scotland,CasesByDate,411
+30/03/2021,Northern Ireland,CasesByDate,151
+31/03/2021,Northern Ireland,CasesByDate,123
+31/03/2021,Wales,CasesByDate,60
+31/03/2021,Scotland,CasesByDate,542
+31/03/2021,England,CasesByDate,3327
+01/04/2021,England,CasesByDate,3784
+01/04/2021,Wales,CasesByDate,188
+01/04/2021,Scotland,CasesByDate,400
+01/04/2021,Northern Ireland,CasesByDate,107
+02/04/2021,Northern Ireland,CasesByDate,107
+02/04/2021,England,CasesByDate,2881
+02/04/2021,Wales,CasesByDate,0
+02/04/2021,Scotland,CasesByDate,414
+03/04/2021,Wales,CasesByDate,95
+03/04/2021,Scotland,CasesByDate,397
+03/04/2021,England,CasesByDate,2847
+03/04/2021,Northern Ireland,CasesByDate,84
+04/04/2021,Northern Ireland,CasesByDate,0
+04/04/2021,Scotland,CasesByDate,343
+04/04/2021,England,CasesByDate,1954
+04/04/2021,Wales,CasesByDate,0
+05/04/2021,Scotland,CasesByDate,248
+05/04/2021,Wales,CasesByDate,189
+05/04/2021,England,CasesByDate,2236
+05/04/2021,Northern Ireland,CasesByDate,89
+06/04/2021,Northern Ireland,CasesByDate,57
+06/04/2021,England,CasesByDate,1937
+06/04/2021,Wales,CasesByDate,126
+06/04/2021,Scotland,CasesByDate,259
+07/04/2021,Wales,CasesByDate,82
+07/04/2021,Scotland,CasesByDate,289
+07/04/2021,England,CasesByDate,2304
+07/04/2021,Northern Ireland,CasesByDate,88
+08/04/2021,Northern Ireland,CasesByDate,98
+08/04/2021,England,CasesByDate,2486
+08/04/2021,Wales,CasesByDate,82
+08/04/2021,Scotland,CasesByDate,364
+09/04/2021,Scotland,CasesByDate,285
+09/04/2021,Wales,CasesByDate,114
+09/04/2021,England,CasesByDate,2638
+09/04/2021,Northern Ireland,CasesByDate,113
+10/04/2021,Northern Ireland,CasesByDate,146
+10/04/2021,Wales,CasesByDate,130
+10/04/2021,Scotland,CasesByDate,281
+10/04/2021,England,CasesByDate,2032
+11/04/2021,Scotland,CasesByDate,250
+11/04/2021,Wales,CasesByDate,53
+11/04/2021,England,CasesByDate,1338
+11/04/2021,Northern Ireland,CasesByDate,89
+12/04/2021,Northern Ireland,CasesByDate,97
+12/04/2021,Wales,CasesByDate,50
+12/04/2021,England,CasesByDate,3222
+12/04/2021,Scotland,CasesByDate,199
+13/04/2021,Scotland,CasesByDate,221
+13/04/2021,England,CasesByDate,2070
+13/04/2021,Wales,CasesByDate,69
+13/04/2021,Northern Ireland,CasesByDate,112
+14/04/2021,Northern Ireland,CasesByDate,97
+14/04/2021,Scotland,CasesByDate,278
+14/04/2021,England,CasesByDate,2054
+14/04/2021,Wales,CasesByDate,62
+15/04/2021,England,CasesByDate,2171
+15/04/2021,Wales,CasesByDate,105
+15/04/2021,Scotland,CasesByDate,237
+15/04/2021,Northern Ireland,CasesByDate,159
+16/04/2021,Northern Ireland,CasesByDate,119
+16/04/2021,Scotland,CasesByDate,204
+16/04/2021,England,CasesByDate,2225
+16/04/2021,Wales,CasesByDate,48
+17/04/2021,Wales,CasesByDate,0
+17/04/2021,England,CasesByDate,1897
+17/04/2021,Scotland,CasesByDate,210
+17/04/2021,Northern Ireland,CasesByDate,99
+18/04/2021,Northern Ireland,CasesByDate,82
+18/04/2021,Scotland,CasesByDate,211
+18/04/2021,Wales,CasesByDate,94
+18/04/2021,England,CasesByDate,1495
+19/04/2021,England,CasesByDate,2550
+19/04/2021,Scotland,CasesByDate,232
+19/04/2021,Wales,CasesByDate,102
+19/04/2021,Northern Ireland,CasesByDate,79
+20/04/2021,Northern Ireland,CasesByDate,124
+20/04/2021,Scotland,CasesByDate,178
+20/04/2021,England,CasesByDate,2169
+20/04/2021,Wales,CasesByDate,53
+21/04/2021,England,CasesByDate,1943
+21/04/2021,Scotland,CasesByDate,273
+21/04/2021,Wales,CasesByDate,64
+21/04/2021,Northern Ireland,CasesByDate,116
+22/04/2021,Northern Ireland,CasesByDate,120
+22/04/2021,Scotland,CasesByDate,231
+22/04/2021,Wales,CasesByDate,63
+22/04/2021,England,CasesByDate,2315
+23/04/2021,Scotland,CasesByDate,255
+23/04/2021,Wales,CasesByDate,58
+23/04/2021,England,CasesByDate,2277
+23/04/2021,Northern Ireland,CasesByDate,88
+24/04/2021,Northern Ireland,CasesByDate,80
+24/04/2021,England,CasesByDate,1804
+24/04/2021,Scotland,CasesByDate,177
+24/04/2021,Wales,CasesByDate,0
+25/04/2021,Wales,CasesByDate,62
+25/04/2021,Scotland,CasesByDate,176
+25/04/2021,England,CasesByDate,1401
+25/04/2021,Northern Ireland,CasesByDate,73
+26/04/2021,Northern Ireland,CasesByDate,73
+26/04/2021,Scotland,CasesByDate,142
+26/04/2021,England,CasesByDate,1752
+26/04/2021,Wales,CasesByDate,97
+27/04/2021,England,CasesByDate,2410
+27/04/2021,Scotland,CasesByDate,133
+27/04/2021,Wales,CasesByDate,33
+27/04/2021,Northern Ireland,CasesByDate,109
+28/04/2021,Northern Ireland,CasesByDate,98
+28/04/2021,Wales,CasesByDate,35
+28/04/2021,Scotland,CasesByDate,204
+28/04/2021,England,CasesByDate,1829
+29/04/2021,Scotland,CasesByDate,178
+29/04/2021,Wales,CasesByDate,69
+29/04/2021,England,CasesByDate,2103
+29/04/2021,Northern Ireland,CasesByDate,95
+30/04/2021,Northern Ireland,CasesByDate,108
+30/04/2021,Wales,CasesByDate,36
+30/04/2021,England,CasesByDate,2046
+30/04/2021,Scotland,CasesByDate,191
+01/05/2021,Scotland,CasesByDate,175
+01/05/2021,Wales,CasesByDate,0
+01/05/2021,England,CasesByDate,1642
+01/05/2021,Northern Ireland,CasesByDate,90
+02/05/2021,Northern Ireland,CasesByDate,69
+02/05/2021,Wales,CasesByDate,79
+02/05/2021,England,CasesByDate,1377
+02/05/2021,Scotland,CasesByDate,146
+03/05/2021,Wales,CasesByDate,0
+03/05/2021,England,CasesByDate,1453
+03/05/2021,Scotland,CasesByDate,132
+03/05/2021,Northern Ireland,CasesByDate,64
+04/05/2021,Northern Ireland,CasesByDate,83
+04/05/2021,England,CasesByDate,1659
+04/05/2021,Scotland,CasesByDate,139
+04/05/2021,Wales,CasesByDate,65
+05/05/2021,Scotland,CasesByDate,85
+05/05/2021,Wales,CasesByDate,54
+05/05/2021,England,CasesByDate,1906
+05/05/2021,Northern Ireland,CasesByDate,99
+06/05/2021,Northern Ireland,CasesByDate,102
+06/05/2021,Scotland,CasesByDate,283
+06/05/2021,England,CasesByDate,2194
+06/05/2021,Wales,CasesByDate,34
+07/05/2021,Wales,CasesByDate,47
+07/05/2021,Scotland,CasesByDate,236
+07/05/2021,England,CasesByDate,2142
+07/05/2021,Northern Ireland,CasesByDate,65
+08/05/2021,Northern Ireland,CasesByDate,81
+08/05/2021,Wales,CasesByDate,0
+08/05/2021,Scotland,CasesByDate,224
+08/05/2021,England,CasesByDate,1742
+09/05/2021,Scotland,CasesByDate,200
+09/05/2021,Wales,CasesByDate,54
+09/05/2021,England,CasesByDate,1418
+09/05/2021,Northern Ireland,CasesByDate,98
+10/05/2021,Northern Ireland,CasesByDate,76
+10/05/2021,England,CasesByDate,2009
+10/05/2021,Wales,CasesByDate,104
+10/05/2021,Scotland,CasesByDate,168
+11/05/2021,Scotland,CasesByDate,238
+11/05/2021,England,CasesByDate,2117
+11/05/2021,Wales,CasesByDate,30
+11/05/2021,Northern Ireland,CasesByDate,89
+12/05/2021,Northern Ireland,CasesByDate,113
+12/05/2021,Scotland,CasesByDate,345
+12/05/2021,Wales,CasesByDate,22
+12/05/2021,England,CasesByDate,1804
+13/05/2021,Wales,CasesByDate,59
+13/05/2021,Scotland,CasesByDate,270
+13/05/2021,England,CasesByDate,2229
+13/05/2021,Northern Ireland,CasesByDate,99
+14/05/2021,Northern Ireland,CasesByDate,96
+14/05/2021,Wales,CasesByDate,54
+14/05/2021,Scotland,CasesByDate,215
+14/05/2021,England,CasesByDate,1828
+15/05/2021,England,CasesByDate,1614
+15/05/2021,Scotland,CasesByDate,413
+15/05/2021,Wales,CasesByDate,0
+15/05/2021,Northern Ireland,CasesByDate,0
+16/05/2021,Northern Ireland,CasesByDate,109
+16/05/2021,England,CasesByDate,1471
+16/05/2021,Wales,CasesByDate,54
+16/05/2021,Scotland,CasesByDate,292
+17/05/2021,Wales,CasesByDate,91
+17/05/2021,England,CasesByDate,1645
+17/05/2021,Scotland,CasesByDate,161
+17/05/2021,Northern Ireland,CasesByDate,82
+18/05/2021,Northern Ireland,CasesByDate,104
+18/05/2021,Scotland,CasesByDate,268
+18/05/2021,England,CasesByDate,2008
+18/05/2021,Wales,CasesByDate,32
+19/05/2021,Scotland,CasesByDate,394
+19/05/2021,Wales,CasesByDate,44
+19/05/2021,England,CasesByDate,2151
+19/05/2021,Northern Ireland,CasesByDate,107
+20/05/2021,Northern Ireland,CasesByDate,90
+20/05/2021,England,CasesByDate,2307
+20/05/2021,Wales,CasesByDate,45
+20/05/2021,Scotland,CasesByDate,432
+21/05/2021,Wales,CasesByDate,28
+21/05/2021,England,CasesByDate,2303
+21/05/2021,Scotland,CasesByDate,414
+21/05/2021,Northern Ireland,CasesByDate,84
+22/05/2021,Northern Ireland,CasesByDate,82
+22/05/2021,England,CasesByDate,2242
+22/05/2021,Wales,CasesByDate,0
+22/05/2021,Scotland,CasesByDate,370
+23/05/2021,Wales,CasesByDate,46
+23/05/2021,England,CasesByDate,1734
+23/05/2021,Scotland,CasesByDate,378
+23/05/2021,Northern Ireland,CasesByDate,77
+24/05/2021,Northern Ireland,CasesByDate,53
+24/05/2021,England,CasesByDate,1972
+24/05/2021,Wales,CasesByDate,101
+24/05/2021,Scotland,CasesByDate,313
+25/05/2021,Scotland,CasesByDate,318
+25/05/2021,England,CasesByDate,2081
+25/05/2021,Wales,CasesByDate,19
+25/05/2021,Northern Ireland,CasesByDate,75
+26/05/2021,Northern Ireland,CasesByDate,66
+26/05/2021,England,CasesByDate,2540
+26/05/2021,Scotland,CasesByDate,546
+26/05/2021,Wales,CasesByDate,28
+27/05/2021,Scotland,CasesByDate,464
+27/05/2021,Wales,CasesByDate,58
+27/05/2021,England,CasesByDate,2936
+27/05/2021,Northern Ireland,CasesByDate,84
+28/05/2021,Northern Ireland,CasesByDate,75
+28/05/2021,Scotland,CasesByDate,641
+28/05/2021,England,CasesByDate,3434
+28/05/2021,Wales,CasesByDate,32
+29/05/2021,Scotland,CasesByDate,583
+29/05/2021,England,CasesByDate,2747
+29/05/2021,Wales,CasesByDate,0
+29/05/2021,Northern Ireland,CasesByDate,68
+30/05/2021,Wales,CasesByDate,30
+30/05/2021,Northern Ireland,CasesByDate,63
+30/05/2021,Scotland,CasesByDate,526
+30/05/2021,England,CasesByDate,2621
+31/05/2021,England,CasesByDate,2854
+31/05/2021,Scotland,CasesByDate,490
+31/05/2021,Wales,CasesByDate,0
+31/05/2021,Northern Ireland,CasesByDate,39
+01/06/2021,Northern Ireland,CasesByDate,54
+01/06/2021,Wales,CasesByDate,94
+01/06/2021,Scotland,CasesByDate,478
+01/06/2021,England,CasesByDate,2539
+02/06/2021,England,CasesByDate,3486
+02/06/2021,Scotland,CasesByDate,677
+02/06/2021,Northern Ireland,CasesByDate,84
+02/06/2021,Wales,CasesByDate,83
+03/06/2021,Northern Ireland,CasesByDate,80
+03/06/2021,Wales,CasesByDate,49
+03/06/2021,Scotland,CasesByDate,835
+03/06/2021,England,CasesByDate,4310
+04/06/2021,England,CasesByDate,5102
+04/06/2021,Scotland,CasesByDate,992
+04/06/2021,Northern Ireland,CasesByDate,73
+04/06/2021,Wales,CasesByDate,71
+05/06/2021,Wales,CasesByDate,0
+05/06/2021,Northern Ireland,CasesByDate,95
+05/06/2021,Scotland,CasesByDate,860
+05/06/2021,England,CasesByDate,4810
+06/06/2021,England,CasesByDate,4405
+06/06/2021,Scotland,CasesByDate,775
+06/06/2021,Northern Ireland,CasesByDate,69
+06/06/2021,Wales,CasesByDate,92
+07/06/2021,Northern Ireland,CasesByDate,54
+07/06/2021,Wales,CasesByDate,75
+07/06/2021,Scotland,CasesByDate,641
+07/06/2021,England,CasesByDate,4913
+08/06/2021,Scotland,CasesByDate,695
+08/06/2021,England,CasesByDate,5250
+08/06/2021,Northern Ireland,CasesByDate,81
+08/06/2021,Wales,CasesByDate,22
+09/06/2021,Wales,CasesByDate,223
+09/06/2021,Northern Ireland,CasesByDate,105
+09/06/2021,England,CasesByDate,6201
+09/06/2021,Scotland,CasesByDate,1011
+10/06/2021,England,CasesByDate,6436
+10/06/2021,Scotland,CasesByDate,735
+10/06/2021,Wales,CasesByDate,113
+10/06/2021,Northern Ireland,CasesByDate,109
+11/06/2021,Wales,CasesByDate,118
+11/06/2021,Northern Ireland,CasesByDate,121
+11/06/2021,Scotland,CasesByDate,1104
+11/06/2021,England,CasesByDate,6782
+12/06/2021,England,CasesByDate,6601
+12/06/2021,Scotland,CasesByDate,1030
+12/06/2021,Wales,CasesByDate,0
+12/06/2021,Northern Ireland,CasesByDate,107
+13/06/2021,Northern Ireland,CasesByDate,70
+13/06/2021,Wales,CasesByDate,115
+13/06/2021,Scotland,CasesByDate,1036
+13/06/2021,England,CasesByDate,6269
+14/06/2021,England,CasesByDate,6647
+14/06/2021,Scotland,CasesByDate,761
+14/06/2021,Wales,CasesByDate,247
+14/06/2021,Northern Ireland,CasesByDate,87
+15/06/2021,Wales,CasesByDate,98
+15/06/2021,Northern Ireland,CasesByDate,115
+15/06/2021,Scotland,CasesByDate,974
+15/06/2021,England,CasesByDate,6486
+16/06/2021,England,CasesByDate,7642
+16/06/2021,Scotland,CasesByDate,1129
+16/06/2021,Northern Ireland,CasesByDate,143
+16/06/2021,Wales,CasesByDate,141
+17/06/2021,Northern Ireland,CasesByDate,179
+17/06/2021,Wales,CasesByDate,140
+17/06/2021,England,CasesByDate,9371
+17/06/2021,Scotland,CasesByDate,1317
+18/06/2021,Scotland,CasesByDate,950
+18/06/2021,England,CasesByDate,9185
+18/06/2021,Northern Ireland,CasesByDate,178
+18/06/2021,Wales,CasesByDate,163
+19/06/2021,Wales,CasesByDate,0
+19/06/2021,Northern Ireland,CasesByDate,158
+19/06/2021,England,CasesByDate,8954
+19/06/2021,Scotland,CasesByDate,1209
+20/06/2021,Scotland,CasesByDate,1205
+20/06/2021,England,CasesByDate,7778
+20/06/2021,Wales,CasesByDate,176
+20/06/2021,Northern Ireland,CasesByDate,125
+21/06/2021,Wales,CasesByDate,484
+21/06/2021,Northern Ireland,CasesByDate,133
+21/06/2021,England,CasesByDate,8766
+21/06/2021,Scotland,CasesByDate,1250
+22/06/2021,England,CasesByDate,9096
+22/06/2021,Scotland,CasesByDate,2167
+22/06/2021,Northern Ireland,CasesByDate,187
+22/06/2021,Wales,CasesByDate,175
+23/06/2021,Wales,CasesByDate,213
+23/06/2021,Northern Ireland,CasesByDate,188
+23/06/2021,England,CasesByDate,12765
+23/06/2021,Scotland,CasesByDate,2969
+24/06/2021,Scotland,CasesByDate,2999
+24/06/2021,England,CasesByDate,13068
+24/06/2021,Northern Ireland,CasesByDate,198
+24/06/2021,Wales,CasesByDate,438
+25/06/2021,Northern Ireland,CasesByDate,229
+25/06/2021,Wales,CasesByDate,336
+25/06/2021,Scotland,CasesByDate,1747
+25/06/2021,England,CasesByDate,13498
+26/06/2021,Scotland,CasesByDate,2836
+26/06/2021,England,CasesByDate,15136
+26/06/2021,Wales,CasesByDate,0
+26/06/2021,Northern Ireland,CasesByDate,298
+27/06/2021,Northern Ireland,CasesByDate,261
+27/06/2021,Wales,CasesByDate,416
+27/06/2021,England,CasesByDate,11560
+27/06/2021,Scotland,CasesByDate,2639
+28/06/2021,England,CasesByDate,18702
+28/06/2021,Scotland,CasesByDate,3285
+28/06/2021,Wales,CasesByDate,670
+28/06/2021,Northern Ireland,CasesByDate,211
+29/06/2021,Wales,CasesByDate,281
+29/06/2021,Northern Ireland,CasesByDate,278
+29/06/2021,Scotland,CasesByDate,3118
+29/06/2021,England,CasesByDate,16802
+30/06/2021,England,CasesByDate,21293
+30/06/2021,Scotland,CasesByDate,3887
+30/06/2021,Northern Ireland,CasesByDate,375
+30/06/2021,Wales,CasesByDate,513
+01/07/2021,Wales,CasesByDate,481
+01/07/2021,Northern Ireland,CasesByDate,326
+01/07/2021,Scotland,CasesByDate,4234
+01/07/2021,England,CasesByDate,22948
+02/07/2021,Scotland,CasesByDate,3823
+02/07/2021,England,CasesByDate,22393
+02/07/2021,Northern Ireland,CasesByDate,339
+02/07/2021,Wales,CasesByDate,570
+03/07/2021,Northern Ireland,CasesByDate,460
+03/07/2021,Wales,CasesByDate,0
+03/07/2021,Scotland,CasesByDate,3108
+03/07/2021,England,CasesByDate,21317
+04/07/2021,England,CasesByDate,20454
+04/07/2021,Scotland,CasesByDate,2726
+04/07/2021,Wales,CasesByDate,535
+04/07/2021,Northern Ireland,CasesByDate,533
+05/07/2021,Wales,CasesByDate,1256
+05/07/2021,Northern Ireland,CasesByDate,420
+05/07/2021,England,CasesByDate,23286
+05/07/2021,Scotland,CasesByDate,2372
+06/07/2021,England,CasesByDate,25295
+06/07/2021,Scotland,CasesByDate,2363
+06/07/2021,Wales,CasesByDate,698
+06/07/2021,Northern Ireland,CasesByDate,417
+07/07/2021,Wales,CasesByDate,663
+07/07/2021,Northern Ireland,CasesByDate,570
+07/07/2021,England,CasesByDate,27516
+07/07/2021,Scotland,CasesByDate,3799
+08/07/2021,Scotland,CasesByDate,2802
+08/07/2021,England,CasesByDate,28421
+08/07/2021,Northern Ireland,CasesByDate,627
+08/07/2021,Wales,CasesByDate,701
+09/07/2021,Wales,CasesByDate,655
+09/07/2021,Northern Ireland,CasesByDate,605
+09/07/2021,Scotland,CasesByDate,3216
+09/07/2021,England,CasesByDate,31231
+10/07/2021,England,CasesByDate,29732
+10/07/2021,Scotland,CasesByDate,2190
+10/07/2021,Northern Ireland,CasesByDate,445
+10/07/2021,Wales,CasesByDate,0
+11/07/2021,Northern Ireland,CasesByDate,605
+11/07/2021,Wales,CasesByDate,698
+11/07/2021,Scotland,CasesByDate,2048
+11/07/2021,England,CasesByDate,28421
+12/07/2021,England,CasesByDate,30619
+12/07/2021,Scotland,CasesByDate,2134
+12/07/2021,Northern Ireland,CasesByDate,528
+12/07/2021,Wales,CasesByDate,1190
+13/07/2021,Northern Ireland,CasesByDate,511
+13/07/2021,Wales,CasesByDate,737
+13/07/2021,England,CasesByDate,32883
+13/07/2021,Scotland,CasesByDate,2529
+14/07/2021,England,CasesByDate,37895
+14/07/2021,Scotland,CasesByDate,2636
+14/07/2021,Wales,CasesByDate,1135
+14/07/2021,Northern Ireland,CasesByDate,636
+15/07/2021,Northern Ireland,CasesByDate,1083
+15/07/2021,Wales,CasesByDate,861
+15/07/2021,England,CasesByDate,44523
+15/07/2021,Scotland,CasesByDate,2086
+16/07/2021,Scotland,CasesByDate,2047
+16/07/2021,England,CasesByDate,47360
+16/07/2021,Northern Ireland,CasesByDate,1380
+16/07/2021,Wales,CasesByDate,1083
+17/07/2021,Northern Ireland,CasesByDate,1402
+17/07/2021,Wales,CasesByDate,0
+17/07/2021,England,CasesByDate,50955
+17/07/2021,Scotland,CasesByDate,2317
+18/07/2021,Scotland,CasesByDate,1735
+18/07/2021,England,CasesByDate,44777
+18/07/2021,Northern Ireland,CasesByDate,537
+18/07/2021,Wales,CasesByDate,1112
+19/07/2021,Wales,CasesByDate,2053
+19/07/2021,Northern Ireland,CasesByDate,1776
+19/07/2021,England,CasesByDate,34657
+19/07/2021,Scotland,CasesByDate,1464
+20/07/2021,Scotland,CasesByDate,1604
+20/07/2021,England,CasesByDate,43261
+20/07/2021,Northern Ireland,CasesByDate,1138
+20/07/2021,Wales,CasesByDate,555
+21/07/2021,Northern Ireland,CasesByDate,1973
+21/07/2021,Wales,CasesByDate,941
+21/07/2021,England,CasesByDate,39504
+21/07/2021,Scotland,CasesByDate,1686
+22/07/2021,England,CasesByDate,35939
+22/07/2021,Scotland,CasesByDate,1825
+22/07/2021,Northern Ireland,CasesByDate,1430
+22/07/2021,Wales,CasesByDate,712
+23/07/2021,Northern Ireland,CasesByDate,1337
+23/07/2021,Wales,CasesByDate,755
+23/07/2021,England,CasesByDate,32792
+23/07/2021,Scotland,CasesByDate,1505
+24/07/2021,England,CasesByDate,28968
+24/07/2021,Scotland,CasesByDate,1307
+24/07/2021,Northern Ireland,CasesByDate,1520
+24/07/2021,Wales,CasesByDate,0
+25/07/2021,Northern Ireland,CasesByDate,1264
+25/07/2021,Wales,CasesByDate,1238
+25/07/2021,England,CasesByDate,25434
+25/07/2021,Scotland,CasesByDate,1237
+26/07/2021,Scotland,CasesByDate,1000
+26/07/2021,England,CasesByDate,22181
+26/07/2021,Wales,CasesByDate,1130
+26/07/2021,Northern Ireland,CasesByDate,639
+27/07/2021,Wales,CasesByDate,704
+27/07/2021,Northern Ireland,CasesByDate,1473
+27/07/2021,Scotland,CasesByDate,1044
+27/07/2021,England,CasesByDate,20290
+28/07/2021,England,CasesByDate,24367
+28/07/2021,Scotland,CasesByDate,1179
+28/07/2021,Wales,CasesByDate,588
+28/07/2021,Northern Ireland,CasesByDate,1600
+29/07/2021,Wales,CasesByDate,724
+29/07/2021,Northern Ireland,CasesByDate,1471
+29/07/2021,England,CasesByDate,27524
+29/07/2021,Scotland,CasesByDate,1398
+30/07/2021,England,CasesByDate,26241
+30/07/2021,Scotland,CasesByDate,1456
+30/07/2021,Northern Ireland,CasesByDate,1101
+30/07/2021,Wales,CasesByDate,824
+31/07/2021,Wales,CasesByDate,0
+31/07/2021,Northern Ireland,CasesByDate,1177
+31/07/2021,Scotland,CasesByDate,1018
+31/07/2021,England,CasesByDate,23949
+01/08/2021,Scotland,CasesByDate,1034
+01/08/2021,England,CasesByDate,21645
+01/08/2021,Wales,CasesByDate,719
+01/08/2021,Northern Ireland,CasesByDate,1072
+02/08/2021,Northern Ireland,CasesByDate,872
+02/08/2021,Wales,CasesByDate,1106
+02/08/2021,Scotland,CasesByDate,799
+02/08/2021,England,CasesByDate,19175
+03/08/2021,Scotland,CasesByDate,1016
+03/08/2021,England,CasesByDate,19012
+03/08/2021,Northern Ireland,CasesByDate,1082
+03/08/2021,Wales,CasesByDate,581
+04/08/2021,Northern Ireland,CasesByDate,1040
+04/08/2021,Wales,CasesByDate,608
+04/08/2021,Scotland,CasesByDate,1271
+04/08/2021,England,CasesByDate,26393
+05/08/2021,Scotland,CasesByDate,1381
+05/08/2021,England,CasesByDate,26512
+05/08/2021,Northern Ireland,CasesByDate,1641
+05/08/2021,Wales,CasesByDate,681
+06/08/2021,Northern Ireland,CasesByDate,1434
+06/08/2021,Wales,CasesByDate,803
+06/08/2021,England,CasesByDate,28321
+06/08/2021,Scotland,CasesByDate,1250
+07/08/2021,England,CasesByDate,25877
+07/08/2021,Scotland,CasesByDate,1386
+07/08/2021,Northern Ireland,CasesByDate,1349
+07/08/2021,Wales,CasesByDate,0
+08/08/2021,Wales,CasesByDate,864
+08/08/2021,Northern Ireland,CasesByDate,1129
+08/08/2021,England,CasesByDate,24196
+08/08/2021,Scotland,CasesByDate,1240
+09/08/2021,Scotland,CasesByDate,851
+09/08/2021,England,CasesByDate,21915
+09/08/2021,Northern Ireland,CasesByDate,1031
+09/08/2021,Wales,CasesByDate,1364
+10/08/2021,Wales,CasesByDate,543
+10/08/2021,Northern Ireland,CasesByDate,1305
+10/08/2021,England,CasesByDate,20630
+10/08/2021,Scotland,CasesByDate,1032
+11/08/2021,England,CasesByDate,26647
+11/08/2021,Scotland,CasesByDate,1498
+11/08/2021,Northern Ireland,CasesByDate,1467
+11/08/2021,Wales,CasesByDate,0
+12/08/2021,Northern Ireland,CasesByDate,1610
+12/08/2021,Wales,CasesByDate,1846
+12/08/2021,England,CasesByDate,28093
+12/08/2021,Scotland,CasesByDate,1525
+13/08/2021,Scotland,CasesByDate,1542
+13/08/2021,England,CasesByDate,28679
+13/08/2021,Wales,CasesByDate,1090
+13/08/2021,Northern Ireland,CasesByDate,1389
+14/08/2021,Wales,CasesByDate,0
+14/08/2021,Northern Ireland,CasesByDate,1437
+14/08/2021,Scotland,CasesByDate,1383
+14/08/2021,England,CasesByDate,26700
+15/08/2021,Scotland,CasesByDate,1498
+15/08/2021,England,CasesByDate,22859
+15/08/2021,Wales,CasesByDate,1099
+15/08/2021,Northern Ireland,CasesByDate,1294
+16/08/2021,Wales,CasesByDate,2394
+16/08/2021,Northern Ireland,CasesByDate,1306
+16/08/2021,England,CasesByDate,23171
+16/08/2021,Scotland,CasesByDate,1567
+17/08/2021,England,CasesByDate,22712
+17/08/2021,Scotland,CasesByDate,1815
+17/08/2021,Northern Ireland,CasesByDate,1564
+17/08/2021,Wales,CasesByDate,761
+18/08/2021,Wales,CasesByDate,1373
+18/08/2021,Northern Ireland,CasesByDate,1345
+18/08/2021,England,CasesByDate,28648
+18/08/2021,Scotland,CasesByDate,2538
+19/08/2021,England,CasesByDate,29762
+19/08/2021,Scotland,CasesByDate,3367
+19/08/2021,Wales,CasesByDate,1480
+19/08/2021,Northern Ireland,CasesByDate,1963
+20/08/2021,Northern Ireland,CasesByDate,2397
+20/08/2021,Wales,CasesByDate,1728
+20/08/2021,Scotland,CasesByDate,3613
+20/08/2021,England,CasesByDate,29576
+21/08/2021,Scotland,CasesByDate,3464
+21/08/2021,England,CasesByDate,26982
+21/08/2021,Northern Ireland,CasesByDate,1612
+21/08/2021,Wales,CasesByDate,0
+22/08/2021,Northern Ireland,CasesByDate,1485
+22/08/2021,Wales,CasesByDate,1626
+22/08/2021,Scotland,CasesByDate,3190
+22/08/2021,England,CasesByDate,25952
+23/08/2021,England,CasesByDate,24158
+23/08/2021,Scotland,CasesByDate,3189
+23/08/2021,Northern Ireland,CasesByDate,1320
+23/08/2021,Wales,CasesByDate,3247
+24/08/2021,Northern Ireland,CasesByDate,1648
+24/08/2021,Wales,CasesByDate,1393
+24/08/2021,England,CasesByDate,23474
+24/08/2021,Scotland,CasesByDate,4323
+25/08/2021,Scotland,CasesByDate,5021
+25/08/2021,England,CasesByDate,27350
+25/08/2021,Northern Ireland,CasesByDate,1771
+25/08/2021,Wales,CasesByDate,1705
+26/08/2021,Wales,CasesByDate,2389
+26/08/2021,Northern Ireland,CasesByDate,1550
+26/08/2021,England,CasesByDate,29417
+26/08/2021,Scotland,CasesByDate,4925
+27/08/2021,Scotland,CasesByDate,6835
+27/08/2021,England,CasesByDate,27545
+27/08/2021,Northern Ireland,CasesByDate,1875
+27/08/2021,Wales,CasesByDate,1791
+28/08/2021,Northern Ireland,CasesByDate,1430
+28/08/2021,Wales,CasesByDate,0
+28/08/2021,England,CasesByDate,25118
+28/08/2021,Scotland,CasesByDate,5858
+29/08/2021,Scotland,CasesByDate,7113
+29/08/2021,England,CasesByDate,22501
+29/08/2021,Wales,CasesByDate,2357
+29/08/2021,Northern Ireland,CasesByDate,1225
+30/08/2021,Wales,CasesByDate,0
+30/08/2021,Northern Ireland,CasesByDate,1259
+30/08/2021,Scotland,CasesByDate,3893
+30/08/2021,England,CasesByDate,21324
+31/08/2021,England,CasesByDate,20967
+31/08/2021,Scotland,CasesByDate,6029
+31/08/2021,Northern Ireland,CasesByDate,1313
+31/08/2021,Wales,CasesByDate,3872
+01/09/2021,Northern Ireland,CasesByDate,1472
+01/09/2021,Wales,CasesByDate,3328
+01/09/2021,England,CasesByDate,24723
+01/09/2021,Scotland,CasesByDate,6170
+02/09/2021,England,CasesByDate,28686
+02/09/2021,Scotland,CasesByDate,6400
+02/09/2021,Northern Ireland,CasesByDate,793
+02/09/2021,Wales,CasesByDate,2275
+03/09/2021,Wales,CasesByDate,2391
+03/09/2021,Northern Ireland,CasesByDate,1248
+03/09/2021,Scotland,CasesByDate,6711
+03/09/2021,England,CasesByDate,31726
+04/09/2021,England,CasesByDate,29614
+04/09/2021,Scotland,CasesByDate,6152
+04/09/2021,Northern Ireland,CasesByDate,1812
+04/09/2021,Wales,CasesByDate,0
+05/09/2021,Northern Ireland,CasesByDate,1232
+05/09/2021,Wales,CasesByDate,2389
+05/09/2021,England,CasesByDate,27022
+05/09/2021,Scotland,CasesByDate,6368
+06/09/2021,Scotland,CasesByDate,7065
+06/09/2021,England,CasesByDate,27202
+06/09/2021,Wales,CasesByDate,5161
+06/09/2021,Northern Ireland,CasesByDate,1764
+07/09/2021,Northern Ireland,CasesByDate,1748
+07/09/2021,Wales,CasesByDate,2504
+07/09/2021,England,CasesByDate,27545
+07/09/2021,Scotland,CasesByDate,5692
+08/09/2021,Scotland,CasesByDate,5810
+08/09/2021,England,CasesByDate,29286
+08/09/2021,Northern Ireland,CasesByDate,1210
+08/09/2021,Wales,CasesByDate,2669
+09/09/2021,Northern Ireland,CasesByDate,1831
+09/09/2021,Wales,CasesByDate,2297
+09/09/2021,Scotland,CasesByDate,6836
+09/09/2021,England,CasesByDate,27049
+10/09/2021,Scotland,CasesByDate,6815
+10/09/2021,England,CasesByDate,26653
+10/09/2021,Northern Ireland,CasesByDate,1687
+10/09/2021,Wales,CasesByDate,2467
+11/09/2021,Wales,CasesByDate,0
+11/09/2021,Northern Ireland,CasesByDate,1424
+11/09/2021,Scotland,CasesByDate,4298
+11/09/2021,England,CasesByDate,23825
+12/09/2021,England,CasesByDate,19913
+12/09/2021,Scotland,CasesByDate,5912
+12/09/2021,Wales,CasesByDate,2317
+12/09/2021,Northern Ireland,CasesByDate,1031
+13/09/2021,Northern Ireland,CasesByDate,1199
+13/09/2021,Wales,CasesByDate,4308
+13/09/2021,England,CasesByDate,21077
+13/09/2021,Scotland,CasesByDate,4241
+14/09/2021,England,CasesByDate,19739
+14/09/2021,Scotland,CasesByDate,3375
+14/09/2021,Wales,CasesByDate,1924
+14/09/2021,Northern Ireland,CasesByDate,1590
+15/09/2021,Northern Ireland,CasesByDate,1304
+15/09/2021,Wales,CasesByDate,2298
+15/09/2021,Scotland,CasesByDate,4917
+15/09/2021,England,CasesByDate,22078
+16/09/2021,England,CasesByDate,22949
+16/09/2021,Scotland,CasesByDate,0
+16/09/2021,Wales,CasesByDate,2891
+16/09/2021,Northern Ireland,CasesByDate,1071
+17/09/2021,Northern Ireland,CasesByDate,1239
+17/09/2021,Wales,CasesByDate,2618
+17/09/2021,England,CasesByDate,23265
+17/09/2021,Scotland,CasesByDate,5529
+18/09/2021,Scotland,CasesByDate,6116
+18/09/2021,England,CasesByDate,22956
+18/09/2021,Wales,CasesByDate,0
+18/09/2021,Northern Ireland,CasesByDate,1072
+19/09/2021,Wales,CasesByDate,2717
+19/09/2021,Northern Ireland,CasesByDate,889
+19/09/2021,Scotland,CasesByDate,3833
+19/09/2021,England,CasesByDate,22173
+20/09/2021,England,CasesByDate,26905
+20/09/2021,Scotland,CasesByDate,2917
+20/09/2021,Wales,CasesByDate,5258
+20/09/2021,Northern Ireland,CasesByDate,1020
+21/09/2021,Wales,CasesByDate,2576
+21/09/2021,Northern Ireland,CasesByDate,1145
+21/09/2021,Scotland,CasesByDate,2870
+21/09/2021,England,CasesByDate,24973
+22/09/2021,England,CasesByDate,27317
+22/09/2021,Scotland,CasesByDate,3598
+22/09/2021,Wales,CasesByDate,2485
+22/09/2021,Northern Ireland,CasesByDate,1060
+23/09/2021,Northern Ireland,CasesByDate,1165
+23/09/2021,Wales,CasesByDate,2476
+23/09/2021,England,CasesByDate,29045
+23/09/2021,Scotland,CasesByDate,4024
+24/09/2021,England,CasesByDate,28199
+24/09/2021,Scotland,CasesByDate,3667
+24/09/2021,Wales,CasesByDate,2727
+24/09/2021,Northern Ireland,CasesByDate,1030
+25/09/2021,Northern Ireland,CasesByDate,1120
+25/09/2021,Wales,CasesByDate,0
+25/09/2021,England,CasesByDate,28087
+25/09/2021,Scotland,CasesByDate,3261
+26/09/2021,Scotland,CasesByDate,2556
+26/09/2021,England,CasesByDate,25538
+26/09/2021,Wales,CasesByDate,3303
+26/09/2021,Northern Ireland,CasesByDate,1020
+27/09/2021,Wales,CasesByDate,5659
+27/09/2021,Northern Ireland,CasesByDate,903
+27/09/2021,England,CasesByDate,29329
+27/09/2021,Scotland,CasesByDate,2069
+28/09/2021,England,CasesByDate,28808
+28/09/2021,Scotland,CasesByDate,2370
+28/09/2021,Wales,CasesByDate,2270
+28/09/2021,Northern Ireland,CasesByDate,1078
+29/09/2021,Wales,CasesByDate,3369
+29/09/2021,Northern Ireland,CasesByDate,1320
+29/09/2021,England,CasesByDate,29036
+29/09/2021,Scotland,CasesByDate,2997
+30/09/2021,Scotland,CasesByDate,2911
+30/09/2021,England,CasesByDate,29826
+30/09/2021,Wales,CasesByDate,2580
+30/09/2021,Northern Ireland,CasesByDate,1163
+01/10/2021,Northern Ireland,CasesByDate,1039
+01/10/2021,Wales,CasesByDate,3009
+01/10/2021,England,CasesByDate,28836
+01/10/2021,Scotland,CasesByDate,2693
+02/10/2021,Scotland,CasesByDate,2515
+02/10/2021,England,CasesByDate,26794
+02/10/2021,Wales,CasesByDate,0
+02/10/2021,Northern Ireland,CasesByDate,992
+03/10/2021,Northern Ireland,CasesByDate,892
+03/10/2021,Wales,CasesByDate,2331
+03/10/2021,Scotland,CasesByDate,2040
+03/10/2021,England,CasesByDate,25176
+04/10/2021,England,CasesByDate,28251
+04/10/2021,Scotland,CasesByDate,1760
+04/10/2021,Wales,CasesByDate,3986
+04/10/2021,Northern Ireland,CasesByDate,1080
+05/10/2021,Wales,CasesByDate,1758
+05/10/2021,Northern Ireland,CasesByDate,1209
+05/10/2021,Scotland,CasesByDate,2056
+05/10/2021,England,CasesByDate,28846
+06/10/2021,Scotland,CasesByDate,3055
+06/10/2021,England,CasesByDate,33450
+06/10/2021,Northern Ireland,CasesByDate,1339
+06/10/2021,Wales,CasesByDate,2007
+07/10/2021,Wales,CasesByDate,3400
+07/10/2021,Northern Ireland,CasesByDate,1305
+07/10/2021,England,CasesByDate,33305
+07/10/2021,Scotland,CasesByDate,2691
+08/10/2021,Scotland,CasesByDate,2627
+08/10/2021,England,CasesByDate,32157
+08/10/2021,Northern Ireland,CasesByDate,1276
+08/10/2021,Wales,CasesByDate,5705
+09/10/2021,Wales,CasesByDate,0
+09/10/2021,Northern Ireland,CasesByDate,1274
+09/10/2021,England,CasesByDate,31259
+09/10/2021,Scotland,CasesByDate,2417
+10/10/2021,Scotland,CasesByDate,2363
+10/10/2021,England,CasesByDate,31096
+10/10/2021,Northern Ireland,CasesByDate,1115
+10/10/2021,Wales,CasesByDate,0
+11/10/2021,Northern Ireland,CasesByDate,1109
+11/10/2021,Wales,CasesByDate,4469
+11/10/2021,England,CasesByDate,32349
+11/10/2021,Scotland,CasesByDate,2297
+12/10/2021,Scotland,CasesByDate,1908
+12/10/2021,England,CasesByDate,33287
+12/10/2021,Northern Ireland,CasesByDate,1278
+12/10/2021,Wales,CasesByDate,2047
+13/10/2021,Wales,CasesByDate,2266
+13/10/2021,Northern Ireland,CasesByDate,1471
+13/10/2021,Scotland,CasesByDate,2581
+13/10/2021,England,CasesByDate,36458
+14/10/2021,England,CasesByDate,38488
+14/10/2021,Scotland,CasesByDate,2639
+14/10/2021,Northern Ireland,CasesByDate,1304
+14/10/2021,Wales,CasesByDate,2635
+15/10/2021,Wales,CasesByDate,3130
+15/10/2021,Northern Ireland,CasesByDate,1349
+15/10/2021,England,CasesByDate,37691
+15/10/2021,Scotland,CasesByDate,2762
+16/10/2021,England,CasesByDate,39624
+16/10/2021,Scotland,CasesByDate,2581
+16/10/2021,Wales,CasesByDate,0
+16/10/2021,Northern Ireland,CasesByDate,1218
+17/10/2021,Northern Ireland,CasesByDate,966
+17/10/2021,Wales,CasesByDate,2965
+17/10/2021,Scotland,CasesByDate,2666
+17/10/2021,England,CasesByDate,38543
+18/10/2021,England,CasesByDate,39473
+18/10/2021,Scotland,CasesByDate,2194
+18/10/2021,Northern Ireland,CasesByDate,1091
+18/10/2021,Wales,CasesByDate,6398
+19/10/2021,Northern Ireland,CasesByDate,1367
+19/10/2021,Wales,CasesByDate,3200
+19/10/2021,Scotland,CasesByDate,2459
+19/10/2021,England,CasesByDate,36712
+20/10/2021,England,CasesByDate,41498
+20/10/2021,Scotland,CasesByDate,2768
+20/10/2021,Northern Ireland,CasesByDate,1423
+20/10/2021,Wales,CasesByDate,3450
+21/10/2021,Wales,CasesByDate,4240
+21/10/2021,Northern Ireland,CasesByDate,1051
+21/10/2021,Scotland,CasesByDate,2355
+21/10/2021,England,CasesByDate,44363
+22/10/2021,England,CasesByDate,41745
+22/10/2021,Scotland,CasesByDate,2902
+22/10/2021,Northern Ireland,CasesByDate,1355
+22/10/2021,Wales,CasesByDate,3296
+23/10/2021,Wales,CasesByDate,0
+23/10/2021,Northern Ireland,CasesByDate,1323
+23/10/2021,England,CasesByDate,41259
+23/10/2021,Scotland,CasesByDate,2403
+24/10/2021,England,CasesByDate,33221
+24/10/2021,Scotland,CasesByDate,2528
+24/10/2021,Northern Ireland,CasesByDate,1061
+24/10/2021,Wales,CasesByDate,3152
+25/10/2021,Wales,CasesByDate,0
+25/10/2021,Northern Ireland,CasesByDate,1019
+25/10/2021,Scotland,CasesByDate,2239
+25/10/2021,England,CasesByDate,33309
+26/10/2021,Scotland,CasesByDate,2262
+26/10/2021,England,CasesByDate,32280
+26/10/2021,Wales,CasesByDate,5288
+26/10/2021,Northern Ireland,CasesByDate,1124
+27/10/2021,Northern Ireland,CasesByDate,1291
+27/10/2021,Wales,CasesByDate,2582
+27/10/2021,England,CasesByDate,37502
+27/10/2021,Scotland,CasesByDate,2566
+28/10/2021,England,CasesByDate,33903
+28/10/2021,Scotland,CasesByDate,2153
+28/10/2021,Northern Ireland,CasesByDate,1122
+28/10/2021,Wales,CasesByDate,2664
+29/10/2021,Wales,CasesByDate,2561
+29/10/2021,Northern Ireland,CasesByDate,1321
+29/10/2021,Scotland,CasesByDate,2732
+29/10/2021,England,CasesByDate,36853
+30/10/2021,England,CasesByDate,36204
+30/10/2021,Scotland,CasesByDate,3867
+30/10/2021,Wales,CasesByDate,0
+30/10/2021,Northern Ireland,CasesByDate,1207
+31/10/2021,Wales,CasesByDate,3016
+31/10/2021,Northern Ireland,CasesByDate,1001
+31/10/2021,Scotland,CasesByDate,2513
+31/10/2021,England,CasesByDate,31479
+01/11/2021,Scotland,CasesByDate,2065
+01/11/2021,England,CasesByDate,32081
+01/11/2021,Wales,CasesByDate,4983
+01/11/2021,Northern Ireland,CasesByDate,948
+02/11/2021,Wales,CasesByDate,2210
+02/11/2021,Northern Ireland,CasesByDate,1114
+02/11/2021,Scotland,CasesByDate,2010
+02/11/2021,England,CasesByDate,28531
+03/11/2021,England,CasesByDate,34317
+03/11/2021,Scotland,CasesByDate,3495
+03/11/2021,Northern Ireland,CasesByDate,995
+03/11/2021,Wales,CasesByDate,2492
+04/11/2021,Wales,CasesByDate,2799
+04/11/2021,Northern Ireland,CasesByDate,1481
+04/11/2021,Scotland,CasesByDate,2823
+04/11/2021,England,CasesByDate,30166
+05/11/2021,England,CasesByDate,28490
+05/11/2021,Scotland,CasesByDate,2389
+05/11/2021,Northern Ireland,CasesByDate,1164
+05/11/2021,Wales,CasesByDate,1986
+06/11/2021,Wales,CasesByDate,0
+06/11/2021,Northern Ireland,CasesByDate,1194
+06/11/2021,Scotland,CasesByDate,3249
+06/11/2021,England,CasesByDate,26250
+07/11/2021,Scotland,CasesByDate,2908
+07/11/2021,England,CasesByDate,23779
+07/11/2021,Northern Ireland,CasesByDate,1035
+07/11/2021,Wales,CasesByDate,2583
+08/11/2021,Wales,CasesByDate,4303
+08/11/2021,Northern Ireland,CasesByDate,1028
+08/11/2021,Scotland,CasesByDate,2012
+08/11/2021,England,CasesByDate,24979
+09/11/2021,England,CasesByDate,27872
+09/11/2021,Scotland,CasesByDate,2233
+09/11/2021,Wales,CasesByDate,1784
+09/11/2021,Northern Ireland,CasesByDate,1228
+10/11/2021,Wales,CasesByDate,2171
+10/11/2021,Northern Ireland,CasesByDate,1765
+10/11/2021,England,CasesByDate,31541
+10/11/2021,Scotland,CasesByDate,3852
+11/11/2021,Scotland,CasesByDate,3340
+11/11/2021,England,CasesByDate,35472
+11/11/2021,Wales,CasesByDate,2134
+11/11/2021,Northern Ireland,CasesByDate,1462
+12/11/2021,Northern Ireland,CasesByDate,1087
+12/11/2021,Wales,CasesByDate,2784
+12/11/2021,Scotland,CasesByDate,3349
+12/11/2021,England,CasesByDate,33155
+13/11/2021,England,CasesByDate,33493
+13/11/2021,Scotland,CasesByDate,3052
+13/11/2021,Wales,CasesByDate,0
+13/11/2021,Northern Ireland,CasesByDate,1806
+14/11/2021,Wales,CasesByDate,2659
+14/11/2021,Northern Ireland,CasesByDate,1377
+14/11/2021,England,CasesByDate,29404
+14/11/2021,Scotland,CasesByDate,3077
+15/11/2021,England,CasesByDate,31440
+15/11/2021,Scotland,CasesByDate,2288
+15/11/2021,Northern Ireland,CasesByDate,1457
+15/11/2021,Wales,CasesByDate,4520
+16/11/2021,Northern Ireland,CasesByDate,1698
+16/11/2021,Wales,CasesByDate,1921
+16/11/2021,Scotland,CasesByDate,2771
+16/11/2021,England,CasesByDate,30853
+17/11/2021,Scotland,CasesByDate,3360
+17/11/2021,England,CasesByDate,30638
+17/11/2021,Wales,CasesByDate,2417
+17/11/2021,Northern Ireland,CasesByDate,1848
+18/11/2021,Wales,CasesByDate,2576
+18/11/2021,Northern Ireland,CasesByDate,1681
+18/11/2021,England,CasesByDate,39315
+18/11/2021,Scotland,CasesByDate,3235
+19/11/2021,Scotland,CasesByDate,3090
+19/11/2021,England,CasesByDate,37006
+19/11/2021,Northern Ireland,CasesByDate,1690
+19/11/2021,Wales,CasesByDate,2456
+20/11/2021,Wales,CasesByDate,0
+20/11/2021,Northern Ireland,CasesByDate,1846
+20/11/2021,Scotland,CasesByDate,2756
+20/11/2021,England,CasesByDate,36339
+21/11/2021,Scotland,CasesByDate,2677
+21/11/2021,England,CasesByDate,33513
+21/11/2021,Northern Ireland,CasesByDate,1406
+21/11/2021,Wales,CasesByDate,2408
+22/11/2021,Wales,CasesByDate,4489
+22/11/2021,Northern Ireland,CasesByDate,1469
+22/11/2021,England,CasesByDate,36478
+22/11/2021,Scotland,CasesByDate,2481
+23/11/2021,England,CasesByDate,36550
+23/11/2021,Scotland,CasesByDate,2527
+23/11/2021,Wales,CasesByDate,1931
+23/11/2021,Northern Ireland,CasesByDate,1476
+24/11/2021,Wales,CasesByDate,2154
+24/11/2021,Northern Ireland,CasesByDate,1931
+24/11/2021,Scotland,CasesByDate,3080
+24/11/2021,England,CasesByDate,36511
+25/11/2021,England,CasesByDate,40382
+25/11/2021,Scotland,CasesByDate,2932
+25/11/2021,Wales,CasesByDate,2377
+25/11/2021,Northern Ireland,CasesByDate,1549
+26/11/2021,Northern Ireland,CasesByDate,2004
+26/11/2021,Wales,CasesByDate,2927
+26/11/2021,England,CasesByDate,42272
+26/11/2021,Scotland,CasesByDate,2888
+27/11/2021,Scotland,CasesByDate,2287
+27/11/2021,England,CasesByDate,35798
+27/11/2021,Northern Ireland,CasesByDate,1482
+27/11/2021,Wales,CasesByDate,0
+28/11/2021,Wales,CasesByDate,1963
+28/11/2021,Northern Ireland,CasesByDate,1405
+28/11/2021,England,CasesByDate,32136
+28/11/2021,Scotland,CasesByDate,2177
+29/11/2021,Scotland,CasesByDate,2244
+29/11/2021,England,CasesByDate,34906
+29/11/2021,Northern Ireland,CasesByDate,1464
+29/11/2021,Wales,CasesByDate,3969
+30/11/2021,Wales,CasesByDate,1972
+30/11/2021,Northern Ireland,CasesByDate,1585
+30/11/2021,Scotland,CasesByDate,2569
+30/11/2021,England,CasesByDate,33590
+01/12/2021,Scotland,CasesByDate,2796
+01/12/2021,England,CasesByDate,41519
+01/12/2021,Northern Ireland,CasesByDate,1992
+01/12/2021,Wales,CasesByDate,2067
+02/12/2021,Wales,CasesByDate,2791
+02/12/2021,Northern Ireland,CasesByDate,2272
+02/12/2021,Scotland,CasesByDate,3002
+02/12/2021,England,CasesByDate,45880
+03/12/2021,England,CasesByDate,43888
+03/12/2021,Scotland,CasesByDate,2432
+03/12/2021,Northern Ireland,CasesByDate,1908
+03/12/2021,Wales,CasesByDate,2356
+04/12/2021,Wales,CasesByDate,0
+04/12/2021,Northern Ireland,CasesByDate,1642
+04/12/2021,Scotland,CasesByDate,1257
+04/12/2021,England,CasesByDate,39949
+05/12/2021,England,CasesByDate,37396
+05/12/2021,Scotland,CasesByDate,2607
+05/12/2021,Wales,CasesByDate,2567
+05/12/2021,Northern Ireland,CasesByDate,1422
+06/12/2021,Northern Ireland,CasesByDate,1635
+06/12/2021,Wales,CasesByDate,4405
+06/12/2021,England,CasesByDate,41525
+06/12/2021,Scotland,CasesByDate,3894
+07/12/2021,Scotland,CasesByDate,3060
+07/12/2021,England,CasesByDate,38866
+07/12/2021,Wales,CasesByDate,2107
+07/12/2021,Northern Ireland,CasesByDate,1658
+08/12/2021,Northern Ireland,CasesByDate,1933
+08/12/2021,Wales,CasesByDate,2313
+08/12/2021,England,CasesByDate,44019
+08/12/2021,Scotland,CasesByDate,3077
+09/12/2021,England,CasesByDate,43550
+09/12/2021,Scotland,CasesByDate,3196
+09/12/2021,Northern Ireland,CasesByDate,1819
+09/12/2021,Wales,CasesByDate,2302
+10/12/2021,Wales,CasesByDate,2462
+10/12/2021,Northern Ireland,CasesByDate,1806
+10/12/2021,England,CasesByDate,48908
+10/12/2021,Scotland,CasesByDate,5018
+11/12/2021,Scotland,CasesByDate,4087
+11/12/2021,England,CasesByDate,48540
+11/12/2021,Wales,CasesByDate,0
+11/12/2021,Northern Ireland,CasesByDate,1446
+12/12/2021,Wales,CasesByDate,2591
+12/12/2021,Northern Ireland,CasesByDate,1548
+12/12/2021,England,CasesByDate,40713
+12/12/2021,Scotland,CasesByDate,4002
+13/12/2021,England,CasesByDate,44931
+13/12/2021,Scotland,CasesByDate,3756
+13/12/2021,Wales,CasesByDate,4543
+13/12/2021,Northern Ireland,CasesByDate,1431
+14/12/2021,Wales,CasesByDate,1819
+14/12/2021,Northern Ireland,CasesByDate,1581
+14/12/2021,Scotland,CasesByDate,3117
+14/12/2021,England,CasesByDate,53093
+15/12/2021,Scotland,CasesByDate,5155
+15/12/2021,England,CasesByDate,68868
+15/12/2021,Northern Ireland,CasesByDate,2156
+15/12/2021,Wales,CasesByDate,2431
+16/12/2021,Wales,CasesByDate,2889
+16/12/2021,Northern Ireland,CasesByDate,2237
+16/12/2021,Scotland,CasesByDate,5951
+16/12/2021,England,CasesByDate,77299
+17/12/2021,England,CasesByDate,83693
+17/12/2021,Scotland,CasesByDate,4336
+17/12/2021,Wales,CasesByDate,3129
+17/12/2021,Northern Ireland,CasesByDate,1887
+18/12/2021,Northern Ireland,CasesByDate,2075
+18/12/2021,Wales,CasesByDate,0
+18/12/2021,England,CasesByDate,82426
+18/12/2021,Scotland,CasesByDate,5917
+19/12/2021,England,CasesByDate,71702
+19/12/2021,Scotland,CasesByDate,5924
+19/12/2021,Wales,CasesByDate,3462
+19/12/2021,Northern Ireland,CasesByDate,1798
+20/12/2021,Northern Ireland,CasesByDate,2148
+20/12/2021,Wales,CasesByDate,6796
+20/12/2021,Scotland,CasesByDate,6734
+20/12/2021,England,CasesByDate,76065
+21/12/2021,Scotland,CasesByDate,5242
+21/12/2021,England,CasesByDate,80916
+21/12/2021,Wales,CasesByDate,2375
+21/12/2021,Northern Ireland,CasesByDate,2096
+22/12/2021,Northern Ireland,CasesByDate,3231
+22/12/2021,Wales,CasesByDate,4662
+22/12/2021,England,CasesByDate,95795
+22/12/2021,Scotland,CasesByDate,5967
+23/12/2021,England,CasesByDate,107055
+23/12/2021,Scotland,CasesByDate,6215
+23/12/2021,Wales,CasesByDate,3292
+23/12/2021,Northern Ireland,CasesByDate,3227
+24/12/2021,Wales,CasesByDate,6755
+24/12/2021,Northern Ireland,CasesByDate,3286
+24/12/2021,Scotland,CasesByDate,7076
+24/12/2021,England,CasesByDate,105069
+25/12/2021,England,CasesByDate,113628
+25/12/2021,Scotland,CasesByDate,8252
+25/12/2021,Northern Ireland,CasesByDate,0
+25/12/2021,Wales,CasesByDate,0
+26/12/2021,Northern Ireland,CasesByDate,0
+26/12/2021,Wales,CasesByDate,5335
+26/12/2021,Scotland,CasesByDate,11030
+26/12/2021,England,CasesByDate,103558
+27/12/2021,Scotland,CasesByDate,10562
+27/12/2021,England,CasesByDate,98515
+27/12/2021,Northern Ireland,CasesByDate,0
+27/12/2021,Wales,CasesByDate,0
+28/12/2021,Northern Ireland,CasesByDate,0
+28/12/2021,Wales,CasesByDate,12378
+28/12/2021,England,CasesByDate,117093
+28/12/2021,Scotland,CasesByDate,9360
+29/12/2021,Scotland,CasesByDate,15849
+29/12/2021,England,CasesByDate,138287
+29/12/2021,Northern Ireland,CasesByDate,22972
+29/12/2021,Wales,CasesByDate,5929
+30/12/2021,Northern Ireland,CasesByDate,4701
+30/12/2021,Wales,CasesByDate,21051
+30/12/2021,England,CasesByDate,146604
+30/12/2021,Scotland,CasesByDate,16857
+31/12/2021,Scotland,CasesByDate,11962
+31/12/2021,England,CasesByDate,160276
+31/12/2021,Northern Ireland,CasesByDate,7215
+31/12/2021,Wales,CasesByDate,10393
+01/01/2022,Northern Ireland,CasesByDate,0
+01/01/2022,Wales,CasesByDate,0
+01/01/2022,England,CasesByDate,162572
+01/01/2022,Scotland,CasesByDate,17065
+02/01/2022,Scotland,CasesByDate,14080
+02/01/2022,England,CasesByDate,123547
+02/01/2022,Northern Ireland,CasesByDate,0
+02/01/2022,Wales,CasesByDate,14036
+03/01/2022,Northern Ireland,CasesByDate,0
+03/01/2022,Wales,CasesByDate,0
+03/01/2022,England,CasesByDate,137541
+03/01/2022,Scotland,CasesByDate,20217
+04/01/2022,Scotland,CasesByDate,17259
+04/01/2022,England,CasesByDate,148725
+04/01/2022,Northern Ireland,CasesByDate,30423
+04/01/2022,Wales,CasesByDate,22317
+05/01/2022,Wales,CasesByDate,21279
+05/01/2022,Northern Ireland,CasesByDate,7133
+05/01/2022,England,CasesByDate,150232
+05/01/2022,Scotland,CasesByDate,16103
+06/01/2022,Scotland,CasesByDate,11360
+06/01/2022,England,CasesByDate,152306
+06/01/2022,Northern Ireland,CasesByDate,6877
+06/01/2022,Wales,CasesByDate,9213
+07/01/2022,Wales,CasesByDate,7915
+07/01/2022,Northern Ireland,CasesByDate,6444
+07/01/2022,Scotland,CasesByDate,14486
+07/01/2022,England,CasesByDate,149405
+08/01/2022,England,CasesByDate,130330
+08/01/2022,Scotland,CasesByDate,12602
+08/01/2022,Northern Ireland,CasesByDate,3458
+08/01/2022,Wales,CasesByDate,0
+09/01/2022,Northern Ireland,CasesByDate,3760
+09/01/2022,Wales,CasesByDate,8923
+09/01/2022,Scotland,CasesByDate,7561
+09/01/2022,England,CasesByDate,121228
+10/01/2022,England,CasesByDate,115998
+10/01/2022,Scotland,CasesByDate,11827
+10/01/2022,Wales,CasesByDate,11693
+10/01/2022,Northern Ireland,CasesByDate,2706
+11/01/2022,Wales,CasesByDate,2176
+11/01/2022,Northern Ireland,CasesByDate,3420
+11/01/2022,Scotland,CasesByDate,10392
+11/01/2022,England,CasesByDate,104833
+12/01/2022,Scotland,CasesByDate,7606
+12/01/2022,England,CasesByDate,116173
+12/01/2022,Northern Ireland,CasesByDate,2922
+12/01/2022,Wales,CasesByDate,2886
+13/01/2022,Northern Ireland,CasesByDate,2980
+13/01/2022,Wales,CasesByDate,3197
+13/01/2022,England,CasesByDate,97770
+13/01/2022,Scotland,CasesByDate,5186
+14/01/2022,England,CasesByDate,87857
+14/01/2022,Scotland,CasesByDate,5977
+14/01/2022,Wales,CasesByDate,2864
+14/01/2022,Northern Ireland,CasesByDate,2954
+15/01/2022,Wales,CasesByDate,0
+15/01/2022,Northern Ireland,CasesByDate,2668
+15/01/2022,England,CasesByDate,74576
+15/01/2022,Scotland,CasesByDate,4469
+16/01/2022,Scotland,CasesByDate,4117
+16/01/2022,England,CasesByDate,66273
+16/01/2022,Wales,CasesByDate,2133
+16/01/2022,Northern Ireland,CasesByDate,2518
+17/01/2022,Wales,CasesByDate,3975
+17/01/2022,Northern Ireland,CasesByDate,3295
+17/01/2022,England,CasesByDate,74249
+17/01/2022,Scotland,CasesByDate,2910
+18/01/2022,England,CasesByDate,84987
+18/01/2022,Scotland,CasesByDate,3507
+18/01/2022,Wales,CasesByDate,1857
+18/01/2022,Northern Ireland,CasesByDate,4081
+19/01/2022,Northern Ireland,CasesByDate,4451
+19/01/2022,Wales,CasesByDate,2136
+19/01/2022,England,CasesByDate,96545
+19/01/2022,Scotland,CasesByDate,4937
+20/01/2022,England,CasesByDate,95974
+20/01/2022,Scotland,CasesByDate,4743
+20/01/2022,Wales,CasesByDate,2768
+20/01/2022,Northern Ireland,CasesByDate,3879
+21/01/2022,Northern Ireland,CasesByDate,3568
+21/01/2022,Wales,CasesByDate,2427
+21/01/2022,Scotland,CasesByDate,3890
+21/01/2022,England,CasesByDate,85902
+22/01/2022,Scotland,CasesByDate,3456
+22/01/2022,England,CasesByDate,73331
+22/01/2022,Northern Ireland,CasesByDate,3476
+22/01/2022,Wales,CasesByDate,0
+23/01/2022,Wales,CasesByDate,2827
+23/01/2022,Northern Ireland,CasesByDate,3059
+23/01/2022,England,CasesByDate,68913
+23/01/2022,Scotland,CasesByDate,3518
+24/01/2022,Scotland,CasesByDate,2956
+24/01/2022,England,CasesByDate,77232
+24/01/2022,Northern Ireland,CasesByDate,3932
+24/01/2022,Wales,CasesByDate,4327
+25/01/2022,Wales,CasesByDate,1977
+25/01/2022,Northern Ireland,CasesByDate,5023
+25/01/2022,Scotland,CasesByDate,3024
+25/01/2022,England,CasesByDate,84302
+26/01/2022,Scotland,CasesByDate,4615
+26/01/2022,England,CasesByDate,90587
+26/01/2022,Northern Ireland,CasesByDate,4383
+26/01/2022,Wales,CasesByDate,2707
+27/01/2022,Wales,CasesByDate,3007
+27/01/2022,Northern Ireland,CasesByDate,4243
+27/01/2022,Scotland,CasesByDate,4333
+27/01/2022,England,CasesByDate,85288
+28/01/2022,England,CasesByDate,78711
+28/01/2022,Scotland,CasesByDate,3956
+28/01/2022,Wales,CasesByDate,2772
+28/01/2022,Northern Ireland,CasesByDate,3737
+29/01/2022,Wales,CasesByDate,0
+29/01/2022,Northern Ireland,CasesByDate,3590
+29/01/2022,England,CasesByDate,69137
+29/01/2022,Scotland,CasesByDate,3342
+30/01/2022,Scotland,CasesByDate,3539
+30/01/2022,England,CasesByDate,59559
+30/01/2022,Wales,CasesByDate,2840
+30/01/2022,Northern Ireland,CasesByDate,3069
+31/01/2022,Northern Ireland,CasesByDate,4159
+31/01/2022,Wales,CasesByDate,4528
+31/01/2022,England,CasesByDate,81720
+31/01/2022,Scotland,CasesByDate,1961
+01/02/2022,England,CasesByDate,103353
+01/02/2022,Scotland,CasesByDate,2848
+01/02/2022,Wales,CasesByDate,1635
+01/02/2022,Northern Ireland,CasesByDate,4622
+02/02/2022,Northern Ireland,CasesByDate,4769
+02/02/2022,Wales,CasesByDate,1870
+02/02/2022,England,CasesByDate,81446
+02/02/2022,Scotland,CasesByDate,4509
+03/02/2022,England,CasesByDate,77189
+03/02/2022,Scotland,CasesByDate,4355
+03/02/2022,Northern Ireland,CasesByDate,4203
+03/02/2022,Wales,CasesByDate,2424
+04/02/2022,Northern Ireland,CasesByDate,3833
+04/02/2022,Wales,CasesByDate,2606
+04/02/2022,Scotland,CasesByDate,4429
+04/02/2022,England,CasesByDate,73185
+05/02/2022,England,CasesByDate,57377
+05/02/2022,Scotland,CasesByDate,2915
+05/02/2022,Wales,CasesByDate,0
+05/02/2022,Northern Ireland,CasesByDate,3201
+06/02/2022,Northern Ireland,CasesByDate,2694
+06/02/2022,Wales,CasesByDate,1868
+06/02/2022,Scotland,CasesByDate,3242
+06/02/2022,England,CasesByDate,49533
+07/02/2022,England,CasesByDate,48601
+07/02/2022,Scotland,CasesByDate,2535
+07/02/2022,Northern Ireland,CasesByDate,3105
+07/02/2022,Wales,CasesByDate,3382
+08/02/2022,Northern Ireland,CasesByDate,3959
+08/02/2022,Wales,CasesByDate,1107
+08/02/2022,England,CasesByDate,58453
+08/02/2022,Scotland,CasesByDate,2664
+09/02/2022,Scotland,CasesByDate,3796
+09/02/2022,England,CasesByDate,59193
+09/02/2022,Wales,CasesByDate,1388
+09/02/2022,Northern Ireland,CasesByDate,3837
+10/02/2022,Northern Ireland,CasesByDate,3609
+10/02/2022,Wales,CasesByDate,1761
+10/02/2022,England,CasesByDate,53993
+10/02/2022,Scotland,CasesByDate,7275
+11/02/2022,England,CasesByDate,46736
+11/02/2022,Scotland,CasesByDate,7341
+11/02/2022,Wales,CasesByDate,1899
+11/02/2022,Northern Ireland,CasesByDate,2923
+12/02/2022,Northern Ireland,CasesByDate,2633
+12/02/2022,Wales,CasesByDate,0
+12/02/2022,England,CasesByDate,37791
+12/02/2022,Scotland,CasesByDate,5601
+13/02/2022,Scotland,CasesByDate,5301
+13/02/2022,England,CasesByDate,32316
+13/02/2022,Wales,CasesByDate,1495
+13/02/2022,Northern Ireland,CasesByDate,2158
+14/02/2022,Wales,CasesByDate,2122
+14/02/2022,Northern Ireland,CasesByDate,2465
+14/02/2022,Scotland,CasesByDate,5118
+14/02/2022,England,CasesByDate,31943
+15/02/2022,England,CasesByDate,36471
+15/02/2022,Scotland,CasesByDate,5805
+15/02/2022,Wales,CasesByDate,923
+15/02/2022,Northern Ireland,CasesByDate,2987
+16/02/2022,Wales,CasesByDate,1124
+16/02/2022,Northern Ireland,CasesByDate,2889
+16/02/2022,Scotland,CasesByDate,7449
+16/02/2022,England,CasesByDate,42756
+17/02/2022,England,CasesByDate,40376
+17/02/2022,Scotland,CasesByDate,7144
+17/02/2022,Wales,CasesByDate,1352
+17/02/2022,Northern Ireland,CasesByDate,3027
+18/02/2022,Wales,CasesByDate,1260
+18/02/2022,Northern Ireland,CasesByDate,2469
+18/02/2022,Scotland,CasesByDate,7056
+18/02/2022,England,CasesByDate,36900
+19/02/2022,Scotland,CasesByDate,5316
+19/02/2022,England,CasesByDate,32230
+19/02/2022,Wales,CasesByDate,0
+19/02/2022,Northern Ireland,CasesByDate,2147
+20/02/2022,Wales,CasesByDate,0
+20/02/2022,Northern Ireland,CasesByDate,1865
+20/02/2022,Scotland,CasesByDate,5474
+20/02/2022,England,CasesByDate,23831
+21/02/2022,England,CasesByDate,29753
+21/02/2022,Scotland,CasesByDate,5307
+21/02/2022,Northern Ireland,CasesByDate,2235
+21/02/2022,Wales,CasesByDate,1114
+22/02/2022,Wales,CasesByDate,1672
+22/02/2022,Northern Ireland,CasesByDate,2951
+22/02/2022,England,CasesByDate,30080
+22/02/2022,Scotland,CasesByDate,6427
+23/02/2022,Scotland,CasesByDate,6756
+23/02/2022,England,CasesByDate,29703
+23/02/2022,Northern Ireland,CasesByDate,2294
+23/02/2022,Wales,CasesByDate,903
+24/02/2022,Wales,CasesByDate,1059
+24/02/2022,Northern Ireland,CasesByDate,2486
+24/02/2022,Scotland,CasesByDate,7195
+24/02/2022,England,CasesByDate,28193
+25/02/2022,England,CasesByDate,23526
+25/02/2022,Scotland,CasesByDate,5484
+25/02/2022,Northern Ireland,CasesByDate,2068
+25/02/2022,Wales,CasesByDate,855
+26/02/2022,Wales,CasesByDate,0
+26/02/2022,Northern Ireland,CasesByDate,0
+26/02/2022,Scotland,CasesByDate,0
+26/02/2022,England,CasesByDate,0
+27/02/2022,England,CasesByDate,0
+27/02/2022,Scotland,CasesByDate,0
+27/02/2022,Wales,CasesByDate,0
+27/02/2022,Northern Ireland,CasesByDate,0
+28/02/2022,Northern Ireland,CasesByDate,5168
+28/02/2022,Wales,CasesByDate,339
+28/02/2022,England,CasesByDate,60595
+28/02/2022,Scotland,CasesByDate,16349
+01/03/2022,England,CasesByDate,26711
+01/03/2022,Scotland,CasesByDate,7497
+01/03/2022,Northern Ireland,CasesByDate,2567
+01/03/2022,Wales,CasesByDate,2225
+02/03/2022,Northern Ireland,CasesByDate,2407
+02/03/2022,Wales,CasesByDate,808
+02/03/2022,Scotland,CasesByDate,8725
+02/03/2022,England,CasesByDate,32077
+03/03/2022,Scotland,CasesByDate,9491
+03/03/2022,England,CasesByDate,32858
+03/03/2022,Wales,CasesByDate,899
+03/03/2022,Northern Ireland,CasesByDate,2408
+04/03/2022,Northern Ireland,CasesByDate,2236
+04/03/2022,Wales,CasesByDate,1177
+04/03/2022,England,CasesByDate,31776
+04/03/2022,Scotland,CasesByDate,9551
+05/03/2022,England,CasesByDate,0
+05/03/2022,Scotland,CasesByDate,0
+05/03/2022,Wales,CasesByDate,0
+05/03/2022,Northern Ireland,CasesByDate,0
+06/03/2022,Wales,CasesByDate,0
+06/03/2022,Northern Ireland,CasesByDate,0
+06/03/2022,England,CasesByDate,0
+06/03/2022,Scotland,CasesByDate,0
+07/03/2022,Scotland,CasesByDate,24488
+07/03/2022,England,CasesByDate,95324
+07/03/2022,Northern Ireland,CasesByDate,5769
+07/03/2022,Wales,CasesByDate,1023
+08/03/2022,Northern Ireland,CasesByDate,2669
+08/03/2022,Wales,CasesByDate,2628
+08/03/2022,Scotland,CasesByDate,11685
+08/03/2022,England,CasesByDate,44918
+09/03/2022,England,CasesByDate,51378
+09/03/2022,Scotland,CasesByDate,11957
+09/03/2022,Northern Ireland,CasesByDate,2683
+09/03/2022,Wales,CasesByDate,1141
+10/03/2022,Wales,CasesByDate,1548
+10/03/2022,Northern Ireland,CasesByDate,2602
+10/03/2022,Scotland,CasesByDate,14387
+10/03/2022,England,CasesByDate,52722
+11/03/2022,England,CasesByDate,55883
+11/03/2022,Scotland,CasesByDate,13220
+11/03/2022,Wales,CasesByDate,1525
+11/03/2022,Northern Ireland,CasesByDate,2270
+12/03/2022,Wales,CasesByDate,0
+12/03/2022,Northern Ireland,CasesByDate,0
+12/03/2022,Scotland,CasesByDate,0
+12/03/2022,England,CasesByDate,0
+13/03/2022,Scotland,CasesByDate,0
+13/03/2022,England,CasesByDate,0
+13/03/2022,Wales,CasesByDate,0
+13/03/2022,Northern Ireland,CasesByDate,0
+14/03/2022,Wales,CasesByDate,1508
+14/03/2022,Northern Ireland,CasesByDate,5523
+14/03/2022,Scotland,CasesByDate,0
+14/03/2022,England,CasesByDate,163954
+15/03/2022,Scotland,CasesByDate,38770
+15/03/2022,England,CasesByDate,64313
+15/03/2022,Northern Ireland,CasesByDate,2605
+15/03/2022,Wales,CasesByDate,4114
+16/03/2022,Wales,CasesByDate,1878
+16/03/2022,Northern Ireland,CasesByDate,2391
+16/03/2022,Scotland,CasesByDate,10710
+16/03/2022,England,CasesByDate,76366
+17/03/2022,Scotland,CasesByDate,9721
+17/03/2022,England,CasesByDate,75681
+17/03/2022,Wales,CasesByDate,2261
+17/03/2022,Northern Ireland,CasesByDate,2054
+18/03/2022,Northern Ireland,CasesByDate,1798
+18/03/2022,Wales,CasesByDate,1935
+18/03/2022,England,CasesByDate,68492
+18/03/2022,Scotland,CasesByDate,18124
+19/03/2022,Scotland,CasesByDate,0
+19/03/2022,England,CasesByDate,0
+19/03/2022,Northern Ireland,CasesByDate,0
+19/03/2022,Wales,CasesByDate,0
+20/03/2022,Wales,CasesByDate,0
+20/03/2022,Northern Ireland,CasesByDate,0
+20/03/2022,England,CasesByDate,0
+20/03/2022,Scotland,CasesByDate,0
+21/03/2022,Scotland,CasesByDate,29678
+21/03/2022,England,CasesByDate,188925
+21/03/2022,Wales,CasesByDate,2566
+21/03/2022,Northern Ireland,CasesByDate,5355
+22/03/2022,Northern Ireland,CasesByDate,2899
+22/03/2022,Wales,CasesByDate,4909
+22/03/2022,Scotland,CasesByDate,11912
+22/03/2022,England,CasesByDate,74804
+23/03/2022,Scotland,CasesByDate,12421
+23/03/2022,England,CasesByDate,85916
+23/03/2022,Northern Ireland,CasesByDate,2269
+23/03/2022,Wales,CasesByDate,1877
+24/03/2022,Northern Ireland,CasesByDate,2524
+24/03/2022,Wales,CasesByDate,2743
+24/03/2022,England,CasesByDate,79373
+24/03/2022,Scotland,CasesByDate,13564
+25/03/2022,Scotland,CasesByDate,10100
+25/03/2022,England,CasesByDate,63371
+25/03/2022,Wales,CasesByDate,2128
+25/03/2022,Northern Ireland,CasesByDate,1910
+26/03/2022,Northern Ireland,CasesByDate,0
+26/03/2022,Wales,CasesByDate,0
+26/03/2022,Scotland,CasesByDate,0
+26/03/2022,England,CasesByDate,0
+27/03/2022,Scotland,CasesByDate,0
+27/03/2022,England,CasesByDate,0
+27/03/2022,Northern Ireland,CasesByDate,0
+27/03/2022,Wales,CasesByDate,0
+28/03/2022,Wales,CasesByDate,2206
+28/03/2022,Northern Ireland,CasesByDate,3841
+28/03/2022,England,CasesByDate,183459
+28/03/2022,Scotland,CasesByDate,25495
+29/03/2022,Scotland,CasesByDate,9311
+29/03/2022,England,CasesByDate,64935
+29/03/2022,Northern Ireland,CasesByDate,1731
+29/03/2022,Wales,CasesByDate,4853
+30/03/2022,Northern Ireland,CasesByDate,1414
+30/03/2022,Wales,CasesByDate,1745
+30/03/2022,Scotland,CasesByDate,9610
+30/03/2022,England,CasesByDate,74419
+31/03/2022,England,CasesByDate,62816
+31/03/2022,Scotland,CasesByDate,9064
+31/03/2022,Wales,CasesByDate,1379
+31/03/2022,Northern Ireland,CasesByDate,1461
+01/04/2022,Northern Ireland,CasesByDate,1218
+01/04/2022,Wales,CasesByDate,1438
+01/04/2022,Scotland,CasesByDate,6935
+01/04/2022,England,CasesByDate,60220
+02/04/2022,Scotland,CasesByDate,0
+02/04/2022,England,CasesByDate,0
+02/04/2022,Northern Ireland,CasesByDate,0
+02/04/2022,Wales,CasesByDate,0
+03/04/2022,Northern Ireland,CasesByDate,0
+03/04/2022,Wales,CasesByDate,0
+03/04/2022,England,CasesByDate,0
+03/04/2022,Scotland,CasesByDate,0
+04/04/2022,England,CasesByDate,122027
+04/04/2022,Scotland,CasesByDate,17182
+04/04/2022,Northern Ireland,CasesByDate,2688
+04/04/2022,Wales,CasesByDate,1485
+05/04/2022,Northern Ireland,CasesByDate,1387
+05/04/2022,Wales,CasesByDate,1834
+05/04/2022,England,CasesByDate,41436
+05/04/2022,Scotland,CasesByDate,5545
+06/04/2022,England,CasesByDate,42392
+06/04/2022,Scotland,CasesByDate,7315
+06/04/2022,Northern Ireland,CasesByDate,1155
+06/04/2022,Wales,CasesByDate,391
+07/04/2022,Northern Ireland,CasesByDate,1133
+07/04/2022,Wales,CasesByDate,537
+07/04/2022,Scotland,CasesByDate,6778
+07/04/2022,England,CasesByDate,38678
+08/04/2022,Scotland,CasesByDate,6215
+08/04/2022,England,CasesByDate,33782
+08/04/2022,Wales,CasesByDate,404
+08/04/2022,Northern Ireland,CasesByDate,983
+09/04/2022,Northern Ireland,CasesByDate,0
+09/04/2022,Wales,CasesByDate,0
+09/04/2022,England,CasesByDate,0
+09/04/2022,Scotland,CasesByDate,0
+10/04/2022,England,CasesByDate,0
+10/04/2022,Scotland,CasesByDate,0
+10/04/2022,Wales,CasesByDate,0
+10/04/2022,Northern Ireland,CasesByDate,0
+11/04/2022,Northern Ireland,CasesByDate,1873
+11/04/2022,Wales,CasesByDate,373
+11/04/2022,Scotland,CasesByDate,13761
+11/04/2022,England,CasesByDate,75194
+12/04/2022,England,CasesByDate,31230
+12/04/2022,Scotland,CasesByDate,4958
+12/04/2022,Wales,CasesByDate,704
+12/04/2022,Northern Ireland,CasesByDate,927
+13/04/2022,Wales,CasesByDate,308
+13/04/2022,Northern Ireland,CasesByDate,770
+13/04/2022,Scotland,CasesByDate,5513
+13/04/2022,England,CasesByDate,29335
+14/04/2022,Scotland,CasesByDate,4196
+14/04/2022,England,CasesByDate,27283
+14/04/2022,Northern Ireland,CasesByDate,791
+14/04/2022,Wales,CasesByDate,338
+15/04/2022,Northern Ireland,CasesByDate,0
+15/04/2022,Wales,CasesByDate,0
+15/04/2022,Scotland,CasesByDate,0
+15/04/2022,England,CasesByDate,0
+16/04/2022,England,CasesByDate,0
+16/04/2022,Scotland,CasesByDate,0
+16/04/2022,Wales,CasesByDate,0
+16/04/2022,Northern Ireland,CasesByDate,0
+17/04/2022,Northern Ireland,CasesByDate,0
+17/04/2022,Wales,CasesByDate,0
+17/04/2022,Scotland,CasesByDate,0
+17/04/2022,England,CasesByDate,0
+18/04/2022,Scotland,CasesByDate,0
+18/04/2022,England,CasesByDate,0
+18/04/2022,Northern Ireland,CasesByDate,0
+18/04/2022,Wales,CasesByDate,0
+19/04/2022,Wales,CasesByDate,272
+19/04/2022,Northern Ireland,CasesByDate,2695
+19/04/2022,England,CasesByDate,93281
+19/04/2022,Scotland,CasesByDate,19979
+20/04/2022,Scotland,CasesByDate,3976
+20/04/2022,England,CasesByDate,20767
+20/04/2022,Wales,CasesByDate,816
+20/04/2022,Northern Ireland,CasesByDate,588
+21/04/2022,Wales,CasesByDate,255
+21/04/2022,Northern Ireland,CasesByDate,752
+21/04/2022,Scotland,CasesByDate,3974
+21/04/2022,England,CasesByDate,18475
+22/04/2022,England,CasesByDate,15832
+22/04/2022,Scotland,CasesByDate,3093
+22/04/2022,Northern Ireland,CasesByDate,707
+22/04/2022,Wales,CasesByDate,163
+23/04/2022,Northern Ireland,CasesByDate,0
+23/04/2022,Wales,CasesByDate,0
+23/04/2022,Scotland,CasesByDate,0
+23/04/2022,England,CasesByDate,0
+24/04/2022,England,CasesByDate,0
+24/04/2022,Scotland,CasesByDate,0
+24/04/2022,Wales,CasesByDate,0
+24/04/2022,Northern Ireland,CasesByDate,0
+25/04/2022,Wales,CasesByDate,159
+25/04/2022,Northern Ireland,CasesByDate,1279
+25/04/2022,Scotland,CasesByDate,7714
+25/04/2022,England,CasesByDate,35925
+26/04/2022,England,CasesByDate,13045
+26/04/2022,Scotland,CasesByDate,2711
+26/04/2022,Northern Ireland,CasesByDate,480
+26/04/2022,Wales,CasesByDate,343
+27/04/2022,Northern Ireland,CasesByDate,365
+27/04/2022,Wales,CasesByDate,184
+27/04/2022,England,CasesByDate,13481
+27/04/2022,Scotland,CasesByDate,3194
+28/04/2022,Scotland,CasesByDate,2587
+28/04/2022,England,CasesByDate,10945
+28/04/2022,Northern Ireland,CasesByDate,355
+28/04/2022,Wales,CasesByDate,143
+29/04/2022,Northern Ireland,CasesByDate,329
+29/04/2022,Wales,CasesByDate,133
+29/04/2022,England,CasesByDate,9705
+29/04/2022,Scotland,CasesByDate,2254
+30/04/2022,Scotland,CasesByDate,0
+30/04/2022,England,CasesByDate,0
+30/04/2022,Northern Ireland,CasesByDate,0
+30/04/2022,Wales,CasesByDate,0
+01/05/2022,Wales,CasesByDate,0
+01/05/2022,Northern Ireland,CasesByDate,0
+01/05/2022,England,CasesByDate,0
+01/05/2022,Scotland,CasesByDate,0
+02/05/2022,Scotland,CasesByDate,0
+02/05/2022,Wales,CasesByDate,0
+02/05/2022,Northern Ireland,CasesByDate,0
+02/05/2022,England,CasesByDate,0
+03/05/2022,England,CasesByDate,29029
+03/05/2022,Scotland,CasesByDate,5489
+03/05/2022,Northern Ireland,CasesByDate,1002
+03/05/2022,Wales,CasesByDate,115
+04/05/2022,Northern Ireland,CasesByDate,378
+04/05/2022,Wales,CasesByDate,326
+04/05/2022,England,CasesByDate,14596
+04/05/2022,Scotland,CasesByDate,1311
+05/05/2022,Scotland,CasesByDate,1663
+05/05/2022,Wales,CasesByDate,151
+05/05/2022,Northern Ireland,CasesByDate,362
+05/05/2022,England,CasesByDate,10311
+06/05/2022,England,CasesByDate,9405
+06/05/2022,Scotland,CasesByDate,1226
+06/05/2022,Northern Ireland,CasesByDate,316
+06/05/2022,Wales,CasesByDate,129
+07/05/2022,Northern Ireland,CasesByDate,0
+07/05/2022,Wales,CasesByDate,0
+07/05/2022,England,CasesByDate,0
+07/05/2022,Scotland,CasesByDate,0
+08/05/2022,Scotland,CasesByDate,0
+08/05/2022,Northern Ireland,CasesByDate,0
+08/05/2022,Wales,CasesByDate,0
+08/05/2022,England,CasesByDate,0
+09/05/2022,England,CasesByDate,21712
+09/05/2022,Scotland,CasesByDate,3672
+09/05/2022,Northern Ireland,CasesByDate,796
+09/05/2022,Wales,CasesByDate,100
+10/05/2022,Wales,CasesByDate,268
+10/05/2022,Northern Ireland,CasesByDate,394
+10/05/2022,England,CasesByDate,9751
+10/05/2022,Scotland,CasesByDate,0
+11/05/2022,Scotland,CasesByDate,0
+11/05/2022,Northern Ireland,CasesByDate,0
+11/05/2022,Wales,CasesByDate,99
+11/05/2022,England,CasesByDate,8036
+12/05/2022,England,CasesByDate,10874
+12/05/2022,Scotland,CasesByDate,3589
+12/05/2022,Wales,CasesByDate,101
+12/05/2022,Northern Ireland,CasesByDate,0
+13/05/2022,Wales,CasesByDate,81
+13/05/2022,Northern Ireland,CasesByDate,0
+13/05/2022,England,CasesByDate,6511
+13/05/2022,Scotland,CasesByDate,0
+14/05/2022,Scotland,CasesByDate,0
+14/05/2022,Wales,CasesByDate,0
+14/05/2022,Northern Ireland,CasesByDate,1082
+14/05/2022,England,CasesByDate,0
+15/05/2022,England,CasesByDate,0
+15/05/2022,Scotland,CasesByDate,0
+15/05/2022,Wales,CasesByDate,0
+15/05/2022,Northern Ireland,CasesByDate,173
+16/05/2022,Northern Ireland,CasesByDate,252
+16/05/2022,Wales,CasesByDate,74
+16/05/2022,England,CasesByDate,16903
+16/05/2022,Scotland,CasesByDate,5108
+17/05/2022,Scotland,CasesByDate,0
+17/05/2022,Northern Ireland,CasesByDate,363
+17/05/2022,Wales,CasesByDate,138
+17/05/2022,England,CasesByDate,8102
+18/05/2022,England,CasesByDate,7388
+18/05/2022,Scotland,CasesByDate,0
+18/05/2022,Wales,CasesByDate,71
+18/05/2022,Northern Ireland,CasesByDate,332
+19/05/2022,Northern Ireland,CasesByDate,263
+19/05/2022,Wales,CasesByDate,71
+19/05/2022,England,CasesByDate,6704
+19/05/2022,Scotland,CasesByDate,5170
+20/05/2022,Scotland,CasesByDate,0
+20/05/2022,Northern Ireland,CasesByDate,262
+20/05/2022,Wales,CasesByDate,73
+20/05/2022,England,CasesByDate,6003
+21/05/2022,England,CasesByDate,0
+21/05/2022,Scotland,CasesByDate,0
+21/05/2022,Wales,CasesByDate,0
+22/05/2022,Wales,CasesByDate,0
+22/05/2022,England,CasesByDate,0
+22/05/2022,Scotland,CasesByDate,0
+23/05/2022,Scotland,CasesByDate,11341
+23/05/2022,Wales,CasesByDate,54
+23/05/2022,England,CasesByDate,14592
+24/05/2022,England,CasesByDate,6352
+24/05/2022,Scotland,CasesByDate,0
+24/05/2022,Wales,CasesByDate,90
+25/05/2022,Wales,CasesByDate,51
+25/05/2022,Scotland,CasesByDate,0
+25/05/2022,England,CasesByDate,5810
+26/05/2022,England,CasesByDate,5293
+26/05/2022,Scotland,CasesByDate,3024
+26/05/2022,Wales,CasesByDate,52
+27/05/2022,Scotland,CasesByDate,0
+27/05/2022,Wales,CasesByDate,0
+27/05/2022,England,CasesByDate,4661
+28/05/2022,England,CasesByDate,0
+28/05/2022,Scotland,CasesByDate,0
+28/05/2022,Wales,CasesByDate,0
+29/05/2022,Wales,CasesByDate,0
+29/05/2022,Scotland,CasesByDate,0
+29/05/2022,England,CasesByDate,0
+30/05/2022,England,CasesByDate,13590
+30/05/2022,Scotland,CasesByDate,3514
+30/05/2022,Wales,CasesByDate,0
+31/05/2022,Scotland,CasesByDate,0
+31/05/2022,Wales,CasesByDate,0
+31/05/2022,England,CasesByDate,5802
+01/06/2022,England,CasesByDate,5313
+01/06/2022,Wales,CasesByDate,0
+01/06/2022,Scotland,CasesByDate,0
+02/06/2022,Scotland,CasesByDate,3653
+02/06/2022,Wales,CasesByDate,261
+02/06/2022,England,CasesByDate,0
+03/06/2022,England,CasesByDate,0
+03/06/2022,Scotland,CasesByDate,0
+03/06/2022,Wales,CasesByDate,0
+04/06/2022,Scotland,CasesByDate,0
+04/06/2022,Wales,CasesByDate,0
+04/06/2022,England,CasesByDate,0
+05/06/2022,England,CasesByDate,0
+05/06/2022,Scotland,CasesByDate,0
+05/06/2022,Wales,CasesByDate,0
+06/06/2022,Wales,CasesByDate,0
+06/06/2022,Scotland,CasesByDate,0
+06/06/2022,England,CasesByDate,29155
+07/06/2022,England,CasesByDate,10240
+07/06/2022,Scotland,CasesByDate,0
+07/06/2022,Wales,CasesByDate,0
+08/06/2022,Scotland,CasesByDate,4588
+08/06/2022,Wales,CasesByDate,0
+08/06/2022,England,CasesByDate,9298
+09/06/2022,England,CasesByDate,9741
+09/06/2022,Scotland,CasesByDate,0
+09/06/2022,Wales,CasesByDate,343
+10/06/2022,Wales,CasesByDate,0
+10/06/2022,Scotland,CasesByDate,0
+10/06/2022,England,CasesByDate,9217
+11/06/2022,England,CasesByDate,0
+11/06/2022,Scotland,CasesByDate,0
+11/06/2022,Wales,CasesByDate,0
+12/06/2022,Wales,CasesByDate,0
+12/06/2022,Scotland,CasesByDate,0
+12/06/2022,England,CasesByDate,0
+13/06/2022,England,CasesByDate,28249
+13/06/2022,Wales,CasesByDate,0
+13/06/2022,Scotland,CasesByDate,0
+14/06/2022,Wales,CasesByDate,0
+14/06/2022,Scotland,CasesByDate,0
+14/06/2022,England,CasesByDate,12031
+15/06/2022,England,CasesByDate,13401
+15/06/2022,Wales,CasesByDate,0
+15/06/2022,Scotland,CasesByDate,11905
+16/06/2022,Scotland,CasesByDate,0
+16/06/2022,Wales,CasesByDate,468
+16/06/2022,England,CasesByDate,12080
+17/06/2022,England,CasesByDate,12065
+17/06/2022,Wales,CasesByDate,0
+17/06/2022,Scotland,CasesByDate,0
+18/06/2022,Scotland,CasesByDate,0
+18/06/2022,Wales,CasesByDate,0
+18/06/2022,England,CasesByDate,0
+19/06/2022,England,CasesByDate,0
+19/06/2022,Scotland,CasesByDate,0
+19/06/2022,Wales,CasesByDate,0
+20/06/2022,Scotland,CasesByDate,0
+20/06/2022,Wales,CasesByDate,0
+20/06/2022,England,CasesByDate,36452
+21/06/2022,England,CasesByDate,16432
+21/06/2022,Scotland,CasesByDate,0
+21/06/2022,Wales,CasesByDate,0
+22/06/2022,Wales,CasesByDate,0
+22/06/2022,Scotland,CasesByDate,15528
+22/06/2022,England,CasesByDate,17202
+23/06/2022,England,CasesByDate,17481
+23/06/2022,Wales,CasesByDate,798
+23/06/2022,Scotland,CasesByDate,0
+24/06/2022,Scotland,CasesByDate,0
+24/06/2022,Wales,CasesByDate,0
+24/06/2022,England,CasesByDate,16489
+25/06/2022,England,CasesByDate,0
+25/06/2022,Wales,CasesByDate,0
+25/06/2022,Scotland,CasesByDate,0
+26/06/2022,Wales,CasesByDate,0
+26/06/2022,Scotland,CasesByDate,0
+26/06/2022,England,CasesByDate,0
+27/06/2022,England,CasesByDate,47332
+27/06/2022,Scotland,CasesByDate,0
+27/06/2022,Wales,CasesByDate,0
+28/06/2022,Wales,CasesByDate,0
+28/06/2022,Scotland,CasesByDate,0
+28/06/2022,England,CasesByDate,21415
+29/06/2022,England,CasesByDate,21428
+29/06/2022,Scotland,CasesByDate,14476
+29/06/2022,Wales,CasesByDate,0
+30/06/2022,Wales,CasesByDate,1195
+30/06/2022,Scotland,CasesByDate,0
+30/06/2022,England,CasesByDate,21732
+01/07/2022,England,CasesByDate,20731
+01/07/2022,Scotland,CasesByDate,0
+01/07/2022,Wales,CasesByDate,0
+02/07/2022,Scotland,CasesByDate,0
+02/07/2022,Wales,CasesByDate,0
+02/07/2022,England,CasesByDate,0
+03/07/2022,England,CasesByDate,0
+03/07/2022,Scotland,CasesByDate,0
+03/07/2022,Wales,CasesByDate,0
+04/07/2022,Wales,CasesByDate,0
+04/07/2022,Scotland,CasesByDate,0
+04/07/2022,England,CasesByDate,0
+05/07/2022,England,CasesByDate,0
+05/07/2022,Scotland,CasesByDate,0
+05/07/2022,Wales,CasesByDate,0
+06/07/2022,Wales,CasesByDate,0
+06/07/2022,Scotland,CasesByDate,22798
+06/07/2022,England,CasesByDate,120170
+07/07/2022,England,CasesByDate,0
+07/07/2022,Wales,CasesByDate,1439
+07/07/2022,Scotland,CasesByDate,0
+08/07/2022,Wales,CasesByDate,0
+08/07/2022,Scotland,CasesByDate,0
+08/07/2022,England,CasesByDate,0
+09/07/2022,England,CasesByDate,0
+09/07/2022,Scotland,CasesByDate,0
+09/07/2022,Wales,CasesByDate,0
+10/07/2022,Wales,CasesByDate,0
+10/07/2022,Scotland,CasesByDate,0
+10/07/2022,England,CasesByDate,0
+11/07/2022,England,CasesByDate,0
+11/07/2022,Scotland,CasesByDate,0
+11/07/2022,Wales,CasesByDate,0
+12/07/2022,Scotland,CasesByDate,0
+12/07/2022,Wales,CasesByDate,0
+12/07/2022,England,CasesByDate,0
+13/07/2022,England,CasesByDate,171877
+13/07/2022,Wales,CasesByDate,0
+13/07/2022,Scotland,CasesByDate,17688
+14/07/2022,Scotland,CasesByDate,0
+14/07/2022,Wales,CasesByDate,1429
+14/07/2022,England,CasesByDate,0
+15/07/2022,England,CasesByDate,0
+15/07/2022,Wales,CasesByDate,0
+15/07/2022,Scotland,CasesByDate,0
+16/07/2022,Scotland,CasesByDate,0
+16/07/2022,Wales,CasesByDate,0
+16/07/2022,England,CasesByDate,0
+17/07/2022,England,CasesByDate,0
+17/07/2022,Wales,CasesByDate,0
+17/07/2022,Scotland,CasesByDate,0
+18/07/2022,Wales,CasesByDate,0
+18/07/2022,Scotland,CasesByDate,0
+18/07/2022,England,CasesByDate,0
+19/07/2022,England,CasesByDate,0
+19/07/2022,Wales,CasesByDate,0
+19/07/2022,Scotland,CasesByDate,0
+20/07/2022,Scotland,CasesByDate,12795
+20/07/2022,Wales,CasesByDate,0
+20/07/2022,England,CasesByDate,123568
+21/07/2022,England,CasesByDate,0
+21/07/2022,Wales,CasesByDate,935
+21/07/2022,Scotland,CasesByDate,0
+22/07/2022,Scotland,CasesByDate,0
+22/07/2022,Wales,CasesByDate,0
+22/07/2022,England,CasesByDate,0
+23/07/2022,England,CasesByDate,0
+23/07/2022,Wales,CasesByDate,0
+23/07/2022,Scotland,CasesByDate,0
+24/07/2022,Scotland,CasesByDate,0
+24/07/2022,Wales,CasesByDate,0
+24/07/2022,England,CasesByDate,0
+25/07/2022,England,CasesByDate,0
+25/07/2022,Wales,CasesByDate,0
+25/07/2022,Scotland,CasesByDate,0
+26/07/2022,Wales,CasesByDate,0
+26/07/2022,Scotland,CasesByDate,0
+26/07/2022,England,CasesByDate,0
+27/07/2022,England,CasesByDate,81951
+27/07/2022,Scotland,CasesByDate,9096
+27/07/2022,Wales,CasesByDate,0
+28/07/2022,Scotland,CasesByDate,0
+28/07/2022,Wales,CasesByDate,711
+28/07/2022,England,CasesByDate,0
+29/07/2022,England,CasesByDate,0
+29/07/2022,Scotland,CasesByDate,0
+29/07/2022,Wales,CasesByDate,0
+30/07/2022,Scotland,CasesByDate,0
+30/07/2022,Wales,CasesByDate,0
+30/07/2022,England,CasesByDate,0
+31/07/2022,England,CasesByDate,0
+31/07/2022,Scotland,CasesByDate,0
+31/07/2022,Wales,CasesByDate,0
+01/08/2022,Wales,CasesByDate,0
+01/08/2022,Scotland,CasesByDate,0
+01/08/2022,England,CasesByDate,0
+02/08/2022,England,CasesByDate,0
+02/08/2022,Wales,CasesByDate,0
+02/08/2022,Scotland,CasesByDate,0
+03/08/2022,Wales,CasesByDate,0
+03/08/2022,Scotland,CasesByDate,6505
+03/08/2022,England,CasesByDate,57277
+04/08/2022,England,CasesByDate,0
+04/08/2022,Wales,CasesByDate,550
+04/08/2022,Scotland,CasesByDate,0
+05/08/2022,Wales,CasesByDate,0
+05/08/2022,Scotland,CasesByDate,0
+05/08/2022,England,CasesByDate,0
+06/08/2022,England,CasesByDate,0
+06/08/2022,Wales,CasesByDate,0
+06/08/2022,Scotland,CasesByDate,0
+07/08/2022,Scotland,CasesByDate,0
+07/08/2022,Wales,CasesByDate,0
+07/08/2022,England,CasesByDate,0
+08/08/2022,England,CasesByDate,0
+08/08/2022,Scotland,CasesByDate,0
+08/08/2022,Wales,CasesByDate,0
+09/08/2022,Wales,CasesByDate,0
+09/08/2022,Scotland,CasesByDate,0
+09/08/2022,England,CasesByDate,0
+10/08/2022,England,CasesByDate,46284
+10/08/2022,Scotland,CasesByDate,5149
+10/08/2022,Wales,CasesByDate,0
+11/08/2022,Wales,CasesByDate,464
+11/08/2022,Scotland,CasesByDate,0
+11/08/2022,England,CasesByDate,0
+12/08/2022,England,CasesByDate,0
+12/08/2022,Wales,CasesByDate,0
+12/08/2022,Scotland,CasesByDate,0
+13/08/2022,Wales,CasesByDate,0
+13/08/2022,Scotland,CasesByDate,0
+13/08/2022,England,CasesByDate,0
+14/08/2022,England,CasesByDate,0
+14/08/2022,Wales,CasesByDate,0
+14/08/2022,Scotland,CasesByDate,0
+15/08/2022,Scotland,CasesByDate,0
+15/08/2022,Wales,CasesByDate,0
+15/08/2022,England,CasesByDate,0
+16/08/2022,England,CasesByDate,0
+16/08/2022,Scotland,CasesByDate,0
+16/08/2022,Wales,CasesByDate,0
+17/08/2022,Wales,CasesByDate,0
+17/08/2022,Scotland,CasesByDate,4375
+17/08/2022,England,CasesByDate,35168
+18/08/2022,England,CasesByDate,0
+18/08/2022,Wales,CasesByDate,521
+18/08/2022,Scotland,CasesByDate,0
+19/08/2022,Wales,CasesByDate,0
+19/08/2022,Scotland,CasesByDate,0
+19/08/2022,England,CasesByDate,0
+20/08/2022,England,CasesByDate,0
+20/08/2022,Scotland,CasesByDate,0
+20/08/2022,Wales,CasesByDate,0
+21/08/2022,Scotland,CasesByDate,0
+21/08/2022,Wales,CasesByDate,0
+21/08/2022,England,CasesByDate,0
+22/08/2022,England,CasesByDate,0
+22/08/2022,Scotland,CasesByDate,0
+22/08/2022,Wales,CasesByDate,0
+23/08/2022,Scotland,CasesByDate,0
+23/08/2022,Wales,CasesByDate,0
+23/08/2022,England,CasesByDate,0
+24/08/2022,England,CasesByDate,27732
+24/08/2022,Wales,CasesByDate,0
+24/08/2022,Scotland,CasesByDate,3875
+25/08/2022,Wales,CasesByDate,332
+25/08/2022,Scotland,CasesByDate,0
+25/08/2022,England,CasesByDate,0
+26/08/2022,England,CasesByDate,0
+26/08/2022,Wales,CasesByDate,0
+26/08/2022,Scotland,CasesByDate,0
+27/08/2022,Wales,CasesByDate,0
+27/08/2022,Scotland,CasesByDate,0
+27/08/2022,England,CasesByDate,0
+28/08/2022,England,CasesByDate,0
+28/08/2022,Scotland,CasesByDate,0
+28/08/2022,Wales,CasesByDate,0
+29/08/2022,Wales,CasesByDate,0
+29/08/2022,Scotland,CasesByDate,0
+29/08/2022,England,CasesByDate,0
+30/08/2022,England,CasesByDate,0
+30/08/2022,Wales,CasesByDate,0
+30/08/2022,Scotland,CasesByDate,0
+31/08/2022,Wales,CasesByDate,0
+31/08/2022,Scotland,CasesByDate,3697
+31/08/2022,England,CasesByDate,24908
+01/09/2022,England,CasesByDate,0
+01/09/2022,Wales,CasesByDate,272
+01/09/2022,Scotland,CasesByDate,0
+02/09/2022,Wales,CasesByDate,0
+02/09/2022,Scotland,CasesByDate,0
+02/09/2022,England,CasesByDate,0
+03/09/2022,England,CasesByDate,0
+03/09/2022,Scotland,CasesByDate,0
+03/09/2022,Wales,CasesByDate,0
+04/09/2022,Scotland,CasesByDate,0
+04/09/2022,Wales,CasesByDate,0
+04/09/2022,England,CasesByDate,0
+05/09/2022,England,CasesByDate,0
+05/09/2022,Wales,CasesByDate,0
+05/09/2022,Scotland,CasesByDate,0
+06/09/2022,Scotland,CasesByDate,0
+06/09/2022,Wales,CasesByDate,0
+06/09/2022,England,CasesByDate,0
+07/09/2022,England,CasesByDate,0
+07/09/2022,Scotland,CasesByDate,3858
+07/09/2022,Wales,CasesByDate,0
+08/09/2022,Scotland,CasesByDate,0
+08/09/2022,Wales,CasesByDate,356
+08/09/2022,England,CasesByDate,28258
+09/09/2022,England,CasesByDate,0
+09/09/2022,Wales,CasesByDate,0
+09/09/2022,Scotland,CasesByDate,0
+10/09/2022,Wales,CasesByDate,0
+10/09/2022,Scotland,CasesByDate,0
+10/09/2022,England,CasesByDate,0
+11/09/2022,England,CasesByDate,0
+11/09/2022,Scotland,CasesByDate,0
+11/09/2022,Wales,CasesByDate,0
+12/09/2022,Scotland,CasesByDate,0
+12/09/2022,Wales,CasesByDate,0
+12/09/2022,England,CasesByDate,0
+13/09/2022,England,CasesByDate,0
+13/09/2022,Wales,CasesByDate,0
+13/09/2022,Scotland,CasesByDate,0
+14/09/2022,Wales,CasesByDate,0
+14/09/2022,Scotland,CasesByDate,3464
+14/09/2022,England,CasesByDate,0
+15/09/2022,England,CasesByDate,27055
+15/09/2022,Scotland,CasesByDate,0
+15/09/2022,Wales,CasesByDate,294
+16/09/2022,Scotland,CasesByDate,0
+16/09/2022,Wales,CasesByDate,0
+16/09/2022,England,CasesByDate,0
+17/09/2022,England,CasesByDate,0
+17/09/2022,Scotland,CasesByDate,0
+17/09/2022,Wales,CasesByDate,0
+18/09/2022,Wales,CasesByDate,0
+18/09/2022,Scotland,CasesByDate,0
+18/09/2022,England,CasesByDate,0
+19/09/2022,England,CasesByDate,0
+19/09/2022,Scotland,CasesByDate,0
+19/09/2022,Wales,CasesByDate,0
+20/09/2022,Scotland,CasesByDate,0
+20/09/2022,Wales,CasesByDate,0
+20/09/2022,England,CasesByDate,0
+21/09/2022,England,CasesByDate,0
+21/09/2022,Wales,CasesByDate,0
+21/09/2022,Scotland,CasesByDate,0
+22/09/2022,Wales,CasesByDate,311
+22/09/2022,Scotland,CasesByDate,2863
+22/09/2022,England,CasesByDate,33497
+23/09/2022,England,CasesByDate,0
+23/09/2022,Scotland,CasesByDate,0
+23/09/2022,Wales,CasesByDate,0
+24/09/2022,Scotland,CasesByDate,0
+24/09/2022,Wales,CasesByDate,0
+24/09/2022,England,CasesByDate,0
+25/09/2022,England,CasesByDate,0
+25/09/2022,Wales,CasesByDate,0
+25/09/2022,Scotland,CasesByDate,0
+26/09/2022,Wales,CasesByDate,0
+26/09/2022,Scotland,CasesByDate,0
+26/09/2022,England,CasesByDate,0
+27/09/2022,England,CasesByDate,0
+27/09/2022,Scotland,CasesByDate,0
+27/09/2022,Wales,CasesByDate,0
+28/09/2022,Scotland,CasesByDate,3512
+28/09/2022,Wales,CasesByDate,0
+28/09/2022,England,CasesByDate,0
+29/09/2022,England,CasesByDate,46853
+29/09/2022,Scotland,CasesByDate,0
+29/09/2022,Wales,CasesByDate,579
+30/09/2022,Scotland,CasesByDate,0
+30/09/2022,Wales,CasesByDate,0
+30/09/2022,England,CasesByDate,0
+01/10/2022,England,CasesByDate,0
+01/10/2022,Wales,CasesByDate,0
+01/10/2022,Scotland,CasesByDate,0
+02/10/2022,Scotland,CasesByDate,0
+02/10/2022,Wales,CasesByDate,0
+02/10/2022,England,CasesByDate,0
+03/10/2022,England,CasesByDate,0
+03/10/2022,Scotland,CasesByDate,0
+03/10/2022,Wales,CasesByDate,0
+04/10/2022,Wales,CasesByDate,0
+04/10/2022,Scotland,CasesByDate,0
+04/10/2022,England,CasesByDate,0
+05/10/2022,England,CasesByDate,0
+05/10/2022,Scotland,CasesByDate,2876
+05/10/2022,Wales,CasesByDate,0
+06/10/2022,Scotland,CasesByDate,0
+06/10/2022,Wales,CasesByDate,744
+06/10/2022,England,CasesByDate,58832
+07/10/2022,England,CasesByDate,0
+07/10/2022,Scotland,CasesByDate,0
+07/10/2022,Wales,CasesByDate,0
+08/10/2022,Scotland,CasesByDate,0
+08/10/2022,Wales,CasesByDate,0
+08/10/2022,England,CasesByDate,0
+09/10/2022,England,CasesByDate,0
+09/10/2022,Scotland,CasesByDate,0
+09/10/2022,Wales,CasesByDate,0
+10/10/2022,Scotland,CasesByDate,0
+10/10/2022,Wales,CasesByDate,0
+10/10/2022,England,CasesByDate,0
+11/10/2022,England,CasesByDate,0
+11/10/2022,Scotland,CasesByDate,0
+11/10/2022,Wales,CasesByDate,0
+12/10/2022,Wales,CasesByDate,0
+12/10/2022,Scotland,CasesByDate,3719
+12/10/2022,England,CasesByDate,0
+13/10/2022,England,CasesByDate,59101
+13/10/2022,Wales,CasesByDate,766
+13/10/2022,Scotland,CasesByDate,0
+14/10/2022,Wales,CasesByDate,0
+14/10/2022,Scotland,CasesByDate,0
+14/10/2022,England,CasesByDate,0
+15/10/2022,England,CasesByDate,0
+15/10/2022,Scotland,CasesByDate,0
+15/10/2022,Wales,CasesByDate,0
+16/10/2022,Scotland,CasesByDate,0
+16/10/2022,Wales,CasesByDate,0
+16/10/2022,England,CasesByDate,0
+17/10/2022,England,CasesByDate,0
+17/10/2022,Scotland,CasesByDate,0
+17/10/2022,Wales,CasesByDate,0
+18/10/2022,Wales,CasesByDate,0
+18/10/2022,Scotland,CasesByDate,0
+18/10/2022,England,CasesByDate,0
+19/10/2022,England,CasesByDate,0
+19/10/2022,Wales,CasesByDate,0
+19/10/2022,Scotland,CasesByDate,3367
+20/10/2022,Wales,CasesByDate,743
+20/10/2022,Scotland,CasesByDate,0
+20/10/2022,England,CasesByDate,52672
+21/10/2022,England,CasesByDate,0
+21/10/2022,Scotland,CasesByDate,0
+21/10/2022,Wales,CasesByDate,0
+22/10/2022,Wales,CasesByDate,0
+22/10/2022,Scotland,CasesByDate,0
+22/10/2022,England,CasesByDate,0
+23/10/2022,England,CasesByDate,0
+23/10/2022,Wales,CasesByDate,0
+23/10/2022,Scotland,CasesByDate,0
+24/10/2022,Wales,CasesByDate,0
+24/10/2022,Scotland,CasesByDate,0
+24/10/2022,England,CasesByDate,0
+25/10/2022,England,CasesByDate,0
+25/10/2022,Scotland,CasesByDate,0
+25/10/2022,Wales,CasesByDate,0
+26/10/2022,Scotland,CasesByDate,3216
+26/10/2022,Wales,CasesByDate,0
+26/10/2022,England,CasesByDate,0
+27/10/2022,England,CasesByDate,39178
+27/10/2022,Wales,CasesByDate,612
+27/10/2022,Scotland,CasesByDate,0
+28/10/2022,Wales,CasesByDate,0
+28/10/2022,Scotland,CasesByDate,0
+28/10/2022,England,CasesByDate,0
+29/10/2022,England,CasesByDate,0
+29/10/2022,Scotland,CasesByDate,0
+29/10/2022,Wales,CasesByDate,0
+30/10/2022,Scotland,CasesByDate,0
+30/10/2022,Wales,CasesByDate,0
+30/10/2022,England,CasesByDate,0
+31/10/2022,England,CasesByDate,0
+31/10/2022,Wales,CasesByDate,0
+31/10/2022,Scotland,CasesByDate,0
+01/11/2022,Scotland,CasesByDate,0
+01/11/2022,Wales,CasesByDate,0
+01/11/2022,England,CasesByDate,0
+02/11/2022,England,CasesByDate,0
+02/11/2022,Scotland,CasesByDate,2896
+02/11/2022,Wales,CasesByDate,0
+03/11/2022,Scotland,CasesByDate,0
+03/11/2022,Wales,CasesByDate,475
+03/11/2022,England,CasesByDate,28209
+04/11/2022,England,CasesByDate,0
+04/11/2022,Scotland,CasesByDate,0
+04/11/2022,Wales,CasesByDate,0
+05/11/2022,Scotland,CasesByDate,0
+05/11/2022,Wales,CasesByDate,0
+05/11/2022,England,CasesByDate,0
+06/11/2022,England,CasesByDate,0
+06/11/2022,Wales,CasesByDate,0
+06/11/2022,Scotland,CasesByDate,0
+07/11/2022,Wales,CasesByDate,0
+07/11/2022,Scotland,CasesByDate,0
+07/11/2022,England,CasesByDate,0
+08/11/2022,England,CasesByDate,0
+08/11/2022,Scotland,CasesByDate,0
+08/11/2022,Wales,CasesByDate,0
+09/11/2022,Scotland,CasesByDate,2443
+09/11/2022,Wales,CasesByDate,0
+09/11/2022,England,CasesByDate,0
+10/11/2022,England,CasesByDate,21391
+10/11/2022,Scotland,CasesByDate,0
+10/11/2022,Wales,CasesByDate,339
+11/11/2022,Wales,CasesByDate,0
+11/11/2022,Scotland,CasesByDate,0
+11/11/2022,England,CasesByDate,0
+12/11/2022,England,CasesByDate,0
+12/11/2022,Scotland,CasesByDate,0
+12/11/2022,Wales,CasesByDate,0
+13/11/2022,Wales,CasesByDate,0
+13/11/2022,Scotland,CasesByDate,0
+13/11/2022,England,CasesByDate,0
+14/11/2022,England,CasesByDate,0
+14/11/2022,Wales,CasesByDate,0
+14/11/2022,Scotland,CasesByDate,0
+15/11/2022,Scotland,CasesByDate,0
+15/11/2022,Wales,CasesByDate,0
+15/11/2022,England,CasesByDate,0
+16/11/2022,England,CasesByDate,0
+16/11/2022,Wales,CasesByDate,0
+16/11/2022,Scotland,CasesByDate,2311
+17/11/2022,Wales,CasesByDate,280
+17/11/2022,Scotland,CasesByDate,0
+17/11/2022,England,CasesByDate,20866
+18/11/2022,England,CasesByDate,0
+18/11/2022,Wales,CasesByDate,0
+18/11/2022,Scotland,CasesByDate,0
+19/11/2022,Scotland,CasesByDate,0
+19/11/2022,Wales,CasesByDate,0
+19/11/2022,England,CasesByDate,0
+20/11/2022,England,CasesByDate,0
+20/11/2022,Wales,CasesByDate,0
+20/11/2022,Scotland,CasesByDate,0
+21/11/2022,Wales,CasesByDate,0
+21/11/2022,Scotland,CasesByDate,0
+21/11/2022,England,CasesByDate,0
+22/11/2022,England,CasesByDate,0
+22/11/2022,Scotland,CasesByDate,0
+22/11/2022,Wales,CasesByDate,0
+23/11/2022,Scotland,CasesByDate,1929
+23/11/2022,Wales,CasesByDate,0
+23/11/2022,England,CasesByDate,0
+24/11/2022,England,CasesByDate,20261
+24/11/2022,Scotland,CasesByDate,0
+24/11/2022,Wales,CasesByDate,283
+25/11/2022,Scotland,CasesByDate,0
+25/11/2022,Wales,CasesByDate,0
+25/11/2022,England,CasesByDate,0
+26/11/2022,England,CasesByDate,0
+26/11/2022,Wales,CasesByDate,0
+26/11/2022,Scotland,CasesByDate,0
+27/11/2022,Scotland,CasesByDate,0
+27/11/2022,Wales,CasesByDate,0
+27/11/2022,England,CasesByDate,0
+28/11/2022,England,CasesByDate,0
+28/11/2022,Scotland,CasesByDate,0
+28/11/2022,Wales,CasesByDate,0
+29/11/2022,Scotland,CasesByDate,0
+29/11/2022,Wales,CasesByDate,0
+29/11/2022,England,CasesByDate,0
+30/11/2022,England,CasesByDate,0
+30/11/2022,Scotland,CasesByDate,1915
+30/11/2022,Wales,CasesByDate,0
+01/12/2022,Wales,CasesByDate,369
+01/12/2022,Scotland,CasesByDate,0
+01/12/2022,England,CasesByDate,22375
+02/12/2022,England,CasesByDate,0
+02/12/2022,Scotland,CasesByDate,0
+02/12/2022,Wales,CasesByDate,0
+03/12/2022,Scotland,CasesByDate,0
+03/12/2022,Wales,CasesByDate,0
+03/12/2022,England,CasesByDate,0
+04/12/2022,England,CasesByDate,0
+04/12/2022,Wales,CasesByDate,0
+04/12/2022,Scotland,CasesByDate,0
+05/12/2022,Scotland,CasesByDate,0
+05/12/2022,Wales,CasesByDate,0
+05/12/2022,England,CasesByDate,0
+06/12/2022,England,CasesByDate,0
+06/12/2022,Wales,CasesByDate,0
+06/12/2022,Scotland,CasesByDate,0
+07/12/2022,Scotland,CasesByDate,1933
+07/12/2022,Wales,CasesByDate,0
+07/12/2022,England,CasesByDate,0
+08/12/2022,England,CasesByDate,26410
+08/12/2022,Wales,CasesByDate,522
+08/12/2022,Scotland,CasesByDate,0
+09/12/2022,Wales,CasesByDate,0
+09/12/2022,Scotland,CasesByDate,0
+09/12/2022,England,CasesByDate,0
+10/12/2022,England,CasesByDate,0
+10/12/2022,Scotland,CasesByDate,0
+10/12/2022,Wales,CasesByDate,0
+11/12/2022,Wales,CasesByDate,0
+11/12/2022,Scotland,CasesByDate,0
+11/12/2022,England,CasesByDate,0
+12/12/2022,England,CasesByDate,0
+12/12/2022,Wales,CasesByDate,0
+12/12/2022,Scotland,CasesByDate,0
+13/12/2022,Wales,CasesByDate,0
+13/12/2022,Scotland,CasesByDate,0
+13/12/2022,England,CasesByDate,0
+14/12/2022,England,CasesByDate,0
+14/12/2022,Wales,CasesByDate,0
+14/12/2022,Scotland,CasesByDate,2290
+15/12/2022,Scotland,CasesByDate,0
+15/12/2022,Wales,CasesByDate,798
+15/12/2022,England,CasesByDate,32405
+16/12/2022,England,CasesByDate,0
+16/12/2022,Wales,CasesByDate,0
+16/12/2022,Scotland,CasesByDate,0
+17/12/2022,Wales,CasesByDate,0
+17/12/2022,Scotland,CasesByDate,0
+17/12/2022,England,CasesByDate,0
+18/12/2022,England,CasesByDate,0
+18/12/2022,Wales,CasesByDate,0
+18/12/2022,Scotland,CasesByDate,0
+19/12/2022,Wales,CasesByDate,0
+19/12/2022,Scotland,CasesByDate,0
+19/12/2022,England,CasesByDate,0
+20/12/2022,England,CasesByDate,0
+20/12/2022,Scotland,CasesByDate,0
+20/12/2022,Wales,CasesByDate,0
+21/12/2022,Wales,CasesByDate,0
+21/12/2022,Scotland,CasesByDate,2790
+21/12/2022,England,CasesByDate,0
+22/12/2022,England,CasesByDate,42141
+22/12/2022,Scotland,CasesByDate,0
+22/12/2022,Wales,CasesByDate,1139
+23/12/2022,Wales,CasesByDate,0
+23/12/2022,Scotland,CasesByDate,0
+23/12/2022,England,CasesByDate,0
+24/12/2022,England,CasesByDate,0
+24/12/2022,Scotland,CasesByDate,0
+24/12/2022,Wales,CasesByDate,0
+25/12/2022,Scotland,CasesByDate,0
+25/12/2022,Wales,CasesByDate,0
+25/12/2022,England,CasesByDate,0
+26/12/2022,England,CasesByDate,0
+26/12/2022,Wales,CasesByDate,0
+26/12/2022,Scotland,CasesByDate,0
+27/12/2022,Scotland,CasesByDate,0
+27/12/2022,Wales,CasesByDate,0
+27/12/2022,England,CasesByDate,0
+28/12/2022,England,CasesByDate,0
+28/12/2022,Wales,CasesByDate,0
+28/12/2022,Scotland,CasesByDate,0
+29/12/2022,Scotland,CasesByDate,0
+29/12/2022,Wales,CasesByDate,865
+29/12/2022,England,CasesByDate,36755
+30/12/2022,Wales,CasesByDate,0
+30/12/2022,England,CasesByDate,0
+30/12/2022,Scotland,CasesByDate,0
+31/12/2022,Scotland,CasesByDate,0
+31/12/2022,England,CasesByDate,0
+31/12/2022,Wales,CasesByDate,0
+01/01/2023,England,CasesByDate,0
+01/01/2023,Wales,CasesByDate,0
+01/01/2023,Scotland,CasesByDate,0
+02/01/2023,Scotland,CasesByDate,0
+02/01/2023,England,CasesByDate,0
+02/01/2023,Wales,CasesByDate,0
+03/01/2023,England,CasesByDate,0
+03/01/2023,Wales,CasesByDate,0
+03/01/2023,Scotland,CasesByDate,0
+04/01/2023,Scotland,CasesByDate,0
+04/01/2023,England,CasesByDate,0
+04/01/2023,Wales,CasesByDate,0
+05/01/2023,England,CasesByDate,36598
+05/01/2023,Wales,CasesByDate,907
+05/01/2023,Scotland,CasesByDate,0
+06/01/2023,Scotland,CasesByDate,6188
+06/01/2023,Wales,CasesByDate,0
+06/01/2023,England,CasesByDate,0
+07/01/2023,Wales,CasesByDate,0
+07/01/2023,England,CasesByDate,0
+07/01/2023,Scotland,CasesByDate,0
+08/01/2023,Scotland,CasesByDate,0
+08/01/2023,Wales,CasesByDate,0
+08/01/2023,England,CasesByDate,0
+09/01/2023,England,CasesByDate,0
+09/01/2023,Wales,CasesByDate,0
+09/01/2023,Scotland,CasesByDate,0
+10/01/2023,Scotland,CasesByDate,0
+10/01/2023,Wales,CasesByDate,0
+10/01/2023,England,CasesByDate,0
+11/01/2023,England,CasesByDate,0
+11/01/2023,Wales,CasesByDate,0
+11/01/2023,Scotland,CasesByDate,2601
+12/01/2023,Scotland,CasesByDate,0
+12/01/2023,Wales,CasesByDate,529
+12/01/2023,England,CasesByDate,23990
+13/01/2023,Wales,CasesByDate,0
+13/01/2023,England,CasesByDate,0
+13/01/2023,Scotland,CasesByDate,0
+14/01/2023,Scotland,CasesByDate,0
+14/01/2023,Wales,CasesByDate,0
+14/01/2023,England,CasesByDate,0
+15/01/2023,England,CasesByDate,0
+15/01/2023,Wales,CasesByDate,0
+15/01/2023,Scotland,CasesByDate,0
+16/01/2023,Scotland,CasesByDate,0
+16/01/2023,Wales,CasesByDate,0
+16/01/2023,England,CasesByDate,0
+17/01/2023,Wales,CasesByDate,0
+17/01/2023,England,CasesByDate,0
+17/01/2023,Scotland,CasesByDate,0
+18/01/2023,Scotland,CasesByDate,1619
+18/01/2023,England,CasesByDate,0
+18/01/2023,Wales,CasesByDate,0
+19/01/2023,Wales,CasesByDate,275
+19/01/2023,England,CasesByDate,13990
+19/01/2023,Scotland,CasesByDate,0
+20/01/2023,Scotland,CasesByDate,0
+20/01/2023,England,CasesByDate,0
+20/01/2023,Wales,CasesByDate,0
+21/01/2023,Wales,CasesByDate,0
+21/01/2023,England,CasesByDate,0
+21/01/2023,Scotland,CasesByDate,0
+22/01/2023,Scotland,CasesByDate,0
+22/01/2023,Wales,CasesByDate,0
+22/01/2023,England,CasesByDate,0
+23/01/2023,England,CasesByDate,0
+23/01/2023,Wales,CasesByDate,0
+23/01/2023,Scotland,CasesByDate,0
+24/01/2023,Scotland,CasesByDate,0
+24/01/2023,Wales,CasesByDate,0
+24/01/2023,England,CasesByDate,0
+25/01/2023,Wales,CasesByDate,0
+25/01/2023,England,CasesByDate,0
+25/01/2023,Scotland,CasesByDate,1170
+26/01/2023,Scotland,CasesByDate,0
+26/01/2023,England,CasesByDate,13714
+26/01/2023,Wales,CasesByDate,269
+27/01/2023,England,CasesByDate,0
+27/01/2023,Wales,CasesByDate,0
+27/01/2023,Scotland,CasesByDate,0
+28/01/2023,Scotland,CasesByDate,0
+28/01/2023,England,CasesByDate,0
+28/01/2023,Wales,CasesByDate,0
+29/01/2023,Wales,CasesByDate,0
+29/01/2023,England,CasesByDate,0
+29/01/2023,Scotland,CasesByDate,0
+30/01/2023,Scotland,CasesByDate,0
+30/01/2023,Wales,CasesByDate,0
+30/01/2023,England,CasesByDate,0
+31/01/2023,England,CasesByDate,0
+31/01/2023,Wales,CasesByDate,0
+31/01/2023,Scotland,CasesByDate,0
+01/02/2023,Scotland,CasesByDate,1229
+01/02/2023,Wales,CasesByDate,0
+01/02/2023,England,CasesByDate,0
+02/02/2023,England,CasesByDate,17889
+02/02/2023,Wales,CasesByDate,294
+02/02/2023,Scotland,CasesByDate,0
+03/02/2023,Scotland,CasesByDate,0
+03/02/2023,Wales,CasesByDate,0
+03/02/2023,England,CasesByDate,0
+04/02/2023,England,CasesByDate,0
+04/02/2023,Wales,CasesByDate,0
+04/02/2023,Scotland,CasesByDate,0
+05/02/2023,Scotland,CasesByDate,0
+05/02/2023,England,CasesByDate,0
+05/02/2023,Wales,CasesByDate,0
+06/02/2023,Wales,CasesByDate,0
+06/02/2023,England,CasesByDate,0
+06/02/2023,Scotland,CasesByDate,0
+07/02/2023,Scotland,CasesByDate,0
+07/02/2023,Wales,CasesByDate,0
+07/02/2023,England,CasesByDate,0
+08/02/2023,Wales,CasesByDate,0
+08/02/2023,England,CasesByDate,0
+08/02/2023,Scotland,CasesByDate,1318
+09/02/2023,Scotland,CasesByDate,0
+09/02/2023,England,CasesByDate,20570
+09/02/2023,Wales,CasesByDate,373
+10/02/2023,Wales,CasesByDate,0
+10/02/2023,England,CasesByDate,0
+10/02/2023,Scotland,CasesByDate,0
+11/02/2023,Scotland,CasesByDate,0
+11/02/2023,Wales,CasesByDate,0
+11/02/2023,England,CasesByDate,0
+12/02/2023,England,CasesByDate,0
+12/02/2023,Wales,CasesByDate,0
+12/02/2023,Scotland,CasesByDate,0
+13/02/2023,Scotland,CasesByDate,0
+13/02/2023,Wales,CasesByDate,0
+13/02/2023,England,CasesByDate,0
+14/02/2023,England,CasesByDate,0
+14/02/2023,Wales,CasesByDate,0
+14/02/2023,Scotland,CasesByDate,0
+15/02/2023,Scotland,CasesByDate,0
+15/02/2023,England,CasesByDate,0
+15/02/2023,Wales,CasesByDate,0
+16/02/2023,England,CasesByDate,23686
+16/02/2023,Wales,CasesByDate,372
+16/02/2023,Scotland,CasesByDate,1606
+17/02/2023,Scotland,CasesByDate,0
+17/02/2023,England,CasesByDate,0
+17/02/2023,Wales,CasesByDate,0
+18/02/2023,Wales,CasesByDate,0
+18/02/2023,England,CasesByDate,0
+18/02/2023,Scotland,CasesByDate,0
+19/02/2023,Scotland,CasesByDate,0
+19/02/2023,Wales,CasesByDate,0
+19/02/2023,England,CasesByDate,0
+20/02/2023,Wales,CasesByDate,0
+20/02/2023,England,CasesByDate,0
+20/02/2023,Scotland,CasesByDate,0
+21/02/2023,Scotland,CasesByDate,0
+21/02/2023,Wales,CasesByDate,0
+21/02/2023,England,CasesByDate,0
+22/02/2023,Wales,CasesByDate,0
+22/02/2023,England,CasesByDate,0
+22/02/2023,Scotland,CasesByDate,0
+23/02/2023,Scotland,CasesByDate,1644
+23/02/2023,England,CasesByDate,26460
+23/02/2023,Wales,CasesByDate,477
+24/02/2023,Wales,CasesByDate,0
+24/02/2023,England,CasesByDate,0
+24/02/2023,Scotland,CasesByDate,0
+25/02/2023,Scotland,CasesByDate,0
+25/02/2023,England,CasesByDate,0
+25/02/2023,Wales,CasesByDate,0
+26/02/2023,England,CasesByDate,0
+26/02/2023,Wales,CasesByDate,0
+26/02/2023,Scotland,CasesByDate,0
+27/02/2023,Scotland,CasesByDate,0
+27/02/2023,England,CasesByDate,0
+27/02/2023,Wales,CasesByDate,0
+28/02/2023,Wales,CasesByDate,0
+28/02/2023,England,CasesByDate,0
+28/02/2023,Scotland,CasesByDate,0
+01/03/2023,Scotland,CasesByDate,0
+01/03/2023,Wales,CasesByDate,0
+01/03/2023,England,CasesByDate,0
+02/03/2023,England,CasesByDate,24269
+02/03/2023,Wales,CasesByDate,428
+02/03/2023,Scotland,CasesByDate,1733
+03/03/2023,Scotland,CasesByDate,0
+03/03/2023,England,CasesByDate,0
+03/03/2023,Wales,CasesByDate,0
+04/03/2023,England,CasesByDate,0
+04/03/2023,Wales,CasesByDate,0
+04/03/2023,Scotland,CasesByDate,0
+05/03/2023,Scotland,CasesByDate,0
+05/03/2023,Wales,CasesByDate,0
+05/03/2023,England,CasesByDate,0
+06/03/2023,Wales,CasesByDate,0
+06/03/2023,England,CasesByDate,0
+06/03/2023,Scotland,CasesByDate,0
+07/03/2023,Scotland,CasesByDate,0
+07/03/2023,Wales,CasesByDate,0
+07/03/2023,England,CasesByDate,0
+08/03/2023,Wales,CasesByDate,0
+08/03/2023,England,CasesByDate,0
+08/03/2023,Scotland,CasesByDate,0
+09/03/2023,Scotland,CasesByDate,1917
+09/03/2023,Wales,CasesByDate,577
+09/03/2023,England,CasesByDate,26329
+10/03/2023,Wales,CasesByDate,0
+10/03/2023,England,CasesByDate,0
+10/03/2023,Scotland,CasesByDate,0
+11/03/2023,Scotland,CasesByDate,0
+11/03/2023,England,CasesByDate,0
+11/03/2023,Wales,CasesByDate,0
+12/03/2023,Wales,CasesByDate,0
+12/03/2023,England,CasesByDate,0
+12/03/2023,Scotland,CasesByDate,0
+13/03/2023,Scotland,CasesByDate,0
+13/03/2023,England,CasesByDate,0
+13/03/2023,Wales,CasesByDate,0
+14/03/2023,Wales,CasesByDate,0
+14/03/2023,England,CasesByDate,0
+14/03/2023,Scotland,CasesByDate,0
+15/03/2023,Scotland,CasesByDate,0
+15/03/2023,Wales,CasesByDate,0
+15/03/2023,England,CasesByDate,0
+16/03/2023,Wales,CasesByDate,704
+16/03/2023,England,CasesByDate,24679
+16/03/2023,Scotland,CasesByDate,0
+17/03/2023,Scotland,CasesByDate,0
+17/03/2023,England,CasesByDate,0
+17/03/2023,Wales,CasesByDate,0
+18/03/2023,England,CasesByDate,0
+18/03/2023,Wales,CasesByDate,0
+18/03/2023,Scotland,CasesByDate,0
+19/03/2023,Scotland,CasesByDate,0
+19/03/2023,Wales,CasesByDate,0
+19/03/2023,England,CasesByDate,0
+20/03/2023,England,CasesByDate,0
+20/03/2023,Wales,CasesByDate,0
+20/03/2023,Scotland,CasesByDate,0
+21/03/2023,Scotland,CasesByDate,0
+21/03/2023,England,CasesByDate,0
+21/03/2023,Wales,CasesByDate,0
+22/03/2023,England,CasesByDate,0
+22/03/2023,Wales,CasesByDate,0
+22/03/2023,Scotland,CasesByDate,0
+23/03/2023,Scotland,CasesByDate,0
+23/03/2023,England,CasesByDate,34062
+23/03/2023,Wales,CasesByDate,585
+24/03/2023,England,CasesByDate,0
+24/03/2023,Wales,CasesByDate,0
+24/03/2023,Scotland,CasesByDate,0
+25/03/2023,Scotland,CasesByDate,0
+25/03/2023,Wales,CasesByDate,0
+25/03/2023,England,CasesByDate,0
+26/03/2023,England,CasesByDate,0
+26/03/2023,Wales,CasesByDate,0
+26/03/2023,Scotland,CasesByDate,0
+27/03/2023,Scotland,CasesByDate,0
+27/03/2023,Wales,CasesByDate,0
+27/03/2023,England,CasesByDate,0
+28/03/2023,England,CasesByDate,0
+28/03/2023,Wales,CasesByDate,0
+28/03/2023,Scotland,CasesByDate,0
+29/03/2023,Scotland,CasesByDate,0
+29/03/2023,Wales,CasesByDate,0
+29/03/2023,England,CasesByDate,0
+30/03/2023,England,CasesByDate,25110
+30/03/2023,Wales,CasesByDate,475
+30/03/2023,Scotland,CasesByDate,5557
+31/03/2023,Scotland,CasesByDate,0
+31/03/2023,England,CasesByDate,0
+31/03/2023,Wales,CasesByDate,0
+01/04/2023,Wales,CasesByDate,0
+01/04/2023,England,CasesByDate,0
+01/04/2023,Scotland,CasesByDate,0
+02/04/2023,Scotland,CasesByDate,0
+02/04/2023,Wales,CasesByDate,0
+02/04/2023,England,CasesByDate,0
+03/04/2023,England,CasesByDate,0
+03/04/2023,Wales,CasesByDate,0
+03/04/2023,Scotland,CasesByDate,0
+04/04/2023,Scotland,CasesByDate,0
+04/04/2023,Wales,CasesByDate,0
+04/04/2023,England,CasesByDate,0
+05/04/2023,England,CasesByDate,0
+05/04/2023,Wales,CasesByDate,0
+05/04/2023,Scotland,CasesByDate,0
+06/04/2023,Scotland,CasesByDate,2211
+06/04/2023,Wales,CasesByDate,435
+06/04/2023,England,CasesByDate,18021
+07/04/2023,England,CasesByDate,0
+07/04/2023,Wales,CasesByDate,0
+07/04/2023,Scotland,CasesByDate,0
+08/04/2023,Scotland,CasesByDate,0
+08/04/2023,Wales,CasesByDate,0
+08/04/2023,England,CasesByDate,0
+09/04/2023,Wales,CasesByDate,0
+09/04/2023,England,CasesByDate,0
+09/04/2023,Scotland,CasesByDate,0
+10/04/2023,Scotland,CasesByDate,0
+10/04/2023,Wales,CasesByDate,0
+10/04/2023,England,CasesByDate,0
+11/04/2023,Wales,CasesByDate,0
+11/04/2023,England,CasesByDate,0
+11/04/2023,Scotland,CasesByDate,0
+12/04/2023,Scotland,CasesByDate,0
+12/04/2023,Wales,CasesByDate,0
+12/04/2023,England,CasesByDate,0
+13/04/2023,England,CasesByDate,14294
+13/04/2023,Wales,CasesByDate,330
+13/04/2023,Scotland,CasesByDate,1593
+14/04/2023,Scotland,CasesByDate,0
+14/04/2023,Wales,CasesByDate,0
+14/04/2023,England,CasesByDate,0
+15/04/2023,Wales,CasesByDate,0
+15/04/2023,England,CasesByDate,0
+15/04/2023,Scotland,CasesByDate,0
+16/04/2023,Scotland,CasesByDate,0
+16/04/2023,Wales,CasesByDate,0
+16/04/2023,England,CasesByDate,0
+17/04/2023,Wales,CasesByDate,0
+17/04/2023,England,CasesByDate,0
+17/04/2023,Scotland,CasesByDate,0
+18/04/2023,Scotland,CasesByDate,0
+18/04/2023,Wales,CasesByDate,0
+18/04/2023,England,CasesByDate,0
+19/04/2023,England,CasesByDate,0
+19/04/2023,Wales,CasesByDate,0
+19/04/2023,Scotland,CasesByDate,0
+20/04/2023,Scotland,CasesByDate,1492
+20/04/2023,Wales,CasesByDate,275
+20/04/2023,England,CasesByDate,12500
+21/04/2023,Wales,CasesByDate,0
+21/04/2023,England,CasesByDate,0
+21/04/2023,Scotland,CasesByDate,0
+22/04/2023,Scotland,CasesByDate,0
+22/04/2023,England,CasesByDate,0
+22/04/2023,Wales,CasesByDate,0
+23/04/2023,England,CasesByDate,0
+23/04/2023,Wales,CasesByDate,0
+23/04/2023,Scotland,CasesByDate,0
+24/04/2023,Scotland,CasesByDate,0
+24/04/2023,Wales,CasesByDate,0
+24/04/2023,England,CasesByDate,0
+25/04/2023,England,CasesByDate,0
+25/04/2023,Wales,CasesByDate,0
+25/04/2023,Scotland,CasesByDate,0
+26/04/2023,Scotland,CasesByDate,0
+26/04/2023,Wales,CasesByDate,0
+26/04/2023,England,CasesByDate,0
+27/04/2023,Wales,CasesByDate,251
+27/04/2023,England,CasesByDate,10486
+27/04/2023,Scotland,CasesByDate,0
+28/04/2023,Scotland,CasesByDate,0
+28/04/2023,Wales,CasesByDate,0
+28/04/2023,England,CasesByDate,0
+29/04/2023,England,CasesByDate,0
+29/04/2023,Wales,CasesByDate,0
+29/04/2023,Scotland,CasesByDate,0
+30/04/2023,Scotland,CasesByDate,0
+30/04/2023,England,CasesByDate,0
+30/04/2023,Wales,CasesByDate,0
+01/05/2023,Wales,CasesByDate,0
+01/05/2023,England,CasesByDate,0
+01/05/2023,Scotland,CasesByDate,0
+02/05/2023,Scotland,CasesByDate,0
+02/05/2023,England,CasesByDate,0
+02/05/2023,Wales,CasesByDate,0
+03/05/2023,Wales,CasesByDate,0
+03/05/2023,England,CasesByDate,0
+03/05/2023,Scotland,CasesByDate,0
+04/05/2023,Scotland,CasesByDate,649
+04/05/2023,Wales,CasesByDate,225
+04/05/2023,England,CasesByDate,10352
+05/05/2023,England,CasesByDate,0
+05/05/2023,Wales,CasesByDate,0
+05/05/2023,Scotland,CasesByDate,0
+06/05/2023,Scotland,CasesByDate,0
+06/05/2023,Wales,CasesByDate,0
+06/05/2023,England,CasesByDate,0
+07/05/2023,Wales,CasesByDate,0
+07/05/2023,England,CasesByDate,0
+07/05/2023,Scotland,CasesByDate,0
+08/05/2023,Scotland,CasesByDate,0
+08/05/2023,England,CasesByDate,0
+08/05/2023,Wales,CasesByDate,0
+09/05/2023,England,CasesByDate,0
+09/05/2023,Wales,CasesByDate,0
+09/05/2023,Scotland,CasesByDate,0
+10/05/2023,Scotland,CasesByDate,0
+10/05/2023,England,CasesByDate,0
+10/05/2023,Wales,CasesByDate,0
+11/05/2023,England,CasesByDate,9014
+11/05/2023,Wales,CasesByDate,159
+11/05/2023,Scotland,CasesByDate,950
+12/05/2023,Scotland,CasesByDate,0
+12/05/2023,England,CasesByDate,0
+12/05/2023,Wales,CasesByDate,0
+13/05/2023,England,CasesByDate,0
+13/05/2023,Wales,CasesByDate,0
+13/05/2023,Scotland,CasesByDate,0
+14/05/2023,Scotland,CasesByDate,0
+14/05/2023,England,CasesByDate,0
+14/05/2023,Wales,CasesByDate,0
+15/05/2023,Wales,CasesByDate,0
+15/05/2023,England,CasesByDate,0
+15/05/2023,Scotland,CasesByDate,0
+16/05/2023,Scotland,CasesByDate,0
+16/05/2023,England,CasesByDate,0
+16/05/2023,Wales,CasesByDate,0
+17/05/2023,England,CasesByDate,0
+17/05/2023,Wales,CasesByDate,0
+17/05/2023,Scotland,CasesByDate,0
+18/05/2023,Scotland,CasesByDate,615
+18/05/2023,England,CasesByDate,7258
+18/05/2023,Wales,CasesByDate,117
+19/05/2023,Wales,CasesByDate,0
+19/05/2023,England,CasesByDate,0
+19/05/2023,Scotland,CasesByDate,0
+20/05/2023,Scotland,CasesByDate,0
+20/05/2023,England,CasesByDate,0
+20/05/2023,Wales,CasesByDate,0
+21/05/2023,England,CasesByDate,0
+21/05/2023,Wales,CasesByDate,0
+21/05/2023,Scotland,CasesByDate,0
+22/05/2023,Scotland,CasesByDate,0
+22/05/2023,Wales,CasesByDate,0
+22/05/2023,England,CasesByDate,0
+23/05/2023,Wales,CasesByDate,0
+23/05/2023,England,CasesByDate,0
+23/05/2023,Scotland,CasesByDate,0
+24/05/2023,Scotland,CasesByDate,0
+24/05/2023,England,CasesByDate,0
+24/05/2023,Wales,CasesByDate,0
+25/05/2023,England,CasesByDate,6748
+25/05/2023,Wales,CasesByDate,115
+25/05/2023,Scotland,CasesByDate,507
+26/05/2023,Scotland,CasesByDate,0
+26/05/2023,Wales,CasesByDate,0
+26/05/2023,England,CasesByDate,0
+27/05/2023,Wales,CasesByDate,0
+27/05/2023,England,CasesByDate,0
+27/05/2023,Scotland,CasesByDate,0
+28/05/2023,Scotland,CasesByDate,0
+28/05/2023,Wales,CasesByDate,0
+28/05/2023,England,CasesByDate,0
+29/05/2023,England,CasesByDate,0
+29/05/2023,Wales,CasesByDate,0
+29/05/2023,Scotland,CasesByDate,0
+30/05/2023,Scotland,CasesByDate,0
+30/05/2023,England,CasesByDate,0
+30/05/2023,Wales,CasesByDate,0
+31/05/2023,Wales,CasesByDate,0
+31/05/2023,England,CasesByDate,0
+31/05/2023,Scotland,CasesByDate,0
+01/06/2023,Scotland,CasesByDate,432
+01/06/2023,Wales,CasesByDate,106
+01/06/2023,England,CasesByDate,4941
+02/06/2023,England,CasesByDate,0
+02/06/2023,Wales,CasesByDate,0
+02/06/2023,Scotland,CasesByDate,0
+03/06/2023,Scotland,CasesByDate,0
+03/06/2023,Wales,CasesByDate,0
+03/06/2023,England,CasesByDate,0
+04/06/2023,England,CasesByDate,0
+04/06/2023,Wales,CasesByDate,0
+04/06/2023,Scotland,CasesByDate,0
+05/06/2023,Scotland,CasesByDate,0
+05/06/2023,Wales,CasesByDate,0
+05/06/2023,England,CasesByDate,0
+06/06/2023,Wales,CasesByDate,0
+06/06/2023,England,CasesByDate,0
+06/06/2023,Scotland,CasesByDate,0
+07/06/2023,Scotland,CasesByDate,0
+07/06/2023,Wales,CasesByDate,0
+07/06/2023,England,CasesByDate,0
+08/06/2023,England,CasesByDate,4728
+08/06/2023,Wales,CasesByDate,103
+08/06/2023,Scotland,CasesByDate,401
+09/06/2023,Scotland,CasesByDate,0
+09/06/2023,Wales,CasesByDate,0
+09/06/2023,England,CasesByDate,0
+10/06/2023,Wales,CasesByDate,0
+10/06/2023,England,CasesByDate,0
+10/06/2023,Scotland,CasesByDate,0
+11/06/2023,Scotland,CasesByDate,0
+11/06/2023,England,CasesByDate,0
+11/06/2023,Wales,CasesByDate,0
+12/06/2023,Wales,CasesByDate,0
+12/06/2023,England,CasesByDate,0
+12/06/2023,Scotland,CasesByDate,0
+13/06/2023,Scotland,CasesByDate,0
+13/06/2023,England,CasesByDate,0
+13/06/2023,Wales,CasesByDate,0
+14/06/2023,Wales,CasesByDate,0
+14/06/2023,England,CasesByDate,0
+14/06/2023,Scotland,CasesByDate,0
+15/06/2023,Scotland,CasesByDate,396
+15/06/2023,England,CasesByDate,4215
+15/06/2023,Wales,CasesByDate,101
+16/06/2023,Wales,CasesByDate,0
+16/06/2023,England,CasesByDate,0
+16/06/2023,Scotland,CasesByDate,0
+17/06/2023,Scotland,CasesByDate,0
+17/06/2023,Wales,CasesByDate,0
+17/06/2023,England,CasesByDate,0
+18/06/2023,England,CasesByDate,0
+18/06/2023,Wales,CasesByDate,0
+18/06/2023,Scotland,CasesByDate,0
+19/06/2023,Scotland,CasesByDate,0
+19/06/2023,England,CasesByDate,0
+19/06/2023,Wales,CasesByDate,0
+20/06/2023,Wales,CasesByDate,0
+20/06/2023,England,CasesByDate,0
+20/06/2023,Scotland,CasesByDate,0
+21/06/2023,Scotland,CasesByDate,0
+21/06/2023,Wales,CasesByDate,0
+21/06/2023,England,CasesByDate,0
+22/06/2023,Wales,CasesByDate,61
+22/06/2023,England,CasesByDate,2368
+22/06/2023,Scotland,CasesByDate,349
+23/06/2023,Scotland,CasesByDate,0
+23/06/2023,Wales,CasesByDate,0
+23/06/2023,England,CasesByDate,0
+24/06/2023,England,CasesByDate,0
+24/06/2023,Wales,CasesByDate,0
+24/06/2023,Scotland,CasesByDate,0
+25/06/2023,Scotland,CasesByDate,0
+25/06/2023,Wales,CasesByDate,0
+25/06/2023,England,CasesByDate,0
+26/06/2023,Wales,CasesByDate,0
+26/06/2023,England,CasesByDate,0
+26/06/2023,Scotland,CasesByDate,0
+27/06/2023,Scotland,CasesByDate,0
+27/06/2023,Wales,CasesByDate,0
+27/06/2023,England,CasesByDate,0
+28/06/2023,England,CasesByDate,0
+28/06/2023,Wales,CasesByDate,0
+28/06/2023,Scotland,CasesByDate,0
+29/06/2023,Scotland,CasesByDate,258
+29/06/2023,England,CasesByDate,2191
+29/06/2023,Wales,CasesByDate,74
+30/06/2023,Wales,CasesByDate,0
+30/06/2023,England,CasesByDate,0
+30/06/2023,Scotland,CasesByDate,0
+01/07/2023,Scotland,CasesByDate,0
+01/07/2023,Wales,CasesByDate,0
+01/07/2023,England,CasesByDate,0
+02/07/2023,England,CasesByDate,0
+02/07/2023,Wales,CasesByDate,0
+02/07/2023,Scotland,CasesByDate,0
+03/07/2023,Scotland,CasesByDate,0
+03/07/2023,England,CasesByDate,0
+03/07/2023,Wales,CasesByDate,0
+04/07/2023,Wales,CasesByDate,0
+04/07/2023,England,CasesByDate,0
+04/07/2023,Scotland,CasesByDate,0
+05/07/2023,Scotland,CasesByDate,0
+05/07/2023,Wales,CasesByDate,0
+05/07/2023,England,CasesByDate,0
+06/07/2023,Wales,CasesByDate,63
+06/07/2023,England,CasesByDate,1942
+06/07/2023,Scotland,CasesByDate,183
+07/07/2023,Scotland,CasesByDate,0
+07/07/2023,England,CasesByDate,0
+07/07/2023,Wales,CasesByDate,0
+08/07/2023,Wales,CasesByDate,0
+08/07/2023,England,CasesByDate,0
+08/07/2023,Scotland,CasesByDate,0
+09/07/2023,Scotland,CasesByDate,0
+09/07/2023,England,CasesByDate,0
+09/07/2023,Wales,CasesByDate,0
+10/07/2023,Wales,CasesByDate,0
+10/07/2023,England,CasesByDate,0
+10/07/2023,Scotland,CasesByDate,0
+11/07/2023,Scotland,CasesByDate,0
+11/07/2023,England,CasesByDate,0
+11/07/2023,Wales,CasesByDate,0
+12/07/2023,Wales,CasesByDate,0
+12/07/2023,England,CasesByDate,0
+12/07/2023,Scotland,CasesByDate,0
+13/07/2023,Scotland,CasesByDate,248
+13/07/2023,England,CasesByDate,2980
+13/07/2023,Wales,CasesByDate,68
+14/07/2023,England,CasesByDate,0
+14/07/2023,Wales,CasesByDate,0
+14/07/2023,Scotland,CasesByDate,0
+15/07/2023,Scotland,CasesByDate,0
+15/07/2023,Wales,CasesByDate,0
+15/07/2023,England,CasesByDate,0
+16/07/2023,Wales,CasesByDate,0
+16/07/2023,England,CasesByDate,0
+16/07/2023,Scotland,CasesByDate,0
+17/07/2023,Scotland,CasesByDate,0
+17/07/2023,England,CasesByDate,0
+17/07/2023,Wales,CasesByDate,0
+18/07/2023,England,CasesByDate,0
+18/07/2023,Wales,CasesByDate,0
+18/07/2023,Scotland,CasesByDate,0
+19/07/2023,Scotland,CasesByDate,0
+19/07/2023,Wales,CasesByDate,0
+19/07/2023,England,CasesByDate,0
+20/07/2023,Wales,CasesByDate,89
+20/07/2023,England,CasesByDate,2416
+20/07/2023,Scotland,CasesByDate,282
+21/07/2023,Scotland,CasesByDate,0
+21/07/2023,England,CasesByDate,0
+21/07/2023,Wales,CasesByDate,0
+22/07/2023,Wales,CasesByDate,0
+22/07/2023,England,CasesByDate,0
+22/07/2023,Scotland,CasesByDate,0
+23/07/2023,Scotland,CasesByDate,0
+23/07/2023,England,CasesByDate,0
+23/07/2023,Wales,CasesByDate,0
+24/07/2023,England,CasesByDate,0
+24/07/2023,Wales,CasesByDate,0
+24/07/2023,Scotland,CasesByDate,0
+25/07/2023,Scotland,CasesByDate,0
+25/07/2023,Wales,CasesByDate,0
+25/07/2023,England,CasesByDate,0
+26/07/2023,Wales,CasesByDate,0
+26/07/2023,England,CasesByDate,0
+26/07/2023,Scotland,CasesByDate,0
+27/07/2023,Scotland,CasesByDate,378
+27/07/2023,England,CasesByDate,3439
+27/07/2023,Wales,CasesByDate,127
+28/07/2023,Wales,CasesByDate,0
+28/07/2023,England,CasesByDate,0
+28/07/2023,Scotland,CasesByDate,0
+29/07/2023,Scotland,CasesByDate,0
+29/07/2023,Wales,CasesByDate,0
+29/07/2023,England,CasesByDate,0
+30/07/2023,Wales,CasesByDate,0
+30/07/2023,England,CasesByDate,0
+30/07/2023,Scotland,CasesByDate,0
+31/07/2023,Scotland,CasesByDate,0
+31/07/2023,Wales,CasesByDate,0
+31/07/2023,England,CasesByDate,0
+01/08/2023,Wales,CasesByDate,0
+01/08/2023,England,CasesByDate,0
+01/08/2023,Scotland,CasesByDate,0
+02/08/2023,Scotland,CasesByDate,0
+02/08/2023,Wales,CasesByDate,0
+02/08/2023,England,CasesByDate,0
+03/08/2023,England,CasesByDate,4815
+03/08/2023,Wales,CasesByDate,201
+03/08/2023,Scotland,CasesByDate,523
+04/08/2023,Scotland,CasesByDate,0
+04/08/2023,England,CasesByDate,0
+04/08/2023,Wales,CasesByDate,0
+05/08/2023,Wales,CasesByDate,0
+05/08/2023,England,CasesByDate,0
+05/08/2023,Scotland,CasesByDate,0
+06/08/2023,Scotland,CasesByDate,0
+06/08/2023,England,CasesByDate,0
+06/08/2023,Wales,CasesByDate,0
+07/08/2023,Wales,CasesByDate,0
+07/08/2023,England,CasesByDate,0
+07/08/2023,Scotland,CasesByDate,0
+08/08/2023,Scotland,CasesByDate,0
+08/08/2023,Wales,CasesByDate,0
+08/08/2023,England,CasesByDate,0
+09/08/2023,Wales,CasesByDate,0
+09/08/2023,England,CasesByDate,0
+09/08/2023,Scotland,CasesByDate,0
+10/08/2023,Scotland,CasesByDate,677
+10/08/2023,Wales,CasesByDate,249
+10/08/2023,England,CasesByDate,5772
+11/08/2023,England,CasesByDate,0
+11/08/2023,Wales,CasesByDate,0
+11/08/2023,Scotland,CasesByDate,0
+12/08/2023,Scotland,CasesByDate,0
+12/08/2023,Wales,CasesByDate,0
+12/08/2023,England,CasesByDate,0
+13/08/2023,Wales,CasesByDate,0
+13/08/2023,England,CasesByDate,0
+13/08/2023,Scotland,CasesByDate,0
+14/08/2023,Scotland,CasesByDate,0
+14/08/2023,England,CasesByDate,0
+14/08/2023,Wales,CasesByDate,0
+15/08/2023,Wales,CasesByDate,0
+15/08/2023,England,CasesByDate,0
+15/08/2023,Scotland,CasesByDate,0
+16/08/2023,Scotland,CasesByDate,0
+16/08/2023,Wales,CasesByDate,0
+16/08/2023,England,CasesByDate,0
+17/08/2023,Wales,CasesByDate,319
+17/08/2023,England,CasesByDate,6606
+17/08/2023,Scotland,CasesByDate,955
+18/08/2023,Scotland,CasesByDate,0
+18/08/2023,Wales,CasesByDate,0
+18/08/2023,England,CasesByDate,0
+19/08/2023,England,CasesByDate,0
+19/08/2023,Wales,CasesByDate,0
+19/08/2023,Scotland,CasesByDate,0
+20/08/2023,Scotland,CasesByDate,0
+20/08/2023,Wales,CasesByDate,0
+20/08/2023,England,CasesByDate,0
+21/08/2023,England,CasesByDate,0
+21/08/2023,Wales,CasesByDate,0
+21/08/2023,Scotland,CasesByDate,0
+22/08/2023,Scotland,CasesByDate,0
+22/08/2023,Wales,CasesByDate,0
+22/08/2023,England,CasesByDate,0
+23/08/2023,England,CasesByDate,0
+23/08/2023,Wales,CasesByDate,0
+23/08/2023,Scotland,CasesByDate,0
+24/08/2023,Scotland,CasesByDate,1206
+24/08/2023,Wales,CasesByDate,263
+24/08/2023,England,CasesByDate,7605
+25/08/2023,Wales,CasesByDate,0
+25/08/2023,England,CasesByDate,0
+25/08/2023,Scotland,CasesByDate,0
+26/08/2023,Scotland,CasesByDate,0
+26/08/2023,England,CasesByDate,0
+26/08/2023,Wales,CasesByDate,0
+27/08/2023,England,CasesByDate,0
+27/08/2023,Wales,CasesByDate,0
+27/08/2023,Scotland,CasesByDate,0
+28/08/2023,Scotland,CasesByDate,0
+28/08/2023,Wales,CasesByDate,0
+28/08/2023,England,CasesByDate,0
+29/08/2023,England,CasesByDate,0
+29/08/2023,Wales,CasesByDate,0
+29/08/2023,Scotland,CasesByDate,0
+30/08/2023,Scotland,CasesByDate,0
+30/08/2023,England,CasesByDate,0
+30/08/2023,Wales,CasesByDate,0
+31/08/2023,England,CasesByDate,5875
+31/08/2023,Wales,CasesByDate,273
+31/08/2023,Scotland,CasesByDate,1360
+01/09/2023,Scotland,CasesByDate,0
+01/09/2023,Wales,CasesByDate,0
+01/09/2023,England,CasesByDate,0
+02/09/2023,England,CasesByDate,0
+02/09/2023,Wales,CasesByDate,0
+02/09/2023,Scotland,CasesByDate,0
+03/09/2023,Scotland,CasesByDate,0
+03/09/2023,Wales,CasesByDate,0
+03/09/2023,England,CasesByDate,0
+04/09/2023,Wales,CasesByDate,0
+04/09/2023,England,CasesByDate,0
+04/09/2023,Scotland,CasesByDate,0
+05/09/2023,Scotland,CasesByDate,0
+05/09/2023,Wales,CasesByDate,0
+05/09/2023,England,CasesByDate,0
+06/09/2023,England,CasesByDate,0
+06/09/2023,Wales,CasesByDate,0
+06/09/2023,Scotland,CasesByDate,0
+07/09/2023,Scotland,CasesByDate,1643
+07/09/2023,Wales,CasesByDate,316
+07/09/2023,England,CasesByDate,14080
+08/09/2023,Wales,CasesByDate,0
+08/09/2023,England,CasesByDate,0
+08/09/2023,Scotland,CasesByDate,0
+09/09/2023,Scotland,CasesByDate,0
+09/09/2023,England,CasesByDate,0
+09/09/2023,Wales,CasesByDate,0
+10/09/2023,England,CasesByDate,0
+10/09/2023,Wales,CasesByDate,0
+10/09/2023,Scotland,CasesByDate,0
+11/09/2023,Scotland,CasesByDate,0
+11/09/2023,Wales,CasesByDate,0
+11/09/2023,England,CasesByDate,0
+12/09/2023,England,CasesByDate,0
+12/09/2023,Wales,CasesByDate,0
+12/09/2023,Scotland,CasesByDate,0
+13/09/2023,Scotland,CasesByDate,0
+13/09/2023,Wales,CasesByDate,0
+13/09/2023,England,CasesByDate,0
+14/09/2023,Wales,CasesByDate,311
+14/09/2023,England,CasesByDate,9884
+14/09/2023,Scotland,CasesByDate,1551
+15/09/2023,Scotland,CasesByDate,0
+15/09/2023,Wales,CasesByDate,0
+15/09/2023,England,CasesByDate,0
+16/09/2023,Wales,CasesByDate,0
+16/09/2023,England,CasesByDate,0
+16/09/2023,Scotland,CasesByDate,0
+17/09/2023,Scotland,CasesByDate,0
+17/09/2023,England,CasesByDate,0
+17/09/2023,Wales,CasesByDate,0
+18/09/2023,England,CasesByDate,0
+18/09/2023,Wales,CasesByDate,0
+18/09/2023,Scotland,CasesByDate,0
+19/09/2023,Scotland,CasesByDate,0
+19/09/2023,Wales,CasesByDate,0
+19/09/2023,England,CasesByDate,0
+20/09/2023,Wales,CasesByDate,0
+20/09/2023,England,CasesByDate,0
+20/09/2023,Scotland,CasesByDate,0
+21/09/2023,Scotland,CasesByDate,1070
+21/09/2023,Wales,CasesByDate,276
+21/09/2023,England,CasesByDate,7255
+22/09/2023,Wales,CasesByDate,0
+22/09/2023,England,CasesByDate,0
+22/09/2023,Scotland,CasesByDate,0
+23/09/2023,Scotland,CasesByDate,0
+23/09/2023,Wales,CasesByDate,0
+23/09/2023,England,CasesByDate,0
+24/09/2023,England,CasesByDate,0
+24/09/2023,Wales,CasesByDate,0
+24/09/2023,Scotland,CasesByDate,0
+25/09/2023,Scotland,CasesByDate,0
+25/09/2023,England,CasesByDate,0
+25/09/2023,Wales,CasesByDate,0
+26/09/2023,Wales,CasesByDate,0
+26/09/2023,England,CasesByDate,0
+26/09/2023,Scotland,CasesByDate,0
+27/09/2023,Scotland,CasesByDate,0
+27/09/2023,England,CasesByDate,0
+27/09/2023,Wales,CasesByDate,0
+28/09/2023,Wales,CasesByDate,299
+28/09/2023,England,CasesByDate,17893
+28/09/2023,Scotland,CasesByDate,1135
+29/09/2023,Scotland,CasesByDate,0
+29/09/2023,Wales,CasesByDate,0
+29/09/2023,England,CasesByDate,0
+30/09/2023,Wales,CasesByDate,0
+30/09/2023,England,CasesByDate,0
+30/09/2023,Scotland,CasesByDate,0
+01/10/2023,Scotland,CasesByDate,0
+01/10/2023,England,CasesByDate,0
+01/10/2023,Wales,CasesByDate,0
+02/10/2023,England,CasesByDate,0
+02/10/2023,Wales,CasesByDate,0
+02/10/2023,Scotland,CasesByDate,0
+03/10/2023,Scotland,CasesByDate,0
+03/10/2023,Wales,CasesByDate,0
+03/10/2023,England,CasesByDate,0
+04/10/2023,Wales,CasesByDate,0
+04/10/2023,England,CasesByDate,0
+04/10/2023,Scotland,CasesByDate,0
+05/10/2023,Scotland,CasesByDate,1189
+05/10/2023,Wales,CasesByDate,390
+05/10/2023,England,CasesByDate,16545
+06/10/2023,Wales,CasesByDate,0
+06/10/2023,England,CasesByDate,0
+06/10/2023,Scotland,CasesByDate,0
+07/10/2023,Scotland,CasesByDate,0
+07/10/2023,England,CasesByDate,0
+07/10/2023,Wales,CasesByDate,0
+08/10/2023,Wales,CasesByDate,0
+08/10/2023,England,CasesByDate,0
+08/10/2023,Scotland,CasesByDate,0
+09/10/2023,Scotland,CasesByDate,0
+09/10/2023,England,CasesByDate,0
+09/10/2023,Wales,CasesByDate,0
+10/10/2023,England,CasesByDate,0
+10/10/2023,Wales,CasesByDate,0
+10/10/2023,Scotland,CasesByDate,0
+11/10/2023,Scotland,CasesByDate,0
+11/10/2023,Wales,CasesByDate,0
+11/10/2023,England,CasesByDate,0
+12/10/2023,England,CasesByDate,16855
+12/10/2023,Wales,CasesByDate,384
+12/10/2023,Scotland,CasesByDate,1179
+13/10/2023,Scotland,CasesByDate,0
+13/10/2023,Wales,CasesByDate,0
+13/10/2023,England,CasesByDate,0
+14/10/2023,England,CasesByDate,0
+14/10/2023,Wales,CasesByDate,0
+14/10/2023,Scotland,CasesByDate,0
+15/10/2023,Scotland,CasesByDate,0
+15/10/2023,Wales,CasesByDate,0
+15/10/2023,England,CasesByDate,0
+16/10/2023,Wales,CasesByDate,0
+16/10/2023,England,CasesByDate,0
+16/10/2023,Scotland,CasesByDate,0
+17/10/2023,Scotland,CasesByDate,0
+17/10/2023,Wales,CasesByDate,0
+17/10/2023,England,CasesByDate,0
+18/10/2023,Wales,CasesByDate,0
+18/10/2023,England,CasesByDate,0
+18/10/2023,Scotland,CasesByDate,0
+19/10/2023,Scotland,CasesByDate,0
+19/10/2023,Wales,CasesByDate,295
+19/10/2023,England,CasesByDate,10043
+20/10/2023,England,CasesByDate,0
+20/10/2023,Wales,CasesByDate,0
+20/10/2023,Scotland,CasesByDate,0
+21/10/2023,Scotland,CasesByDate,0
+21/10/2023,England,CasesByDate,0
+21/10/2023,Wales,CasesByDate,0
+22/10/2023,England,CasesByDate,0
+22/10/2023,Wales,CasesByDate,0
+22/10/2023,Scotland,CasesByDate,0
+23/10/2023,Scotland,CasesByDate,0
+23/10/2023,England,CasesByDate,0
+23/10/2023,Wales,CasesByDate,0
+24/10/2023,Wales,CasesByDate,0
+24/10/2023,England,CasesByDate,0
+24/10/2023,Scotland,CasesByDate,0
+25/10/2023,Scotland,CasesByDate,0
+25/10/2023,England,CasesByDate,0
+25/10/2023,Wales,CasesByDate,0
+26/10/2023,Wales,CasesByDate,226
+26/10/2023,England,CasesByDate,6694
+26/10/2023,Scotland,CasesByDate,0
+27/10/2023,Scotland,CasesByDate,0
+27/10/2023,Wales,CasesByDate,0
+27/10/2023,England,CasesByDate,0
+28/10/2023,England,CasesByDate,0
+28/10/2023,Wales,CasesByDate,0
+28/10/2023,Scotland,CasesByDate,0
+29/10/2023,Scotland,CasesByDate,0
+29/10/2023,England,CasesByDate,0
+29/10/2023,Wales,CasesByDate,0
+30/10/2023,Wales,CasesByDate,0
+30/10/2023,England,CasesByDate,0
+30/10/2023,Scotland,CasesByDate,0
+31/10/2023,Scotland,CasesByDate,0
+31/10/2023,Wales,CasesByDate,0
+31/10/2023,England,CasesByDate,0
+01/11/2023,England,CasesByDate,0
+01/11/2023,Wales,CasesByDate,0
+01/11/2023,Scotland,CasesByDate,0
+02/11/2023,Scotland,CasesByDate,0
+02/11/2023,England,CasesByDate,7594
+02/11/2023,Wales,CasesByDate,241
+03/11/2023,England,CasesByDate,0
+03/11/2023,Wales,CasesByDate,0
+03/11/2023,Scotland,CasesByDate,0
+04/11/2023,Scotland,CasesByDate,0
+04/11/2023,Wales,CasesByDate,0
+04/11/2023,England,CasesByDate,0
+05/11/2023,Wales,CasesByDate,0
+05/11/2023,England,CasesByDate,0
+05/11/2023,Scotland,CasesByDate,0
+06/11/2023,Scotland,CasesByDate,0
+06/11/2023,Wales,CasesByDate,0
+06/11/2023,England,CasesByDate,0
+07/11/2023,Wales,CasesByDate,0
+07/11/2023,England,CasesByDate,0
+07/11/2023,Scotland,CasesByDate,0
+08/11/2023,Scotland,CasesByDate,0
+08/11/2023,Wales,CasesByDate,0
+08/11/2023,England,CasesByDate,0
+09/11/2023,Wales,CasesByDate,163
+09/11/2023,England,CasesByDate,5336
+09/11/2023,Scotland,CasesByDate,0
+10/11/2023,Scotland,CasesByDate,0
+10/11/2023,Wales,CasesByDate,0
+10/11/2023,England,CasesByDate,0
+11/11/2023,England,CasesByDate,0
+11/11/2023,Wales,CasesByDate,0
+11/11/2023,Scotland,CasesByDate,0
+12/11/2023,England,CasesByDate,0
+12/11/2023,Scotland,CasesByDate,0
+12/11/2023,Wales,CasesByDate,0
+13/11/2023,Wales,CasesByDate,0
+13/11/2023,England,CasesByDate,0
+13/11/2023,Scotland,CasesByDate,0
+14/11/2023,Scotland,CasesByDate,0
+14/11/2023,England,CasesByDate,0
+14/11/2023,Wales,CasesByDate,0
+15/11/2023,Wales,CasesByDate,0
+15/11/2023,Scotland,CasesByDate,0
+15/11/2023,England,CasesByDate,0
+16/11/2023,England,CasesByDate,2691
+16/11/2023,Scotland,CasesByDate,0
+16/11/2023,Wales,CasesByDate,149
+17/11/2023,Wales,CasesByDate,0
+17/11/2023,Scotland,CasesByDate,0
+17/11/2023,England,CasesByDate,0
+18/11/2023,Scotland,CasesByDate,0
+18/11/2023,England,CasesByDate,0
+18/11/2023,Wales,CasesByDate,0
+19/11/2023,Wales,CasesByDate,0
+19/11/2023,England,CasesByDate,0
+19/11/2023,Scotland,CasesByDate,0
+20/11/2023,Scotland,CasesByDate,0
+20/11/2023,England,CasesByDate,0
+20/11/2023,Wales,CasesByDate,0
+21/11/2023,Wales,CasesByDate,0
+21/11/2023,Scotland,CasesByDate,0
+21/11/2023,England,CasesByDate,0
+22/11/2023,England,CasesByDate,0
+22/11/2023,Scotland,CasesByDate,0
+22/11/2023,Wales,CasesByDate,0
+23/11/2023,Wales,CasesByDate,969
+23/11/2023,England,CasesByDate,4417
+24/11/2023,England,CasesByDate,0
+24/11/2023,Wales,CasesByDate,0
+25/11/2023,Wales,CasesByDate,0
+25/11/2023,England,CasesByDate,0
+26/11/2023,England,CasesByDate,0
+26/11/2023,Wales,CasesByDate,0
+27/11/2023,Wales,CasesByDate,0
+27/11/2023,England,CasesByDate,0
+28/11/2023,England,CasesByDate,0
+28/11/2023,Wales,CasesByDate,0
+29/11/2023,Wales,CasesByDate,0
+29/11/2023,England,CasesByDate,0
+30/11/2023,England,CasesByDate,4041
+30/11/2023,Wales,CasesByDate,0
+01/12/2023,Wales,CasesByDate,0
+01/12/2023,England,CasesByDate,0
+02/12/2023,England,CasesByDate,0
+02/12/2023,Wales,CasesByDate,0
+03/12/2023,Wales,CasesByDate,0
+03/12/2023,England,CasesByDate,0
+04/12/2023,England,CasesByDate,0
+04/12/2023,Wales,CasesByDate,0
+05/12/2023,Wales,CasesByDate,0
+05/12/2023,England,CasesByDate,0
+06/12/2023,England,CasesByDate,0
+06/12/2023,Wales,CasesByDate,0
+07/12/2023,Wales,CasesByDate,146
+07/12/2023,England,CasesByDate,5778
+08/12/2023,England,CasesByDate,0
+08/12/2023,Wales,CasesByDate,0
+09/12/2023,Wales,CasesByDate,0
+09/12/2023,England,CasesByDate,0
+10/12/2023,England,CasesByDate,0
+10/12/2023,Wales,CasesByDate,0
+11/12/2023,Wales,CasesByDate,0
+11/12/2023,England,CasesByDate,0
+12/12/2023,England,CasesByDate,0
+12/12/2023,Wales,CasesByDate,0
+13/12/2023,Wales,CasesByDate,0
+13/12/2023,England,CasesByDate,0
+14/12/2023,England,CasesByDate,6065
+14/12/2023,Wales,CasesByDate,254
